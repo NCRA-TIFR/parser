@@ -1,0 +1,42 @@
+1. Date :  04/01/2002
+2. Observation Sr. No. : 7
+3. Observer & email : S Ananthkrishnan.
+4. Project Name & Code : 02SAK01
+5. Operator(s) : Mangesh(3), Sanjay(1), Manisha(1)
+6. Command File/Source  & Lta File : /temp2/data/cmd/sak/ngc4631.cmd 
+                                     /d3/4jan/ngc4631_235.lta
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 : 235 MHz.,0 dB.,OFF.
+8. Ist LO (MHz) & IVth LO (MHz) :310  MHz.,66 MHz.
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status :18+18 dB., 6 MHz.,ON.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status :8 MHz., 3 dB., ON.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 1 / 1
+12. Channels : 0,127,1
+13. Frequency Parameters (TPA) : 244 244 310 310 66 66
+
+14. Integration Time (Sec.) : 16 sec (16*8m) & 2sec.
+15. No of Antennas Working(Fringing) : 24.5
+16. Name of Non-Working Antennas (with reason for each) :
+
+	C01		Servo T.O.
+	C06		Telemetry Problem.
+	C12		no fringe.
+	E04		Servo T.O.
+	W01     Servo T.O.
+	W04     MCM 5 Time Out.
+	W06     Pol 130 bad
+
+17. Starting and Ending time of Observations (IST) : 05:52-
+18. Comments (During Observations) :
+
+    05:52  Started a scan on 3c273 for 10 minutes.
+    06:02  Stopped the scan on 3c273. Moved antennas to 3c287
+    06:15  Started the command file /temp2/data/cmd/sak/ngc4631.cmd
+	11:07	C01 Started working.
+
+19. Data Backup files & Tape No. :

@@ -1,0 +1,112 @@
+		 GTAC Observation Log 
+
+1. Date : 31/01/2010
+2. Observation Sr. No. : 5221
+3. Observer : Sandeep Sirothia, Ishwara Chandra
+4. Observer's Email : sirothia@ncra.tifr.res.in,ishwar@ncra.tifr.res.in
+5. Project Name : The GMRT extra-galactic sky survey at 150 MHz
+6. Project Code : 19_043
+7. Operator(s) : Deepak,
+	Nilesh,
+	Rupsingh,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/sirothia/19_043_20110131a.cmd
+9. LTA File : /rawdata/31jan/19_043_31jan2011.lta,
+	/rawdata1/31jan/19_043_31jan2011.ltb
+10. GSB File : /gsbifrdata/31jan/19_043_31jan2011_gsb.lta
+11. LogFlag File : /odisk/online1/logflags/19_043.FLAGS.64
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 218 MHz, ILO2 : 218 MHz, IVLO1 : 62 MHz, IVLO2 : 62 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+15. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+GHB Settings :
+16. GHB Channels : 0:127:1
+17. Correlator Mode : UsbPolar
+18. Frequency Parameters (TPA) : 156 156 218 218 62 62 
+
+GSB Settings :
+19. Maximum Channels : 256 
+20. Final Bandwidth (MHz): OFF MHz; Step # 0
+21. IFBW (MHz) : LO5 (KHz) : 16:138000-167000
+22. Stokes : Full_Polar
+23. Beam - 1 : IA
+24. Beam - 2 : PA
+
+25. Integration Time : 128 LTA ~ 16.908 Sec.
+26. No of Antennas Working(Fringing) :28
+
+27. Name of Non-Working Antennas (with reason for each) :
+C06 : Servo off.
+C11 : ABC time out.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 18:00 - 07:00
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+* 2S data file *
+/rawdata/31jan/19_043_31jan2011_2s.lta,
+/rawdata1/31jan/19_043_31jan2011_2s.ltb,
+/gsbifrdata/31jan/19_043_31jan2011_2s_gsb.lta
+----------------------------------------------
+17:45 : AC released
+18:00 : corr-room , rx-room  switched on
+      : ONLINE started.
+      : BBLO server was not working.
+      : rebooted the BB PC, it started working.
+
+      : Tried to start GSB, found that node37 was not up
+      : it was asking for "F1" key to press. It started working
+      : after conneting the monitor and keyboard and pressing the F1 key.
+
+      : started the antenna setup
+      : tried to start GHB
+      : Time problem found corrctl was not latching with samay1
+      : problem reported to mangesh
+      : problem got solved.
+
+      : C06 showed servo time out.
+      : tried to reset servo but it could not help.
+
+      : C11 showed ABC time out.
+      : tried to reset ABC but it could not help.
+
+      : GMRT-NCRA link is not working 
+
+      : gsbm3 not connecting from gsbm1
+
+      : USB-LSB time stamps in GHB was not matching
+      : restarted the GHB 3 times still the probelm is present.
+
+19:13 : Started the actual observation.
+
+19:13 : Started scan on 3C147.
+19:24 : Stopped scan.
+19:29 : Started scan on J0218+4232.
+19:36 : Stopped scan.
+19:43 : Started command file.
+20:58 : C11 started working.
+21:00 : GHB time-stamp are matching.
+24:00 : GHB -arm antennas stopped fringing.
+
+05:58 : Comman file stopped.
+06:02 : Started scan on 3C286.
+06:03 : Delay jumps seen in GSB
+        175 pol of W03toW06
+        S03,S04,S06,C04,C05
+        175 pol of C00toC03
+
+07:00 : Observation stopped.
+----------------------------------------------
+
+
+
+

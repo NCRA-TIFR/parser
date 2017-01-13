@@ -1,0 +1,64 @@
+		 GTAC Observation Log 
+
+1. Date : 25/02/2006
+2. Observation Sr. No. : 2508
+3. Observer :  SEYMAUR
+4. Observer's Email : visitor8@gmrt.ncra.tifr.res.in,dm@astro.soton.ac.uk,seymour@ipac.caltech.edu
+5. Project Name : XMM13
+6. Project Code : 09NSA01
+7. Operator(s) : Jitendra,
+	
+8. Command File : /atemp2/cmd/ns/13hrxmm.cmd
+9. LTA File : /rawdata/25feb/09nsa01_25feb_8sec.lta,
+	/rawdata1/25feb/09nsa01_25feb_8sec.ltb
+10. LogFlag File : /atemp2/logflags/09NSA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 64 LTA ~ 8.454 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+LSB -correlator intermittant problem
+C11,C12,C13,C14 and W01 bad-baselines. E06,S01,S04,S06 - Bad channels from 0 to 40 in self-passband.
+LSB-W03,W05 High self counts.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 23:31 - 07:10
+
+23. Comments (During Observations) :
+****** ONLINE ADITYA *********
+****** AUTHIF @ 610 MHZ. ****
+------------------------------
+23:31 : Flux calibrator scan started on 3C286
+~23:36 : LSB Correlator (*.ltb file) shows
+   C11,C12,C13,C14 and W01 bad base-line.
+~00:30 : C02,C03 - Bad-band pass.
+* After scan#1
+  Software reset tried through corr_config and
+  new-delay config.
+  * Problems : LSB - W03 and W05 bad bandshapes.
+00:47 : Command file restarted.
+03:13 : Band-pass calibrator scan on 3C286 for 15m
+  * (Note : S02 not tracking on 3C286)
+03:30 : Command file restarted.
+06:35 : Band-pass calibrator scan 0n 3C286 for 15m
+06:56: Scan stopped.
+06:48 : scan started on 13HRXMM.
+07:10 : Scan stopped and project over.
+
+
+
+

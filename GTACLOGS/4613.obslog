@@ -1,0 +1,96 @@
+		 GTAC Observation Log 
+
+1. Date : 23/11/2009
+2. Observation Sr. No. : 4613
+3. Observer : RJ van Weeren
+4. Observer's Email : rvweeren@strw.leidenuniv.nl
+5. Project Name : Radio Relics
+6. Project Code : 17_049
+7. Operator(s) : Deepak,
+	Navanath,
+	Nilesh,
+	Sachin,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/17_049/23nov.cmd
+9. LTA File : /rawdata/23nov/17_049_23nov2009.lta,
+	/rawdata1/23nov/17_049_23nov2009.ltb
+10. LogFlag File : /odisk/online1/logflags/17_049.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:128:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 64 LTA ~ 8.454 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C05 - Servo problem.
+E05 - freq. applying brake.        
+W01 - 235MHz not available.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 19:00 - 06:00
+
+23. ONLINE Machine : Lenyadri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+18:50 : Started setup of 17_049
+        tpa 614.0000  244.0000 680 310 66.0000 66.0000
+
+        C05 - servo problem.
+        E05 - servo problem.
+        W01 - 235MHz not available.
+****************
+* GSB Data file
+* /gsbifrdata/23nov/17_049_23nov09_gsb.lta
+* /gsbifrdata/23nov/17_049_23nov09_gsb.lta.1
+* /gsbifrdata/23nov/17_049_23nov09_gsb.lta.2
+* /gsbifrdata/23nov/17_049_23nov09_gsb.lta.3
+**************************************************
+19:00 : Started scan on 3C48 for 5mins.
+19:07 : Started command file.
+        /odisk/gtac/cmd/17_049/23nov.cmd.
+23:25 : Stopped command file.
+23:33 : '/odisk/gtac/cmd/17_049/23nov_2.cmd' command file started.
+03:26 : Stopped command file.
+03:42 : '/odisk/gtac/cmd/17_049/23nov_3.cmd' command file started.
+07:40 : Stopped command file.
+07:57 : Started scan on 1120+143.
+08:00 : Stopped scan.
+08:03 : Started scan on RBS976.
+09:02 : Stopped scan.
+09:08 : Started command file
+        '/odisk/gtac/cmd/17_049/23nov_4.cmd'
+09:40 : C13 taken for painting.
+12:02 : Stopped command file.
+12:06 : Started command file
+        '/odisk/gtac/cmd/17_049/23nov_5.cmd'
+10:51 : C05 Started working.
+16:39 : Started scan on 3C48.
+16:52 : Started command file
+  '/odisk/gtac/cmd/17_049/23nov_6.cmd'.
+19:54 : Started new command file
+    /odisk/gtac/cmd/17_049/23nov_7.cmd'
+22:52 : Started scan on 3C147.
+
+23:52 : Stoopped command file, tracking changed to inner track.    
+        E05 Applied Brakes.
+00:12 : Started command file.
+00:26 : E05 started tracking source.
+03:38 : Scan # 53 in GHB data is bad, and 
+        Scan # 10 in GSB data is bad.
+05:58 : Stopped command file.
+06:00 : Started scan on phase cal.
+06:03 : Stopped scan and closed observation.
+

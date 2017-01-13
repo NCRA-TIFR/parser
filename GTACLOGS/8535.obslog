@@ -1,0 +1,79 @@
+		 GTAC Observation Log
+
+1. Date : 27/04/2016
+2. Observation Sr. No. : 8535
+3. Observer : Yogesh Chandola
+
+4. Observer's Email : yogesh.chandola@gmail.com 
+
+5. Project Name : HI absorption towards Radio Loud Narrow Line Sy1s\r\n
+6. Project Code : 30_057
+7. Operator(s) : Navnath
+8. Command File : /odisk/gtac/cmd/yogesh/30_057_27apr16.cmd
+9. LTA File : /gsbifrdata1/27apr/30_057_27apr2016.lta.1, /gsbifrdata1/27apr/30_057_27apr2016.lta
+10. LogFlag File : /odisk/online1/logflags/30_057.FLAGS.1, /odisk/online1/logflags/30_057.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1332 MHz ,RF2 : 1332 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1270 MHz, ILO2 : 1270MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 16.666666 MHz; Step # 0
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 138
+28. LO5 -2  : 167
+
+29. Frequency Parameters (TPA) : 1332 1332 1270 1270 62 62
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :27
+
+32. Name of Non-Working Antennas (with reason for each) :
+C01 : : Taken for BLDC.
+E06 : : Taken for MEch work.
+S01 : : CST Painting.
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 27 Apr 2016 03:00:00 - 27 Apr 2016 09:25:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :24
+
+37. Comments (During Observations) :
+03:00 : Started setup.
+03:22 : Started scan on flux cal
+03:39 : Started cmd file.
+
+      /odisk/gtac/cmd/yogesh/30_057_27apr16.cmd
+
+07:02 : Stopped command file.
+07:09 : Started scan on 3C48 for ~ 9 min.
+07:13 : Noticed that Fringes for C04-C08 in 175 pol vanished after 05:30 AM. This could be one of the GSB node problem. So, restarted GSB Data Aquisition.
+
+07:23 : Started scan on 3C48 for ~ 13 min.
+07:30 : W01 Taken for Maintenance.
+
+07:42 : Started command file.
+      /odisk/gtac/cmd/yogesh/30_057_27apr16.cmd
+
+08:07 : W04 Taken for Painting.
+        C05 Taken for Maintenance.
+08:55 : Source set below horizon, stopped command file.
+08:57 : Started scan on Phase cal for ~ 5 min.
+09:08 : Started scan on 3C48 for ~ 15 min.
+09:10 : Noticed that Fringes for C04-C08 in 175 pol vanished. This could be one of the GSB node problem.
+09:25 : Stopped scan and closed observations.

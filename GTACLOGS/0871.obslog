@@ -1,0 +1,43 @@
+1. Date : 25/11/2002
+2. Observation Sr. No. : 0871
+3. Observer : Ishwara Chandra
+4. Observer's Email : ishwar@ncra.tifr.res.in
+5. Project Name : PKS0221
+6. Project Code : 03CHI02
+7. Operator(s) : Galande M.M.,
+	Kudale S.S.,
+	
+8. Command File : /temp2/data/cmd/ishwar/pks0202.cmd
+9. LTA File : /rawdata/25nov/03chi02_pks0202.lta
+
+ANTENNA SETTINGS :
+
+10. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1006.965 MHz ,RF2 : 1006.965 MHz, SA1 : 0 dB, SA2 : 0 dB
+11. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 940 MHz, ILO2 : 940 MHz, IVLO1 : 66.965 MHz, IVLO2 : 66.965 MHz
+12. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 6+6 dB, 16 MHz,ON, IF-CH2 : 6+6 dB, 6 MHz,ON
+13. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+14. CLK_SEL/Samp_Freq : 1
+15. Channels : 0:127:1
+16. Frequency Parameters (TPA) : 1006.965 1006.965 940 940 66.965 66.965 
+
+17. Integration Time : 128 STA ~ 16.908 Sec.
+18. No of Antennas Working(Fringing) :28
+
+19. Name of Non-Working Antennas (with reason for each) :
+C11 : Painting.
+S04 : Low fringe.
+
+20. Start and End Time of Obs.(IST): 17:52 - 23:12
+
+21. Comments (During Observations) :
+17:52 : Started record on 3c48.
+18:17 : Stopped record on 3c48.
+18:20 : C11 added for observation.
+18:37 : Started cmd file /temp2/data/cmd/ishwar/pks0202.cmd
+22:42	: started scan on 3c48 for 30 mins.
+23:12	: stopped scan on 3C48. stopped obs.
+
+

@@ -1,0 +1,93 @@
+		 GTAC Observation Log 
+
+1. Date : 02/05/2011
+2. Observation Sr. No. : 5310
+3. Observer : Ujjwal Kumar
+4. Observer's Email : ujjwal@ncra.tifr.res.in
+5. Project Name : Pulsar Observation
+6. Project Code : 20_068
+7. Operator(s) : Navanath,
+	Nilesh,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /gsbifrdata/03may/20_068_03may2011_suba4.lta,
+	/gsbifrdata/03may/20_068_03may2011_suba2.lta,
+	/gsbifrdata/03may/20_068_03may2011_suba4.lta.1,
+	/gsbifrdata/03may/20_068_03may2011_suba2.lta.1,
+	
+10. LogFlag File : /odisk/online1/logflags/SUBA2.FLAGS.158,
+	/odisk/online1/logflags/SUBA4.FLAGS.165,
+	/odisk/online1/logflags/SUBA2.FLAGS.159,
+	/odisk/online1/logflags/SUBA2.FLAGS.160,
+	/odisk/online1/logflags/SUBA2.FLAGS.161,
+	/odisk/online1/logflags/SUBA4.FLAGS.166,
+	
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,OFF, IF-CH2 : 4+12 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. Maximum Channels : 512 
+15. Final Bandwidth (MHz): OFF MHz; Step # 0
+16. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+17. Stokes : Total_Intensity
+18. Beam - 1 : PA
+19. Beam - 2 : PA
+
+20. Frequency Parameters (TPA) : 591 591 540 540 51 51.
+21. Integration Time : 16.106 Sec.
+22. No of Antennas Working(Fringing) :29
+
+23. Name of Non-Working Antennas (with reason for each) :
+C08 : No fringe.
+24. Note for Backup :--
+
+25. Start and End Time of Obs.(IST): 21:00 - 04:20
+
+26. ONLINE Machine : Shivneri
+
+27. Comments (During Observations) :
+  @ 325 MHz.
+# sub 2 # C01 C02 C03 C05 C10 C12 C13 W01 E02 S01
+ante 10 6 5 1 19 12 2 11 8 17 26
+cp 0;defs 2;subar 2
+
+  @ 610 MHz.
+# sub 4 # C00 C04 C06 C08 C09 C11 C14 W02 W03 W04 W05 W06 E03 E04 E05 E06 S02 S03 S04 S06
+ante 20 7 3 20 24 4 9 10 13 14 15 16 25 18 21 22 23 27 28 29 30
+cp 0;defs 4;subar 4
+---------------------------------------------
+Power eq. done on 3C48 @ 350 counts.
+---------------------------------------------
+21:44:27 : Started scan on B1540-06 for ~ 31.9438 min.
+22:18:02 : Started scan on J1713+0747 for ~ 2.68435 min.
+22:21:00 : ASTRO8  Hunged.
+22:31:08 : Started scan on 1419+064 for ~ 2.95279 min.
+22:34:44 : Started scan on 1419+064 for ~ 3.22122 min.
+22:40:10 : Started scan on J1713+0747 for ~ 23.3539 min.
+23:17:51 : Started scan on B1642-03 for ~ 2.14748 min.
+23:22:20 : Started scan on B1642-03 for ~ 25.5013 min.
+23:49:59 : Started scan on J1643-1224 for ~ 21.2064 min.
+00:13:02 : Started scan on J1744-1134 for ~ 34.0913 min.
+00:48:23 : Started scan on J1730-2304 for ~ 26.3066 min.
+01:17:02 : Started scan on J1600-3053 for ~ 42.4128 min.
+02:02:32 : Started scan on J1909-3744 for ~ 31.6754 min.
+02:37:14 : Started scan on 1822-096 for ~ 4.5634 min.
+02:42:05 : Started scan on 1822-096 for ~ 5.10027 min.
+02:49:02 : Started scan on B1822-09 for ~ 28.1857 min.
+03:21:29 : Started scan on B1929+10 for ~ 0.268435 min.
+03:22:19 : Started scan on B1929+10 for ~ 5.3687 min.
+03:30:24 : Started scan on B1929+10 for ~ 0 min.
+03:31:15 : Started scan on J2043+2740 for ~ 25.5013 min.
+03:59:49 : Started scan on B1929+10 for ~ 7.78462 min.
+04:10:43 : Started scan on B1907+00 for ~ 0.53687 min.
+04:39:05 : Started scan on B1818-04 for ~ 28.1857 min.
+05:13:42 : Started scan on J2145-0750 for ~ 20.9379 m
+05:30 : Observings session over.
+---------------------------------------------
+

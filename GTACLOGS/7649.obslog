@@ -1,0 +1,63 @@
+		 GTAC Observation Log
+
+1. Date : 05/03/2015
+2. Observation Sr. No. : 7649
+3. Observer : dharam Veer Lal
+4. Observer's Email : dharam@ncra.tifr.res.in
+5. Project Name : GWB GSB stability test
+6. Project Code : TST1185
+7. Operator(s) : Navnath, Pramod
+8. Command File : /odisk/gtac/cmd/dharam/3c285.cmd
+9. LTA File : /gsbifrdata/04mar/tst1185_04mar2015_gsb.lta.1,/gsbifrdata/04mar/tst1185_04mar2015_gsb.lta
+10. LogFlag File : /odisk/online1/logflags/TST1185.FLAGS.2,/odisk/online1/logflags/TST1185.FLAGS.1,/odisk/online1/logflags/TST1185.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 306 306 255 255 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :28
+
+32. Name of Non-Working Antennas (with reason for each) :
+E04 : Maintenance
+W05 : No feed
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 04 Mar 2015 18:30:00 - 05 Mar 2015 03:45:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :28
+
+37. Comments (During Observations) :
+18:00 : Started setup.
+18:30 : Started scan on 3C147.
+21:30 : part 1 test session closed.
+22:00 : Started 325 mhz setup.
+22:18 : Started cmd file.
+
+      /odisk/gtac/cmd/dharam/3c285.cmd
+03:45 : Stopped command file and observation session is over.
+
+

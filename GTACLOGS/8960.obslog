@@ -1,0 +1,60 @@
+		 GTAC Observation Log
+
+1. Date : 02/11/2016
+2. Observation Sr. No. : 8960
+3. Observer : YOGESH CHANDOLA, D.J. Saikia, Di Li
+4. Observer's Email : yogesh.chandola@gmail.com, djs@ncra.tifr.res.in, ithaca.li@gmail.com
+5. Project Name : HI absorption towards WISE late type Radio Loud AGNs 
+6. Project Code : 31_082
+7. Operator(s) : Surender
+8. Command File : /odisk/gtac/cmd/31_082/02nov16/obs_02nov.cmd
+9. LTA File : /gsbifrdata/01nov/31_082_01nov2016.lta, /gwbifrdata1/01nov/31_082_1340lo_01nov2016.lta, /gsbifrdata/02nov/31_082_02nov2016.lta
+10. LogFlag File : /odisk/online1/logflags/31_082.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1282 MHz ,RF2 : 1282 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1220 MHz, ILO2 : 1220MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 0 MHz; Step # 0
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 138
+28. LO5 -2  : 167
+
+29. Frequency Parameters (TPA) : 1282 1282 1220 1220 62 62
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :29
+
+32. Name of Non-Working Antennas (with reason for each) :
+W03 : : Feed Jammed.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 02 Nov 2016 00:25:00 - 02 Nov 2016 06:01:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :29
+
+37. Comments (During Observations) :
+00:25 : Started set-up.
+00:34 : Started scan on 3C147.
+01:00 : Started command file.
+/odisk/gtac/cmd/31_082/02nov16/obs_02nov.cmd
+05:44 : Stopped command file.
+05:45 : Started scan on 3C147.
+06:00 : Stopped scan and observing session over.

@@ -1,0 +1,88 @@
+		 GTAC Observation Log
+
+1. Date : 19/02/2016
+2. Observation Sr. No. : 8424
+3. Observer : Jayaram Narayanan Chengalur, Saiyad Ali, Jasjeet Singh Bagla, Somnath Bharadwaj, samir choudhuri, Abhik Ghosh, Sanjay S. Kudale, Visweshwar Ram Marthi, Ramu Kumar Yadav, suman chatterjee
+4. Observer's Email : chengalur@ncra.tifr.res.in, saiyad@phys.jdvu.ac.in, jasjeet@iisermohali.ac.in, somnath@phy.iitkgp.ernet.in, samir.svc@gmail.com, abhik@cts.iitkgp.ernet.in, ksanjay@gmrt.ncra.tifr.res.in, vrmarthi@ncra.tifr.res.in, ramkumar.yadav623@gmail.com, sumanchttrj05@gmail.com
+5. Project Name :  Study of clustering and search for Transient/Variable sour ces at 325 MHz
+6. Project Code : 29_069
+7. Operator(s) : Sachin
+8. Command File : /odisk/gtac/cmd
+9. LTA File : /gsbifrdata1/18feb/29_069_18feb2016_2s.lta
+10. LogFlag File : /odisk/online1/logflags/29_069.FLAGS.9
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 306 306 255 255 51 51
+30. Integration Time : 2.0132 Sec
+31. No of Antennas Working(Fringing) at the beginning :28
+
+32. Name of Non-Working Antennas (with reason for each) :
+C02 : FE problem.
+C08 : BLDC work
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 18 Feb 2016 23:00:00 - 19 Feb 2016 05:00:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :28
+
+37. Comments (During Observations) :
+Note Observed scintillation for around 2 hrs in begining.
+23:11:11 : Started scan on 3C147 for ~ 11.9789 min.
+23:25:07 : Started scan on 0735+331 for ~ 5.03316 min.
+23:33:27 : Started scan on M325P1 for ~ 9.99921 min.
+23:44:23 : Started scan on M325P2 for ~ 9.83144 min.
+23:55:24 : Started scan on M325P3 for ~ 9.99921 min.
+00:06:20 : Started scan on M325P4 for ~ 9.99921 min.
+00:17:29 : Started scan on 0735+331 for ~ 5.03316 min.
+00:25:37 : Started scan on M325P1 for ~ 9.96566 min.
+00:36:27 : Started scan on M325P2 for ~ 9.99921 min.
+00:47:32 : Started scan on M325P3 for ~ 9.99921 min.
+00:58:27 : Started scan on M325P4 for ~ 9.99921 min.
+01:09:37 : Started scan on 0735+331 for ~ 5.03316 min.
+01:17:55 : Started scan on M325P1 for ~ 9.99921 min.
+01:28:52 : Started scan on M325P2 for ~ 9.96566 min.
+01:39:47 : Started scan on M325P3 for ~ 9.99921 min.
+01:50:32 : Started scan on M325P4 for ~ 9.96566 min.
+02:01:51 : Started scan on 0735+331 for ~ 4.99961 min.
+02:10:16 : Started scan on M325P1 for ~ 9.99921 min.
+02:21:04 : Started scan on M325P2 for ~ 10.0328 min.
+02:32:01 : Started scan on M325P3 for ~ 9.99921 min.
+02:43:01 : Started scan on M325P4 for ~ 9.99921 min.
+02:54:14 : Started scan on 0735+331 for ~ 4.99961 min.
+03:02:30 : Started scan on M325P1 for ~ 10.0328 min.
+03:13:25 : Started scan on M325P2 for ~ 10.0328 min.
+03:24:34 : Started scan on M325P3 for ~ 9.52945 min.
+03:35:38 : Started scan on 0735+331 for ~ 4.99961 min.
+03:41:47 : Started scan on M325P4 for ~ 10.0328 min.
+03:54:54 : Started scan on M325P1 for ~ 9.99921 min.
+04:05:54 : Started scan on M325P2 for ~ 9.96566 min.
+04:16:49 : Started scan on M325P3 for ~ 9.99921 min.
+04:27:51 : Started scan on M325P4 for ~ 9.99921 min.
+04:51:49 : Started scan on 3C286 for ~ 10.167 min.
+05:02 : Stopped scan and closed observation session.

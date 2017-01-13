@@ -1,0 +1,85 @@
+		 GTAC Observation Log 
+
+1. Date : 21/07/2009
+2. Observation Sr. No. : 4425
+3. Observer : Vishal Gajjar
+4. Observer's Email : gajjar@ncra.tifr.res.in
+5. Project Name : PSR OBSN
+6. Project Code : 16_048
+7. Operator(s) : Jayprakash,
+	Rupsingh,
+	Sachin,
+	
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /rawdata/21jul/16_048_21jul2009.lta,
+	/rawdata1/21jul/16_048_21jul2009.ltb
+10. LogFlag File : /odisk/online1/logflags/16_048.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+4 dB, 32 MHz,OFF, IF-CH2 : 16+4 dB, 32 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+S06 : Servo off.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 22:00 - 00:00
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+22:00 : Started settings.
+22:11 : Started powerEq on 3c295 @ 1000 counts.
+22:38 : Started phasing on 3c295.
+22:50 : Phasing finished, and restarted scan.
+23:00 : Stopped scan.
+
+23:10 : Started phasing on 1822-096.
+23:32 : phasing finished.
+
+23:35 : Started scan on pulsar 1929+10.
+23:44 : Stopped scan.
+
+23:47 : Started phasing on 1830-360.
+23:52 : phasing finished.
+
+23:54 : Started scan on pulsar J1814-1744.
+01:28 : Stopped scan.
+
+01:30 : Started phasing on 1830-360.
+01:37 : phasing done.
+
+01:44 : Started phasing on 2350+646.
+01:49 : phasing done.
+
+01:52 : Started scan on pulsar J2321+6024.
+04:13 : Stopped scan.
+
+04:14 : Started phasing on 2350+646.
+04:25 : Phasing done.
+
+04:28 : Started scan on pulsar B2021+51.
+04:45 : Stopped scan.
+
+04:47 : Started phasing on 2350+646.
+04:51 : phasing done.
+
+04:54 : Started scan on pulsar B2034+19.
+06:18 : Stopped scan and closed observation.
+
+

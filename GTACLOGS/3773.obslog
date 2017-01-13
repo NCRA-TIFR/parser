@@ -1,0 +1,56 @@
+		 GTAC Observation Log 
+
+1. Date : 02/06/2008
+2. Observation Sr. No. : 3773
+3. Observer : Rekhesh
+4. Observer's Email : reks@iiap.res.in
+5. Project Name : H1Cstars
+6. Project Code : 14NKR01
+7. Operator(s) : Jayprakash,
+	Nilesh,
+	Sachin,
+	Sanjay,
+	
+8. Command File : /odisk/gtac/cmd/12nkr01/xcnc.cmd
+9. LTA File : /rawdata/2jun/14nkr01_2jun2008.lta,
+	/rawdata1/2jun/14nkr01_2jun2008.ltb
+10. LogFlag File : /odisk/online1/logflags/14NKR01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1419.7488 MHz ,RF2 : 1419.7488 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1350 MHz, ILO2 : 1350 MHz, IVLO1 : 69.7488 MHz, IVLO2 : 69.7488 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 6 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 1000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1419.7488 1419.7488 1350 1350 69.7488 69.7488 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C04 : Painting.
+W04 : Painting.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 12:00 - 00:00
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Aditya   ********* 
+******** Corr Mode : USBHighRes    *********
+------------------------------------------
+12:08 : Started scan on 3C48.
+Changed LO1 by +5 and -5 and recorded on 3C48 for
+5 mins each time.
+12:39 : Started command file.
+18:20 : C04 relased for observation.
+19:30 : Stopped command file.
+19:35 : Started scan on 3C48.
+Changed LO1 by +5 and -5 and 
+recorded on 3C286 for 5 mins each time.
+19:55 : Stopped scan and observation closed.

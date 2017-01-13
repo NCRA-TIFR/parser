@@ -1,0 +1,70 @@
+		 GTAC Observation Log 
+
+1. Date : 29/06/2009
+2. Observation Sr. No. : 4376
+3. Observer : Koike,Ramesh
+4. Observer's Email : koike.kazutaka@nao.ac.jp,ramesh@rri.res.in
+5. Project Name : Sfcmeocdaffp-III
+6. Project Code : 16_132
+7. Operator(s) : Deepak,
+	Jayprakash,
+	Manisha,
+	Nilesh,
+	Rupsingh,
+	Sachin,
+	
+8. Command File : /odisk/gtac/cmd/koike/cmd/1_j0406.cmd,
+	/odisk/gtac/cmd/koike/cmd/2_j0825.cmd,
+	/odisk/gtac/cmd/koike/cmd/4_6_j1211.cmd,
+	/odisk/gtac/cmd/koike/cmd/7_8.cmd
+9. LTA File : /rawdata/29jun/16_130_29jun2009.lta,
+	/rawdata1/29jun/16_130_29jun2009.ltb
+10. LogFlag File : /odisk/online1/logflags/16_132.FLAGS,
+	/odisk/online1/logflags/16_130.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1390 MHz ,RF2 : 1390 MHz, SA1 : 14 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1320 MHz, ILO2 : 1320 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1390 1390 1320 1320 70 70 
+
+18. Integration Time : 32 LTA ~ 4.227 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+W04: Servo problem.
+W03: No fringe.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 13:00 - 21:02
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : UsbPolar
+
+25. Comments (During Observations) :
+12:50 : Started scan 3C147.
+13:06 : Stopped scan.
+13:10 : Started command file
+        '/odisk/gtac/cmd/koike/cmd/1_j0406.cmd'
+13:54 : Stopped command file.
+14:03 : Started command file
+        '/odisk/gtac/cmd/koike/cmd/2_j0825'  
+
+16:50 : Started next command file.
+        '/odisk/gtac/cmd/koike/cmd/4_6_j1211.cmd'
+17:01 : E05 ABC timeout.
+18:00 : E06 got ABC reset.
+19:12 : Started next command file.
+        '/odisk/gtac/cmd/koike/cmd/7_8.cmd'
+20:44 : Command file stopped.
+20:47 : Started scan on 3c286.
+21:02 : Stopped scan and closed observation.
+

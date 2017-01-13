@@ -1,0 +1,61 @@
+		 GTAC Observation Log 
+
+1. Date : 19/03/2004
+2. Observation Sr. No. : 1407
+3. Observer : Prof. A. P. Rao
+4. Observer's Email : pramesh@ncra.tifr.res.in,
+5. Project Name : AEAQR
+6. Project Code : 05MAS01
+7. Operator(s) : Sanjay,
+	
+8. Command File : /btemp2/cmd/pramesh/05mas01.cmd
+9. LTA File : /rawdata/19mar/05mas01_aeaqr.lta,
+	/rawdata1/19mar/05mas01_aeaqr.ltb
+10. LogFlag File : /btemp2/logflags/05MAS01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 325 MHz ,RF2 : 325 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 255 MHz, ILO2 : 255 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+20 dB, 32 MHz,ON, IF-CH2 : 20+20 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 325 325 255 255 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+W03 : ABC T.O.
+
+
+21. Start and End Time of Obs.(IST): 04:03 - 14:38
+
+22. Comments (During Observations) :
+***  ONLINE BHASKAR     ***
+***  AUTHIF @ 325 with ALCs on. ***
+-------------------------------------------------
+
+04:03 : Started bandpass cal 1830-360.
+04:25 : Stopped bp-cal
+04:31 : Started cmd file 05mas01.cmd
+07:48 : E06 antenna got parked due to high wind.
+07:54 : Put back E06 on source.
+09:15 : C06 antenna parked for painting work.
+11:25 : C13 antenna got parked.
+11:28 : Put back C13 on source.
+12:47 : W03 antenna released for observation. Set
+        the antenna and put it on the source.
+14:09 : Stopped the commmand file the source is set
+        Moved antennas to 3c48.
+14:18 : Started a flux scan on 3c48 for 20 minutes.
+14:38 : Stopped the scan. Closed the observation.
+
+
+
+
+

@@ -1,0 +1,75 @@
+		 GTAC Observation Log 
+
+1. Date : 25/10/2009
+2. Observation Sr. No. : 4555
+3. Observer : Sanhita Joshi
+4. Observer's Email : sjoshi@ncra.tifr.res.in
+5. Project Name : Polarization of radio galaxies
+6. Project Code : 17_021
+7. Operator(s) : Deepak,
+	Navanath,
+	Sachin,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/sjoshi/25oct_cal_atstart.cmd,
+	/odisk/gtac/cmd/sjoshi/17_021_25oct_3c265.cmd
+9. LTA File : /rawdata/25oct/17_021_25oct2009.lta,
+	/rawdata1/25oct/17_021_25oct2009.ltb
+10. LogFlag File : /odisk/online1/logflags/17_021.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 630 MHz ,RF2 : 630 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 560 MHz, ILO2 : 560 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 630 630 560 560 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C02 : Servo problem.
+S03 : LO1 unlock.
+W04 : 130 pol no fringe.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 05:00 - 16:00
+
+23. ONLINE Machine : Lenyadri
+
+24. Correlator Mode : UsbPolar
+
+25. Comments (During Observations) :
+05:00 : Started settings.
+05:31 : '/odisk/gtac/cmd/sjoshi/25oct_cal_atstart.cmd' command file started.
+05:43 : Stopped command file.
+
+05:49 : '/odisk/gtac/cmd/sjoshi/17_021_25oct_3c265.cmd' command file started.
+
+08:35 : E05 painting.
+09:00 : Command file stopped.
+09:05 : Started scan on 3C147 for 5mins, RF 630
+09:11 : Started scan on 3C147 for 5mins, RF 595
+09:22 : Started scan on 3C286 for 5mins, RF 595
+09:30 : Started scan on 3C286 for 5mins, RF 630
+09:37 : Restarted command file
+        /odisk/gtac/cmd/sjoshi/17_021_25oct_3c265.cmd
+
+10:26 : W02 servo time out.[ eletrical problem.]
+11:45 : C02 and W02 started working.
+13:51 : W-arm power failure.
+14:20 : W-arm started working.
+15:15 : Stopped command file.
+15:17 : Started scan on 3C286 for 20 mins.
+15:39 : Changed LO1 and tpa and once again started
+scan on 3C286 for 20 mins.
+16:00 : Stopped scan and observation session.
+
+
+

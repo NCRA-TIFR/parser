@@ -1,0 +1,83 @@
+		 GTAC Observation Log
+
+1. Date : 25/10/2014
+2. Observation Sr. No. : 7382
+3. Observer : Jayanta Roy, Maura Ann McLaughlin, Scott M. Ransom, Bhaswati Bhattacharyya, Duncan Ross Lorimer, Lina Levin
+4. Observer's Email : jayanta.roy@manchester.ac.uk, maura.mclaughlin@mail.wvu.edu, sransom@nrao.edu, bhaswati.bhattacharyya@manchester.ac.uk, Duncan.Lorimer@mail.wvu.edu, lina.s.levin@gmail.com
+5. Project Name : Coherently dedispersed timing studies at the GMRT for IPTA MSPs
+6. Project Code : 27_043
+7. Operator(s) : Navnath, Nilesh
+8. Command File : /odisk/gtac/cmd/jroy/27_043_25oct.cmd
+9. LTA File : /gsbifrdata/25oct/27_043_25oct2014_610.lta.3,/gsbifrdata/25oct/27_043_25oct2014_610.lta.2,/gsbifrdata/25oct/27_043_25oct2014_610.lta.1,/gsbifrdata/25oct/27_043_25oct2014_610.lta,/gsbifrdata/25oct/27_043_25oct2014_325.lta.3,/gsbifrdata/25oct/27_043_25oct2014_325.lta.2,/gsbifrdata/25oct/27_043_25oct2014_325.lta.1,/gsbifrdata/25oct/27_043_25oct2014_325.lta
+10. LogFlag File :  
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : Volt
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 591 591 540 540 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :25
+
+32. Name of Non-Working Antennas (with reason for each) :
+W03 : : feed jam
+S06 : : MCM-14 time out.
+E06 : : BLDC work
+E05 : : No fringe.
+C01 : MCM 5 time out.
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 25 Oct 2014 15:00:00 - 25 Oct 2014 19:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :25
+
+37. Comments (During Observations) :
+# sub 2 # 610#C00 C05 C08 C09 C10 C11 C12 C13 C14 W02 W03 W04 E02 E03 S02 S03 S04
+ante 17 7 19 24 4 12 9 2 11 10 13 14 15 17 18 27 28 29
+cp 0;defs 2;subar 2
+
+# sub 3 # E05
+ante 1 22
+cp 0;defs 3;subar 3
+
+# sub 4 # 325# C01 C02 C03 C04 C06 W01 W05 W06 E04 E06 S01 S06
+ante 12 6 5 1 3 20 8 16 25 21 23 26 30
+cp 0;defs 4;subar 4
+
+------------------------------------------------------------------
+13:00 : Started set-up.
+15:00 : node57 was hung, tried rebooting..
+15:20 : Started settings. 
+15:40 : buffer loss..restarted daschian many times 
+16:30 : replaced node57 by node50 restarted new setting...
+16:45 : Started power eq and phasing on 1822-096.
+16:57 : started cmd file.
+              /odisk/gtac/cmd/jroy/27_043_25oct.cmd
+19:00 : Observing session over.
+
+
+   
+ 
+

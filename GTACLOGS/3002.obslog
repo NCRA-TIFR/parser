@@ -1,0 +1,71 @@
+		 GTAC Observation Log 
+
+1. Date : 21/01/2007
+2. Observation Sr. No. : 3002
+3. Observer : Srianand
+4. Observer's Email : srianand@gmrt.ncra.tifr.res.in,anand@iucaa.ernet.in
+5. Project Name : J2340
+6. Project Code : 11RSA01
+7. Operator(s) : Deepak,
+	Jayprakash,
+	Navanath,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/11rsa01/mg2340.cmd
+9. LTA File : /rawdata/21jan/11rsa01_21jan07.lta,
+	/rawdata1/21jan/11rsa01_21jan07.ltb
+10. LogFlag File : /btemp2/logflags/11RSA01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 601.343 MHz ,RF2 : 601.343 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 530 MHz, ILO2 : 530 MHz, IVLO1 : 71.343 MHz, IVLO2 : 71.343 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 6 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 1000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 601.343 601.343 530 530 71.343 71.343 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C11 : No fringe.
+C13 : USB-130 amplitude fluctuation.
+C14 : USB-130 amplitude fluctuation.
+W01 : USB+LSB 130 no fringe. 
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 12:00 - 00:00
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+---------------------------------------------
+
+12:17 : started command file.
+13:00 : Command file stopped.
+13:03 : Started scan on 3C48 for 15mins.
+13:19 : Restarted command file.
+16:21 : Command file stopped.
+16:29 : Started scan on 3c48 for 10 min.
+20:05 : command file stopped.
+20:06 : started scan on phase cal for 7 min.
+20:16 : started scan on flux cal for 10 min.
+20:30 : observing session over.
+
+
+
+
+

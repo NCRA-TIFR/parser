@@ -1,0 +1,63 @@
+		 GTAC Observation Log 
+
+1. Date : 21/12/2004
+2. Observation Sr. No. : 1773
+3. Observer : B C Joshi
+4. Observer's Email : bcj@ncra.tifr.res.in
+5. Project Name : Pulsar  Observation
+6. Project Code : 07BCJ01
+7. Operator(s) : Jitendra,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/hold.cmd
+9. LTA File : /rawdata/21dec/07bcj01_psr.lta,
+	/rawdata1/21dec/07bcj01_psr.ltb,
+	/rawdata/21dec/07bcj01_610.lta,
+	/rawdata1/21dec/07bcj01_610.ltb,
+	/rawdata/21dec/07bcj01_235.lta,
+	/rawdata1/21dec/07bcj01_235.ltb,
+	/rawdata/21dec/07bcj01_610_phs.lta,
+	/rawdata1/21dec/07bcj01_610_phs.ltb,
+	/rawdata/22dec/07bcj01_235_phs_22dec.lta,
+	/rawdata1/22dec/07bcj01_235_phs.ltb,
+	/rawdata/22dec/07bcj01_610_phs_22dec.lta,
+	/rawdata1/22dec/07bcj01_610_phs_22dec.ltb
+10. LogFlag File : /btemp2/logflags/07BCJ01.FLAGS.3,
+	/btemp2/logflags/07BCJ01.FLAGS.4,
+	/btemp2/logflags/07BCJ01.FLAGS.5,
+	/btemp2/logflags/07BCJ01.FLAGS.6,
+	/btemp2/logflags/07BCJ01.FLAGS.7
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+4 dB, 32 MHz,OFF, IF-CH2 : 4+4 dB, 32 MHz,OFF
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, OFF
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C12 - fringe fluctuation.
+-----------------
+S04 - showing low fringe.
+-----------------
+
+
+21. Start and End Time of Obs.(IST): 18:09 - 07:00
+
+22. Comments (During Observations) :
+******************************
+****** ONLINE : BHASKAR ******  
+****** Power eqaulised .******
+******************************
+
+
+

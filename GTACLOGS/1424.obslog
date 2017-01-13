@@ -1,0 +1,52 @@
+		 GTAC Observation Log 
+
+1. Date : 26/03/2004
+2. Observation Sr. No. : 1424
+3. Observer : S. Roy,Sanjay Bhatnagar
+4. Observer's Email : roy@ncra.tifr.res.in,sbhatnag@aoc.nrao.edu
+5. Project Name : Venus
+6. Project Code : 05BBA01
+7. Operator(s) : Mangesh,
+	Manish G.,
+	Manisha J.,
+	
+8. Command File : /btemp2/cmd/roy/venus.26mar.cmd
+9. LTA File : /rawdata/26mar/05bba01_venus26.lta,
+	/rawdata1/26mar/05bba01_venus26.ltb
+10. LogFlag File : /btemp2/logflags/05BBA01.FLAGS.7
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+20 dB, 32 MHz,ON, IF-CH2 : 12+12 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:16
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C06,W01 Painting work
+
+21. Start and End Time of Obs.(IST): 11:40 - 19:17
+
+22. Comments (During Observations) :
+ONLINE : Bhaskar
+AUTHIF @ 610-235 MHz.
+=================
+
+11:44 : Started a flux cal scan on 3c48 for 15m
+12:34 : C05 got parked automatically.
+12:38 : C05 put back on the source.
+12:39 : C12 applied brakes in both axes. Released
+         the brakes.
+19:05 : Stopped the command file. Antennas moved to 3C147.
+19:07 : Started scan on 3C147.
+19:17 : Stopped the scan. Stopped the observation.
+

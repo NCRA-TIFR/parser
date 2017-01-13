@@ -1,0 +1,62 @@
+		 GTAC Observation Log
+
+1. Date : 06/06/2015
+2. Observation Sr. No. : 7827
+3. Observer : Christine Jones, Ming Sun, Dharam Vir Lal, Alastair Edge, Reinout Johannes vanWeeren, william richard forman
+4. Observer's Email : cjf@head.cfa.harvard.edu, ms4ar@virginia.edu, dharam@ncra.tifr.res.in, alastair.edge@durham.ac.uk, rvanweeren@cfa.harvard.edu, wrf@cfa.harvard.edu
+5. Project Name : Radio AGN heating, X-ray cavities and shocks in Abell 3017
+6. Project Code : 28_021
+7. Operator(s) : Nilesh, Surender
+8. Command File : /odisk/gtac/cmd/28_021/obs.cmd
+9. LTA File : /gsbifrdata/06jun/28_021_06jun2015.lta
+10. LogFlag File : /odisk/online1/logflags/28_021.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 591 591 540 540 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :27
+
+32. Name of Non-Working Antennas (with reason for each) :
+S03 : Feed Cage painting(Removed 610MHz feed).
+S04 : Taken for BLDC
+C03 : Servo problem. 
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 06 Jun 2015 07:10:00 - 06 Jun 2015 13:21:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :26
+
+37. Comments (During Observations) :
+07:10 : Started set-up.
+07:21 : Started scan on 3C48 for 20min. 
+07:50 : Started command file.
+10:04 : W05 taken for maintenance.
+12:58 : Stopped command file.
+13:01 : Started scan on 3C48 for 20min.
+13:21 : Stopped scan and observing session is over.

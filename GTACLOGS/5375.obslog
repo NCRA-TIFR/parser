@@ -1,0 +1,87 @@
+		 GTAC Observation Log 
+
+1. Date : 10/6/2011
+2. Observation Sr. No. : 5375
+3. Observer : Ilse DeLooze
+4. Observer's Email : ilse.delooze@ugent.be
+5. Project Name :  TIDAL DWARF GALAXIES: DO THEY CONTAIN DARK MATTER
+6. Project Code : 20_021
+7. Operator(s) : Navanath,
+	Sachin,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/20_023/run2/ugc957.cmd
+9. LTA File : /gsbifrdata/10jun/20_021_10jun2011.lta
+10. LogFlag File : /odisk/online1/logflags/20_021.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1399.9 MHz ,RF2 : 1399.9 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1340 MHz, ILO2 : 1340 MHz , IVLO1 : 59.9 MHz, IVLO2 : 59.9 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 2+12 dB, 16 MHz,ON, IF-CH2 : 2+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 16 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : Custom :- 16 : 140.1 - 164.9
+23. Final Bandwidth (MHz): 4 MHz; Step # 2
+
+24. Frequency Parameters (TPA) : 1399.9 1399.9 1340 1340 59.9 59.9.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :28
+
+27. Name of Non-Working Antennas (with reason for each) :
+C03 - Maintenance.
+C09 - 130pol low fringe.
+W05 - Low fringe.
+
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 04:00 - 14:00
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+Project code : 20_021
+Project title: TIDAL DWARF GALAXIES: DO THEY CONTAIN DARK MATTER
+
+RF band :        1390
+
+Central frequency : 1410.3 MHz
+
+LO (1)           : 1340 MHz
+IF BW            : 16  MHz
+BB BW            : 4 MHz
+LO (4)           : 59.9  MHz
+Step             : 3rd quadrant- step 2   
+Channels         : 256
+Integration Time : 16.106 Sec.
+
+TPA 1399.9 1399.9 1340 1340 59.9 59.9
+lta 8m
+
+The line is in the ? quadrant. Use Step .
+LO (5)  :       140.1   MHz, 164.9  MHz.
+--------------------------------------------------------
+04:00 : Started setup for project 20_021
+04:10 : Started scan on 3C48 for 15min.
+04:36 : Started command file.
+ /odisk/gtac/cmd/20_023/run2/ugc957.cmd
+
+10:26 : W06 taken for maintenance.
+11:15 : W06 released for observation. 
+ 
+13:36 : Stopped command file.
+
+13:41 : Started scan on 3C147.
+14:00 : Stopped scan and observing session over.
+
+
+
+

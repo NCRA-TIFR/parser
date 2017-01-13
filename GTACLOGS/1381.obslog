@@ -1,0 +1,63 @@
+		 GTAC Observation Log 
+
+1. Date : 06/03/2003
+2. Observation Sr. No. : 1381
+3. Observer : R.E. Spencer, I.K. Brown, D J Saikia
+4. Observer's Email : res@jb.man.ac.uk,ibrown@jb.man.ac.uk,djs@ncra.tifr.res.in
+5. Project Name : CYGX1
+6. Project Code : 05RES01
+7. Operator(s) : Manish G.,
+	Manisha J.,
+	
+8. Command File : /btemp2/cmd/djs/cygx1.cmd
+9. LTA File : /rawdata/6mar/05res01_cygx1.lta,
+	/rawdata1/6mar/05res01_cygx1.ltb
+10. LogFlag File : /btemp2/logflags/05RES01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1418.4 MHz ,RF2 : 1418.4 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1350 MHz, ILO2 : 1350 MHz, IVLO1 : 68.4 MHz, IVLO2 : 68.4 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 16 MHz,ON, IF-CH2 : 12+12 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 4000 KHz, 6 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 2
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1418.4 1418.4 1350 1350 68.4 68.4 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C02 : ABC Time Out.
+C13 : ILO 1350 UNLOCK.
+
+21. Start and End Time of Obs.(IST): 03:46 - 15:01
+
+22. Comments (During Observations) :
+*** ONLINE BHASKAR ***
+** AUTHIF @ 1390 ***
+-----------------------
+03:46 started scan on 3C286 ~20mins.
+04:08 started scan on 3C287 ~25mins.
+04:41 command file started.
+05:15 MSEB Power Failed.
+05:40 restarted command file.
+07:41 Stopped the command file. Antennas moved to 3C287.
+07:48 Started scan on 3C287.
+08:08 Stopped the scan. Antennas moved to source 2025+337.
+08:15 Re-started the command file.
+09:20 C06 parked for painting.
+09:45 C02 started working.
+10:43 Stopped the command file. Antennas moved to 0025-260.
+10:56 Started scan on 0025-260.
+11:16 Stopped the scan. Antennas moved to source 2025+337.
+11:25 Re-started the command file.
+14:27 Stopped the command file. Antennas moved to 0025-260.
+14:32 Started scan on 0025-260.
+14:42 Stopped the scan. Antennas moved to 3C48.
+14:51 Started scan on 3C48.
+15:01 Stopped the scan. Stopped the observation.
+

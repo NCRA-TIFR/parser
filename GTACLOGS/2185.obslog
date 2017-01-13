@@ -1,0 +1,55 @@
+		 GTAC Observation Log 
+
+1. Date : 12/08/2005
+2. Observation Sr. No. : 2185
+3. Observer : HANS
+4. Observer's Email : hrk@astro.ox.ac.uk
+5. Project Name : N479
+6. Project Code : 08HRK01
+7. Operator(s) : Manish G.
+	
+8. Command File : /atemp2/cmd/neeraj/n479.cmd
+9. LTA File : /rawdata/12aug/08hrk01_n479.lta,
+	/rawdata1/12aug/08hrk01_n479.ltb,
+	/rawdata/12aug/08hrk01_d1.lta,
+	/rawdata1/12aug/08hrk01_d1.ltb
+10. LogFlag File : /atemp2/logflags/08HRK01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614.0 MHz ,RF2 : 244.0 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66.0 MHz, IVLO2 : 66.0 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 32 MHz,ON, IF-CH2 : 12+12 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66
+
+18. Integration Time : 128 STA ~ 16.73 sec
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+S01-USB-175 - No fringe (235 MHz).
+S04-USB-175 - No fringe (235 MHz).
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 03:34 - 16:11
+
+23. Comments (During Observations) :
+****** ONLINE ADITYA *******
+****** NEW AUTHIF @ 610-235 *******
+**********************************************
+
+03:34  Started scan on 3C48.
+03:49  Stopped the scan. Started command file: /atemp2/cmd/neeraj/n479.cmd
+06:48  Stopped the command file. Antennas moved to 3C147.
+       Started new data files.
+06:53  Started scan on 3C147.
+--------------------------
+15:48 Stopped cmd file.
+15:52 Started record on 3c286.
+16:11 Stopped 3c286, closed observation.

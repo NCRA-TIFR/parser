@@ -1,0 +1,56 @@
+		 GTAC Observation Log 
+
+1. Date : 05/02/2008
+2. Observation Sr. No. : 3608
+3. Observer : J. Roy
+4. Observer's Email : jroy@ncra.tifr.res.in
+5. Project Name : Pulsar Obs
+6. Project Code : 13WLA01
+7. Operator(s) : Jayprakash,
+	Sachin,
+	Sanjay,
+	
+8. Command File : /atemp2/cmd/hold.cmd
+9. LTA File : /rawdata/5feb/13wla01_05feb2008.lta,
+	/rawdata/5feb/13wla01_05feb2008.lta.1,
+	/rawdata/5feb/13wla01_05feb2008.lta.2,
+	/rawdata1/5feb/13wla01_05feb2008.ltb
+10. LogFlag File : /atemp2/logflags/13WLA01.FLAGS.4,
+	/atemp2/logflags/13WLA01.FLAGS.5
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,OFF, IF-CH2 : 4+12 dB, 32 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+--
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 19:00 - 02:10
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Aditya  ********* 
+******** Corr Mode : Indian Polar   *********
+--------------------------------------------
+23:00 : Started settings for 235 MHz.
+set to 235 and done power equalisation at 1000 counts
+and phasing, and started observation.
+tpa 244 244 310 310 66 66
+00:55 : Online crashed.
+01:00 : Started project once again.
+02:10 : Stopped project.
+
+

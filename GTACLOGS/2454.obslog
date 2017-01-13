@@ -1,0 +1,62 @@
+		 GTAC Observation Log 
+
+1. Date : 31/01/2006
+2. Observation Sr. No. : 2454
+3. Observer : Amrit
+4. Observer's Email : ahuja@iucaa.ernet.in
+5. Project Name : Pulsar Obsn
+6. Project Code : 09DOA01
+7. Operator(s) : Sachin,
+	Santaji,
+	
+8. Command File : /atemp2/cmd/hold.cmd
+9. LTA File : /rawdata/31jan/09doa01_607.lta,
+	/rawdata/31jan/09doa02_243.lta
+10. LogFlag File : /atemp2/logflags/09DOA01.FLAGS.10
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 607 MHz ,RF2 : 607 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 67 MHz, IVLO2 : 67 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,OFF, IF-CH2 : 16+16 dB, 32 MHz,OFF
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, OFF
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 607 607 540 540 67 67 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+C13-USB-175 : Bad bandshape (235 MHz).
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 09:18 - 00:00
+
+23. Comments (During Observations) :
+| Online  - Aditya
+| Power Equalise at 610 and 235 MHz.
+|_____________________________________
+
+Subarray 2: C01,C02,C03,C04,C08,E02,W01,S01
+RF:243
+Solar Attenuater:14 dB. 
+LO1:310
+LO4:67
+TPA 243 243 310 310 67 67 
+--------------------------
+Subarray 4: C00,C05,C06,C09,C10,C11,C12,C13,C14,E03,
+E04,E05,W02,W03,W04,W05,W06,S02,S03,S04,S06
+RF:607
+LO1:540
+LO4:67
+TPA 607 607 540 540 67 67
+---------------------------
+
+
+

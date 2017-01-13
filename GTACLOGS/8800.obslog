@@ -1,0 +1,73 @@
+		 GTAC Observation Log
+
+1. Date : 07/08/2016
+2. Observation Sr. No. : 8800
+3. Observer : Neeraj Gupta, Raghunathan Srianand, Rajeshwari Dutta, Patrick Petitjean, Pasquier Noterdaeme
+4. Observer's Email : ngupta@iucaa.in, anand@iucaa.in, rdutta@iucaa.in, ppetitje@iap.fr, noterdaeme@iap.fr
+5. Project Name : Search for HI 21-cm absorption in outer disks/halos of Local Volume Galaxies
+6. Project Code : 30_071
+7. Operator(s) : Navnath, Rupsing, Sachin, Shilpa
+8. Command File : /odisk/gtac/cmd/30_071/07aug16/obs_07aug.cmd
+9. LTA File : /gsbifrdata/07aug/30_071_07aug2016.lta.2, /gsbifrdata/07aug/30_071_07aug2016.lta.1, /gsbifrdata/07aug/30_071_07aug2016.lta, /gwbifrdata1/07aug/30_071_07aug2016_gwb.lta
+10. LogFlag File : /odisk/online1/logflags/PNTG.FLAGS.2068, /odisk/online1/logflags/30_071.FLAGS.14, /odisk/online1/logflags/30_071.FLAGS.13
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 :  MHz ,RF2 :  MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 :  MHz, ILO2 : MHz , IVLO1 :  MHz, IVLO2 :  MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 16 MHz,ON, IF-CH2 : 4+14 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 4 MHz; Step # 1
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 137.3499
+28. LO5 -2  : 167.6501
+
+29. Frequency Parameters (TPA) :      
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :26
+
+32. Name of Non-Working Antennas (with reason for each) :
+C01 : Not releasing brakes.
+C08 : Not releasing brakes.
+C12 : Not releasing el brakes.
+C13 : Servo timeout.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 07 Aug 2016 09:00:00 - 07 Aug 2016 17:02:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :29
+
+37. Comments (During Observations) :
+09:00 : GSB cluster was having network problem. It was solved @ 08:45 Hrs. So grid pointing was started @ 08:50 Hrs. 
+09:25 : Grid pointing over and started settings for observation.
+        
+09:41 : Started scan on 3C147.
+09:55 : C01,C08,C12 started working.
+10:00 : Stopped scan.
+
+10:05 : '/odisk/gtac/cmd/30_071/07aug16/obs_07aug.cmd' command file started.
+10:14 : Fringe vanished.
+11:10 : Stopped command file and halted GSB, due to fringe vanished on source @ 10:14 Hrs (Fringe vanished on source but observed on phase cal @ 11:05, so halted GSB @ 11:10 Hrs).
+11:15 : Restarted GSB.
+
+11:18 : Restarted command file.
+16:40 : Stopped command file and started scan on phase cal.
+16:45 : Stopped scan on phase cal.
+16:50 : Started scan on 3C286.
+17:00 : Stopped scan on 3C286. Closed observation session.

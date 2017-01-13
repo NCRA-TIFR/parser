@@ -1,0 +1,68 @@
+		 GTAC Observation Log 
+
+1. Date : 09/10/2004
+2. Observation Sr. No. : 1709
+3. Observer : Sabya
+4. Observer's Email : chakraba@bose.res.in,sabya_p2003@rediffmail.com
+5. Project Name : Compact Object
+6. Project Code : 06SKC02
+7. Operator(s) : Jayprakash,
+	Jitendra,
+	Sachin,
+	
+8. Command File : /btemp2/cmd/skc/9oct1_sub3.cmd,
+	/btemp2/cmd/skc/9oct1_sub4.cmd
+9. LTA File : /rawdata/9oct/06skc0a_9oct_sub3.lta,
+	/rawdata/9oct/06skc0b_9oct_sub4.lta,
+	/rawdata1/9oct/06skc0a_9oct_sub3.ltb,
+	/rawdata1/9oct/06skc0b_9oct_sub4.ltb
+10. LogFlag File : /btemp2/logflags/06SKC0A.FLAGS,
+	/btemp2/logflags/06SKC0B.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1400 MHz ,RF2 : 1400 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1330 MHz, ILO2 : 1330 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1400 1400 1330 1330 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+W06 :swithched off (high temp.)
+
+
+21. Start and End Time of Obs.(IST): 19:00 - 00:00
+
+22. Comments (During Observations) :
+ONLINE running on bhaskar
+Auth IF attn : 1060 MHz & 1390 MHz
+-----------------------------------------------
+19:00 Since the flux cal has not risen, command
+      file started.
+      Subar 3 : C-0,3,5,8,10,11; E-2,4,5; W-2,4,6;S-1,3,6
+      TPA 1020 1020 950 950 70 70
+      PROJ : 06SKC0A
+      Subar 4 : C-1,2,4,6,9,12,13,14 ;E-3,6 ;W-1,3,5;S-2,4
+      TPA 1400 1400 1330 1330 70 70
+      PROJ : 06SKC0B
+~20:45 : W06 ABC T.O.
+ 21:34 : Command file stopped.
+ 21:37 : Phase cal scan started.
+ 21:41 : scan stopped.
+ 21:45 : Command file started.
+ 23:41 : command file stopped.
+ 00:02 : completed the scan on the 3C48 for 10 mins.
+ 00:06 : Stated new command file.
+ 05:00 : Closed the observation.
+
+
+
+

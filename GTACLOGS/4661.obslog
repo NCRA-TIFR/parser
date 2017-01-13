@@ -1,0 +1,56 @@
+		 GTAC Observation Log 
+
+1. Date : 19/12/2009
+2. Observation Sr. No. : 4661
+3. Observer : Siddharth
+4. Observer's Email : siddharth@iucaa.ernet.in
+5. Project Name : B08230ff
+6. Project Code : 17_055
+7. Operator(s) : Navanath,
+	Rupsingh,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/uelipen/dec19_final.1.cmd
+9. LTA File : /rawdata/19dec/17_055_19dec2009.lta,
+	/rawdata1/19dec/17_055_19dec2009.ltb
+10. LogFlag File : /odisk/online1/logflags/17_055.FLAGS.9
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 218 MHz, ILO2 : 218 MHz, IVLO1 : 62 MHz, IVLO2 : 62 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+4 dB, 16 MHz,OFF, IF-CH2 : 20+4 dB, 16 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 156 156 218 218 62 62 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C00 : Servo problem.
+E05 : No fringe.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 02:00 - 08:05
+
+23. ONLINE Machine : Lenyadri
+
+24. Correlator Mode : UsbPolar 
+
+25. Comments (During Observations) :
+02:00 : Started setup.
+02:10 : Started power eq.@300 counts.
+02:30 : Power eq. done.
+02:40 : Change the corrlater mode(Usbpolar).
+02:45 : Sub2 - E02,E03,S01,S02,W01,W02.
+        Suba4- C00,C01,C02,C03,C04,C05,C06,C08,C09,
+               C10,C11,C12,C13,C14,E04,E05,E06,S03,
+               S04,S06,W03,W04,W05,W06.
+03:00 : Suba2 focus central building.
+03:34 : Started command file for suba4.
+08:05 : Stopped command file and observing session over.
+

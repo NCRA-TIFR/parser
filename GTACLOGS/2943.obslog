@@ -1,0 +1,68 @@
+		 GTAC Observation Log 
+
+1. Date : 17/12/2006
+2. Observation Sr. No. : 2943
+3. Observer : Nirupam 
+4. Observer's Email : nkanekar@aoc.nrao.edu,nirupam@ncra.tifr.res.in
+5. Project Name : 0105-008
+6. Project Code : 11NKA02
+7. Operator(s) : Jayprakash,
+	Navanath,
+	
+8. Command File : /btemp2/cmd/nissim/0105-008.cmd
+9. LTA File : /rawdata/17dec/11nka02_17dec06.lta,
+	/rawdata1/17dec/11nka02_17dec06.ltb
+10. LogFlag File : /btemp2/logflags/11NKA02.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 598.5 MHz ,RF2 : 598.5 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 530 MHz, ILO2 : 530 MHz, IVLO1 : 68.5 MHz, IVLO2 : 68.5 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+4 dB, 6 MHz,ON, IF-CH2 : 12+4 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 1000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 598.5 598.5 530 530 68.5 68.5 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+E06 - Servo problem.
+S02,S03 bad bandshape in USB
+Bad baselines in USB (W01,W02)X(E04,E05,E05,S01)
+
+
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 16:30 - 21:49
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : USB high raise   *********
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+---------------------------------------------
+16:30 : started settings.
+16:55 : started scan on 3C48
+17:17 : Command file started.
+21:28 : Stopped the scan & cmd file.
+21:31 : Started scan on phase cal.
+21:36 : Stopped the scan.
+21:39 : Started scan on 3c48.
+21:49 : Stopped the scan & observation.
+
+
+
+
+

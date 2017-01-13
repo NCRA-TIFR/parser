@@ -1,0 +1,90 @@
+		 GTAC Observation Log 
+
+1. Date : 09/11/2013
+2. Observation Sr. No. : 6775
+3. Observer : Stephen John Curran,Matthew Whiting,Dick Hunstead,Elaine Sadler,James Richard Allison,Ramana Athreya,Helen Johnston
+4. Observer's Email : sjc@physics.usyd.edu.au,Matthew.Whiting@csiro.au,rwh@physics.usyd.edu.au,ems@physics.usyd.edu.au,jra@physics.usyd.edu.au,rathreya@iiserpune.ac.in,helenj@physics.usyd.edu.au
+5. Project Name : A Cosmic Census of the Star Forming Reservoir in Active Galaxies I: The High Redshifts
+6. Project Code : 25_020
+7. Operator(s) : Deepak,Nilesh,Rupsingh,Surender
+8. Command File : /odisk/gtac/cmd/ramana/25_020/0749+42.cmd,/odisk/gtac/cmd/ramana/25_020/0620+389.cmd,/odisk/gtac/cmd/ramana/25_020/0913+003.cmd,/odisk/gtac/cmd/ramana/25_020/0800+618.cmd,/odisk/gtac/cmd/ramana/25_020/1402+044.cmd,/odisk/gtac/cmd/ramana/25_020/1614+051.cmd,/odisk/gtac/cmd/ramana/25_020/1427+543.cmd,
+9. LTA File : /gsbifrdata/10nov/25_020_10nov2013.lta,/gsbifrdata/10nov/25_020_10nov2013_2s.lta,/gsbifrdata/10nov/25_020_10nov2013.lta.1,/gsbifrdata/10nov/25_020_10nov2013_2s.lta.1,/gsbifrdata/10nov/25_020_10nov2013.lta.2,/gsbifrdata/10nov/25_020_10nov2013_2s.lta.2,/gsbifrdata/10nov/25_020_10nov2013.lta.3,/gsbifrdata/10nov/25_020_10nov2013_2s.lta.3,/gsbifrdata/10nov/25_020_10nov2013.lta.4,/gsbifrdata/10nov/25_020_10nov2013_2s.lta.4,/gsbifrdata/10nov/25_020_10nov2013.lta.5,/gsbifrdata/10nov/25_020_10nov2013_2s.lta.5,/gsbifrdata/10nov/25_020_10nov2013.lta.6,/gsbifrdata/10nov/25_020_10nov2013_2s.lta.6,
+10. LogFlag File : /odisk/online1/logflags/25_020.FLAGS.8,/odisk/online1/logflags/25_020.FLAGS.5,/odisk/online1/logflags/25_020.FLAGS,/odisk/online1/logflags/25_020.FLAGS.4,/odisk/online1/logflags/25_020.FLAGS.2,/odisk/online1/logflags/25_020.FLAGS.6,/odisk/online1/logflags/25_020.FLAGS.1,/odisk/online1/logflags/25_020.FLAGS.7,/odisk/online1/logflags/25_020.FLAGS.3,
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 299.0975 MHz ,RF2 : 299.0975 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 240 MHz, ILO2 : 240 MHz , IVLO1 : 59.0975 MHz, IVLO2 : 59.0975 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : Realtime 
+15. GSB LTA : 8 
+16. GSB CTRL : ONLINE 
+17. GSB Fstop : ON 
+18. GAIN EQ : ON 
+19. Stokes : TotIntensity
+20. Beam - 1 : OFF
+21. Beam - 2 : OFF
+22. ACQ BW : 16.67 MHz
+23. Final BW : 4.17 MHz; Step # 2
+24. Maximum Channels : 512 
+25. Channel Numbers : 0:511:1 
+26. LO5 -1  : 140.50 
+27. LO5 -2  : 164.50 
+
+28. Frequency Parameters (TPA) : 299.0975 299.0975 240 240 59.0975 59.0975.
+29. Integration Time : 16.106112 Sec.
+30. No of Antennas Working(Fringing) at the begining :30
+
+31. Name of Non-Working Antennas (with reason for each) :
+
+32. Note for Backup :
+
+33. Start and End Time of Obs.(IST): 04:00 - 16:04
+
+34. ONLINE Machine : Lenyadri
+
+35. No of Antennas Working(Fringing) at the end :30
+
+36. Comments (During Observations) :
+04:40 : Started scan on 3C147 for 13min.
+        tpa 299.0975 299.0975 240 240 59.0975 59.0975
+05:00 : Started command file
+           (/odisk/gtac/cmd/ramana/25_020/0749+42.cmd).
+
+07:23 : Stopped command file, Changed Frequency settings.
+tpa 307.4175 307.4175 248 248 59.4175 59.4175
+
+07:30 : Started next command file.
+           (/odisk/gtac/cmd/ramana/25_020/0620+389.cmd).
+09:13 : Stopped command file, source set.
+09:16 : Started scan on phase cal.
+
+09:21 : Stopped scan and changed frequency settings.
+tpa 338.2335 338.2335 279 279 59.2335 59.2335
+09:25 : W05 no Fringe @ LO1 = 279 MHz.
+
+09:26 : Started next command file.
+           (/odisk/gtac/cmd/ramana/25_020/0913+003.cmd).
+10:22 : Stopped command file. Changed frequency settings.
+tpa 341.7755 341.7755 282 282 59.7755 59.7755
+10:32 : Started next command file.
+           (/odisk/gtac/cmd/ramana/25_020/0800+618.cmd).
+
+11:26 : Stopped command file. Changed frequency settings.
+tpa 326.5445 326.5445 267 267 59.5445 59.5445
+11:36 : Started next command file.
+           (/odisk/gtac/cmd/ramana/25_020/1402+044.cmd).
+
+13:10 : Stopped command file, Changed frequency settings.
+13:25 : Started next command file.
+           (/odisk/gtac/cmd/ramana/25_020/1614+051.cmd).
+15:13 : Stopped command file
+15:25 : Started command file
+        (/odisk/gtac/cmd/ramana/25_020/1427+543.cmd)
+15:58 : Stooped command file.
+15:59 : Started scan on 3C286.
+16:04 : Stopped scan & observation session over.
+

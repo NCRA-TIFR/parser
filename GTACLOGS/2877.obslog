@@ -1,0 +1,68 @@
+		 GTAC Observation Log 
+
+1. Date : 12/11/2006
+2. Observation Sr. No. : 2877
+3. Observer : Y. Gupta,D. Mitra
+4. Observer's Email : ygupta@ncra.tifr.res.in,dmitra@ncra.tifr.res.in
+5. Project Name : pulsar obs
+6. Project Code : 11YGA02
+7. Operator(s) : Deepak,
+	Jayprakash,
+	Navanath,
+	Sachin,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/
+9. LTA File : /rawdata/12nov/11yga02_12nov06.lta,
+	/rawdata1/12nov/11yga02_12nov06.ltb
+10. LogFlag File : /btemp2/logflags/11YGA02.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 6+0 dB, 32 MHz,OFF, IF-CH2 : 6+0 dB, 32 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+W02-130 No fringe [U+L]
+S04-175 No fringe [U+L]
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 11:00 - 00:01
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+---------------------------------------------
+10:00 : observation session started
+15:33 : stopped the old command file
+15:40 : started new command file.
+      
+ /temp2/data/cmd/psr_survey/ssr_12nov_p2.cmd
+21:40 : command file stopped
+21:45 : New command file was started.
+    /temp2/data/cmd/psr_survey/psr_12nov_p3.cmd
+
+23:30 : Started doing on-off tests on 3C48.
+23:44 : Completed on-off tests on 3C48.
+23:45 : Started second iteration of on-off tests.
+00:01 : Completed the on-off tests and closed project.
+

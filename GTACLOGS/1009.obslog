@@ -1,0 +1,57 @@
+		 GTAC Observation Log 
+
+1. Date : 11/03/2003
+2. Observation Sr. No. : 1009
+3. Observer : A Pramesh Rao
+4. Observer's Email : pramesh@ncra.tifr.res.in
+5. Project Name : Galactic Survey 
+6. Project Code : 03APR01
+7. Operator(s) : Manisha J.,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/pramesh/galsurvey/g00-06.cmd
+9. LTA File : /rawdata/11mar/03apr01_galsurvey.lta
+10. LogFlag File : /btemp2/logflags/03APR01.FLAGS.12
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 243 MHz ,RF2 : 243 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 310 MHz, ILO2 : 310 MHz, IVLO1 : 67 MHz, IVLO2 : 67 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 18+16 dB, 6 MHz,ON, IF-CH2 : 18+16 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:63:1
+17. Frequency Parameters (TPA) : 243 243 310 310 67 67 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+S03 : No fringe.
+
+21. Start and End Time of Obs.(IST): 03:28 - 11:55
+
+22. Comments (During Observations) :
+03:28   started scan on 3C286 ~ 15mins.
+        scan # 1 - BAD.
+        ALC's made OFF, did power equalisation.
+
+03:58   started command file.
+        /temp2/data/cmd/pramesh/galsurvey/tp_3m.cmd
+
+04:32  E-arm ABC got reset, stopped cmd file.
+        Scan# 6 (GS006-06) bad (e-arm down).
+04:43  repeated scan on GS006-06.
+04:53  ALC's made ON.
+04:55  Started cmd file /temp2/data/cmd/pramesh/galsurvey/g00-06.cmd
+
+09:00  S01 found, not tracking source.
+09:41  C04 flat bshape till end of scan# 36.
+11:15  Stopped cmd file.
+11:25  Started record on 3c48.
+11:55  Stopped record, stopped project.
+
+

@@ -1,0 +1,80 @@
+		 GTAC Observation Log 
+
+1. Date : 26/12/2010
+2. Observation Sr. No. : 5162
+3. Observer : Jayanta Roy
+4. Observer's Email : jroy@ncra.tifr.res.in
+5. Project Name : Pulsar Observation
+6. Project Code : 19_084
+7. Operator(s) : Manisha,
+	Nilesh,
+	Rupsingh,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /rawdata/26dec/19_084_26dec2010.lta,
+	/rawdata1/26dec/19_084_26dec2010.ltb
+10. GSB File : /gsbifrdata/26dec/19_084_26dec2010_gsb.lta
+11. LogFlag File : /odisk/online1/logflags/19_084.FLAGS.4
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+4 dB, 32 MHz,OFF, IF-CH2 : 20+4 dB, 32 MHz,OFF
+15. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+GHB Settings :
+16. GHB Channels : 0:127:1
+17. Correlator Mode : IndianPolar
+18. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+GSB Settings :
+19. Maximum Channels : 256 
+20. Final Bandwidth (MHz): OFF MHz; Step # 0
+21. IFBW : LO5(KHz) : 32:149000-156000 MHz
+22. Stokes : Total_Intensity
+23. Beam - 1 : OFF
+24. Beam - 2 : OFF
+
+25. Integration Time : 128 LTA ~ 16.908 Sec.
+26. No of Antennas Working(Fringing) :26
+
+27. Name of Non-Working Antennas (with reason for each) :
+C04 : ABC time out.
+C09 : Fringe fluctuation[GHB]
+W05 : Fringe fluctuation in [GHB]
+W01 : Phase jumps in [GHB+GSB]
+ 
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 14:57 - 23:00
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+14:15 : Started settings.
+15:00 : Power equilised on 3C48 @ IF level 1000counts.
+15:24:44: Started scan on J1653.6-015
+15:54:17: Started scan on 2101-423
+15:57:03: Started scan on J1959-4730
+16:19:14: Started scan on J1938-3957
+16:54:35: Started scan on 0010-418
+17:00:00: Started scan on J2126-4603
+17:59:06: Started scan on 0010-418
+18:03:36: Started scan on J2323-4919
+19:03:44: Started scan on J2330-4745
+19:46:26: Started scan on 0010-418
+19:50:52: Started scan on J0001-4158
+20:58:40: Started scan on J0515-4404
+22:06:59: Started scan on 3C147
+
+22:16:07: Started cal run on 3C147
+
+22:21:16: Started scan on B0329+54
+22:27:32: Started scan on 18M0735.
+23:00:00: Stopped scan & observation over.
+ 
+
+

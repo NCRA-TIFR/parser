@@ -1,0 +1,43 @@
+1. Date : 17/01/2002
+2. Observation Sr. No. : 435
+3. Observer & email : J N Chengalur, chengalur@ncra.tifr.res.in
+4. Project Name & Code :01NIK01
+5. Operator(s) : Manisha, Manish
+6. Command File/Source  & Lta File : /temp2/data/cmd/chengalu/0229.cmd
+                                   : /rawdata/17jan/01nik01_0229.lta.
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 : 610 MHz., 0 dB., OFF.
+8. Ist LO (MHz) & IVth LO (MHz) : 570 MHz., 67.94 MHz.
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : 14 + 14 dB., 6 MHz., ON.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status :1 MHz., 12 dB., ON.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 4 / 4
+12. Channels : 0,127,1
+13. Frequency Parameters (TPA) : 637.94 637.94 570 570 67.94 67.94
+
+14. Integration Time (Sec.) : 32 sec (16*16m)
+15. No of Antennas Working(Fringing) : 23
+16. Name of Non-Working Antennas (with reason for each) :
+
+	C12		Mech.
+	C13		ABC time out.
+	C14		ABC time out.
+	E06		Mech.
+	E03		Mech.
+    W04     Mech.
+    W06     ABC time out.
+
+17. Starting and Ending time of Observations (IST) : 16:00 - 20:45
+
+18. Comments (During Observations) :
+    
+	16:22	started command file.
+	16:50	E05 released for test (ref : shrinivas - gcc)
+	17:05	E05 released for obs.
+	18:00	C13, C14, W04 back for observations.
+
+19. Data Backup files & Tape No. :

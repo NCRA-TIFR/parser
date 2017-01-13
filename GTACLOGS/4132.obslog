@@ -1,0 +1,67 @@
+		 GTAC Observation Log 
+
+1. Date : 08/01/2009
+2. Observation Sr. No. : 4132
+3. Observer : J. Roy
+4. Observer's Email : jroy@ncra.tifr.res.in
+5. Project Name : Pulsar observation
+6. Project Code : 15PUL01
+7. Operator(s) : Deepak,
+	Rupsingh,
+	Santaji,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /rawdata/8jan/15pul01_08jan2009.lta,
+	/rawdata/8jan/15pul01_08jan2009.lta.1,
+	/rawdata1/8jan/15pul01_08jan2009.ltb.1
+10. LogFlag File : /btemp2/logflags/15PUL01.FLAGS.9
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 218 MHz, ILO2 : 218 MHz, IVLO1 : 62 MHz, IVLO2 : 62 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+4 dB, 16 MHz,OFF, IF-CH2 : 20+4 dB, 16 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 156 156 218 218 62 62 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+C02,C05,S01 : No Fringe.
+E06 : ABC time out.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 19:00 - 07:05
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : USB-Polar    *********
+--------------------------------------------
+W02,W04,S02,S04,E03,E05 - 610 MHz feed in focus.
+pointed towards CEB
+---------------------------------------------
+19:35 : Power Eq @ 300 Counts on 3C147.
+20:15 : Phasing done on 3C147.
+20:20 : 25% noise low cal switched ON.
+
+20:30 : Started data acquisition on pulsar 'B0823+26'.
+
+22:05 ; MSEB power failure.
+22:35 : Restarted observation.
+
+02:45 : MSEB power failure.
+03:33 : Restarted observation.
+
+E04 : abc timeout
+
+
+07:05 : stopped observations.
+

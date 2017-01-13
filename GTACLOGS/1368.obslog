@@ -1,0 +1,49 @@
+		 GTAC Observation Log 
+
+1. Date : 29/02/2004
+2. Observation Sr. No. : 1368
+3. Observer : Dwarakanath
+4. Observer's Email : dwaraka@rri.res.in
+5. Project Name : HIGH Z HI
+6. Project Code : 05CCA01
+7. Operator(s) : Mangesh,
+	Manish G.,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/ksd/0924.cmd
+9. LTA File : /rawdata/29feb/05cca01_0924.lta
+10. LogFlag File : /btemp2/logflags/05CCA01.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 229.9 MHz ,RF2 : 229.9 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 301 MHz, ILO2 : 301 MHz, IVLO1 : 71.1 MHz, IVLO2 : 71.1 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 18+18 dB, 6 MHz,ON, IF-CH2 : 18+18 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 2000 KHz, 9 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 3
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 229.9 229.9 301 301 71.1 71.1 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+E06 : no fringe.
+W01 : Painting - servo work.
+
+
+21. Start and End Time of Obs.(IST): 19:00 - 01:25
+
+22. Comments (During Observations) :
+*** ONLINE: bhaskar            ***
+*** AUTHIF: @ 235 MHz.         ***
+----------------------------------
+19:24 started the scan on 3c48.
+19:45 started the command file.
+25:00 Stopped the command file. Antennas moved to source 3C286.
+25:14 Started scan on 3C286, for 10 mins.
+25:25 Stopped the scan. Stopped the observation.
+

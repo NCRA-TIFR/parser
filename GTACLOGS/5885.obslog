@@ -1,0 +1,79 @@
+		 GTAC Observation Log 
+
+1. Date : 16/3/2012
+2. Observation Sr. No. : 5885
+3. Observer : Subhashis Roy
+4. Observer's Email : roy@ncra.tifr.res.in
+5. Project Name : A Monitoring Program for Transient Radio Sources near the Galactic Center
+6. Project Code : 21_065
+7. Operator(s) : Sachin,
+	
+8. Command File : /odisk/gtac/cmd/roy/gc.var.src.11mar12.cmd
+9. LTA File : /gsbifrdata/16mar/21_065_16mar2012.lta
+10. LogFlag File : /odisk/online1/logflags/21_065.FLAGS.23
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Full_Polar
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 306 306 255 255 51 51.
+25. Integration Time : 8.053 Sec.
+26. No of Antennas Working(Fringing) :26
+
+27. Name of Non-Working Antennas (with reason for each) :
+E04,E05 : 130 no fringe.
+C04 : 175 no fringe.
+C08 : Got reset.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 07:00 - 11:05
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+07:25 : Completed pointing. Started setup.
+08:01:04 - 08:04:49 Recorded data on 1714-252
+08:08:27 - 08:28:59 Recorded data on G1.3+0
+08:30:19 - 08:50:51 Recorded data on G0.0+0
+08:52:12 - 08:55:57 Recorded data on 1714-252
+08:57:10 - 09:17:26 Recorded data on G358.7+0
+09:22:00 - 09:25:45 Recorded data on 1714-252
+09:48:42 - 10:09:06 Recorded data on G358.7+0
+
+09:50:00 : MSEB power failed for W-arm antennas.
+
+10:10:19 - 10:11:39 Recorded data on 1714-252
+10:15:49 - 10:37:25 Recorded data on G1.3+0
+
+10:37:00 : W01,W02,W03 started working.
+
+10:38:54 - 10:41:03 Recorded data on 1833-210
+
+10:43:00 - E06 and S01 got saturated.
+
+10:43:44 - 10:48:10 Recorded data on 1833-210
+
+10:50:00 : E06 started working and W01,W02 got ABC time out.
+
+Please ignore W-arm for next scan on 3C48.
+
+10:58:14 - 11:03:36 Recorded data on 3C48
+11:05:00 : Stopped observation session.
+
+
+

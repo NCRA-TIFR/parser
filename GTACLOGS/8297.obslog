@@ -1,0 +1,112 @@
+		 GTAC Observation Log
+
+1. Date : 02/01/2016
+2. Observation Sr. No. : 8297
+3. Observer : Yogesh Maan
+
+4. Observer's Email : ymaan@ncra.tifr.res.in,bcj@ncra.tifr.res.in
+5. Project Name : DDT Observation
+6. Project Code : DDTUG01
+7. Operator(s) : Navnath, Nilesh, Pramod
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /gsbifrdata1/02jan/ddtug01_610_02jan2016.lta, /gsbifrdata1/02jan/ddtug01_1280_02jan2016.lta
+10. LogFlag File : /odisk/online1/logflags/DDTUA2.FLAGS.2,, /odisk/online1/logflags/DDTUA3.FLAGS.2,, /odisk/online1/logflags/DDTUA4.FLAGS.2,, /odisk/online1/logflags/DDTUA5.FLAGS.2,
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,OFF, IF-CH2 : 4+14 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_lenyadri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : PA
+22. Beam - 2 : PA
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 591 591 540 540 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :28
+
+32. Name of Non-Working Antennas (with reason for each) :
+C10 : : CST Painting.
+C04 : : RFI.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 02 Jan 2016 02:30:00 - 02 Jan 2016 07:00:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :28
+
+37. Comments (During Observations) :
+#130-260#150 Mhz
+# sub 2 # W01 E02 S03
+
+
+ante 3 8 17 28
+cp 0;defs 2;subar 2
+
+tpa 159 159 210 210 51 51
+
+
+# 325 Mhz# 250-500
+# sub 3 # C00 C04 C06 C08 C10 C11 C12 C13 S01
+
+
+
+ante 9 7 3 20 24 12 9 2 11 26
+cp 0;defs 3;subar 3
+
+tpa 306 306 255 255 51 51
+
+
+#610 Mhz
+# sub 4 # C02 C03 C05 C09 C14 W02 W05 W06 E06 S02 S06
+ante 11 5 1 19 4 10 13 16 25 23 27 30
+cp 0;defs 4;subar 4
+
+tpa 591 591 540 540 51 51
+
+
+#L band
+# sub 5 # C01 W03 W04 E03 E04 E05 S04
+ante 7 6 14 15 18 21 22 29
+cp 0;defs 5;subar 5
+----------------------------------------------------------
+01:40 :  Started feed rotation @ L band.
+01:50 : Started pntg run.
+02:25 : PNTG run over.
+02:30 : Started Multi sub array splitting. 
+03:00 : Self pntg done.
+04:00 : Phasing done.
+04:22:35 : Started scan on 3C273 for ~ 3.75809 min.
+04:26:50 : Started scan on 3C273 for ~ 2.14748 min.
+04:30:17 : Started scan on 3C273 for ~ 2.68435 min.
+04:34:20 : Started scan on 3C273 for ~ 5.10027 min.
+04:44:30 : Started scan on B0950+08 for ~ 5.10027 min.
+04:51:28 : Started scan on B0943+10 for ~ 2.41592 min.
+05:05:12 : Started scan on B0943+10 for ~ 63.0823 min.
+06:09:47 : Started scan on B0950+08 for ~ 2.68435 min.
+06:16:26 : Started scan on 3C273 for ~ 1.61061 min.
+06:18:22 : Started scan on 3C273 for ~ 2.14748 min.
+06:20:59 : Started scan on 3C273 for ~ 2.41592 min.
+06:24:38 : Started scan on 3C273 for ~ 6.17401 min.
+06:32:03 : Started scan on 3C273 for ~ 1.61061 min.
+06:34:27 : Started scan on 3C273 for ~ 10.7374 min.
+06:48:52 : Started scan on J1034-3224 for ~ 11.5427 min.
+07:04:37 : Started scan on J1246+22 for ~ 11.5427 min.
+07:15 : Stopped observation session.

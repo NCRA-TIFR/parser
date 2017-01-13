@@ -1,0 +1,65 @@
+		 GTAC Observation Log 
+
+1. Date : 02/05/2010
+2. Observation Sr. No. : 4847
+3. Observer : Sandeep Sirothia
+4. Observer's Email : sirothia@ncra.tifr.res.in
+5. Project Name : Extra Galactic survey
+6. Project Code : 18_031
+7. Operator(s) : Deepak,
+	Rupsingh,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/sirothia/18_031_20100502a.cmd,
+	/odisk/gtac/cmd/sirothia/18_031_20100502b.cmd
+9. LTA File : /rawdata/2may/18_031_02may2010.lta,
+	/rawdata1/2may/18_031_02may2010.ltb
+10. GSB File : /gsbifrdata/2may/18_031_02may2010_gsb.lta
+11. LogFlag File : /odisk/online1/logflags/18_031.FLAGS.15
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 218 MHz, ILO2 : 218 MHz, IVLO1 : 62 MHz, IVLO2 : 62 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+15. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 156 156 218 218 62 62 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+C01:off
+W02: Feed Jam
+W05: NO ELE power
+W06: NO ELE power
+21. Note for Backup :--
+
+22. Start and End Time of Obs.(IST): 17:30 - 21:30
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : UsbPolar
+
+25. Comments (During Observations) :
+2s data files.
+
+/gsbifrdata/2may/18_031_02may2010_gsb_2s.lta,
+/rawdata/2may/18_031_02may2010_2s.lta,
+/rawdata1/2may/18_031_02may2010_2s.ltb
+------------------------------------------------
+17:30 : setup stared.
+17:42 : scan started on 3c147.
+18:13 : command file started.
+19:15 : Scan#17 is bad.
+19:33 : electrical power failure.
+19:45 : Antennas parked due to high wind.
+        stopped observation.  
+20:23 : Power resume but COMH is not working.
+21:30 : COMH-2 is not working. 
+
+

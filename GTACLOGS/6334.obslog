@@ -1,0 +1,102 @@
+		 GTAC Observation Log 
+
+1. Date : 19/1/2013
+2. Observation Sr. No. : 6334
+3. Observer : Dharam Vir Lal,Reinout van Weeren
+4. Observer's Email : dharam@ncra.tifr.res.in,rvanweeren@cfa.harvard.edu
+5. Project Name : GMRT distant radio halo and relic survey
+6. Project Code : 23_013
+7. Operator(s) : Deepak,
+	Pramod,
+	Rupsingh,
+	Sachin,
+	Shilpa,
+	Surender
+8. Command File : /odisk/gtac/cmd/dharam/23_013_19jan.cmd,
+	/odisk/gtac/cmd/dharam/23_013_20jan.cmd,
+	/odisk/gtac/cmd/dharam/23_013_20jan_1.cmd,
+	/odisk/gtac/cmd/dharam/23_013_20jan_2.cmd
+9. LTA File : /gsbifrdata1/19jan/23_013_19jan2013.lta,
+	/gsbifrdata1/19jan/23_013_19jan2013_8s.lta,
+	/gsbifrdata1/20jan/23_013_20jan2013_macsj2129.lta,
+	/gsbifrdata1/20jan/23_013_20jan2013_PL208.lta,
+	
+10. LogFlag File : /odisk/online1/logflags/23_013.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 591 591 540 540 51 51.
+25. Integration Time : 8.053 Sec.
+26. No of Antennas Working(Fringing) :25
+
+27. Name of Non-Working Antennas (with reason for each) :
+W05 : Mechanical maintenance.
+S01 : BLDC work
+C06,C08,C12 - painting.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 14:30 - 23:00
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+           *19/01/2013*
+14:30 : Started setting for 610Mhz.
+14:52 : Started scan on 3C48.
+15:12 : Stopped scan on 3C48 & started command file.
+         '/odisk/gtac/cmd/dharam/23_013_19jan.cmd'
+17:52 :  C13 applied Az brakes.  
+17:54 :  C06,C08,C12 released from painting & taken for observation.
+18:51 : Stopped command file.
+18:54 : Started scan on 3C48.
+19:04 : Stopped scan on 3C48 & restarted command file.
+        '/odisk/gtac/cmd/dharam/23_013_19jan.cmd'
+23:21 : Stopped command file.
+
+23:24 : Started scan on 3C147.
+23:30 : Started new recording file.
+23:45 : Stopped scan.
+Closed old recording file.
+23:49 : Started command file. 
+              '/odisk/gtac/cmd/dharam/23_013_20jan.cmd'
+
+       *Date 20/01/2013*
+
+02:56 : W02 reset.
+03:17 : W02 started working.
+
+09:00 : Command file stopped.
+09:01 : Started scan on 3C286 for 20mins. Also started new lta file.
+        /gsbifrdata1/20jan/23_013_20jan2013_macsj2129.lta
+09:15 : C06 released for painting.
+09:29 : Started command file
+        /odisk/gtac/cmd/dharam/23_013_20jan_1.cmd'
+15:19 : S-arm power failure.
+15:21 : stopped command file.
+15:29 : Started command file 3C48.
+15:35 : S-arm antenna's started working and taken for observation.
+15:43 : Stopped scan on 3C48 & started new command file.
+        '/odisk/gtac/cmd/dharam/23_013_20jan_2.cmd'
+20:10 : S04 ABC time out.
+21:20 : S04 started working.
+22:38 : Stopped command file.
+22:41 : Started scan on 3C48.
+23:00 : Stopped scan on 3C48 & observation session is over.
+

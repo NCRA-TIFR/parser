@@ -1,0 +1,65 @@
+		 GTAC Observation Log 
+
+1. Date : 29/11/2009
+2. Observation Sr. No. : 4619
+3. Observer : JNC, Philiplah,Narendra
+4. Observer's Email : chengalu@ncra.tifr.res.in,narendra@ncra.tifr.res.in,plah@mso.anu.edu.au
+5. Project Name : J0116-4722
+6. Project Code : 17_027
+7. Operator(s) : Rupsingh,
+	
+8. Command File : /odisk/gtac/cmd/philiplah/vvds14.cmd
+9. LTA File : /rawdata/29nov/17_027_29nov2009.lta.1,
+	/rawdata1/29nov/17_027_29nov2009.ltb.1
+10. LogFlag File : /odisk/online1/logflags/17_027.FLAGS.7
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1076 MHz ,RF2 : 1076 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1145 MHz, ILO2 : 1145 MHz, IVLO1 : 69 MHz, IVLO2 : 69 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1076 1076 1145 1145 69 69 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+E05 - Servo maintenance.
+C03 - ABC time out
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 10:05 - 15:00
+
+23. ONLINE Machine : Lenyadri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+---------------------------------------------
+*GSB data file
+* /gsbifrdata/29nov/17_027_29nov2009.lta.1
+---------------------------------------------
+10:05 : Started setup
+        RF=1060.
+        IF=32
+        TPA 1076 1076 1145 1145 69 69
+10:09 : Started scan on 3C286 for 8min.
+10:18 : Stopped scan
+10:23 : Started command file
+        '/odisk/gtac/cmd/philiplah/vvds14.cmd'
+10:33 : C13 Started working.
+12:00 : W02 Servo time out. 
+12:40 : W02 Started working.
+13:15 : C04 servo problem.
+14:12 : C04 Started working.
+14:50 : Started scan on 2130+050 for 10mins.
+15:00 : Observation stopped.
+
+
+

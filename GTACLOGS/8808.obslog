@@ -1,0 +1,66 @@
+		 GTAC Observation Log
+
+1. Date : 10/08/2016
+2. Observation Sr. No. : 8808
+3. Observer : Kenda Knowles, Andrew Jordan Baker, Vijaysarathy Bharadwaj, Neeraj Gupta, Matt Hilton, John P. Hughes, Huib T Intema, Kavilan Moodley, Erik Reese, Jon Sievers, Cristobal Sifon, Sinenhlanhla Precious Sikhosana, Veeresh Singh, Raghunathan Srianand, Edward J. Wollack
+4. Observer's Email : kendaknowles.astro@gmail.com, ajbaker@physics.rutgers.edu, bharadwaj.astro88@gmail.com, ngupta@iucaa.in, hiltonm@ukzn.ac.za, jph@physics.rutgers.edu, intema@strw.leidenuniv.nl, moodleyk41@ukzn.ac.za, erreese@physics.upenn.edu, sievers@cita.utoronto.ca, sifon@strw.leidenuniv.nl, sneprec@gmail.com, veeresh.iia@gmail.com, anand@iucaa.ernet.in, edward.j.wollack@nasa.gov
+5. Project Name : Diffuse Radio Emission in an SZ mass-selected sample of ACTPol galaxy clusters
+6. Project Code : 30_012
+7. Operator(s) : Navnath, Nilesh
+8. Command File : /odisk/gtac/cmd/30_012/10aug16/obs_10aug.cmd
+9. LTA File : /gsbifrdata/10aug/30_012_10aug2016.lta
+10. LogFlag File : /odisk/online1/logflags/30_027.FLAGS.13
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 0 MHz; Step # 0
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 591 591 540 540 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :28
+
+32. Name of Non-Working Antennas (with reason for each) :
+E02 : Taken by servo people
+C12 : No fringe to 175 pol
+C13 : Low fringe
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 10 Aug 2016 00:00:00 - 10 Aug 2016 09:00:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :28
+
+37. Comments (During Observations) :
+00:00 : Started setup.
+00:08 : Started scan on 3C48 for 20min.
+00:42 : Started command file.
+        /odisk/gtac/cmd/30_012/08aug16/obs_08aug.cmd
+06:20 : Command file stopped. 
+06:28 : Restarted command file.
+        /odisk/gtac/cmd/30_012/10aug16/obs_10aug.cmd
+
+08:45 : Stopped command file and started scan on phase cal.
+08:50 : Stopped scan and started scan on 3C48 for ~ 20 min.
+09:15 : Stopped scan and observation closed.
+

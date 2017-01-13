@@ -1,0 +1,63 @@
+		 GTAC Observation Log
+
+1. Date : 26/05/2015
+2. Observation Sr. No. : 7802
+3. Observer : Ruta Kale, Rossella Cassano, Gianfranco Brunetti, Giacintucci Simona, Tiziana Venturi, Daniele Dallacasa, Virginia Cuciti
+4. Observer's Email : ruta@ncra.tifr.res.in, rcassano@ira.inaf.it, brunetti@ira.inaf.it, simona@astro.umd.edu, tventuri@ira.inaf.it, daniele.dallacasa@unibo.it, vcuciti@ira.inaf.it
+5. Project Name : Uncovering the nature of candidate diffuse emission in the Extended GMRT Radio Halo Survey
+6. Project Code : 28_073
+7. Operator(s) : Deepak, Rupsing, Surender
+8. Command File : /odisk/gtac/cmd/28_073/25may_obs.cmd
+9. LTA File : /gsbifrdata/25may/28_073_25may2015.lta
+10. LogFlag File : /odisk/online1/logflags/28_073.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 306 306 255 255 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :27
+
+32. Name of Non-Working Antennas (with reason for each) :
+E02 : No feed.
+S04 :  BLDC.
+W04 : Amplitude variation.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 25 May 2015 18:00:00 - 26 May 2015 00:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :27
+
+37. Comments (During Observations) :
+18:04 : Started scan 3C147.
+18:18 : Stopped scan.
+18:26 : Started command file.
+23:40 : Stopped command file.
+23:44 : Started scan on 3c286.
+00:00 : Stopped scan and observing session is over.
+
+

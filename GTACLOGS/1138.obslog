@@ -1,0 +1,61 @@
+		 GTAC Observation Log 
+
+1. Date : 15/09/2003
+2. Observation Sr. No. : 1138
+3. Observer : Dwarkanath
+4. Observer's Email : visitor5@gmrt.ncra.tifr.res.in
+5. Project Name : HIHG Z HI
+6. Project Code : 04CCA01
+7. Operator(s) : Manish G.,
+	Jayprakash,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/ksd/0924.cmd,
+	/btemp2/cmd/ksd/0913.cmd
+9. LTA File : /rawdata1/15sep/04cca01_0924.ltb,
+	/rawdata1/15sep/04cca01_0913.ltb
+10. LogFlag File : /btemp2/logflags/04CCA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 227.3 MHz ,RF2 : 227.3 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 300 MHz, ILO2 : 300 MHz, IVLO1 : 72.70 MHz, IVLO2 : 72.70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 18+18 dB, 6 MHz,ON, IF-CH2 : 18+18 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 4000 KHz, 6 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 2
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 227.3 227.3 300 300 72.70 72.70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+S06 : mcm 5 T.O.
+S01 : --(LO1 unlock.)
+
+
+
+21. Start and End Time of Obs.(IST): 06:00 - 00:00
+
+22. Comments (During Observations) :
+ONLINE:bhaskar:
+=================
+IF ATTN: Auth IF.
+-------------------
+06:01	started the scan on 3c48 for 10 min.
+06:20 	started the command file
+	/temp2/data/cmd/ksd/0924.cmd.
+07:04 : Closed observation.
+07:13 : Started new observation.
+        TPA = 230.5 230.5 302 302 71.5 71.5
+        LTA File = /rawdata1/15sep/04cca01_0913.ltb
+        Started scan on 3c48 for 10min.
+07:27 : Started command file /temp2/data/cmd/ksd/0913.cmd.
+09:19 : C03 applied brakes
+09:20 : C03 started tracking the source.
+10:00 : S01 released for observation.
+14:32 : Closed observation.
+

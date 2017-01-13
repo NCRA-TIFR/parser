@@ -1,0 +1,67 @@
+		 GTAC Observation Log
+
+1. Date : 14/09/2014
+2. Observation Sr. No. : 7350
+3. Observer : Jayaram Narayanan Chengalur, Narendranath Patra, Igor Karachentsev
+4. Observer's Email : chengalur@ncra.tifr.res.in, narendra@ncra.tifr.res.in, ikar@sao.ru
+5. Project Name : HI in faint gas rich galaxies
+6. Project Code : 26_022
+7. Operator(s) : Deepak, Pramod, Rupsing, Surender
+8. Command File : /odisk/gtac/cmd/narendra/14_sep_2014/h1337.cmd
+9. LTA File : /gsbifrdata/14sep/26_022_14sep2014.lta
+10. LogFlag File : /odisk/online1/logflags/26_022.FLAGS.10
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1411.2701 MHz ,RF2 : 1411.2701 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1350 MHz, ILO2 : 1350MHz , IVLO1 : 61.2701 MHz, IVLO2 : 61.2701 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 16 MHz,ON, IF-CH2 : 4+14 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 4 MHz; Step # 1
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 138.7299
+28. LO5 -2  : 166.2701
+
+29. Frequency Parameters (TPA) : 1411.2701 1411.2701 1350 1350 61.2701 61.2701
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :27
+
+32. Name of Non-Working Antennas (with reason for each) :
+C01 : No feed of L band.
+S06 : Servo Problem.
+W01 : No fringe. 
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 14 Sep 2014 11:00:00 - 14 Sep 2014 18:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :26
+
+37. Comments (During Observations) :
+10:30 : Started set up.
+10:45 : Started scan on 3C147.
+11:00 : Stopped scan and started command file.
+       '/odisk/gtac/cmd/narendra/14_sep_2014/h1337.cmd'
+--------------------------------------------------------------------------
+12:46 : W01 started working.
+--------------------------------------------------------------------------
+17:39 : Stopped command file.
+--------------------------------------------------------------------------
+17:42 : E05 and W01 servo problem.
+--------------------------------------------------------------------------
+17:44 : Started scan on 3C286.
+18:00 : Stopped scan and observation session over.

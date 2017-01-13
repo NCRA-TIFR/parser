@@ -1,0 +1,62 @@
+		 GTAC Observation Log 
+
+1. Date : 03/01/2005
+2. Observation Sr. No. : 1791
+3. Observer : Alok Singhal
+4. Observer's Email : as8ca@virginia.edu,visitor4@gmrt.ncra.tifr.res.in
+5. Project Name : HI Line
+6. Project Code : 07ASA01
+7. Operator(s) : Jayprakash,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/singhal/ngc4068.cmd,
+	/btemp2/cmd/singhal/ngc4861.cmd
+9. LTA File : /rawdata/3jan/07asa01_ngc4068.lta,
+	/rawdata/3jan/07asa01_ngc4861.lta
+10. LogFlag File : /btemp2/logflags/07ASA01.FLAGS.4,
+	/btemp2/logflags/07ASA01.FLAGS.5
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1417.4108 MHz ,RF2 : 1417.4108 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1350 MHz, ILO2 : 1350 MHz, IVLO1 : 67.4108 MHz, IVLO2 : 67.4108 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 16 MHz,ON, IF-CH2 : 12+12 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 4000 KHz, 6 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 2
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1417.4108 1417.4108 1350 1350 67.4108 67.4108 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C03 : servo problem.
+C13 : LO1 Unlock.
+C14 : LO1 Unlock.
+
+21. Start and End Time of Obs.(IST): 01:07 - 12:35
+
+22. Comments (During Observations) :
+********ONLINE RUNNING ON BHASKAR***********
+************AUTHIF @1390MHz*****************
+--------------------------------------------
+01:07 : Started scan on 3c147 for 10min.
+** C03 : Elevation brake prob.
+01:21 : Started the command file /btemp2/cmd/singhal/ngc4068.cmd.
+05:33 : Stopped the scan & command file.
+05:35 : STarted scan on 1035+564 for 10min.
+05:45 : Stopped the scan.
+05:49 : Started scan on 3c286 for 10min.
+06:00 : Stopped the scan & obs.
+--------------------------------------------
+** Changed the IVth LO & Ist LO for next observation.
+TPA 1414.4591 1414.4591 1345 1345 69.4591 69.4591
+06:04 : Started scan on 3c286 for 10min.
+** C13 & C14 Ist LO unlock.
+06:14 : Stopped the scan.
+06:20 : Started the command file /btemp2/cmd/singhal/ngc4861.cmd.
+12:35 : stopped the observation session.
+

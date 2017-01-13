@@ -1,0 +1,53 @@
+		 GTAC Observation Log 
+
+1. Date : 23/02/2004
+2. Observation Sr. No. : 1357
+3. Observer : Anish Roshi
+4. Observer's Email : anish@rri.res.in
+5. Project Name :  COOLING FLOW
+6. Project Code : 05DAR01
+7. Operator(s) : Manish G.,
+	Jayprakash,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/anish/coolffeb2304.cmd
+9. LTA File : /rawdata/23feb/05dar01_23feb04.lta,
+	/rawdata1/23feb/05dar01_23feb04.ltb
+10. LogFlag File : /btemp2/logflags/05DAR01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1291.9994 MHz ,RF2 : 1291.9994 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1215 MHz, ILO2 : 1215 MHz, IVLO1 : 76.9994 MHz, IVLO2 : 76.9994 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 14+14 dB, 32 MHz,ON, IF-CH2 : 14+14 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1291.9994 1291.9994 1215 1215 76.9994 76.9994 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+W01: painting
+W05: painting
+C13: low fringe
+C04: no fringe.
+
+21. Start and End Time of Obs.(IST): 17:45 - 02:34
+
+22. Comments (During Observations) :
+*** ONLINE: bhaskar  ***
+*** AUTHIF: 1280 MHz ***
+=================================================
+19:09 started on 3c48 for 5 min
+19:26 started the command file 
+      /temp2/data/cmd/anish/coolffeb2304.cmd
+21:19 C04 started fringing.
+02:18 : Stopped the command file.
+02:19 : Started scan on phase cal.
+02:34 : Stopped the scan & observation.
+

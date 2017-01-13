@@ -1,0 +1,84 @@
+1. Date : 16/02/2002
+2. Observation Sr. No. : 467
+3. Observer & email : prasad
+4. Project Name & Code : SUN OBSERVATION  / 01PSA01
+5. Operator(s) :Mangesh(1)Santaji(1).
+6. Command File/Source  & Lta File : /temp2/data/cmd/psubrama/sun_325.cmd
+						             /rawdata/16feb/01psa01_clbt.lta
+							         /rawdata/16feb/01psa01_clbt.lta.1
+							         /rawdata/16feb/01psa01_sun.lta
+							         /rawdata/16feb/01psa01_sun.lta.1
+							         /rawdata/16feb/01psa01_sun.lta.2
+							         /rawdata/16feb/01psa01_sun.lta.3
+							         /rawdata/16feb/01psa01_sun.lta.4
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 : 325 MHz., 0 dB., OFF
+8. Ist LO (MHz) & IVth LO (MHz) :255 MHz.,70 MHz.,
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : power-equalised., 32 MHz., OFF
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status : 16 MHz., 0 dB., OFF
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 0 / 0
+12. Channels : 0,127,1
+13. Frequency Parameters (TPA) : 325 325 255 255 70 70
+
+14. Integration Time (Sec.) : 16 sec (16*8m) / 2 sec (16)
+15. No of Antennas Working(Fringing) :  27 
+16. Name of Non-Working Antennas (with reason for each) :
+
+	C05 	OFF MODE
+	C11     HUGE RIF
+	W06     NO FRING.	
+
+17. Starting and Ending time of Observations (IST) : 11:00 / 17:00
+18. Comments (During Observations) : 
+
+	1.
+	===================================================================
+	Data File : /rawdata/16feb/01psa01_clbt.lta
+	11:26	started scan on 2225-049 + EX-HI + ng ON + 10 d OFF.
+	11:43   started scan on 2225-049 + ng OFF. 
+	12:10   started scan on cyga + 14 dB. solar attn + ng OFF.
+	12:26   started scan on cyga + 30 dB. solar attn + ng OFF.
+
+	Data File : /rawdata/16feb/01psa01_clbt.lta.1
+	12:50   started scan on SUN216A + 30 dB. solar attn .
+	===================================================================
+
+	2.
+	===================================================================
+	13:10     : SUN216A
+	Data File : /rawdata/16feb/01psa01_sun.lta
+
+	* Note : Data is not usable as the MCM 5 was off settings didn't change 
+	         through command file. 
+	===================================================================
+
+	3.
+	===================================================================
+	14:09     : SUN216C
+	Data File : /rawdata/16feb/01psa01_sun.lta.1
+	===================================================================
+
+	4.
+	===================================================================
+	14:52     : SUN216C
+	Data File : /rawdata/16feb/01psa01_sun.lta.2
+	===================================================================
+
+	5.
+	===================================================================
+	15:37     : SUN216D
+	Data File : /rawdata/16feb/01psa01_sun.lta.3
+	===================================================================
+
+	6.
+	===================================================================
+	16:24     : SUN216E
+	Data File : /rawdata/16feb/01psa01_sun.lta.4
+	===================================================================
+
+19. Data Backup files & Tape No. :

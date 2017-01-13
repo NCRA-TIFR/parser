@@ -1,0 +1,43 @@
+1. Date : 08/10/2002
+2. Observation Sr. No. : 0847
+3. Observer : Stalin
+4. Observer's Email : krishna@ncra.tifr.res.in,stalin@ncra.tifr.res.in
+5. Project Name : 1241
+6. Project Code : 02GJA02
+7. Operator(s) : Galande M.M.,
+	Jangam M.S.,
+	
+8. Command File : /temp2/data/cmd/gk/1241.cmd
+9. LTA File : /rawdata/8oct/02gka02_1241.lta
+
+ANTENNA SETTINGS :
+
+10. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+11. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+12. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+12 dB, 32 MHz,ON, IF-CH2 : 10+12 dB, 32 MHz,ON
+13. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+14. CLK_SEL/Samp_Freq : 0
+15. Channels : 0:127:1
+16. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+17. Integration Time : 128 STA ~ 16.908 Sec.
+18. No of Antennas Working(Fringing) :26
+
+19. Name of Non-Working Antennas (with reason for each) :
+C12 : servo work.
+W01 : servo work.
+C04 : no fringe.
+S04 : no fringe.
+
+20. Start and End Time of Obs.(IST): 08:17 - 17:50
+
+21. Comments (During Observations) :
+08:17	started command file.
+17:20	stopped command file.
+17:25	started scan on 3c286.
+17:50	stopped scan and observation over!.
+
+

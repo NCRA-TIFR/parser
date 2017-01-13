@@ -1,0 +1,63 @@
+		 GTAC Observation Log 
+
+1. Date : 09/03/2004
+2. Observation Sr. No. : 1392
+3. Observer : Dr. B. C. Joshi
+4. Observer's Email : bcj@ncra.tifr.res.in
+5. Project Name : Pulsar Observation
+6. Project Code : 05JRM01
+7. Operator(s) : Mangesh,
+	Manisha J.,
+	Jayprakash,
+	Jitendra,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/hold.cmd
+9. LTA File : /rawdata/9mar/05jrm01_casa.lta,
+	/rawdata1/9mar/05jrm01_casa.ltb,
+	/rawdata/9mar/05jrm01_phsarr.lta,
+	/rawdata/9mar/05jrm01_phsarr.lta.1
+10. LogFlag File : /btemp2/logflags/05JRM01.FLAGS.1,
+	/btemp2/logflags/05JRMA1.FLAGS,
+	/btemp2/logflags/05JRMB1.FLAGS,
+	/btemp2/logflags/05JRMC1.FLAGS,
+	/btemp2/logflags/05JRMD1.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 318 MHz ,RF2 : 318 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 251 MHz, ILO2 : 251 MHz, IVLO1 : 67 MHz, IVLO2 : 67 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 318 318 251 251 67 67 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :25
+
+20. Name of Non-Working Antennas (with reason for each) :
+C02-Servo Problem.
+C06,W01 - Painting.
+W05,W06 - Fibre cut.
+
+21. Start and End Time of Obs.(IST): 15:00 - 00:00
+
+22. Comments (During Observations) :
+*************************************
+*****Online Running on bhaskar*******
+*****If atten: Power equilised ******
+*****pulsar_console******************
+************************************
+
+15:00  Pointing done,
+       Following 14 antenna feeds rotated to 325
+        Centre Sqaure,W01,S01
+       Following 14 antenna feeds rotates to 610/235
+        All arm antennas except W01,S01,W05,W06
+
+
+

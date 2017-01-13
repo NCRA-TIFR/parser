@@ -1,0 +1,67 @@
+		 GTAC Observation Log
+
+1. Date : 05/05/2015
+2. Observation Sr. No. : 7763
+3. Observer : ARUN KUMAR NAIDU, BHAL CHANDRA JOSHI, Periasamy K. Manoharan, Krishnakumar MA
+4. Observer's Email : arun@ncra.tifr.res.in, bcj@ncra.tifr.res.in, mano@ncra.tifr.res.in, kkma@ncra.tifr.res.in
+5. Project Name :  Simultaneous dual frequency single pulse observations of pulsars with drifting, nulling and related   profile mode-changes   
+6. Project Code : 28_085
+7. Operator(s) : Deepak, Manisha, Sachin, Surender
+8. Command File : /odisk/gtac/cmd/bcj/28_085.040515_bm1.cmd,,/odisk/gtac/cmd/bcj/28_085.040515_bm2.cmd
+9. LTA File : /gsbifrdata/04may/28_085_04may2015_bm2.lta,/gsbifrdata/04may/28_085_04may2015_bm1.lta
+10. LogFlag File :  
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 591 591 540 540 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :30
+
+32. Name of Non-Working Antennas (with reason for each) :
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 04 May 2015 21:00:00 - 05 May 2015 06:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :30
+
+37. Comments (During Observations) :
+GAC selection: 
+#Beam1 # sub 4 # 610MHz # C01 C02 C03 C05 C06 C08 C09 C10 C12 C14 
+#Beam2 # sub 3 # 1280MHz #C00 C04 C11 C13 W01 W02 E03 S01 S02
+
+-------------------------------------------------------------
+20:30 : Started set-up.
+21:15 : Power eq and phasing done on 1459+716.
+22:00 : Started command file.
+02:00 : Scan # 17 is bad
+02:10 : Restarted command files.
+08:30 : Stopped command file and closed observation session.
+
+
+
+

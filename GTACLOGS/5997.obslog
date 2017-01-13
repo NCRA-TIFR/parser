@@ -1,0 +1,68 @@
+		 GTAC Observation Log 
+
+1. Date : 22/6/2012
+2. Observation Sr. No. : 5997
+3. Observer : Preshanth Jagannathan
+4. Observer's Email : preshanth@ras.ucalgary.ca,russ@ras.ucalgary.ca
+5. Project Name : EN1 Ultra Deep Field
+6. Project Code : 22_056
+7. Operator(s) : Deepak,
+	Rupsingh,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/22_056/obs_22jun.cmd
+9. LTA File : /gsbifrdata/22jun/22_056_22jun2012.lta
+10. LogFlag File : /odisk/online1/logflags/22_056.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 596 MHz ,RF2 : 596 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 545 MHz, ILO2 : 545 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : OFF 
+17. Stokes : Full_Polar
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 596 596 545 545 51 51.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :27
+
+27. Name of Non-Working Antennas (with reason for each) :
+C06 : Servo problem.
+W03 : Servo problem.
+S01 : Painting.
+
+
+
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 18:45 - 05:00
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+18:45 : Started scan on 3C286.
+19:00 : Stopped scan.
+19:04 : Command file started.
+19:55 : S01 released observation.
+23:43 : Stopped command file.
+
+23:46 : Started scan on 3C286.
+00:01 : Stopped scan.
+
+00:05 : Restarted command file.
+04:26 : Stopped command file.
+
+04:32 : Started scan on 3C48.
+05:00 : Stopped scan and observing session over.
+
+

@@ -1,0 +1,60 @@
+		 GTAC Observation Log 
+
+1. Date : 30/01/2004
+2. Observation Sr. No. : 1315
+3. Observer : Reshmi
+4. Observer's Email : resmi@rri.res.in
+5. Project Name : GRB
+6. Project Code : 05DBA01
+7. Operator(s) : Manisha J.,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/ishwar/grb.cmd
+9. LTA File : /rawdata/29jan/05dba01_grb.lta,
+	/rawdata1/29jan/05dba01_grb.ltb,
+	/rawdata/29jan/05dba01_grb.lta.1,
+	/rawdata1/29jan/05dba01_grb.ltb.1
+10. LogFlag File : /btemp2/logflags/05DBA01.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1280 MHz ,RF2 : 1280 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1210 MHz, ILO2 : 1210 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+10 dB, 32 MHz,ON, IF-CH2 : 10+10 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1280 1280 1210 1210 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+W03 : ABC T.O.
+W04 : ABC T.O.
+
+
+21. Start and End Time of Obs.(IST): 22:17 - 06:50
+
+22. Comments (During Observations) :
+*** ONLINE : bhaskara     ***
+*** IF ATTN: AUTHIF@1280. ***
+============================================
+22:17 : Started record on 3c147.
+22:33 : Stopped record on 3c147.
+22:46 : Started cmd file. grb.lta.
+23:14   TPA was wrong (1280 1280 1210 1210 170 70).
+        stopped das and ltafiles.
+23:22   started scan on 3C147 ~ 20mins.
+        ltafiles : /rawdata/29jan/05dba01_grb.lta.1
+        /rawdata1/29jan/05dba01_grb.ltb.1
+23:50   command file started.
+02:35	stopped command file, changed track.
+02:53	restarted command file.
+06:33	stopped cmd file.
+06:35	started scan on 3C286 ~15mins.
+06:50	stopped das and observation over.
+

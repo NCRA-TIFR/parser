@@ -1,0 +1,59 @@
+1. Date : 16/07/2002
+2. Observation Sr. No. : 0704
+3. Observer : SAK
+4. Observer's Email : ananth@ncra.tifr.res.in,ngk@ncra.tifr.res.in
+5. Project Name : NGC2820
+6. Project Code : 02SAK02
+7. Operator(s) : Galande M.M.,Jangam M.S.,Kodilkar J.P.,Kudale S.S.,Umbarje M.S.,
+8. Command File : /temp2/data/cmd/ngk/ugc2820.cmd,/temp2/data/cmd/ngk/ugc6964.cmd,/temp2/data/cmd/ngk/ugc11093.cmd
+9. LTA File : /rawdata/16jul/02sak02_ugc2820.lta,/rawdata/16jul/02sak02_ugc6964.lta,/rawdata/16jul/02sak02_ugc11093.lta,/rawdata/16jul/02sak02_ugc11909.lta
+
+ANTENNA SETTINGS :
+
+10. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1280 MHz ,RF2 : - MHz, SA1 : 0 dB, SA2 : - dB
+11. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1210 MHz, ILO2 : - MHz, IVLO1 : 70.0 MHz, IVLO2 : - MHz
+12. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 2+2 dB, 32 MHz,on, IF-CH2 : 2+2 dB, 32 MHz,on
+13. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, on
+
+CORREATOR SETTINGS :
+
+14. CLK_SEL/Samp_Freq : 0
+15. Channels : 1:127:1
+16. Frequency Parameters (TPA) : 1280 1280 1210 1210 70.0 70.0 
+
+17. Integration Time : 256 STA ~ 33.33 Sec.
+18. No of Antennas Working(Fringing) : 28
+19. Name of Non-Working Antennas (with reason for each) : C08 : Low fringe!<br>
+C10 : Low fringe.
+20. Start and End Time of Obs.(IST): 08:50 - 08:52
+21. Comments (During Observations) :08:50  Started flux/bp cal on 3c147.<br>
+	S06 - delay out of rangeon both, pcal & obj.<br>
+09:10  Stoped 3c147.<br>
+09:16  Started cmd file /temp2/data/cmd/ngk/ugc4961.cmd<br>
+11:23  S03, ALL MCM t.O., fringe vanished.<br>
+13:00  S03  Started working.<br>
+16:00  Stopped command file and antennas moved to 3C286.<br>
+16:10  started scan on 3C286.<br>
+16:32  started command file /temp2/data/cmd/ngk/ugc6964.cmd<br>
+	Scan # 6 : C05 flat bandshape.<br>
+18:30  Flat band shape for C04<br>
+18:36  Ran corr_config.<br>
+21:50  Stopped command file.<br>
+21:53  Started scan on 3C286.<br>
+22:13  started command file /temp2/data/cmd/ngk/ugc11093.cmd<br>
+03:25  Stopped the command file, since source 1737+063 has set.<br>
+       Antennas moved to source 3C48.<br>
+03:44  Started scan on 3C48.<br>
+       Stopped the scan. Ran corr_config 1. Scan No. 21 is bad.<br>
+03:47  Started scan on 3C48.<br>
+       Also, started new lta file for next source.<br>
+       LTA FILE: /rawdata/16jul/02sak02_ugc11909.lta.<br>
+04:04  Stopped the scan. Antennas moved to source 2202+422.<br>
+04:07  Started command file  /temp2/data/cmd/ngk/ugc11909.cmd.<br>
+08:17  Stopped cmd file.<br>
+08:22  Started flux/bpass cal, 3c48.<br>
+08:25  S06 applied brakes,<br>
+08:50  S06 released brakes.<br>
+08:52  Stopped das project.
+22. Data Backup files & Tape No. :
+

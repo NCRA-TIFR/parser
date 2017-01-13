@@ -1,0 +1,85 @@
+		 GTAC Observation Log 
+
+1. Date : 14/05/2010
+2. Observation Sr. No. : 4865
+3. Observer : Ruben Sanchez Janssen
+4. Observer's Email : rsanchez@eso.org
+5. Project Name : HI properties of dwarf galaxy associations
+6. Project Code : 18_082
+7. Operator(s) : Deepak,
+	Sachin,
+	
+8. Command File : /odisk/gtac/cmd/18_082/14may.cmd
+9. LTA File : /rawdata/14may/18_082_14may10.lta,
+	/rawdata1/14may/18_082_14may10.ltb,
+	/rawdata/14may/18_082_14may10.lta.1,
+	/rawdata1/14may/18_082_14may10.ltb.1
+10. GSB File : /gsbifrdata/14may/18_082_14may10_gsb.lta
+11. LogFlag File : /odisk/online1/logflags/18_082.FLAGS,
+	/odisk/online1/logflags/18_082.FLAGS.1
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1410.14 MHz ,RF2 : 1410.14 MHz, SA1 : 0 dB, SA2 : 0 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1345 MHz, ILO2 : 1345 MHz, IVLO1 : 65.14 MHz, IVLO2 : 65.14 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+4 dB, 16 MHz,ON, IF-CH2 : 4+4 dB, 16 MHz,ON
+15. BB BW(KHz) & BB ALC : 8000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:255:1
+17. Frequency Parameters (TPA) : 1410.14 1410.14 1345 1345 65.14 65.14 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C01 : OFF.
+E04 : painting.
+S01-175 : low fringe.
+
+
+21. Note for Backup :--
+
+22. Start and End Time of Obs.(IST): 15:00 - 20:00
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : UsbHighRes
+
+25. Comments (During Observations) :
+15:00 : Started scan on 3C147 for 15mins.
+15:20 : S01 -servo problem.
+15:23 : W-arm power failure.
+
+15:27 : Started command file
+        /odisk/gtac/cmd/18_082/14may.cmd
+
+15:27 : Scan#1 is bad.
+15:27 : E02,E04,E05,E06 self & cross zero [USB+LSB] and
+        E03,S01,S02,S03,S06 phase jump[USB+LSB] from 15:12 hrs.
+        Hardware correlator taken for maintenance.
+
+
+15:40 : Hardware corr. released for observation.
+15:42 : Restarted command file.
+
+15:54 : W-arm power failure.
+16:00 : All antennas in LSB stopped fringing.
+16:02 : W-arm power resume.
+
+16:00 : observation continued using Software correlator as per user's order.
+16:43 : W-arm started working.
+17:30 : Hardware correlator reconfigured and restarted.
+
+17:38 : LSB of hardware correlator started fringing.
+17:38 : Started new data files for hardware correlator.
+        /rawdata/14may/18_082_14may10.lta.1
+        /rawdata1/14may/18_082_14may10.ltb.1
+17:38 : Restarted command file.
+
+19:40 : Command file stopped.
+19:45 : Started scan on 3C286 for 15mins.
+20:00 : Observation stopped.
+
+

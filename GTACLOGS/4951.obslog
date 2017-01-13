@@ -1,0 +1,83 @@
+		 GTAC Observation Log 
+
+1. Date : 08/07/2010
+2. Observation Sr. No. : 4951
+3. Observer : Sandeep Sirothia
+4. Observer's Email : sirothia@ncra.tifr.res.in,ishwar@ncra.tifr.res.in,ngk@ncra.tifr.res.in
+5. Project Name : Extra Galactic Survey @ 150 MHz
+6. Project Code : 18_031
+7. Operator(s) : Amruta,
+	Deepak,
+	Navanath,
+	Nilesh,
+	Sachin,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/sirothia/18_031_20100708a.cmd,
+	/odisk/gtac/cmd/sirothia/18_031_20100708b.cmd
+9. LTA File : /rawdata/8jul/18_031_08jul2010.lta,
+	/rawdata1/8jul/18_031_08jul2010.ltb,
+	
+10. GSB File : /gsbifrdata/8jul/18_031_08jul2010_gsb.lta,
+	
+11. LogFlag File : /odisk/online1/logflags/18_031.FLAGS.58
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 218 MHz, ILO2 : 218 MHz, IVLO1 : 62 MHz, IVLO2 : 62 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+15. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 156 156 218 218 62 62 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+C11 :- Servo SSI Work
+21. Note for Backup :--
+
+22. Start and End Time of Obs.(IST): 17:30 - 08:02
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : UsbPolar
+
+25. Comments (During Observations) :
+2s Data files :
+/rawdata/8jul/18_031_08jul2010_2s.lta,
+/rawdata1/8jul/18_031_08jul2010_2s.ltb,
+/gsbifrdata1/8jul/18_031_08jul2010_gsb_2s.lta
+-----------------------------------------------------
+
+17:30 : Started settings for 18_031 project.
+17:43 : Started scan on 3C286 
+18:06 : Started command file.
+        /odisk/gtac/cmd/sirothia/18_031_20100708a.cmd
+
+19:32 : C13 Started tracking.
+01:30 : Command file stopped.
+
+01:30 : Started second cmd file.
+        /odisk/gtac/cmd/sirothia/18_031_20100708b.cmd
+06:23 : Command file stopped. 
+06:26 : Started scan on 2206-185.
+06:34 : Stopped scan.
+
+06:45 : MSEB Power failure for all ants.
+     
+07:20 : Started scan on J0218+4232.
+07:31 : Stopped scan.
+
+07:33 : Started scan on 3C48.
+08:02 : Stopped scan and observing session over.
+
+    
+     
+
+
+
+

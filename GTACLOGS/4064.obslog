@@ -1,0 +1,77 @@
+		 GTAC Observation Log 
+
+1. Date : 30/11/2008
+2. Observation Sr. No. : 4064
+3. Observer : Philip lah
+4. Observer's Email : plah@mso.anu.edu.au
+5. Project Name : gas in galaxies in the distant past
+6. Project Code : 15PLA01
+7. Operator(s) : Sachin,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/15pla01/a370.cmd,
+	/odisk/gtac/cmd/15pla01/zcosmos.cmd,
+	/odisk/gtac/cmd/15pla01/a370.cmd,
+	/odisk/gtac/cmd/15pla01/vvds14.cmd
+9. LTA File : /rawdata/30nov/15pla01_30nov2008.lta,
+	/rawdata1/30nov/15pla01_30nov2008.ltb,
+	/rawdata/30nov/15pla01_30nov2008.lta.1,
+	/rawdata1/30nov/15pla01_30nov2008.ltb.1,
+	/rawdata/30nov/15pla01_30nov2008.lta.2,
+	/rawdata1/30nov/15pla01_30nov2008.ltb.2
+10. LogFlag File : /btemp2/logflags/15PLA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1040 MHz ,RF2 : 1040 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1110 MHz, ILO2 : 1110 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1040 1040 1110 1110 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C05 : servo work.
+W03 : no fringe.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 00:00 - 12:24
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+00:01 : scan started on 3c48.
+00:18 : command file started.
+00:40 : power failure.
+00:50 : power resumed.
+01:10 : restarted the observation.
+      : W03 started working.
+      : E03 - no fringe.
+03:22 : stopped the command file.
+      : started scan on 3c147.
+      : new record files started.
+03:40 : new commad file started.
+09:10 : Stopped command file.
+09:15 : Started scan on 3C286 for 8 mins.
+09:23 : Stopped scan and observation session.
+--------------------------------------------------
+Changed Settings 
+LO1=1145
+LO4=69 
+tpa 1076 1076 1145 1145 69 69 
+09:25 : Started scan on 3C286 for 10 mins.
+09:35 : Stopped scan on 3C286.
+09:43 : Started command file.
+12:24 : Stopped command file and stopped observation
+session.
+

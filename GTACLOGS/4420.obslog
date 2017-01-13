@@ -1,0 +1,68 @@
+		 GTAC Observation Log 
+
+1. Date : 19/07/2009
+2. Observation Sr. No. : 4420
+3. Observer : Susanta, P Janardhan
+4. Observer's Email : susanta@prl.res.in,jerry@prl.res.in
+5. Project Name : SUN
+6. Project Code : 16_021
+7. Operator(s) : Deepak,
+	Manisha,
+	Navanath,
+	Sachin,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/jerry/19jul2009_dual_3030.cmd
+9. LTA File : /rawdata/19jul/16_021_19jul09.lta,
+	/rawdata1/19jul/16_021_19jul09.ltb
+10. LogFlag File : /odisk/online1/logflags/16_021.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+6 dB, 32 MHz,OFF, IF-CH2 : 10+6 dB, 6 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+S06 : Servo off.
+C12 : No fringe.
+W01 : 235MHz not available.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 11:00 - 18:00
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+11:00 : Setup started.
+11:30 : Power equalise @ 300 counts (@ corr o/p) on
+        source 3C147.
+11:33 : Started scan on 3C147 ~ 15mins.
+        2sec data files :
+        /rawdata/19jul/16_021_19jul09_2s.lta
+        /rawdata1/19jul/16_021_19jul09_2s.ltb
+
+11:52 : Started command file.
+        (solar attn : 0-14 dB for phase cal and 30-44 dB for SUN).
+12:34 : Changed solar attn as : 0-14 for phase can & 30-30 for SUN as
+        power levels are low for 235 MHz.
+
+15:22 : Started new 2sec record files.
+        2sec data files :
+        /rawdata/19jul/16_021_19jul09_2s.lta.1
+        /rawdata1/19jul/16_021_19jul09_2s.ltb.1
+
+15:32 : Parked the antennas due to high wind.
+18:00 : Wind was high till the end.
+

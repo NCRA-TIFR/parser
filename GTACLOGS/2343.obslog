@@ -1,0 +1,56 @@
+		 GTAC Observation Log 
+
+1. Date : 10/12/2005
+2. Observation Sr. No. : 2343
+3. Observer : Ishwar
+4. Observer's Email : ishwar@ncra.tifr.res.in,ngk@ncra.tifr.res.in
+5. Project Name : relic
+6. Project Code : 09CHI01
+7. Operator(s) : Deepak,
+	
+8. Command File : /atemp2/cmd/ishwar/dec10.cmd
+9. LTA File : /rawdata/10dec/09chi01_150.lta
+10. LogFlag File : /atemp2/logflags/09CHI01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 157 MHz ,RF2 : 157 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 223 MHz, ILO2 : 223 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 16 MHz,ON, IF-CH2 : 16+16 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 157 157 223 223 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+S02 - Low fringe count
+C04-USB-175 : self-power
+fluctuating.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 23:00 - 09:24
+
+23. Comments (During Observations) :
+CRR : INDIAN POLAR MODE
+ONL : ADITYA
+IFATTN : AUTHIF @ 150 + 4 dB
+----------------------------------------------------------
+23:31 : Started scan on 3C147 for 10mins.
+23:42 : Started command file
+         /atemp2/cmd/ishwar/dec10.cmd
+
+05:30 : command file stopped . calibrator changed to 1459+716
+
+05:31 : Restarted command file.
+09:09 : Flux cal scan started on 3C286 for 15m
+09:24 : Scan stopped, and project over.
+
+

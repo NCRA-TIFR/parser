@@ -1,0 +1,46 @@
+1. Date : 24/01/2002
+2. Observation Sr. No. : 444
+3. Observer & email : SAK / ananth@ncra.tifr.res.in
+4. Project Name & Code : Satrun occultation on 24jan2002 / SATURN
+5. Operator(s) : Mangesh(1).
+6. Command File/Source  & Lta File : saturn 
+								   : /rawdata/24jan/saturn_24jan_occult.lta 
+								   : /rawdata/24jan/saturn_24jan_occult.lta.1
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 : 610 MHz., 0 dB., OFF
+8. Ist LO (MHz) & IVth LO (MHz) : 540 MHz., 70.00 MHz. 
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status :12 + 12 dB., ON.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status :16 MHz., 0 dB., ON.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 0 / 0 
+12. Channels :0,127,1
+13. Frequency Parameters (TPA) : 610 610 540 540 70 70
+
+14. Integration Time (Sec.) : 2 sec (16*1)
+15. No of Antennas Working(Fringing) :  
+16. Name of Non-Working Antennas (with reason for each) : 12:31
+
+     W06 -  MCH work
+     C05 - Not released
+     C06 - Servo off mode.
+     C11 - Frequent ABC reset.
+
+17. Starting and Ending time of Observations (IST) : 2014 Hr. - 
+18. Comments (During Observations) :
+   
+    2014 : Started the first scan on saturn.
+    2129 : As antennas reached inner limit stopped the scan. Moved
+           the antenna in outer track on saturn.
+    2146 : Started a scan on saturn in new file :
+                /rawdata/24jan/aturn_24jan_occult.lta.1
+    2220 : Stopped the scan on saturn. Moved antennas to 3c147.
+    2225 : Started a scan on 3c147.
+    2235 : Stopped the scan. Closed the observation.
+
+                 
+19. Data Backup files & Tape No. :
+

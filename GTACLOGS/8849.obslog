@@ -1,0 +1,173 @@
+		 GTAC Observation Log
+
+1. Date : 26/08/2016
+2. Observation Sr. No. : 8849
+3. Observer : Nissim Kanekar, Jayaram Narayanan Chengalur, Jason X. Prochaska
+4. Observer's Email : nkanekar@ncra.tifr.res.in, chengalur@ncra.tifr.res.in, xavier@ucolick.org
+5. Project Name : %latex% The Spin Temperature of High-Redshift Damped Lyman-$\\\\\\\\alpha$ systems
+6. Project Code : 30_068
+7. Operator(s) : Deepak, Nilesh, Sachin, Shilpa
+8. Command File : /odisk/gtac/cmd/nissim/1645\+635.cmd, /odisk/gtac/cmd/nissim/j0214\+0632.cmd, /odisk/gtac/cmd/nissim/0407-4409.cmd
+9. LTA File : /gsbifrdata/25aug/30_068_25aug2016.lta.1, /gsbifrdata/25aug/30_068_25aug2016.lta, /gsbifrdata/26aug/30_068_26aug2016_gsb.lta.1, /gsbifrdata/26aug/30_068_26aug2016_gsb.lta, /gwbifrdata1/26aug/30_068_26aug2016_gwb.lta.1, /gwbifrdata1/26aug/30_068_26aug2016_gwb.lta
+10. LogFlag File : /odisk/online1/logflags/30_068.FLAGS.21, /odisk/online1/logflags/30_068.FLAGS.20, /odisk/online1/logflags/30_068.FLAGS.19, /odisk/online1/logflags/30_068.FLAGS.18
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 461.8 MHz ,RF2 : 461.8 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 525 MHz, ILO2 : 525MHz , IVLO1 : 63.2 MHz, IVLO2 : 63.2 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 6 MHz,ON, IF-CH2 : 4+14 dB, 6 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 2 MHz; Step # 3
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 136.8
+28. LO5 -2  : 168.2
+
+29. Frequency Parameters (TPA) : 461.8 461.8 525 525 63.2 63.2
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :25
+
+32. Name of Non-Working Antennas (with reason for each) :
+E06 : Mechanical work.
+C14,S03,W03,E04 : No cone-dipole (up-graded) feed at 325MHz.
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 25 Aug 2016 21:45:00 - 26 Aug 2016 10:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :25
+
+37. Comments (During Observations) :
+Settings for observation-1:
+Line frequency : 454.5 MHz
+   RF Band     : 327 MHz
+   LO(1)       : 525 MHz
+   IF BW       : 6 MHz
+   LO(5)       : 136.8 168.2 MHz
+   LO(4)       : 63.2 63.2 MHz
+   Baseband BW : 2.08 MHz
+   Step        : 3
+   Channels    : 512
+   TPA 461.8 461.8 525 525 63.2 63.2
+---------------------------------------------------------------------------
+21:30 : Started settings.
+21:58 : Started scan on 3C468.1 for 7min.
+22:08 : '/odisk/gtac/cmd/nissim/1645+635.cmd' command file started.
+
+23:38 : phase cal set below horizon, stopped command file.
+23:43 : Started scan on 3c48 for ~ 7 min.
+
+23:50 : Started settings.
+Settings for Observation-1:
+
+Source list     : /odisk/gtac/source/nk.list
+Command file    : /odisk/gtac/cmd/nissim/j0214+0632.cmd
+
+
+Target source   : J0214+0632
+Flux calibrator : 3C48
+Phase calibrator: 3C46
+
+Line frequency : 457.1 MHz
+
+   RF Band     : 327 MHz
+   LO(1)       : 525 MHz
+   IF BW       : 18 MHz
+   LO(5)       : 139.4 165.6 MHz
+   LO(4)       : 60.6 60.6 MHz
+   Baseband BW : 2.08 MHz
+   Step        : 3
+
+   Channels    : 512
+
+   lta         : 8m
+
+TPA 464.4 464.4 525 525 60.6 60.6
+
+The band covers 456.07 - 458.15 MHz.
+
+23:55 : Started scan on 3C48 for ~ 7 min.
+00:15 : Started '/odisk/gtac/cmd/nissim/j0214+0632.cmd' command file.
+
+05:35 : Stopped command file.
+05:38 : Started scan on 3C48 for ~ 10 min.
+
+05:48 : Started settings.
+Settings for Observation-2:
+
+Source list     : /odisk/gtac/source/nk.list
+Command file    : /odisk/gtac/cmd/nissim/0407-4409.cmd
+
+
+Target source   : J0407-4409
+Flux calibrator : 3C48
+Phase calibrator: 0438-436
+
+Line frequency : 487.61 MHz
+
+All ALCs ON
+
+   RF Band     : 327 MHz
+   LO(1)       : 560 MHz
+   IF BW       : 18 MHz
+   LO(5)       : 135 170 MHz
+   LO(4)       : 65 65 MHz
+   Baseband BW : 2.08 MHz
+   Step        : 3
+
+   Channels    : 512
+   lta         : 4
+
+TPA 495 495 560 560 65 65
+
+The band covers 486.67 - 488.75 MHz
+
+GWB settings: NARROW-BAND MODE
+
+I would also like to record GWB data covering the frequency range
+385-410 MHz, using the narrow-band mode. 
+
+   ACQ BW       : 100 MHz
+   GAB LO	: 480 MHz
+   Channels     : 16384
+   LTA          : 8
+   Stokes       : 2
+   TPA frequency: Manual (LOCAL)
+   Sideband FLAG: Flipped (LSB)
+
+   Decimation factor: 4
+   Final BW	: 25 MHz
+   DDC LO	: 70 MHz
+   Channel 1	: 410 MHz
+   Channel 16384: 385 MHz
+
+05:59 : Started scan on 3C48 for ~ 6 min.
+        Noticed that LO may not be set correctly. as phases for GSB are varying very fast. tried resetting LO parameters.
+06:05 : Started scan on 3C48 for ~ 2 min.
+        Noticed that LO may not be set correctly. as phases for GSB are varying very fast. tried resetting LO parameters. Also restarted GSB.
+
+06:11 : Started scan on 3C48 for ~ 10 min.
+        Still problem in GSB exists, phases varying very fast.
+06:24 : Started '/odisk/gtac/cmd/nissim/0407-4409.cmd' command file.
+
+06:46 : Forgot to put  GWB in AUTO-SYNC mode, apologies.
+06:47 : re-started command file.
+07:26 : E-arm power failed.
+07:38 : E-arm restored.
+09:03 : Stopped command file and started recording phase cal.
+00:09 : Stopped scan on phase cal.
+09:14 : Started recording on 3C147.
+09:34 : Stopped scan on 3C147 and closed observation session. 

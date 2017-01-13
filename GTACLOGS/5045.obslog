@@ -1,0 +1,79 @@
+		 GTAC Observation Log 
+
+1. Date : 04/09/2010
+2. Observation Sr. No. : 5045
+3. Observer : Ujjwal Kumar
+4. Observer's Email : ujjwal@ncra.tifr.res.in
+5. Project Name : Pulsar Observation 
+6. Project Code : 18_068
+7. Operator(s) : Amruta,
+	Manisha,
+	Navanath,
+	Sachin,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /rawdata/4sep/18_068_04sep2010_suba2.lta,
+	/rawdata1/4sep/18_068_04sep2010_suba2.ltb,
+	/rawdata/4sep/18_068_04sep2010_suba4.lta,
+	/rawdata1/4sep/18_068_04sep2010_suba4.ltb
+10. GSB File : /gsbifrdata/4sep/18_068_sub2_gsb.lta,
+	/gsbifrdata/4sep/18_068_sub4_gsb.lta
+11. LogFlag File : /odisk/online1/logflags/SUBA2.FLAGS.64,
+	/odisk/online1/logflags/SUBA4.FLAGS.73
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+4 dB, 32 MHz,OFF, IF-CH2 : 20+4 dB, 32 MHz,OFF
+15. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+--
+21. Note for Backup :--
+
+22. Start and End Time of Obs.(IST): 06:00 - 10:09
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+# sub 2 # C01 C02 C03 C05 C10 C12 C13 W01 E02 S01 
+ante 10 6 5 1 19 12 2 11 8 17 26 
+cp 0;defs 2;subar 2
+tpa 325 325 255 255 70 70
+prjfreq
+lnkndas
+------------------------------------------------------------------------------------------
+# sub 4 # C00 C04 C06 C08 C09 C11 C14 W02 W03 W04 W05 W06 E03 E04 E05 E06 S02 S03 S04 S06 
+ante 20 7 3 20 24 4 9 10 13 14 15 16 25 18 21 22 23 27 28 29 30 
+cp 0;defs 4;subar 4
+tpa 610 610 540 540 70 70
+prjfreq
+lnkndas
+------------------------------------------------------------------------------------------
+Correlator configured in pulsar mode.
+------------------------------------------------------------------------------------------
+06:00 : Started settings.
+06:40 : Power equilised on 3C48 IF @ 600counts and BB @ 1000counts.
+07:28 : Phasing done on 0837-198.
+07:33 : Started scan on J0437-4715.
+08:02 : Started scan on J0621+1002.
+08:33 : Started scan on B0919+06.
+08:53 : Started scan on B0950+08.
+09:15 : Phasing checked on 0837-198.
+09:22 : Started scan on J1022+1001.
+09:48 : Started scan on J1012+5307.
+10:09 : Stopped scan and observing session over.
+
+
+

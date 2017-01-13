@@ -1,0 +1,68 @@
+		 GTAC Observation Log 
+
+1. Date : 21/08/2004
+2. Observation Sr. No. : 1618
+3. Observer : Ananda Hota
+4. Observer's Email : hota@ncra.tifr.res.in
+5. Project Name : LIRGHI
+6. Project Code : 06AHA01
+7. Operator(s) : Mangesh,
+	Jayprakash,
+	
+8. Command File : /btemp2/cmd/hota/ngc5936.cmd
+9. LTA File : /rawdata/21aug/06aha01_NGC5936HI.lta,
+	/rawdata1/21aug/06aha01_NGC5936HI.ltb,
+	/rawdata/21aug/06aha01_NGC6052HI.lta,
+	/rawdata1/21aug/06aha01_NGC6052HI.ltb
+10. LogFlag File : /btemp2/logflags/06AHA01.FLAGS.14
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1397.57 MHz ,RF2 : 1397.57 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1330 MHz, ILO2 : 1330 MHz, IVLO1 : 67.57 MHz, IVLO2 : 67.57 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+4 dB, 16 MHz,ON, IF-CH2 : 4+4 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1397.57 1397.57 1330 1330 67.57 67.57 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+C02 : Fringe fluctuation.
+C03 : Servo Problem.
+C00 : Phase jumps.
+S02 : Weak fringe.
+
+
+
+21. Start and End Time of Obs.(IST): 13:30 - 23:00
+
+22. Comments (During Observations) :
+ONLINE running on bhaskar
+IF attenuation : 1390MHz. AUTHIF
+-----------------------------------------------
+
+13:30 : started Antenna settings.
+13:54 : Started scan on 3c286 for 30min.
+14:40 : Started command file /btemp2/cmd/hota/ngc
+18:35 : Stopped the command file. Closed the lta
+        files. Changed the fourth LO to 64.30
+       
+18:39 : Started record on 3c286 for 20 minutes.
+        New LTA files are
+           /rawdata/21aug/06aha01_NGC6052HI.lta
+           /rawdata1/21aug/06aha01_NGC6052HI.ltb
+        New TPA is
+           1394.30 1394.30 1330 1330 64.30 64.30
+22:47 : Stopped the command file. Moved antennas to
+        3C48.
+
+22:50 : Started a scan on 3c48 for 10 minutes.
+23:00 : Closed the observeration.
+
+

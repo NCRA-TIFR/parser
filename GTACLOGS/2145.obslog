@@ -1,0 +1,79 @@
+		 GTAC Observation Log 
+
+1. Date : 25/07/2005
+2. Observation Sr. No. : 2145
+3. Observer : Ramana
+4. Observer's Email : rathreya@gmrt.ncra.tifr.res.in
+5. Project Name : CD Cluster
+6. Project Code : 08TVA01
+7. Operator(s) : Manish G.,
+	Sachin,
+	Santaji,
+	
+8. Command File : /atemp2/cmd/rathreya/08tva01c.cmd
+9. LTA File : /rawdata/25jul/08tva01_mixed.lta
+10. LogFlag File : /atemp2/logflags/08TVA01.FLAGS.8
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 244 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 310 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 6 MHz,ON, IF-CH2 : 16+16 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 244 244 310 310 66 66 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+S04 - 175 pol no fringe.
+C09 - Power jumps in IF.
+S01 - MCM 5 time out.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 11:18 - 01:10
+
+23. Comments (During Observations) :
+***************************************
+------- ONLINE: adiyta ----------------
+------- ATTN NAUTHIF @ 235MHz ---------
+***************************************
+
+11:18 : Started scan on 3C147 ,continued upto 80 records 
+        and then stopped.
+11:53 : Started command file.
+	'/temp2/data/cmd/rathreya/08tva01c.cmd'
+14:45 : Changed the command file.
+	'/temp2/data/cmd/rathreya/08tva01d.cmd'
+17:10 : Changed the command file to:
+            /atemp2/cmd/rathreya/08tva01e.cmd
+18:45 : W01 power failed.
+20:20 : Power failure.
+20:25 : Power for only central square antennas resumed.
+        Started settings for central square antennas.
+20:52 : Re-started command file:
+            /atemp2/cmd/rathreya/08tva01e.cmd
+20:55 : Power failure.
+21:00 : Power for all antennas resumed.
+        Started settings for all antennas.
+21:26 : Re-started command file:
+            /atemp2/cmd/rathreya/08tva01e.cmd
+*** PROBLEMS:
+C03 - Not rotating ('aovl' flag in Azimuth).
+W03 - ABC timeout.
+
+23:35 : Command file stopped.
+23:37 : Started 08tva01f.cmd command file.
+23:50 : E05 showing high self.
+01:02 : Command file stopped.
+01:07 : started scan on 3C48 for 10mins.
+01:17 : Observation stopped.
+
+

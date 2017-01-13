@@ -1,0 +1,57 @@
+		 GTAC Observation Log 
+
+1. Date : 02/02/2004
+2. Observation Sr. No. : 1326
+3. Observer : Poonam Chandra
+4. Observer's Email : poonam@tifr.res.in
+5. Project Name : Recent Supernovae
+6. Project Code : 05PCA02
+7. Operator(s) : Mangesh,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/poonam/sn2003bg.cmd
+9. LTA File : /rawdata/2feb/05pca02_sn2003bg.lta,
+	/rawdata1/2feb/05pca02_sn2003bg.ltb
+10. LogFlag File : /btemp2/logflags/05PCA02.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1280 MHz ,RF2 : 1280 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1210 MHz, ILO2 : 1210 MHz, IVLO1 : 70.00 MHz, IVLO2 : 70.00 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+4 dB, 32 MHz,ON, IF-CH2 : 4+4 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1280 1280 1210 1210 70.00 70.00 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+W06: 175 MHz. poor fringe.
+
+
+21. Start and End Time of Obs.(IST): 18:40 - 23:25
+
+22. Comments (During Observations) :
+***** ONLINE : Bhaskar *******
+*** AUTHIF : 1280 MHz *********
+---------------------------------------
+
+18:40 : Started scan on 3c48 for 15min.
+19:10 : Started the command file.
+19:50 : W01 parked for honey beehive removal work.
+20:10 : W01 came back.
+21:00 : E06 antenn getting parked frequently due
+        to high wind.
+        W06 ABC got reset.Initialised it and set
+        the antenna.
+21:48 : W02 ABC started giving ABC timeouts.
+23:05 : Stopped Command file
+23:16 : Started 3C147 (Elevation 52.5d)
+23:25 : Stopped observations.
+
+

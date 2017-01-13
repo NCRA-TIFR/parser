@@ -1,0 +1,81 @@
+		 GTAC Observation Log 
+
+1. Date : 06/10/2005
+2. Observation Sr. No. : 2280
+3. Observer : SABYA
+4. Observer's Email : sabya.pal@gmail.com
+5. Project Name : COMPACT OBJECTS.
+6. Project Code : 08SKC01
+7. Operator(s) : Jitendra,
+	Manish G.,
+	
+8. Command File : /atemp2/cmd/skc/6oct1_3.cmd,
+	/atemp2/cmd/skc/6oct1_3.cmd,
+	/atemp2/cmd/skc/6oct3_3.cmd,
+	/atemp2/cmd/skc/6oct3_3.cmd
+9. LTA File : /rawdata/6oct/08skca1_6oct_1020.lta,
+	/rawdata1/6oct/08skca1_6oct_1020.ltb,
+	/rawdata/6oct/08skc01_6oct_1400.lta,
+	/rawdata1/6oct/08skc01_6oct_1400.ltb
+10. LogFlag File : /atemp2/logflags/08SKC01.FLAGS.4,
+	/atemp2/logflags/08SKCA1.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1400 MHz ,RF2 : 1400 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1330 MHz, ILO2 : 1330 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1400 1400 1330 1330 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+S02 : Servo timeout.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 19:30 - 02:06
+
+23. Comments (During Observations) :
+* ONLINE: aditya
+
+* Antenna configuration:
+SUBAR-3:
+ANTS= C01 C02 C04 C06 C11 C13 C14 E02 E04 E06 W02 W04 W06 S02 S04
+TPA=  1020 1020 950 950 70 70
+
+* SUBAR-4:
+ANTS= C00 C03 C05 C08 C09 C10 C12 E03 E05 W01 W03 W05 S01 S03 S06
+TPA=  1400 1400 1330 1330 70 70
+
+19:50  Started command file for SUBAR-3:
+          /atemp2/cmd/skc/6oct1_3.cmd
+19:55  Started command file for SUBAR-4:
+          /atemp2/cmd/skc/6oct1_4.cmd
+20:20  Power resumed for S-arm antennas.
+       All S-arm antennas are working, expect S02.
+21:20  Stopped the command files.
+21:28  Observed 3C48 for both subarrays for 8 mins.
+21:43  Started command file for SUBAR-4:
+          /atemp2/cmd/skc/6oct3_4.cmd
+21:46  Started command file for SUBAR-3:
+          /atemp2/cmd/skc/6oct3_3.cmd
+01:00 : Command files for both subar
+        stopped.
+~01:01 : Scan started for both subar on
+        Cygx3 (Note : 08skc01_6oct_1400.lta,scan#17 bad.)
+
+01:36 : Scan on Cygx3 stopped
+01:39 : scan on phase-cal scan started
+01:45 : scan stopped
+01:56 : Flux cal scan started for 10m
+02:06 : Scan stopped, project halted.
+
+

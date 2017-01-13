@@ -1,0 +1,40 @@
+1. Date : 12/01/2002
+2. Observation Sr. No. : 429
+3. Observer & email : D. J. Sikia/Anada Hota/djs,hota@ncra.tifr.res.in
+4. Project Name & Code : N4438 / 01AHA01
+5. Operator(s) : Sanjay(3),Santaji(1).
+6. Command File/Source  & Lta File : /temp2/data/cmd/vku/j0256.cmd
+                                   : /raid/data/12jan/01aha01_n4438.lta
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 : 610 MHz., 0 dB., OFF.
+8. Ist LO (MHz) & IVth LO (MHz) : 540 MHz., 70 MHz.
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : 10 + 10 dB., 32 MHz., ON.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status :16 MHz., 0 dB., ON.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 0 / 0
+12. Channels : 0,127,1
+13. Frequency Parameters (TPA) : 610 610 540 540 70 70
+
+14. Integration Time (Sec.) : 16 sec (16*8m)
+15. No of Antennas Working(Fringing) : 27.5
+16. Name of Non-Working Antennas (with reason for each) :
+
+	C13		No Fringe. (reson unknown)
+	W04     MCM 5 T. O.
+	W06     130 pol low self, no fringe
+
+17. Starting and Ending time of Observations (IST) : 23:44 / 10:47
+
+18. Comments (During Observations) :
+   
+    23:44	Started scan on 3c147.
+    00:39	Stopped scan on 3c147
+	00:45	Started command file /temp2/data/cmd/vku/j0256.cmd.
+ 	03:39	Scan # 12 (N4438) records # after 72 are bad.   
+	10:47   stopped observation.
+
+19. Data Backup files & Tape No. :

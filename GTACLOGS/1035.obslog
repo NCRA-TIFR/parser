@@ -1,0 +1,50 @@
+		 GTAC Observation Log 
+
+1. Date : 27/06/2003
+2. Observation Sr. No. : 1035
+3. Observer : PAL
+4. Observer's Email : visitor2@gmrt.ncra.tifr.res.in
+5. Project Name : ska obs
+6. Project Code : 04SKA01
+7. Operator(s) : Deepak,
+	Mangesh,
+	Sanjay,
+	
+8. Command File : /atemp2/cmd/k.cmd
+9. LTA File : /rawdata/27jun/04ska01_27jun.lta,
+	/rawdata1/27jun/04ska01_27jun.ltb
+10. LogFlag File : /atemp2/logflags/04SKA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1280 MHz ,RF2 : 1280 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1210 MHz, ILO2 : 1210 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 6+6 dB, 32 MHz,ON, IF-CH2 : 6+6 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1280 1280 1210 1210 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+C05 :flat band shape(USB).
+C11 : No fringe 
+W05 :NO fringe
+E03 :NO fringe @175 polarisation.
+
+21. Start and End Time of Obs.(IST): 20:28 - 08:06
+
+22. Comments (During Observations) :
+20:28 :started scan on 3C286 for 15 minutes.
+21:03 :started scan on 1925+211 for 10 minutes
+21:15 :started scan on SS433 for 50 minutes.
+07:40 : Stopped cmd file.
+07:44 : Started record on 3c48.
+07:06 : Stopped record on 3c48, and stopped session.
+
+

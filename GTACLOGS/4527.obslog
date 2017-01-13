@@ -1,0 +1,70 @@
+		 GTAC Observation Log 
+
+1. Date : 11/09/2009
+2. Observation Sr. No. : 4527
+3. Observer : R Auld
+4. Observer's Email : robbie.auld@astro.cf.ac.uk
+5. Project Name : HRS-N4370
+6. Project Code : 16_284
+7. Operator(s) : Jayprakash,
+	Rupsingh,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/16_284/obs_n4370.cmd
+9. LTA File : /rawdata/11sep/16_284_11sep2009.lta,
+	/rawdata1/11sep/16_284_11sep2009.ltb,
+	/rawdata/11sep/16_284_11sep2009.lta.1,
+	/rawdata1/11sep/16_284_11sep2009.ltb.1
+10. LogFlag File : /odisk/online1/logflags/16_284.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1414.71 MHz ,RF2 : 1414.71 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1345 MHz, ILO2 : 1345 MHz, IVLO1 : 69.71 MHz, IVLO2 : 69.71 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+14. BB BW(KHz) & BB ALC : 4000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1414.71 1414.71 1345 1345 69.71 69.71 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+E06 : For maintenance.
+C12 : No fringe.
+
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 11:00 - 21:10
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+11:00 : Started settings.
+11:23 : Started scan on 3C286.
+11:34 : Stopped scan.
+
+11:37 : '/odisk/gtac/cmd/16_284/obs_n4370.cmd' command file started.
+16:24 : Command file stopped.
+16:27 : Started  scan on 3C286 for 10mins.
+16:37 : Scan stopped.
+        settings changed
+        tpa 1411.3101 1411.3101 1345 1345 66.3100 66.3100
+        E06 - maintenance.
+16:41 : Started scan on 3C286 for 10mins.
+        C12 started working.
+
+16:52 : Started command file.
+        /odisk/gtac/cmd/16_284/obs-n5701.cmd
+20:53 : command file stopped.
+21:00 : Started scan on 3C468.1 for 10mins.
+21:10 : Observation stopped.
+
+
+

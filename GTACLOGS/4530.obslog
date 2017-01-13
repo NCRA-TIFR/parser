@@ -1,0 +1,65 @@
+		 GTAC Observation Log 
+
+1. Date : 13/09/2009
+2. Observation Sr. No. : 4530
+3. Observer : R Auld
+4. Observer's Email : robbie.auld@astro.cf.ac.uk
+5. Project Name : HRS-N4324
+6. Project Code : 16_284
+7. Operator(s) : Nilesh,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/16_284/obs-n4378.cmd
+9. LTA File : /rawdata/13sep/16_284_13sep2009.lta,
+	/rawdata1/13sep/16_284_13sep2009.ltb
+10. LogFlag File : /odisk/online1/logflags/16_284.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1406.38 MHz ,RF2 : 1406.38 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1340 MHz, ILO2 : 1340 MHz, IVLO1 : 66.38 MHz, IVLO2 : 66.38 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+14. BB BW(KHz) & BB ALC : 4000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1406.38 1406.38 1340 1340 66.38 66.38 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+E06 : For maintenance.
+C12 : MCM 5 timeout.
+C01 : Low fringe.
+C05 : Low fringe.
+W03 : No fringe.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 08:20 - 14:00
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+08:20 : Started settings.
+08:36 : Started scan on 3C147.
+09:01 : Stopped scan.
+09:05 : Command file started.
+        '/odisk/gtac/cmd/16_284/obs_n4378.cmd'
+
+11:53 : W03 started working.
+
+13:02 : E-arm power fail
+13:18 : E-arm started working.
+
+13:24 : Stopped command file.
+       
+13:33 : Started scan on 3C286.
+        W05 not fringing. 
+14:00 : Stopped scan and observing session over.
+
+
+

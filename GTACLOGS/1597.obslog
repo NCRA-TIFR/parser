@@ -1,0 +1,64 @@
+		 GTAC Observation Log 
+
+1. Date : 07/08/2004
+2. Observation Sr. No. : 1597
+3. Observer : NS
+4. Observer's Email : visitor3@gmrt.ncra.tifr.res.in,seymour@iap.fr
+5. Project Name : 01HR
+6. Project Code : 06NSA01
+7. Operator(s) : Mangesh,
+	Jitendra,
+	Sachin,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/ns/01hrxmm.cmd
+9. LTA File : /rawdata/7aug/06nsa01_01HR.lta,
+	/rawdata1/7aug/06nsa01_01HR.ltb
+10. LogFlag File : /btemp2/logflags/06NSA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 32 MHz,ON, IF-CH2 : 12+12 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+C12- +afl flag in Az
+      Azimuth brake problem.
+
+21. Start and End Time of Obs.(IST): 23:52 - 08:05
+
+22. Comments (During Observations) :
+***** ONLINE BHASKAR **********
+***** AUTHIF @ 610 MHz. *******
+-------------------------------
+23:52 : flux cal scan started on 3c48 for 30m
+        (W05 applied brakes in azimuth a the end
+         of scan.
+24:25 : scan stopped.
+24:44 : command file 01hrxmm.cmd started.
+        C12 azimuth brake , servo problem.
+27:23 : command file stopped.
+27:31 : flux cal scan started on 3c48 for 10m
+27:40 : scan stopped.
+
+27:45 : command file restarted.
+30:28 : command file stopped.
+
+30:36 : flux cal scan started on 3c48 for 10m.
+30:52 : command file restarted with outer track.
+31:50 : Last four visi. of scan# 19(p-cal) bad.
+31:54 : Started record on 3c48,
+32:05 : Stopped record, closed project.
+
+

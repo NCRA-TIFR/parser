@@ -1,0 +1,61 @@
+		 GTAC Observation Log 
+
+1. Date : 04/01/2005
+2. Observation Sr. No. : 1794
+3. Observer : poonam Chandra/ Yashwant Gupta
+4. Observer's Email : poonam@tifr.res.in,ygupta@ncra.tifr.res.in
+5. Project Name : sgr1806
+6. Project Code : 05DT064
+7. Operator(s) : Deepak,
+	Manisha J.,
+	Sanjay,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/poonam/sgr1806-20.cmd
+9. LTA File : /rawdata/4jan/05dt064_sgr1806.lta,
+	/rawdata/4jan/05dt064_sgr1806.lta.1,
+	/rawdata1/4jan/05dt064_sgr1806.ltb,
+	/rawdata1/4jan/05dt064_sgr1806.ltb.1
+10. LogFlag File : /btemp2/logflags/05DT064.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+10 dB, 32 MHz,ON, IF-CH2 : 10+10 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+LSB- C09,C10,C11,C12 with E04,E05,E06,S01 bad baselines.
+C14 - Time out.
+C04 - No fringe@235 MHz.
+
+21. Start and End Time of Obs.(IST): 14:21 - 16:22
+
+22. Comments (During Observations) :
+**** ONLINE BHASKAR *****
+**** AUTH IF @ 610-235 MHz. **
+-------------------------------
+
+14:24  Started scan on 3C48 for 8mins.
+14:50  Started command file.
+       /btemp2/cmd/poonam/sgr1806.cmd
+       LTA files for pulsar with 1 sec integration
+       /rawdata/4jan/05dt064_pulsar.lta
+       /rawdata1/4jan/05dt064_pulsar.ltb
+
+15:54  command file stopped.
+15:55  started scan on 1822-096 for 6mins.
+16:11  Started scan on3C48 for 10mins.
+16:22  Observation stopped.
+
+

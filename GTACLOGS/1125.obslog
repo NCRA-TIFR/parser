@@ -1,0 +1,73 @@
+		 GTAC Observation Log 
+
+1. Date : 07/09/2003
+2. Observation Sr. No. : 1125
+3. Observer : Chiranjib Konar, DJ Saikia
+4. Observer's Email : sckonar@ncra.tifr.res.in,djs@ncra.tifr.res.in
+5. Project Name : GIANT SOURCES.
+6. Project Code : 04JMA01
+7. Operator(s) : Manish G.,
+	
+8. Command File : /btemp2/cmd/djs/giants.cmd,
+	/btemp2/cmd/djs/0720.cmd,
+	/btemp2/cmd/djs/0912.cmd
+9. LTA File : /rawdata/6sep/04jma01_giants.lta,
+	/rawdata1/7sep/04jma01_giants.ltb
+10. LogFlag File : /btemp2/logflags/04JMA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 613 MHz ,RF2 : 241 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 308 MHz, IVLO1 : 67 MHz, IVLO2 : 67 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 613 241 680 308 67 67 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C04 no fringe @130 poln.
+C12 no fringe @175 poln.
+C05-USB : FLAT BAND.
+C06-USB : FLAT BAND.
+
+21. Start and End Time of Obs.(IST): 06:00 - 16:40
+
+22. Comments (During Observations) :
+*********** ONLINE: Bhaskar *********
+IF ATTN= power equalised
+------------------------------------------------
+06:00  Started scan on 3C147.
+06:15  Stopped the scan.
+06:17  Started command file
+        /temp2/data/cmd/djs/giants.cmd
+
+07:57  Stopped cmd file.
+08:02  Started cmd file 0720.cmd
+        record continued in same data file.
+08:56  C04 130MHz pol, (LO=308MHz) lock is going off & on.
+09:32  C12, scan#14, rec#0-9 bad. (RF resetting done for diagnosis)
+12:52  W02 Flat Bshape.
+12:57  Stopped cmd file.
+12:59  Started cmd file 0912.cmd
+15:52  E06-ABC got reset.
+15:00  E06 Started working.
+15:43  Stopped the command file.
+       Moved to phase cal for last scan on.
+
+15:53  Took following scans 
+        scan 42 1400+621  for 5 minutes.
+        scan 43 1312+698  for 25 minutes
+        scan 44 1400+621  for 5 minutes
+        scan 45 3c286   for 5 minutes.
+16:40  Closed the observation.
+
+
+
+

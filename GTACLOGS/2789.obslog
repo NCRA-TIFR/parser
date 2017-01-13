@@ -1,0 +1,89 @@
+		 GTAC Observation Log 
+
+1. Date : 19/08/2006
+2. Observation Sr. No. : 2789
+3. Observer :  Ue Li Pen
+4. Observer's Email : jroy@ncra.tifr.res.in,tchang@astro.berkeley.edu,pen@cita.utoronto.ca
+5. Project Name : USB Polar test
+6. Project Code : 10SSB01
+7. Operator(s) : Jitendra,
+	Manish G.,
+	Manisha J.,
+	Sachin,
+	
+8. Command File : /btemp2/cmd/jroy/eorb.cmd,
+	/btemp2/cmd/jroy/deep2.cmd
+9. LTA File : /rawdata/19aug/10ssb01_19aug.lta,
+	/rawdata1/19aug/10ssb01_19aug.ltb,
+	/rawdata/19aug/10ssb01_19aug.lta.1,
+	/rawdata1/19aug/10ssb01_19aug.ltb.1
+10. LogFlag File : /btemp2/logflags/10SSB01.FLAGS.8
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 218 MHz, ILO2 : 218 MHz, IVLO1 : 62 MHz, IVLO2 : 62 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 16 MHz,ON, IF-CH2 : 16+16 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 156 156 218 218 62 62 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+USB:S03 :CSQ bad baselines.
+C03,C12-Feed not focused.
+W02-Feed jammed.
+E04,C04- No fringe
+E02- Not tracking in array.
+
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 23:40 - 07:35
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : USBPolar,IndianPolar    *********
+******** IF Attn : AUTHIF @ 150,610 MHz *********
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+---------------------------------------------
+23:40    TPA 156 156 218 218 62 62
+         USBPOLAR MODE
+00:13    Flux cal scan on 3C48 for 10m
+00:37    eorb.cmd file started.
+01:43    TPA 200 200 262 262 62 62
+01:48    Flux cal scan on 3c48 for 10m.
+01:58    TPA 156 156 218 218 62 62
+         Command file restarted.
+05:12    Scan stopped, file closed.
+......................................
+* Feed focussed to 610 MHz, except-W02, C03
+  TPA 615 615 685 685 70 70
+  IFBW-32 MHz , BBBW- 16 MHz
+  INDIAN POLAR MODE.
+* S03-C00-12 baseline bad. E02 not tracking.
+
+* New record file started.
+06:08 : Flux cal scan on 3c48
+06:21 : Scan stopped.
+      : Command file started.
+
+
+07:15 : Stopped command file.
+07:20 : Started scan on 3C48 for 15 mins.
+07:35 : Stopped scan and closed project.
+

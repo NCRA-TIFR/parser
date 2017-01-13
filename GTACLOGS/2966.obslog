@@ -1,0 +1,66 @@
+		 GTAC Observation Log 
+
+1. Date : 31/12/2006
+2. Observation Sr. No. : 2966
+3. Observer : Mr. Rajat
+4. Observer's Email : spal@ncra.tifr.res.in
+5. Project Name : BIMOL
+6. Project Code : 11SKC02
+7. Operator(s) : Jayprakash,
+	Navanath,
+	
+8. Command File : /btemp2/cmd/spal/sgrb2.cmd
+9. LTA File : /rawdata/31dec/11skc02_31dec2006.lta,
+	/rawdata1/31dec/11skc02_31dec2006.ltb
+10. LogFlag File : /btemp2/logflags/11SKC02.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1286.222 MHz ,RF2 : 1286.222 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1215 MHz, ILO2 : 1215 MHz, IVLO1 : 71.222 MHz, IVLO2 : 71.222 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+14. BB BW(KHz) & BB ALC : 1000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1286.222 1286.222 1215 1215 71.222 71.222 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+E06 : ABC time out.
+S06 : Unstable fringe.
+E02 : USB no fringe.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 09:16 - 15:05
+
+23. Comments (During Observations) :
+---------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+********* RF band : 1170 MHz. ***************
+---------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+---------------------------------------------
+
+09:07 : Started antenna settings.
+09:16 : Started scan on 3c286 for 12min.
+09:28 : Stopped the scan.
+09:35 : Started the command file.
+14:25 : Coammand file stopped.
+14:39 : started scan on phase cal.
+14:44 : scan stopped.
+14:53 : started scan on flux cal.15
+15:05 : observing session over.
+
+
+

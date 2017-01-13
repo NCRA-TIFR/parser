@@ -1,0 +1,64 @@
+1. Date : 3/05/2002
+2. Observation Sr. No. : 552
+3. Observer & email : V K Kulkarni, vasant@ncra.tifr.res.in
+4. Project Name & Code : J0318.2-03, 01VKK02
+5. Operator(s) : Manisha(1),Manish(1),Santaji(2),Jitendra(2).
+6. Command File/Source  & Lta File : /temp2/data/cmd/vku/j0318.cmd
+                                   : /rawdata/3may/01vkk02_j0318.lta
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 :  610 MHz.,  0 dB., OFF.
+8. Ist LO (MHz) & IVth LO (MHz) : 540 MHz.,  70.00 MHz.
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : 12+12 dB., 32 MHz., ON.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status : 16 MHz., 0 dB., ON.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 0 / 0 
+12. Channels : 0,127,1
+13. Frequency Parameters (TPA) : 610 610 540 540 70 70
+
+14. Integration Time (Sec.) : 16 sec (16*8m)
+15. No of Antennas Working(Fringing/tracking):  26
+16. Name of Non-Working Antennas (with reason for each) :
+
+	 C02 Low fringe @ both pol.
+     C13 ILO (540MHz.) Unlock.
+     S02 ILO (540MHz.) Unlock.
+     W02 ILO (540MHz.) Unlock.
+
+17. Starting and Ending time of Observations (IST) : 11:24 - 18:06
+18. Comments (During Observations) :
+
+    11:24   Started scan on 3c48 for 15min.
+	12:07	Started command file.
+	12:20	Scan # 2 BAD.
+	13:30	C00 got ABC reset.
+	15:35   corr released for maint.
+	16:20   corr released for obesrvation.
+	16:30   C08 is gvien for maint.
+
+	16:25   Fringe vanished.
+
+            fringe vanished for the 
+			C02,C10,C11 antennas 
+			ran corr_config user/cmd.file.mac
+
+			then it was showing no fring for 
+			C00, C02,S01,W01,W03
+			ran corr_config user/cmd.file.fft
+
+			then problem vanished.
+			
+
+	NOTE    scan # 10,11,12,13 and 16 are bad due to corr problem (fring vanish)
+
+	16:40   wind speed is high stopped the das scan and parked  the antennas.
+	17:05   wind speed is ok. started the obesrvation.
+	17:55 	strted scan on 3c138 for 10 min.	
+	18:00   w-arm MSEB power failed.    
+	18:00   S02 antenna parked and switched off by GCC due to AC failed (temp 40d)
+	18:06   stopped  the observaton.
+
+19. Data Backup files & Tape No. :

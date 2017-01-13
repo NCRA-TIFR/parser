@@ -1,0 +1,90 @@
+		 GTAC Observation Log 
+
+1. Date : 14/2/2013
+2. Observation Sr. No. : 6377
+3. Observer : Sandip Sirothia, Ishwar Chandra
+4. Observer's Email : sirothia@ncra.tifr.res.in,ishwar@ncra.tifr.res.in
+5. Project Name : Candidate High-redshift Radio Galaxies: Compact ultra-steep-spectrum sources from TGSS
+6. Project Code : 23_066
+7. Operator(s) : Navanath,
+	Rupsingh,
+	Surender
+8. Command File : /odisk/gtac/cmd/sirothia/23_066_feb14a.cmd,
+	/odisk/gtac/cmd/sirothia/23_066_feb14b.cmd,
+	/odisk/gtac/cmd/sirothia/23_066_feb14c.cmd,
+	/odisk/gtac/cmd/sirothia/23_066_feb14d.cmd,
+	/odisk/gtac/cmd/sirothia/23_066_feb14e.cmd,
+	/odisk/gtac/cmd/sirothia/23_066_feb14f.cmd,
+	
+9. LTA File : /gsbifrdata/14feb/23_066_14feb2013_16s.lta
+10. LogFlag File : /odisk/online1/logflags/23_066.FLAGS.7
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 306 306 255 255 51 51.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :25
+
+27. Name of Non-Working Antennas (with reason for each) :
+C04 : Counter Weight Rectification.
+W02 : BLDC WORK.
+C09 : Elevation motor current high. 
+C02 : Feed jam in calibration.
+C12 : FPS 14 time out.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 23:25 - 06:06
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+2s lta file.
+       /gsbifrdata/14feb/23_066_14feb2013_2s.lta
+
+22:20 : Started set up.
+22:26 : Done phasing.
+22:25 : Started scan on 3C147.
+22:34 : Stopped scan.
+         And S01,W01 & E02 added in GAC.
+22:35 : Started scan on 3C147.
+22:55 : Stooped scan.
+23:02 : Started command file
+         '/odisk/gtac/cmd/sirothia/23_066_feb14a.cmd'
+00:18 : Stopped command file.
+00:20 : Started command file
+         '/odisk/gtac/cmd/sirothia/23_066_feb14b.cmd'
+01:35 : Stopped command file.
+01:36 : Started command file
+         '/odisk/gtac/cmd/sirothia/23_066_feb14c.cmd'
+02:47 : Stopped command file.
+02:49 : Started command file
+        '/odisk/gtac/cmd/sirothia/23_066_feb14d.cmd'
+03:58 : Stopped command file.
+04:00 : Started command file
+        '/odisk/gtac/cmd/sirothia/23_066_feb14e.cmd'
+04:35 : Stopped command file(due phase cal set.)
+04:38 : Started command file
+         '/odisk/gtac/cmd/sirothia/23_066_feb14f.cmd'
+05:49 : Stopped command file.
+05:51 : Started scan on 3C286.
+06:05 : Stopped scan & observation session over.
+
+
+

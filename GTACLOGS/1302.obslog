@@ -1,0 +1,59 @@
+		 GTAC Observation Log 
+
+1. Date : 24/01/2004
+2. Observation Sr. No. : 1302
+3. Observer : Sarita Wig 
+4. Observer's Email : sarita@tifr.res.in,visitor2@gmrt.ncra.tifr.res.in
+5. Project Name : Orion_CH3CHO 
+6. Project Code : 05SVA01
+7. Operator(s) : Manish G.,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/sarita/ngc6334.cmd
+9. LTA File : /rawdata/24jan/05sva01_ngc6334.lta,
+	/rawdata1/24jan/05sva01_ngc6334.ltb
+10. LogFlag File : /btemp2/logflags/05SVA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1064.947 MHz ,RF2 : 1064.947 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 995 MHz, ILO2 : 995 MHz, IVLO1 : 69.947 MHz, IVLO2 : 69.947 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 6 MHz,ON, IF-CH2 : 16+16 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 500 KHz, 15 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 5
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1064.947 1064.947 995 995 69.947 69.947 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+C04: USB-175 BB not set.
+E02: No fringe.
+S-arm: No power.
+
+
+21. Start and End Time of Obs.(IST): 05:30 - 13:30
+
+22. Comments (During Observations) :
+ONLINE : BHASKAR
+AUTHIF @ 1060 MHz.
+---------------------
+
+05:30  Started scan on 3C286.
+       S-arm power failed.
+06:00  Stopped the scan. Antennas moved to 1622-297.
+06:10  Started command file.
+08:00  S-arm power resumed back, antennas started working.
+       S02-MCM 5 T.O., not working.
+       S04-MCM 0, T.O., all other intermitant T.O., not working.
+08:42  W05 parked for painting.
+09:45  S02 Started working.
+12:37  Stopped cmd file.
+12:46  Started record on 3c48.
+13:30  Stopped record on 3c48, 
+
+

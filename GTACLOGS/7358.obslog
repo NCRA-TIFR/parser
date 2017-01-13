@@ -1,0 +1,55 @@
+		 GTAC Observation Log
+
+1. Date : 18/09/2014
+2. Observation Sr. No. : 7358
+3. Observer : Nissim Kanekar, Aditya JNHS
+4. Observer's Email : nkanekar@ncra.tifr.res.in, aditya@ncra.tifr.res.in
+5. Project Name : A search for associated HI 21cm absorption at high redshifts
+6. Project Code : DDTB140
+7. Operator(s) : Navnath, Rupsing
+8. Command File : /odisk/gtac/cmd/aditya/18sep/0014\+813.cmd
+9. LTA File : /gsbifrdata/18sep/ddtb140_18sep2014.lta
+10. LogFlag File : /odisk/online1/logflags/DDTB140.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 308 MHz ,RF2 : 308 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255MHz , IVLO1 : 53 MHz, IVLO2 : 53 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 147
+28. LO5 -2  : 158
+
+29. Frequency Parameters (TPA) : 308 308 255 255 53 53
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :30
+
+32. Name of Non-Working Antennas (with reason for each) :
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 18 Sep 2014 18:50:00 - 18 Sep 2014 23:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :30
+
+37. Comments (During Observations) :
+18:54 : Started command file.
+22:50 : Started scan on 3C48 for 10min.
+23:00 :00 Observing session over.

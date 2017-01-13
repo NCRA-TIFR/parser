@@ -1,0 +1,61 @@
+		 GTAC Observation Log 
+
+1. Date : 22/04/2005
+2. Observation Sr. No. : 2026
+3. Observer : Alok Singhal
+4. Observer's Email : as8ca@virginia.edu
+5. Project Name : NGC2715
+6. Project Code : 07ASA01
+7. Operator(s) : Jayprakash,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/singhal/ngc2715.cmd
+9. LTA File : /rawdata/22apr/07asa01_ngc2715.lta,
+	/rawdata1/22apr/07asa01_ngc2715.ltb
+10. LogFlag File : /btemp2/logflags/07ASA01.FLAGS.7
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1412.0617 MHz ,RF2 : 1412.0617 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1340 MHz, ILO2 : 1340 MHz, IVLO1 : 72.0617 MHz, IVLO2 : 72.0617 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+10 dB, 16 MHz,ON, IF-CH2 : 10+10 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 4000 KHz, 6 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 2
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1412.0617 1412.0617 1340 1340 72.0617 72.0617 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C10 - painting
+C08 - ele problem
+C14 - lo1 unlock.
+S04 - Low fringe.
+
+21. Start and End Time of Obs.(IST): 13:00 - 22:30
+
+22. Comments (During Observations) :
+**** ONLINE BHASKAR ****
+**** AUTH IF @ 1390 MHz. **
+----------------------------
+13:00 setup started.
+13:12 scan started on 3c48 
+13:36 : Stopped the scan.
+13:37 : Started the command file /btemp2/cmd/singhal/ngc2715.cmd.
+
+15:00 : C08 started working.
+15:45 : C08 problematic.
+17:30 : C14 started working.
+
+18:51 : C10 started working.
+21:30 : C09 not working.
+22:13 : command file stopped.
+22:18 : Started scan on 3C286 for 10mins.
+22:30 : Observation stopped.
+
+
+

@@ -1,0 +1,43 @@
+1. Date : 16/09/2002
+2. Observation Sr. No. : 0806
+3. Observer : Poonam Chandra, Alak ray
+4. Observer's Email : akr@tifr.res.in,poonam@tifr.res.in
+5. Project Name : SN1993J
+6. Project Code : 02PAC01
+7. Operator(s) : Katore S.N.,Kudale S.S.,
+8. Command File : /temp2/data/cmd/poonam/16sept2002_sn1993j_610.cmd
+9. LTA File : /rawdata/16sep/02pca01_sn1993j_610.lta
+
+ANTENNA SETTINGS :
+
+10. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+11. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+12. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 16 MHz,ON, IF-CH2 : 14+14 dB, 16 MHz,ON
+13. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+14. CLK_SEL/Samp_Freq : 0
+15. Channels : 0:127:1
+16. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+17. Integration Time : 128 STA ~ 16.908 Sec.
+18. No of Antennas Working(Fringing) :27
+
+19. Name of Non-Working Antennas (with reason for each) :
+C01 : corr problem.
+C12 : power supply problem .
+S04 : 130 pol dead.
+
+20. Start and End Time of Obs.(IST): 10:15 - 14:02
+
+21. Comments (During Observations) :
+10:26 started scan on 3c147 for 10 min.
+10:38 started the command file
+	/temp2/data/cmd/poonam/sep16_610.cmd
+13:50 stopped the command file
+13:55 started the scan on 3c286 for 10m.
+14:02 Stopped observation
+
+
+

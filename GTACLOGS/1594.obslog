@@ -1,0 +1,51 @@
+		 GTAC Observation Log 
+
+1. Date : 06/08/2004
+2. Observation Sr. No. : 1594
+3. Observer : PS/JP
+4. Observer's Email : psubrama@iucaa.ernet.in,jerry@prl.ernet.in
+5. Project Name : SUNOBS
+6. Project Code : 06PSA01
+7. Operator(s) : Mangesh,
+	Sachin,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/psubrama/aug0604/sun.cmd
+9. LTA File : /rawdata/6aug/06psa01_sun6aug04.lta
+10. LogFlag File : /btemp2/logflags/06PSA01.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 244 MHz ,RF2 : 244 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 310 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 18+18 dB, 6 MHz,ON, IF-CH2 : 18+18 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 244 244 310 310 66 66 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+--
+
+21. Start and End Time of Obs.(IST): 01:30 - 18:03
+
+22. Comments (During Observations) :
+***** ONLINE BHASKAR **********
+***** AUTHIF @ 235 MHz. *******
+-------------------------------
+
+10:50 Started record on 3c147.
+11:05 Stopped  record.
+11:09 last 11 recs of scan#0 bad.
+12:19 C04 stopped, maintainance.(Ref. GCC)
+12:45 Scan# 6, sun transiting.
+	2sec file 06psa01_sun6aug04_2s.lta.2
+16:35 : C04 released for observation.
+18:03 : Observation finished.
+

@@ -1,0 +1,81 @@
+		 GTAC Observation Log 
+
+1. Date : 07/01/2010
+2. Observation Sr. No. : 4697
+3. Observer : Ujjwal Kumar
+4. Observer's Email : ujjwal@ncra.tifr.res.in
+5. Project Name : PSR OBS
+6. Project Code : 17_065
+7. Operator(s) : Jayprakash,
+	Navanath,
+	Nilesh,
+	Sachin,
+	Santaji,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /rawdata/6jan/17_065_suba2_6jan10.lta,
+	/rawdata/6jan/17_065_suba4_6jan10.lta,
+	/rawdata/6jan/17_065_suba4_6jan10.lta.1,
+	/rawdata1/6jan/17_065_suba2_6jan10.ltb,
+	/rawdata1/6jan/17_065_suba4_6jan10.ltb,
+	
+10. LogFlag File : /odisk/online1/logflags/SUBA2.FLAGS.9,
+	/odisk/online1/logflags/SUBA4.FLAGS.17,
+	
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+12 dB, 32 MHz,OFF, IF-CH2 : 24+12 dB, 32 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+S06 : No Fringe.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 21:00 - 14:30
+
+23. ONLINE Machine : Lenyadri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+******************************************************************
+        610 MHz SUBAR 4:
+C00 C04 C06 C08 C09 C10 C12 C14 S02 S03 S04 E03 E04 W02 W03 W04
+ante 16 7 3 20 24 4 12 2 10 27 28 29 18 21 13 14 15 
+cp 0;defs 4;suba 4
+ 
+
+        325 MHz  SUBAR 2:
+C01 C02 C03 C05 C11 C13 S01 E02 W01
+ante 9 6 5 1 19 9 11 26 17 8
+cp 0;defs 2;suba 2
+******************************************************************
+21:40 : Started power equalize.
+22:20 : Started phasing.
+02:00 : observation session over.
+******************************************************************
+
+07:18 : Phasing on 3C286.
+08:10 : Phasing on 1822-096.
+08:13 : Started pulsar observation.        
+09:05 : S-arm power failed.
+09:25 : S-arm power resumed.
+12:00 : MSEB power failure.
+12:05 : MSEB power resumed.
+13:10 : Power equilised on 1822-096.
+14:00 : Phasing on 1822-096.
+14:30 : Stopped observation.
+
+

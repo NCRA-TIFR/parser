@@ -1,0 +1,62 @@
+		 GTAC Observation Log 
+
+1. Date : 26/10/2013
+2. Observation Sr. No. : 6746
+3. Observer : Poonam Chandra,Wade,Stanley Peter Owocki,Jason H Grunhut,Mary Oksala,Veronique Petit,Sundqvist,ud-Doula
+4. Observer's Email : poonam@ncra.tifr.res.in,marmottecam@yahoo.ca,owocki@udel.edu,jason.grunhut@gmail.com,meo@udel.edu,Vpetit@udel.edu,mail@jonsundqvist.com,auu4@psu.edu
+5. Project Name : Low-frequency emission characteristics of the radio magnetospheres of OB stars
+6. Project Code : 25_083
+7. Operator(s) : Nilesh,Pramod,Surender
+8. Command File : /odisk/gtac/cmd/poonam/24-26oct/26oct-first.cmd
+9. LTA File : /gsbifrdata/26oct/25_083_26oct2013.lta,
+10. LogFlag File : /odisk/online1/logflags/25_083.FLAGS,
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : Realtime 
+15. GSB LTA : 8 
+16. GSB CTRL : ONLINE 
+17. GSB Fstop : ON 
+18. GAIN EQ : ON 
+19. Stokes : FullStokes
+20. Beam - 1 : OFF
+21. Beam - 2 : OFF
+22. ACQ BW : 33.33 MHz
+23. Final BW : 33.333333 MHz; Step # 0
+24. Maximum Channels : 256 
+25. Channel Numbers : 0:255:1 
+26. LO5 -1  : 149.00 
+27. LO5 -2  : 156.00 
+
+28. Frequency Parameters (TPA) : 591 591 540 540 51 51.
+29. Integration Time : 16.106112 Sec.
+30. No of Antennas Working(Fringing) at the begining :28
+
+31. Name of Non-Working Antennas (with reason for each) :
+S02 : ABC time out ( From Morning Counterweight painting work not released for observation ?)
+E03 : ABC time out.
+
+
+32. Note for Backup :
+
+33. Start and End Time of Obs.(IST): 02:50 - 07:41
+
+34. ONLINE Machine : Lenyadri
+
+35. No of Antennas Working(Fringing) at the end :28
+
+36. Comments (During Observations) :
+02:50 : Started scan on 3C48 for ~ 15.0324 min.
+03:14 : Started command file.
+        '/odisk/gtac/cmd/poonam/24-26oct/26oct-first.cmd'
+07:14 : Stopped command file.
+07:25 : Started scan on 3C2866.
+07:41 : Stopped command file and observing session is over.
+
+

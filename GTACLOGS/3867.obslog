@@ -1,0 +1,55 @@
+		 GTAC Observation Log 
+
+1. Date : 14/07/2008
+2. Observation Sr. No. : 3867
+3. Observer : Philip Lah
+4. Observer's Email : philiplah@ncra.tifr.res.in
+5. Project Name : ZCOSMOS
+6. Project Code : 14PLA01
+7. Operator(s) : Deepak,
+	Nilesh,
+	Rupsingh,
+	
+8. Command File : /odisk/gtac/cmd/philiplah/zcosmos.cmd
+9. LTA File : /rawdata/14jul/14pla01_14jul2008.lta,
+	/rawdata1/14jul/14pla01_14jul2008.ltb,
+	/rawdata/14jul/14pla01_14jul2008.lta.1,
+	/rawdata1/14jul/14pla01_14jul2008.ltb.1
+10. LogFlag File : /btemp2/logflags/14PLA01.FLAGS.9
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1040 MHz ,RF2 : 1040 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1110 MHz, ILO2 : 1110 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1040 1040 1110 1110 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 15:05 - 20:05
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : Indian polar   *********
+--------------------------------------------
+15:05 : Started default setting for 1280MHz.
+15:17 : Started scan on 3C286 for 10 minutes.
+15:34 : Started command file.
+16:30 : C13 servo time out.
+17:27 : C13 started working.
+22:02 : Command file stopped and observation over.
+--------------------------------------------------
+

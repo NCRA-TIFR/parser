@@ -1,0 +1,64 @@
+		 GTAC Observation Log 
+
+1. Date : 08/07/2012
+2. Observation Sr. No. : 6027
+3. Observer : Greg Paciga,Hans nguyen
+4. Observer's Email : paciga@astro.utoronto.ca,hans.nguyen369@gmail.com
+5. Project Name : The GMRT-EoR Project: Global Sky Model and Earth Occultation mapping for PSR B0823+26
+6. Project Code : 22_045
+7. Operator(s) : Navanath,
+	Rupsingh,
+	Santaji,
+	
+8. Command File : 
+9. LTA File : 
+10. LogFlag File : 
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 218 MHz, ILO2 : 218 MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 16 MHz,OFF, IF-CH2 : 24+4 dB, 16 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 16 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 16:138000-167000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 156 156 218 218 62 62.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :28
+
+27. Name of Non-Working Antennas (with reason for each) :
+S06 : Servo problem
+C05 : Servo ele run flag absent.
+
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 16:00 - 01:00
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+16:00 : Started setup.
+16:20 : Started power equalization on 3C147 @ 300counts
+16:30 : Power eq. done.
+16:35 : source (B1508+55)tracking ants ;
+        W06,W04,W02,S06,S03,S01,E06,E04,E02.
+      : Rest all ants positioned AZ=+190d,
+                                 EL=74d.
+16:45 : GSB trigger switched to "node1"
+16:50 : Started servo encoder recording.
+17:00 : S06 started working.
+17:30 : C05 started working.
+
+01:00 : Observation stopped.
+

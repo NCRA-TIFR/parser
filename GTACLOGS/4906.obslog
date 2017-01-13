@@ -1,0 +1,82 @@
+		 GTAC Observation Log 
+
+1. Date : 08/06/2010
+2. Observation Sr. No. : 4906
+3. Observer : Sandeep Sirothia
+4. Observer's Email : sirothia@ncra.tifr.res.in
+5. Project Name : Extra Galactic survey @ 150MHz
+6. Project Code : 18_031
+7. Operator(s) : Nilesh,
+	Rupsingh,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/sirothia/18_031_20100608a.cmd,
+	/odisk/gtac/cmd/sirothia/18_031_20100608b.cmd
+9. LTA File : /rawdata/8jun/18_031_8jun2010.lta,
+	/rawdata1/8jun/18_031_8jun2010.ltb,
+	/rawdata/8jun/18_031_8jun2010.lta.1,
+	/rawdata1/8jun/18_031_8jun2010.ltb.1,
+	
+10. GSB File : /gsbifrdata/8jun/18_031_8jun2010_gsb.lta
+11. LogFlag File : /odisk/online1/logflags/18_031.FLAGS.37
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 218 MHz, ILO2 : 218 MHz, IVLO1 : 62 MHz, IVLO2 : 62 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 2+12 dB, 16 MHz,ON
+15. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 156 156 218 218 62 62 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :22
+
+20. Name of Non-Working Antennas (with reason for each) :
+C01 : Off.
+C03 : Low fringe.
+C06 : 130pol no fringe GHB.
+S-arm : OFC Cut.
+21. Note for Backup :--
+
+22. Start and End Time of Obs.(IST): 17:30 - 07:00
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+ 2s data file
+ /rawdata/8jun/18_031_8jun2010_2s.lta,
+/rawdata1/8jun/18_031_8jun2010_2s.ltb,
+/gsbifrdata/8jun/18_031_8jun2010_gsb_2s.lta
+--------------------------------------------
+17:32 : Started scan on 3C386 for 15min.
+17:48 : Stopped scan.
+17:52 : Started command file
+       '/odisk/gtac/cmd/sirothia/18_031_20100608a.cmd'
+
+23:55 : Stopped command file.
+00:04 : Started next command file.
+       '/odisk/gtac/cmd/sirothia/18_031_20100608b.cmd'
+06:00 : Stopped command file.
+06:05 : Problem with online.(not accepting commands).
+
+Note : Restarted online subarray-4, user-4 and GHB daschain.
+
+DATA FILES :
+/rawdata/8jun/18_031_8jun2010.lta.1
+/rawdata1/8jun/18_031_8jun2010.ltb.1
+/rawdata/8jun/18_031_8jun2010_2s.lta.1
+/rawdata1/8jun/18_031_8jun2010_2s.ltb.1
+
+06:13 : Started scan on 'J218+4232'
+06:35 : Stopped scan.
+06:36 : Started scan on '3C48'
+07:09 : Stopped scan and closed observation session.
+
+
+

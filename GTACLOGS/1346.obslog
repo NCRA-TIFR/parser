@@ -1,0 +1,60 @@
+		 GTAC Observation Log 
+
+1. Date : 15/02/2004
+2. Observation Sr. No. : 1346
+3. Observer : S.Roy.
+4. Observer's Email : roy@ncra.tifr.res.in
+5. Project Name : HI ABSORPTION
+6. Project Code : 05SRA01
+7. Operator(s) : Mangesh,
+	Sanjay,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/roy/roy.snr.h1.cmd.1,
+	/btemp2/cmd/roy/roy.snr.h1.cmd.2
+9. LTA File : /rawdata/15feb/05sra01_snr.h1.lta,
+        /rawdata/15feb/05sra01_snr.h1.lta.1,
+        /rawdata1/15feb/05sra01_snr.h1.ltb,
+        /rawdata1/15feb/05sra01_snr.h1.ltb.1
+10. LogFlag File : /btemp2/logflags/05SRA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1422.4 MHz ,RF2 : 1422.4 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1350 MHz, ILO2 : 1350 MHz, IVLO1 : 72.4 MHz, IVLO2 : 72.4 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 2+2 dB, 16 MHz,ON, IF-CH2 : 2+2 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 4000 KHz, 6 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 2
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1422.4 1422.4 1350 1350 72.4 72.4 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+C03 : high cross counts.
+
+21. Start and End Time of Obs.(IST): 05:05 - 00:00
+
+22. Comments (During Observations) :
+05:05 started the scan on 3c286
+05:12 started the scan on 3c287
+05:35 started the command file
+      /temp2/data/cmd/roy/roy.snr.h1.cmd.1
+11:03 started the command file
+      /temp2/data/cmd/roy/roy.snr.h1.cmd.2
+************************************************
+data files are as follows
+/rawdata/15feb/05sra01_snr.h1.lta
+/rawdata/15feb/05sra01_snr.h1.lta.1
+/rawdata1/15feb/05sra01_snr.h1.ltb
+/rawdata1/15feb/05sra01_snr.h1.ltb.1
+************************************************
+13:00 C02 got rest, recovered after INITABC
+13:17 C04 servo time out.
+15:25 Stopped the scan & observation session.
+
+

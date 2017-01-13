@@ -1,0 +1,67 @@
+		 GTAC Observation Log 
+
+1. Date : 07/05/2004
+2. Observation Sr. No. : 1500
+3. Observer : HOTA
+4. Observer's Email : hota@ncra.tifr.res.in
+5. Project Name : UOF01@610
+6. Project Code : 05AHA01
+7. Operator(s) : Mangesh,
+	Manisha J.,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/hota/610.235.uof1.1.cmd,
+	/btemp2/cmd/hota/610.235.uof1.1a.cmd,
+	/btemp2/cmd/hota/610.235.uof1.2.cmd,
+	/btemp2/cmd/hota/610.235.uof1.3.cmd,
+	/btemp2/cmd/hota/610.235.uof1.4.cmd
+9. LTA File : /rawdata/7may/05aha01_uof1_610_235.lta,
+	/rawdata1/7may/05aha01_uof1_610_235.ltb
+10. LogFlag File : /btemp2/logflags/05AHA01.FLAGS.5
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 14+14 dB, 32 MHz,ON, IF-CH2 : 14+14 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C00 : painting.
+C03 : ABC T.O.
+C13 : ABC T.O.
+
+
+21. Start and End Time of Obs.(IST): 12:40 - 21:31
+
+22. Comments (During Observations) :
+ONLINE: bhaskar
+AuthIF @610-235 MHz.
+------------------------------------------
+
+12:40  Started scan on 3C147.
+12:52  Stopped scan on 3c147.
+13:12  Started cmd file 7may.cmd.1
+13:16  Stopped cmd file, changed obs plan.
+13:23  Started cmd file 610.235.uof1.1.cmd
+13:26  W04 (auto) parked, due to wind.
+18:46  S04 stow released antenna tracking the source
+       properly.
+18:58  C00 ABC got reset.
+19:12  Set the C00 and put it on the track.
+19:38  Stopped the command file.
+19:58  Started the command file
+           /btemp2/cmd/hota/610.235.uof1.4.cmd
+21:31  Stopped the command file. Closed the observation
+
+
+

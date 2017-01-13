@@ -1,0 +1,73 @@
+		 GTAC Observation Log 
+
+1. Date : 03/09/2005
+2. Observation Sr. No. : 2226
+3. Observer : BC Joshi
+4. Observer's Email : bcj@ncra.tifr.res.in
+5. Project Name : PSROBS_IA@610
+6. Project Code : 08MMA01
+7. Operator(s) : Deepak,
+	Jayprakash,
+	Jitendra,
+	Manisha J.,
+	Sanjay,
+	
+8. Command File : /atemp2/cmd/bcj/gmlpsr.03040905.cmd
+9. LTA File : /rawdata/3sep/08mma01_3-4sep.lta,
+	/rawdata1/3sep/08mma01_3-4sep.ltb
+10. LogFlag File : /atemp2/logflags/08MMA01.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,OFF, IF-CH2 : 16+16 dB, 32 MHz,OFF
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, OFF
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C13- no fringe
+C11 - USB-175 no fringe
+C09 - fluctuations
+c04 -High gain
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 18:13 - 11:00
+
+23. Comments (During Observations) :
+SCN OBJECT      RA(MEAN)     DEC(MEAN)    DATE        IST       RF(MHz) CW(kHz)   Nrecs
+  0 16002       19h40m51.34 +24d09'37.16" 03/Sep/2005 18:13:07  610.00  125.000  129
+  1 21001       19h52m53.15 +27d16'12.00" 03/Sep/2005 18:51:30  610.00  125.000  130
+  2 26000       20h07m51.13 +31d04'13.42" 03/Sep/2005 19:29:43  610.00  125.000  129
+  3 31001       20h15m19.17 +34d53'09.43" 03/Sep/2005 20:08:11  610.00  125.000  130
+  4 37001       20h30m48.72 +39d19'00.27" 03/Sep/2005 20:46:32  610.00  125.000  129
+  5 41001       20h42m15.15 +42d11'32.67" 03/Sep/2005 21:24:59  610.00  125.000  130
+  6 46000       21h03m08.06 +45d30'07.03" 03/Sep/2005 22:03:16  610.00  125.000  130
+  7 47002       20h59m47.29 +47d12'24.56" 03/Sep/2005 22:41:33  610.00  125.000  129
+  8 50001       21h12m12.79 +48d21'11.20" 03/Sep/2005 23:39:36  610.00  125.000  130
+  9 53002       21h22m21.54 +51d09'15.73" 04/Sep/2005 00:18:06  610.00  125.000  129
+ 10 56000       21h41m53.38 +51d51'05.06" 04/Sep/2005 00:56:20  610.00  125.000  130
+ 11 59000       21h55m37.44 +53d34'23.55" 04/Sep/2005 01:34:33  610.00  125.000  129
+ 12 G062000C    22h10m29.53 +55d11'13.65" 04/Sep/2005 02:12:47  610.00  125.000   55
+ 02:28 : Scan stopped, command file edited to cut down the time for points
+ 13 G062000N    22h10m29.47 +55d31'13.65" 04/Sep/2005 02:33:38  610.00  125.000   37
+ 14 G062000S    22h10m29.59 +54d51'13.65" 04/Sep/2005 02:45:23  610.00  125.000   37
+ 15 G062000E    22h11m49.59 +55d11'13.96" 04/Sep/2005 02:57:07  610.00  125.000   36
+ 16 G062000W    22h09m09.47 +55d11'13.35" 04/Sep/2005 03:08:52  610.00  125.000   37
+ 17 67001       22h32m08.50 +58d02'36.04" 04/Sep/2005 03:21:06  610.00  125.000  129
+ 18 72002       23h04m04.64 +61d00'16.03" 04/Sep/2005 03:59:21  610.00  125.000  130
+ 19 75000       23h29m18.15 +60d31'00.89" 04/Sep/2005 04:37:35  610.00  125.000  130
+ 20 80001       00h00m22.96 +62d18'37.81" 04/Sep/2005 05:15:49  610.00  125.000  129
+ 21 82000       00h20m26.40 +61d53'59.17" 04/Sep/2005 05:54:04  610.00  125.000  101
+--------
+11:00 Stopped observation, closed project.
+

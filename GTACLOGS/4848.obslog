@@ -1,0 +1,72 @@
+		 GTAC Observation Log 
+
+1. Date : 03/05/2010
+2. Observation Sr. No. : 4848
+3. Observer : Sandeep Sirothia
+4. Observer's Email : sirothia@ncra.tifr.res.in
+5. Project Name : Extra Galactic survey
+6. Project Code : 18_031
+7. Operator(s) : Deepak,
+	Nilesh,
+	Rupsingh,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/sirothia/18_031_20100502a.cmd,
+	/odisk/gtac/cmd/sirothia/18_031_20100502b.cmd
+9. LTA File : /rawdata/3may/18_031_03may2010.lta,
+	/rawdata1/3may/18_031_03may2010.ltb
+10. GSB File : /gsbifrdata/3may/18_031_3may2010_gsb.lta.1,
+	/gsbifrdata/3may/18_031_3may2010_gsb_2s.lta.1
+11. LogFlag File : /odisk/online1/logflags/18_031.FLAGS.16
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 218 MHz, ILO2 : 218 MHz, IVLO1 : 62 MHz, IVLO2 : 62 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+15. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 156 156 218 218 62 62 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :23
+
+20. Name of Non-Working Antennas (with reason for each) :
+C01:off
+C03:ABC time out.
+W01:ABC time out.
+W06:Servo problem.
+S03,S04,S06: No power.
+-------------------------
+GSB : LO5 problem.
+ 130 pol of arm antennas is not fringing in GSB.
+
+21. Note for Backup :--
+
+22. Start and End Time of Obs.(IST): 18:30 - 07:00
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : UsbPolar
+
+25. Comments (During Observations) :
+2s data files.
+    /rawdata/3may/18_031_03may2010_2s.lta,
+    /rawdata1/3may/18_031_03may2010_2s.ltb
+
+
+------------------------------------------------
+18:37 : Started scan on 3C147.
+19:03 : Stopped scan.
+19:11 : Started command file.
+20:35 : Stopped command file due to high wind.
+20:54 : Restarted command file.
+21:30 : Stopped command file due to high wind.
+21:47 : Electrical Power Failure.
+        power not resumed till 0700 Hrs.
+
+
+

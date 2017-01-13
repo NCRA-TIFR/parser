@@ -1,0 +1,73 @@
+		 GTAC Observation Log 
+
+1. Date : 20/6/2011
+2. Observation Sr. No. : 5401
+3. Observer : Chen,Zhiqiang Shen
+4. Observer's Email : zshen@shao.ac.cn,ishwar@ncra.tifr.res.in
+5. Project Name : Searching for radio continuum emission of local dwarf spheroidal galaxies at low frequencies
+6. Project Code : 20_075
+7. Operator(s) : Nilesh,
+	Rupsingh,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/chen/20_075_20jun.cmd
+9. LTA File : /gsbifrdata/20jun/20_075_20jun2011.lta,
+	/gsbifrdata/20jun/20_075_20jun2011.lta.1,
+	
+10. LogFlag File : /odisk/online1/logflags/20_075.FLAGS,
+	/odisk/online1/logflags/20_075.FLAGS.1,
+	
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 218 MHz, ILO2 : 218 MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+12 dB, 16 MHz,ON, IF-CH2 : 10+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Full_Polar
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 16 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 16:138000-167000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 156 156 218 218 62 62.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :29
+
+27. Name of Non-Working Antennas (with reason for each) :
+C12 : NO Fringe.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 18:00 - 04:00
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+17:45 : Wind speed normal.
+        started settings for observation 20_075.
+18:15 : Started scan on 3c286 for ~15min.
+18:30 : Started command file.
+        '/odisk/gtac/cmd/chen/20_075_20jun.cmd'.
+
+19:30 : Network problem. due to "192.168.4.*" network problem communication
+        to GSB cluster can not be done. Still GSB data aquisition was running.
+20:08 : finally stopped GSB data aquisition chain. data monitoring not possible
+        from control-room.
+20:10 : Reboot given to network switch. Problem still persists.
+
+21:10 : Network looks ok. Started GSB acquisition chain.
+21:14 : Started scan on 3c286 for ~11min.
+21:27 : Started command file.
+        '/odisk/gtac/cmd/chen/20_075_20jun.cmd'.
+03:43 : Stopped command file.
+03:48 : Started scan on 3C48.
+04:00 : Stopped scan & observation session over.
+
+

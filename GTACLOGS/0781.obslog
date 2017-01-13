@@ -1,0 +1,52 @@
+1. Date : 28/08/2002
+2. Observation Sr. No. : 0781
+3. Observer : Amitesh Omar
+4. Observer's Email : aomar@rri.res.in
+5. Project Name : Erid
+6. Project Code : 02AOA01
+7. Operator(s) : Galande M.M.,Jangam M.S.,Kamble J.R.,Kudale S.S.,Umbarje M.S.,
+8. Command File : /temp2/data/cmd/ng/325-hi.cmd,/temp2/data/cmd/aomar/02aoa01.cmd
+9. LTA File : /rawdata/28aug/02aoa01_ngcal.lta
+
+ANTENNA SETTINGS :
+
+10. RF Freq(MHz) & Solar Attn(dB)- RF1 : 325 MHz ,RF2 : 325 MHz, SA1 : 0 dB, SA2 : 0 dB
+11. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 255 MHz, ILO2 : 255 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+12. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,on, IF-CH2 : 16+16 dB, 32 MHz,on
+13. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, on
+
+CORREATOR SETTINGS :
+
+14. CLK_SEL/Samp_Freq : 0
+15. Channels : 1:127:1
+16. Frequency Parameters (TPA) : 325 325 255 255 70 70 
+
+17. Integration Time : 128 STA ~ 16.908 Sec.
+18. No of Antennas Working(Fringing) :28
+
+19. Name of Non-Working Antennas (with reason for each) :
+W01 : no fringe.
+C13 : PM
+
+
+20. Start and End Time of Obs.(IST): 01:18 - 09:55
+
+21. Comments (During Observations) :
+01:18  Moved antennas on to 3c48. Started the command file 
+             /temp2/data/cmd/ng/325-hi.cmd
+
+02:01  Stopped the command file.
+
+02:24  Moved antennas on to 0409-179. Started the
+       command file /temp2/data/cmd/ng/325-hi.cmd.
+       W06 giving "delay out of range" on 0409-179
+
+02:49  Stopped the command file.
+02:50  Started the command file 
+           /temp2/data/cmd/aomar/02aoa01.cmd
+
+09:25  Stopped the command file. Source NGC1371 got set.
+       Antennas moved to source 3C147.
+09:35  Started scan on 3C147.
+09:55  Stopped the scan. Stopped the observation.
+

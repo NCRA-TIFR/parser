@@ -1,0 +1,68 @@
+		 GTAC Observation Log 
+
+1. Date : 29/3/2014
+2. Observation Sr. No. : 7043
+3. Observer : Stephen John Curran,Matthew Whiting,Dick Hunstead,Elaine Sadler,James Richard Allison,Ramana Athreya,Helen Johnston
+4. Observer's Email : sjc@physics.usyd.edu.au,Matthew.Whiting@csiro.au,rwh@physics.usyd.edu.au,ems@physics.usyd.edu.au,jra@physics.usyd.edu.au,rathreya@iiserpune.ac.in,helenj@physics.usyd.edu.au
+5. Project Name : A Cosmic Census of the Star Forming Reservoir in Active Galaxies I: The High Redshifts
+6. Project Code : 25_020
+7. Operator(s) : Manisha,Nilesh,
+8. Command File : /odisk/gtac/cmd/25_020/29mar/obs_0014+813.cmd,/odisk/gtac/cmd/25_020/29mar/obs_0032+276.cmd,
+9. LTA File : /gsbifrdata/29mar/25_020_29mar2014_2s.lta,/gsbifrdata/29mar/25_020_29mar2014_2s.lta.1,
+10. LogFlag File : /odisk/online1/logflags/25_020.FLAGS.22,/odisk/online1/logflags/25_020.FLAGS.21,
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 314.9175 MHz ,RF2 : 314.9175 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255 MHz , IVLO1 : 59.9175 MHz, IVLO2 : 59.9175 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+12 dB, 32 MHz,ON, IF-CH2 : 10+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : Realtime 
+15. GSB LTA : 8 
+16. GSB CTRL : ONLINE 
+17. GSB Fstop : ON 
+18. GAIN EQ : ON 
+19. Stokes : TotIntensity
+20. Beam - 1 : OFF
+21. Beam - 2 : OFF
+22. ACQ BW : 16.67 MHz
+23. Final BW : 4.17 MHz; Step # 2
+24. Maximum Channels : 512 
+25. Channel Numbers : 0:511:1 
+26. LO5 -1  : 140.00 
+27. LO5 -2  : 165.00 
+
+28. Frequency Parameters (TPA) : 314.9175 314.9175 255 255 59.9175 59.9175.
+29. Integration Time : 16.106112 Sec.
+30. No of Antennas Working(Fringing) at the begining :24
+
+31. Name of Non-Working Antennas (with reason for each) :
+S02 : Servo Stow problem.
+W04 : RFI lines.
+E06 : RFI lines.
+E03 : Maintenance.
+C08 : Taken for CST Painting.
+W02 : Painting.
+
+32. Note for Backup :
+
+33. Start and End Time of Obs.(IST): 12:00 - 15:07
+
+34. ONLINE Machine : Lenyadri
+
+35. No of Antennas Working(Fringing) at the end :24
+
+36. Comments (During Observations) :
+11:53 : Started settings for observation.
+12:03 : Started scan on 3c48 for 10min.
+12:16 : Started command file.
+        '/odisk/gtac/cmd/25_020/29mar/obs_0014+813.cmd'.
+
+13:39 : Stopped command file and settings changed.
+13:45 : Started next command file.
+        '/odisk/gtac/cmd/25_020/29mar/obs_0032+276.cmd'.
+
+15:07 : Stopped observation session.
+

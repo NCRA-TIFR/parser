@@ -1,0 +1,55 @@
+		 GTAC Observation Log 
+
+1. Date : 20/04/2005
+2. Observation Sr. No. : 2019
+3. Observer : ISHWAR
+4. Observer's Email : ishwar@ncra.tifr.res.in,jmparedes@ub.edu,jmarti@ujaen.es
+5. Project Name : EGRET
+6. Project Code : 07JMP01
+7. Operator(s) : Manish G.,
+	Sachin,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/jmp/jmp1.cmd
+9. LTA File : /rawdata/20apr/07jmp01_20apr.lta,
+	/rawdata1/20apr/07jmp01_20apr.ltb
+10. LogFlag File : /btemp2/logflags/07JMP01.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1400 MHz ,RF2 : 1400 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1330 MHz, ILO2 : 1330 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 18+18 dB, 32 MHz,ON, IF-CH2 : 18+18 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1400 1400 1330 1330 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+-
+
+21. Start and End Time of Obs.(IST): 00:18 - 10:10
+
+22. Comments (During Observations) :
+*** ONLINE: bhaskar  ***
+*** AUTHIF: 1390 MHz ***
+------------------------------
+
+00:18  Started scan on 3C286.
+00:33  Stopped the scan. Antennas moved to 1743-038.
+00:44  Started command file:
+	/btemp2/cmd/jmp/jmp1.cmd
+09:01  Stopped command file.
+09:02  Took manual scan on 2052+365 for 5mins.
+09:11  Half an hour scan on 3EGJ2035V.
+09:45  Taken phase cal 2052+365.
+09:55  15 mins scan on 3C48.
+10:10  Stopped recording & closed observation.
+
+

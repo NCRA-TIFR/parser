@@ -1,0 +1,66 @@
+		 GTAC Observation Log
+
+1. Date : 17/01/2015
+2. Observation Sr. No. : 7558
+3. Observer : Jaroslaw Kijak, Rahul Basu, Marta Dembska, Wojciech Lewandowski, Karolina Rozko
+4. Observer's Email : jkijak@astro.ia.uz.zgora.pl, rbasu@ncra.tifr.res.in, marta@astro.ia.uz.zgora.pl, boe@astro.ia.uz.zgora.pl, krozko@gmail.com
+5. Project Name : Low frequency study of GPS pulsars - Interferometric imaging method
+6. Project Code : 27_031
+7. Operator(s) : Deepak, Navnath, Nilesh, Pramod
+8. Command File : /odisk/gtac/cmd/27_031/27_031a.cmd
+9. LTA File : /gsbifrdata/17jan/27_031_17jan2015_16s.lta.1,/gsbifrdata/17jan/27_031_17jan2015_16s.lta,/gsbifrdata1/17jan/27_031_17jan2015_2s.lta
+10. LogFlag File : /odisk/online1/logflags/27_031.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+10 dB, 32 MHz,OFF, IF-CH2 : 24+10 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 306 306 255 255 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :26
+
+32. Name of Non-Working Antennas (with reason for each) :
+E06 : : Fringe Fluctuations.
+W03 : : Optical fiber cut.
+W04 : : Optical fiber cut.
+W05 : : Optical fiber cut.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 17 Jan 2015 07:00:00 - 17 Jan 2015 15:35:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :26
+
+37. Comments (During Observations) :
+06:50 : Started settings for observation.
+07:10 : Started scan on 3c286 for ~ 15min.
+07:31 : Started command file.
+11:04 : E04 taken for maintenance.
+11:05 : E06 taken for maintenance.
+11:27 : E06 released for observation.
+15:25 : Started scan on flux cal.
+15:35 : Observation session over.
+
+

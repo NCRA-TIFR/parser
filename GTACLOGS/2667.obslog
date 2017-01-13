@@ -1,0 +1,87 @@
+		 GTAC Observation Log 
+
+1. Date : 19/06/2006
+2. Observation Sr. No. : 2667
+3. Observer : Neeraj
+4. Observer's Email : neeraj@ncra.tifr.res.in
+5. Project Name : MG2
+6. Project Code : 10RSA01
+7. Operator(s) : Deepak,
+	Manish G.,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/neeraj/mg2358.cmd
+9. LTA File : /rawdata/19jun/10rsa01_2358_2.lta,
+	/rawdata1/19jun/10rsa01_2358_2.ltb
+10. LogFlag File : /btemp2/logflags/10RSA01.FLAGS.7
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 652.54 MHz ,RF2 : 652.54 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 580 MHz, ILO2 : 580 MHz, IVLO1 : 72.54 MHz, IVLO2 : 72.54 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 16 MHz,ON, IF-CH2 : 16+16 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 2000 KHz, 9 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 3
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 652.54 652.54 580 580 72.54 72.54 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C05 : Applying brakes frequently.
+E02 : Unstable fringe. 
+E05 : Azimuth brake prob.
+S06 : ABC timeout.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 03:50 - 11:40
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : USBHighRes   *********
+******** IF Attn : AUTHIF @ 610 MHz *********
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+---------------------------------------------
+
+03:51  Observed 3C48 for 20 mins.
+04:26  Started command file:
+         /btmep2/cmd/neeraj/mg2358.cmd
+06:50  Stopped the command file.
+       Observed 3C48 for 10 mins.
+
+07:15 : Restarted command file.
+07:55 : C01 got ABC reset.
+08:21 : W02 parked for painting.
+08:56 : MSEB power failed.
+09:10 : Power on CSQ ants resumed, restarted obs using 
+      : only CSQ.
+09:30 : Power failed and resumed on all antennas(except S-arm).
+09:58 : Restrated obs with CSQ+E-arm+W-arm(except, C01,
+        E06,W02) 
+      : C01 failed, srv problem.
+      : E06 failed ABC  T.O.
+10:05 : S-arm power resumed, 
+10:11 : All antenna set to RF and restarted observation.
+      : Currently not working antennas.
+      : C01 - servo brake problem
+      : E06 - ABC T.O.
+      : S04 - Servo Brake problem.
+10:23 : Power failed and resuemd immediately.
+10:45 : Restarted observation
+      : Problem:W02-painting,S04,C01-servo problem.
+
+11:20 : Started scan on 3C48 for 20mins.
+11:40 : Observation stopped.
+

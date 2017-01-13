@@ -1,0 +1,56 @@
+1. Date : 07/09/2002
+2. Observation Sr. No. : 0800
+3. Observer : Jayaram,Ayesha.
+4. Observer's Email : cheangalu@ncra.tifr.res.in,ayesha@ncra.tifr.res.in
+5. Project Name : OHM
+6. Project Code : 02JNC02
+7. Operator(s) : Katore S.N.,Umbarje M.S.,
+8. Command File : /temp2/data/cmd/ohm.cmd
+9. LTA File : /rawdata/7sep/02jnc02_ohm_usb.lta,/rawdata1/7sep/02jnc02_ohm_lsb.lta
+
+ANTENNA SETTINGS :
+
+10. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+11. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+12. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 32 MHz,ON, IF-CH2 : 12+12 dB, 32 MHz,ON
+13. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+14. CLK_SEL/Samp_Freq : 0
+15. Channels : 0:127:1
+16. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+17. Integration Time : 256 STA ~ 33.817 Sec.
+18. No of Antennas Working(Fringing) :27
+
+19. Name of Non-Working Antennas (with reason for each) :
+C10:PM.
+
+LSB:S04: corr problem.
+    W02: corr problem.
+
+
+
+20. Start and End Time of Obs.(IST): 09:00 - 00:00
+
+21. Comments (During Observations) :
+09:25 started scan on 3c147
+09:50 started the command file
+      /temp2/data/cmd/ohm.cmd
+11:38 started the scan on 3c147
+	
+12:00 restarted the command file.
+16:50 stopped command file.
+16:57 started scan on 3c286 for 15min.
+17:17 Started scan on 1313+675 for 10min.
+17:37 Restarted command file.
+      /temp2/data/cmd/ohm.cmd.
+18:38 Stopped command file.
+18:41 Started scan on 1313+675 for 10min.
+18:48 Stopped scan.
+18:50 Started scan on 3c286.
+19:05 stopped project.
+
+
+

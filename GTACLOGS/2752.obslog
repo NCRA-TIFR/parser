@@ -1,0 +1,73 @@
+		 GTAC Observation Log 
+
+1. Date : 30/07/2006
+2. Observation Sr. No. : 2752
+3. Observer : Neeraj,Shrianand
+4. Observer's Email : neeraj@ncra.tifr.res.in
+5. Project Name : TOO
+6. Project Code : 06DT038
+7. Operator(s) : Sachin,
+	
+8. Command File : /btemp2/cmd/neeraj/mg2358.cmd
+9. LTA File : /rawdata/30jul/06dt038_30jul06.lta,
+	/rawdata1/30jul/06dt038_30jul06.ltb,
+	/rawdata/30jul/06dt038_30jul06.lta.1,
+	/rawdata1/30jul/06dt038_30jul06.ltb.1
+10. LogFlag File : /btemp2/logflags/06DT038.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 653.52 MHz ,RF2 : 653.52 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 585 MHz, ILO2 : 585 MHz, IVLO1 : 68.52 MHz, IVLO2 : 68.52 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 6 MHz,ON, IF-CH2 : 16+16 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 500 KHz, 15 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 5
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 653.52 653.52 585 585 68.52 68.52 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+--
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 23:00 - 10:00
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+******** IF Attn : AUTHIF @ 610-235 MHz *********
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+---------------------------------------------
+23:20 : Started scan on 3C468.1 for 18 mins.
+23:51 : Started scan on phase cal. for 15 mins.
+00:10 : Started command file.
+01:38 : Stopped command file.
+01:42 : Started scan on 3C48 for 15 mins.
+01:57 : Stopped scan on 3C48.
+02:00 : Restarted command file.
+05:47 : Stopped command file.
+05:55 : Started scan on 3C48 for 15 mins.
+06:10 : Stopped scan on 3C48.
+06:15 : Restarted command file.
+08:30 : Command file stopped.
+08:36 : Started scan on 3C48 for 15mins.
+09:00 : Started new lta files.
+
+09:05 : started scan on 3C48 for 8mins.
+09:18 : Started scan on 0741+312 for 10mins.
+09:30 : Started scan on J0812+2522.
+10:00 : OBservation stopped.
+

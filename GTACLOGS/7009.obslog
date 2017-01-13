@@ -1,0 +1,82 @@
+		 GTAC Observation Log 
+
+1. Date : 15/3/2014
+2. Observation Sr. No. : 7009
+3. Observer : Richard Shaw,Ue Li Pen,Liam Connor,Gregory Paciga,Hans Nguyen,Jayanta Roy,Yashwant Gupta,TirthankarRoy Choudhury,Jeff Peterson,Tabitha Christine Voytek,Tzu-Ching Chang,Yu-Wei Liao,Jon Sievers,María Montero-Castaño,Adrian Chi-Yan Liu,Steve Myers
+4. Observer's Email : jrs65@cita.utoronto.ca,pen@cita.utoronto.ca,connor@astro.utoronto.ca,paciga@astro.utoronto.ca,hans.nguyen@utoronto.ca,jroy@ncra.tifr.res.in,ygupta@ncra.tifr.res.in,tirth@hri.res.in,jbp@cmu.edu,tcv@andrew.cmu.edu,tcchang@asiaa.sinica.edu.tw,ywliao@asiaa.sinica.edu.tw,sievers@cita.utoronto.ca,mmontero@astro.columbia.edu,acliu@mit.edu,smyers@nrao.edu
+5. Project Name : The GMRT-EoR Project: Reinforcing the Ring
+6. Project Code : 25_068
+7. Operator(s) : Deepak,Manisha,Nilesh,Pramod,Surender
+8. Command File : 
+9. LTA File : /gsbifrdata/15mar//25_068_15mar2014_suba4.lta,/gsbifrdata/15mar//25_068_15mar2014_suba2.lta,
+10. LogFlag File : /odisk/online1/logflags/25_068.FLAGS.2,
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 218 MHz, ILO2 : 218 MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 16 MHz,OFF, IF-CH2 : 24+4 dB, 16 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : Realtime 
+15. GSB LTA : 8 
+16. GSB CTRL : ONLINE 
+17. GSB Fstop : ON 
+18. GAIN EQ : OFF 
+19. Stokes : TotIntensity
+20. Beam - 1 : IA
+21. Beam - 2 : PA
+22. ACQ BW : 16.67 MHz
+23. Final BW : 16.666666 MHz; Step # 0
+24. Maximum Channels : 256 
+25. Channel Numbers : 0:255:1 
+26. LO5 -1  : 138.00 
+27. LO5 -2  : 167.00 
+
+28. Frequency Parameters (TPA) : 156 156 218 218 62 62.
+29. Integration Time : 16.106112 Sec.
+30. No of Antennas Working(Fringing) at the begining :27
+
+31. Name of Non-Working Antennas (with reason for each) :
+S01 : ABC time-out.
+E02 : Painting 
+E05 : Servo problem.
+32. Note for Backup :
+
+33. Start and End Time of Obs.(IST): 07:00 - 18:06
+
+34. ONLINE Machine : Lenyadri
+
+35. No of Antennas Working(Fringing) at the end :27
+
+36. Comments (During Observations) :
+Suba2(S1):  S1: Central square plus W3, E3 and S3 
+Suba4(S2):  S2: All other antennas (this array will be tracking sources)
+-----------------------------------------------------------------------
+07:00 : Started set-up.
+07:40 : RFI is appeared. 
+07:45 : Power eq done on 3C286.
+07:50 : Halted the GSB and gsb switch the trigger to node1.
+07:50 : Started antennas tracking on B1919+21.
+07:30 : Started antennas tracking on B1929+10.
+09:50 : S01 Started working.
+10:17 : Started (Step 4 ) suba 4 antennas tracking on B2217+47 and 
+       suba2 antennas on the meridian at a declination of +47 degrees.
+10:37 : E05 is released for observation. 
+13:55 : Started step 5
+14:15 : Started step 6a
+14:42 : C00 taken for maintenance.
+14:55 : W02 Released for observation. 
+14:55 : Started step 6b
+15:23 : Started step 6c
+15:51 : Started step 6d
+16:24 : Started step 6e
+16:48 : C00 released for observation.
+16:50 : Started step 6f
+17:16 : Started step 6g
+17:42 : Started step 6h
+18:06 : observation session is over.
+
+
+

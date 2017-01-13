@@ -1,0 +1,42 @@
+1. Date : 07/03/2002
+2. Observation Sr. No. : 492
+3. Observer & email : Poonam Chandra/poonam@tifr.res.in
+4. Project Name & Code : SN1993J / 01PCA01
+5. Operator(s) : Manisha.
+6. Command File/Source  & Lta File : /temp2/data/cmd/poonam/sn1979_325.cmd
+                                   : /rawdata/7mar/01pca01_sn1979c.lta
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 : 325 MHz., 0 dB., OFF.
+8. Ist LO (MHz) & IVth LO (MHz) : 255 MHz., 70.00 MHz. 
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status :16+16 dB., 32 MHz., ON.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status : 16 MHz., 0 dB., ON.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 0/0
+12. Channels : 0:127:1
+13. Frequency Parameters (TPA) : 325 325 255 255 70 70
+
+14. Integration Time (Sec.) : 16 sec ( 16 * 8m ).
+15. No of Antennas Working(Fringing) : 27.5
+16. Name of Non-Working Antennas (with reason for each) :
+
+    E06  Mech work.
+	S03  175 pole bad.
+	C11  Huge RFI.
+
+17. Starting and Ending time of Observations (IST) : 00:59 - 07:10
+
+18. Comments (During Observations) :
+
+	01:54	W05 started ABC time out.
+	02:37	E04 got ABC reset.
+	02:41	E04 ABC not getting initilised.
+	03:15	W04 flat bandshape!
+	03:22	W04 started working (reran corr_config !).
+	06:40	Scan # 18 records from 74 to 93 (end of scan) is bad.
+	06:50	das scan started on 3c286(flux cal)
+
+19. Data Backup files & Tape No. :

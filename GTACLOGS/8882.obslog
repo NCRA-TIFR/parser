@@ -1,0 +1,73 @@
+		 GTAC Observation Log
+
+1. Date : 10/09/2016
+2. Observation Sr. No. : 8882
+3. Observer : Veeresh Singh, C.H. IshwaraChandra, Preeti Kharb, Shweta Srivastava
+4. Observer's Email : veeresh.iia@gmail.com, ishwar@ncra.tifr.res.in, preeti.kharb@gmail.com, srivashweta@gmail.com
+5. Project Name : Probing multiple episodes of AGN activity in a newly discovered triple-double radio galaxy J1216\\+0709 using GMRT multi-frequency observations
+6. Project Code : 30_041
+7. Operator(s) : Deepak, Pramod, Rupsing, Sachin
+8. Command File : /odisk/gtac/cmd/30_041/obs.cmd
+9. LTA File : /gsbifrdata1/10sep/30_041_10sep2016.lta
+10. LogFlag File : /odisk/online1/logflags/TST1512.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 218 MHz, ILO2 : 218MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 16 MHz,ON, IF-CH2 : 4+14 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 0 MHz; Step # 0
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 138
+28. LO5 -2  : 167
+
+29. Frequency Parameters (TPA) : 156 156 218 218 62 62
+30. Integration Time : 8.053 Sec
+31. No of Antennas Working(Fringing) at the beginning :28
+
+32. Name of Non-Working Antennas (with reason for each) :
+E03 : No fringe.
+E04 : No fringe.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 10 Sep 2016 09:00:00 - 10 Sep 2016 15:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :28
+
+37. Comments (During Observations) :
+09:22:31 : Started scan on 3C147 for ~ 0.53687 min.
+09:28:18 : Started scan on 3C286 for ~ 11.4085 min.
+09:53:01 : Started scan on J1216+0709 for ~ 9.1268 min.
+10:04:04 : Started scan on 1347+122 for ~ 3.89231 min.
+10:09:39 : Started scan on J1216+0709 for ~ 39.9968 min.
+10:51:18 : Started scan on 1347+122 for ~ 3.89231 min.
+10:56:58 : Started scan on J1216+0709 for ~ 39.9968 min.
+11:38:38 : Started scan on 1347+122 for ~ 3.89231 min.
+11:44:10 : Started scan on J1216+0709 for ~ 39.9968 min.
+12:26:40 : Started scan on 1347+122 for ~ 3.89231 min.
+12:36:30 : Started scan on J1216+0709 for ~ 39.9968 min.
+13:19:21 : Started scan on 1347+122 for ~ 3.89231 min.
+13:26:27 : Started scan on J1216+0709 for ~ 39.9968 min.
+14:10:48 : Started scan on 1347+122 for ~ 3.89231 min.
+14:19:19 : Started scan on J1216+0709 for ~ 39.9968 min.
+15:02:16 : Started scan on 1347+122 for ~ 4.16075 min.
+15:12:41 : Started scan on 3C286 for ~ 16.5088 min.
+15:30 : Stopped scan and observation session is over.
+

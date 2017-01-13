@@ -1,0 +1,52 @@
+		 GTAC Observation Log 
+
+1. Date : 28/12/2002
+2. Observation Sr. No. : 1253
+3. Observer : NEERAJ
+4. Observer's Email : neeraj@ncra.tifr.res.in
+5. Project Name : H1_MRC 
+6. Project Code : 05NGA02
+7. Operator(s) : Manish G.,
+	Jayprakash,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/neeraj/0952.cmd
+9. LTA File : /rawdata/28dec/05nga02_0952.lta
+10. LogFlag File : /btemp2/logflags/05NGA02.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1154.682 MHz ,RF2 : 1154.682 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1085 MHz, ILO2 : 1085 MHz, IVLO1 : 69.682 MHz, IVLO2 : 69.682 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+10 dB, 16 MHz,ON, IF-CH2 : 10+10 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 4000 KHz, 6 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 2
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1154.682 1154.682 1085 1085 69.682 69.682 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C12 : Feed jammed.
+E02 : El brake problem.
+W05 : Day Time Painting.
+
+
+21. Start and End Time of Obs.(IST): 23:00 - 07:46
+
+22. Comments (During Observations) :
+###################################
+# ONLINE: Bhaskar
+# IFATTN: AUTHIF for 1170 MHz.
+###################################
+23:16 started the scan on 3c48 for 20 min
+23:50 started the command file
+        /temp2/data/cmd/neeraj/0952.cmd
+07:17 : Stopped the command file.
+07:25 : Started scan on 3c286 for 20min.
+07:49 : Stopped scan & observation.
+

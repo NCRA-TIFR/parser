@@ -1,0 +1,56 @@
+		 GTAC Observation Log 
+
+1. Date : 03/01/2003
+2. Observation Sr. No. : 0922
+3. Observer : Prof. D. J. Saikia & Neera Gupta
+4. Observer's Email : djs@ncra.tifr.res.in,neeraj@ncra.tifr.res.in
+5. Project Name : 0657+68
+6. Project Code : 03SJA01
+7. Operator(s) : Manisha J.,
+	Jitendra,
+	Sanjay,
+	
+8. Command File : /temp2/data/cmd/neeraj/1153+317.cmd
+9. LTA File : /rawdata/3jan/03sja01_1153.lta
+10. LogFlag File : /temp2/data/logflags/03SJA01.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 997.697 MHz ,RF2 : 997.697 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 930 MHz, ILO2 : 930 MHz, IVLO1 : 67.697 MHz, IVLO2 : 67.697 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 8+8 dB, 16 MHz,ON, IF-CH2 : 8+8 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 997.697 997.697 930 930 67.697 67.697 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+S03 : Servo off mode.
+E02 : servo prob.
+
+21. Start and End Time of Obs.(IST): 00:57 - 11:00
+
+22. Comments (During Observations) :
+00:57	started scan on 3C147 for ~ 20mins.
+01:18	stopped scan.
+01:23	started command file.
+04:48	stopped command file.
+	antennas moved to 3C286.
+04:50	started scan on 3C286 ~ 15 mins.
+05:07	restarted command file.
+07:33   MSEB power failed, stopped cmd file.
+07:50   Restarted cmd file. Only CSQ ants working.
+        C00 - ABC T.O., C13 - MCM T.O.
+
+09:50   MSEB Power resumed.
+10:30   Started record on 3c286.
+11:00   Stopped record, das project.
+
+
+

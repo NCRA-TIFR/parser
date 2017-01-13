@@ -1,0 +1,51 @@
+		 GTAC Observation Log 
+
+1. Date : 27/08/2004
+2. Observation Sr. No. : 1631
+3. Observer : Poonam Chandra
+4. Observer's Email : poonam@tifr.res.in
+5. Project Name : SN2003BG
+6. Project Code : 06PCA01
+7. Operator(s) : Manisha J.,
+	Jayprakash,
+	Sachin,
+	
+8. Command File : /btemp2/cmd/poonam/sn2003bg_610.cmd
+9. LTA File : /rawdata/27aug/06pca01_sn2003bg.lta,
+	/rawdata1/27aug/06pca01_sn2003bg.ltb
+10. LogFlag File : /btemp2/logflags/06PCA01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 325 MHz ,RF2 : 325 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 255 MHz, ILO2 : 255 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 325 325 255 255 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+S04 : Unstable fringe.
+
+21. Start and End Time of Obs.(IST): 03:42 - 09:20
+
+22. Comments (During Observations) :
+** ONLINE : BHASKAR ***
+*** AUTHIF : 325 MHz ***
+-------------------------------
+
+03:42	started scan on 3c48 ~15mins.
+04:	started cmdfile.
+08:48 : Stopped the command file.
+08:50 : Started scan on phase cal.
+08:56 : Stopped the scan.
+09:04 : Started scan on 3c147.
+09:20 : Stopped the scan & observation session.
+

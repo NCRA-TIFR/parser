@@ -1,0 +1,110 @@
+		 GTAC Observation Log 
+
+1. Date : 02/11/2007
+2. Observation Sr. No. : 3422
+3. Observer : D. J. Saikia
+4. Observer's Email : djs@ncra.tifr.res.in
+5. Project Name : DLA
+6. Project Code : 13RSA01
+7. Operator(s) : Deepak,
+	Jayprakash,
+	Navanath,
+	Sachin,
+	Santaji,
+	
+8. Command File : /atemp2/cmd/djs/mg0802.cmd,
+	/atemp2/cmd/djs/mg1607.cmd
+9. LTA File : /rawdata/2nov/13rsa01_02nov2007.lta,
+	/rawdata1/2nov/13rsa01_02nov2007.ltb,
+	/rawdata/2nov/13rsa01_02nov2007.lta.1,
+	/rawdata1/2nov/13rsa01_02nov2007.ltb.1
+10. LogFlag File : /atemp2/logflags/13RSA01.FLAGS,
+	/atemp2/logflags/13RSA01.FLAGS.1,
+	/atemp2/logflags/13RSA01.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 600.173 MHz ,RF2 : 600.173 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 530 MHz, ILO2 : 530 MHz, IVLO1 : 70.173 MHz, IVLO2 : 70.173 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 6 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 1000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 600.173 600.173 530 530 70.173 70.173 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :24
+
+20. Name of Non-Working Antennas (with reason for each) :
+C03 : servo problem.
+C11-175-USB - zero self.
+C13-130-LSB - zero self.
+C00,C01,C02,C12- showed delay jumps.
+W02-130 - showd phase jumps.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 00:00 - 18:30
+
+23. Comments (During Observations) :
+-------------------------------------------------
+******** ONLINE Machine : ADITYA   ********** 
+******** Corr Mode : IndianPolar    *********
+-------------------------------------------------
+00:05 : Started scan on 3C147.
+00:05 : S02 ABC time out.
+00:40 : S02 started working.
+00:41 : Started command file.
+        /atemp2/cmd/djs/mg0802.cmd
+00:45 : W02-130 showed phase jump.
+        C01 - shows delay jump.
+
+01:30 : C01,C02 showed delay jumps.
+
+03:03 : C13 ABC time out. High temperature.
+04:33 : Command file stopped.
+04:45 : C00,C01,C02,C12 showed delay jumps.
+04:36 : Started scan on 3C147 for 15mins.
+04:57 : Restarted command file.
+08:52 : scan started on 3c286.
+09:05 : stopped the record files.
+      : antennas C05,C06,C14 showed dlay jumps.
+09:05 : changed the setup
+        LO1 = 600 MHz. 
+        L04 = 70.562 MHz.
+        tpa 670.562 600 70.562
+09:30 : corr released for problem solving.
+09:45 : corr released for observations.
+      : restarted the observations.
+        /rawdata/2nov/13rsa01_02nov2007.lta.1
+        /rawdata1/2nov/13rsa01_02nov2007.ltb.1
+        /atemp2/cmd/djs/mg1607.cmd
+        
+        scan # 0 and 1 are bad
+10:00 : fring status
+     
+      C09 : 175 pol no fringe.
+      C12 : phase Jump.
+      C02 : phase Jump.
+      C14 : painting.
+      C13 : AC problem.
+      W01 : no fringe.
+      C04 : USB bad band shape.
+      C03 : OFF.
+      C01 : LSB phase jump
+      C05 : LSB phase jump
+
+
+11:15 : C13 released for observations.
+11:30 : E02 ABC time out. no electrical  power.
+
+11:40 : E02 started working.
+17:42 : MSEB power failure.
+18:30 : observation session over.
+
+
+
+

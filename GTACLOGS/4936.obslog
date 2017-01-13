@@ -1,0 +1,93 @@
+		 GTAC Observation Log 
+
+1. Date : 29/06/2010
+2. Observation Sr. No. : 4936
+3. Observer : Neeraj Gupta
+4. Observer's Email : nrjgupta@gmail.com
+5. Project Name : Probing the time variation of fundamental constants using newly discovered 21cm absorbers at z ~ 1.3
+6. Project Code : 18_044
+7. Operator(s) : Amruta,
+	Navanath,
+	Nilesh,
+	Rupsingh,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/neeraj/mg1623.cmd,
+	/odisk/gtac/cmd/neeraj/mg2358.cmd
+9. LTA File : /rawdata/29jun/18_044_29jun2010.lta,
+	/rawdata1/29jun/18_044_29jun2010.ltb,
+	/rawdata/29jun/18_044_29jun2010.lta.1,
+	/rawdata1/29jun/18_044_29jun2010.ltb.1
+10. GSB File : /gsbifrdata/29jun/18_044_29jun2010_gsb.lta,
+	/gsbifrdata/29jun/18_044_29jun2010_gsb.lta.1
+11. LogFlag File : /odisk/online1/logflags/18_044.FLAGS.5,
+	/odisk/online1/logflags/18_044.FLAGS.6
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 607.8335 MHz ,RF2 : 607.8335 MHz, SA1 : 0 dB, SA2 : 0 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 67.8335 MHz, IVLO2 : 67.8335 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 6 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+15. BB BW(KHz) & BB ALC : 500 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 607.8335 607.8335 540 540 67.8335 67.8335 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C04,C10,E04 : Phase jump in GHB
+C05 : phase jumps (GHB+GSB)
+C11 : freq. applying brakes.
+S01 : No fringe.
+
+21. Note for Backup :--
+
+22. Start and End Time of Obs.(IST): 18:00 - 10:00
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+----------------------------------------------------
+# GSB settings:
+Realtime; TotalIntensity;
+ACQ band width 16 MHz;512 channels.
+Final BW = 2MHz; Edge Step = 0;
+----------------------------------------------------
+18:00 : Started settings for 18_039 project.
+18:19 : Started scan on 3c286 for ~20min.
+18:45 : Started command file.
+        '/odisk/gtac/cmd/neeraj/mg1623.cmd'.
+21:47 : Stopped command file.
+21:55 : started scan on 3C286.
+22:13 : Stopped scan.
+22:22 : Restarted command file.
+23:22 : E05 applied Az brakes.
+00:27 : scan started on 3c286.
+00:41 : restarted the command file.
+02:18 : stopped the command file and changed the setup.
+--------------------------------------------------------
+tpa 653.5860 585 68.5860
+BB 0.25 MHz.
+Indain Polar mode.
+GSB : 512 chan, Lo5 133,172 (if 6)
+step # 6, ACQ BW 16, FBW 0.25 MHz.
+New record files started.
+C13,C04,C05 shows phase jumps(GHB+GSB).
+C11,E05, servo problems.
+S01 - no fringe.
+---------------------------------------------------
+02:30 : scan started on 3c48.
+02:48 : command file started.
+05:47 : scan started on 3c48.
+06:10 : restarted the command file.
+10:27 : Started scan on 3c147.
+10:42 : Stopped scan and observation session.
+
+----------------------------------------------------
+

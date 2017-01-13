@@ -1,0 +1,98 @@
+		 GTAC Observation Log 
+
+1. Date : 19/1/2014
+2. Observation Sr. No. : 6917
+3. Observer : Ue Li Pen,Marten H vanKerkwijk,Jayanta Roy,Yashwant Gupta,Keith Vanderlinde,Richard Shaw,P Freire,Jason WilliamThomas Hessels
+4. Observer's Email : pen@cita.utoronto.ca,mhvk@astro.utoronto.ca,jroy@ncra.tifr.res.in,ygupta@ncra.tifr.res.in,vanderlinde@di.utoronto.ca,jrs65@cita.utoronto.ca,pfreire@naic.edu,hessels@astron.nl
+5. Project Name : 150 and 327 MHz pulsar VLBI for precision pulsar scintellation astrometry
+6. Project Code : 25_054
+7. Operator(s) : Nilesh,Surender
+8. Command File : 
+9. LTA File : /gsbifrdata/20jan/25_054_20jan2014.lta,/gsbifrdata/20jan/25_054_20jan2014.lta.1,/gsbifrdata/20jan/25_054_20jan2014.lta.2,
+10. LogFlag File : /odisk/online1/logflags/25_054.FLAGS,/odisk/online1/logflags/25_054.FLAGS.3,/odisk/online1/logflags/25_054.FLAGS.1,/odisk/online1/logflags/25_054.FLAGS.2,
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 167 MHz ,RF2 : 167 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 218 MHz, ILO2 : 218 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : Realtime 
+15. GSB LTA : 8 
+16. GSB CTRL : ONLINE 
+17. GSB Fstop : ON 
+18. GAIN EQ : OFF, 
+19. Stokes : TotIntensity
+20. Beam - 1 : OFF
+21. Beam - 2 : V
+22. ACQ BW : 33.33 MHz
+23. Final BW : 33.333333 MHz; Step # 0
+24. Maximum Channels : 256 
+25. Channel Numbers : 0:255:1 
+26. LO5 -1  : 149.00 
+27. LO5 -2  : 156.00 
+
+28. Frequency Parameters (TPA) : 167 167 218 218 51 51.
+29. Integration Time : 16.106112 Sec.
+30. No of Antennas Working(Fringing) at the begining :27
+
+31. Name of Non-Working Antennas (with reason for each) :
+W04,C11 : Feed jammed.
+E03 : ABC time-out.
+32. Note for Backup :
+
+33. Start and End Time of Obs.(IST): 03:00 - 09:10
+
+34. ONLINE Machine : Lenyadri
+
+35. No of Antennas Working(Fringing) at the end :29
+
+36. Comments (During Observations) :
+Pulsar Data file:-
+/mnt/pulsar/gsbuser/25_054_20jan14/ on node33 & node 34
+
+In GAC antennas selected are as :
+C00,C01,C02,C03,C04,C05,C06,C08,C09,C10,C12,C13,
+C14-175pol,E02,W01,W02,W03,S01,S02,S03.
+-----------------------------------------------------------
+02:55:00 : Power eq and phasing is done on 3C147.
+03:00:30 : Started scan on 3C147 for ~ 1.87905 min.
+03:02:35 : Started scan on 3C147 for ~ 0 min.
+03:05:33 : Started scan on 3C196 for ~ 3.22122 min.
+03:09:07 : Started scan on 3C196 for ~ 0.53687 min.
+03:12:54 : Started scan on B0834+06 for ~ 17.1799 min.
+03:36:06 : Started scan on 3C286 for ~ 0 min.
+03:41:58 : Started scan on 3C286 for ~ 2.14748 min.
+03:44:15 : Started scan on 3C286 for ~ 0.805306 min.
+03:49:57 : Started scan on 3C216 for ~ 2.95279 min.
+03:55:12 : Started scan on J1012+5307 for ~ 32.7491 min.
+04:30:23 : Started scan on 3C216 for ~ 1.61061 min.
+04:32:20 : Started scan on 3C216 for ~ 0.268435 min.
+04:34:30 : Started scan on J1012+5307 for ~ 32.2122 min.
+05:07:57 : Started scan on 3C216 for ~ 2.14748 min.
+05:10:32 : Started scan on 3C216 for ~ 0.268435 min.
+05:12:55 : Started scan on J1012+5307 for ~ 31.1385 min.
+05:46:08 : Started scan on 3C216 for ~ 2.68435 min.
+05:49:05 : Started scan on 3C216 for ~ 0.53687 min.
+05:51:02 : Started scan on J1012+5307 for ~ 30.87 min.
+06:23:20 : Started scan on 3C216 for ~ 2.68435 min.
+06:26:33 : Started scan on 3C216 for ~ 1.07374 min.
+06:29:50 : Started scan on J1012+5307 for ~ 31.1385 min.
+07:02:34 : Started scan on 3C216 for ~ 2.14748 min.
+07:05:11 : Started scan on 3C216 for ~ 0.268435 min.
+07:07:04 : Started scan on J1012+5307 for ~ 30.6016 min.
+07:42:03 : Started scan on 3C286 for ~ 2.14748 min.
+07:44:32 : Started scan on 3C286 for ~ 0.268435 min.
+07:49:28 : Started scan on J1012+5307 for ~ 30.87 min.
+08:23:10 : Started scan on 3C286 for ~ 2.14748 min.
+08:25:48 : Started scan on 3C286 for ~ 0.805306 min.
+08:29:05 : Started scan on B1133+16 for ~ 5.3687 min.
+
+08:36 : W02 removed from GAC as it's taken for Painting.
+
+08:37:49 : Started scan on B1508+55 for ~ 32.4807 min.
+
+09:10 : Stopped scan and observing session over.
+

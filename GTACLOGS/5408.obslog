@@ -1,0 +1,79 @@
+		 GTAC Observation Log 
+
+1. Date : 24/6/2011
+2. Observation Sr. No. : 5408
+3. Observer : Sandeep Sirothia
+4. Observer's Email : sirothia@ncra.tifr.res.in
+5. Project Name : GTAC Observation
+6. Project Code : 20_061
+7. Operator(s) : Navanath,
+	Sachin,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/sirothia/20_061_23jun.cmd
+9. LTA File : /gsbifrdata/24jun/20_061_24jun2011.lta
+10. LogFlag File : /odisk/online1/logflags/20_061.FLAGS.13
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 306 306 255 255 51 51.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :30
+
+27. Name of Non-Working Antennas (with reason for each) :
+--
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 00:00 - 12:00
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+00:00 : Started doing setup, but could not start because 
+after starting correlator it was giving Buffer Loss.
+Tried removing shared memories from all the gsb machines.
+Meanwhile rebooted gsbm1 and gsbm4 machines.
+
+01:00 : Struggled upto 0100hrs then decided to start observation
+in Total Intensity mode.
+
+01:20 : Started scan on 3C286.
+01:23 : 3C286 set.
+01:27 : E-arm power failed.
+01:32 : Started command file.
+01:41 : E-arm back. But E03  and E05 was having servo problems after power failure.
+01:55 : E03 and E06 started working i.e. whole E-arm started working.
+01:56 : As per Sandeep's suggestion Restarted command file.
+##### Total 2hrs of loss in observation schedule + different mode i.e. instead of Full polar mode observation is started in Total intensity mode.
+04:05 : Stopped command file.
+04:06 : NOTE #####scan number 9 and 10 are bad#####
+04:09 : Started scan on 3C48 for 15 mins.
+04:28 : Restarted command file.
+07:51 : S02 taken for painting.
+09:00 : Strong RFI lines.
+09:48 : Stopped command file and changed the track.
+        Scan no. 22 bad.
+09:53 : Restarted command file.
+10:12 : E03 taken for maintenance.
+10:36 : E03 released for observation. 
+11:10 : Stopped command file.
+
+11:12 : Started scan on 3C48.
+12:00 : Stopped scan and observing session over.
+

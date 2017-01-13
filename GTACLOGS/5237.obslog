@@ -1,0 +1,77 @@
+		 GTAC Observation Log 
+
+1. Date : 11/02/2011
+2. Observation Sr. No. : 5237
+3. Observer : Nissim Kanekar, Jayaram Chegalur
+4. Observer's Email : nkanekar@ncra.tifr.res.in,chengalu@ncra.tifr.res.in
+5. Project Name : A GMRT survey for HI-21cm absorption in strong MgII absorbers in the redshift desert
+6. Project Code : 19_066
+7. Operator(s) : Navanath,
+	Nilesh,
+	Sachin,
+	
+8. Command File : /odisk/gtac/cmd/nissim/1520+1601.cmd
+9. LTA File : /rawdata/11feb/19_066_11feb2011.lta,
+	/rawdata1/11feb/19_066_11feb2011.ltb,
+	
+10. GSB File : /gsbifrdata/11feb/19_066_11feb2011_gsb.lta,
+	/gsbifrdata/11feb/19_066_11feb2011_gsb.lta.1,
+	
+11. LogFlag File : /odisk/online1/logflags/19_066.FLAGS.21
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 653.7 MHz ,RF2 : 653.7 MHz, SA1 : 0 dB, SA2 : 0 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 585 MHz, ILO2 : 585 MHz, IVLO1 : 68.7 MHz, IVLO2 : 68.7 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+15. BB BW(KHz) & BB ALC : 2000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+GHB Settings :
+16. GHB Channels : 0:127:1
+17. Correlator Mode : UsbHighRes
+18. Frequency Parameters (TPA) : 653.7 653.7 585 585 68.7 68.7 
+
+GSB Settings :
+19. Maximum Channels : 512 
+20. Final Bandwidth (MHz): 4 MHz; Step # 2
+21. IFBW (MHz) : LO5 (KHz) : 16:138000-167000
+22. Stokes : Total_Intensity
+23. Beam - 1 : IA
+24. Beam - 2 : PA
+
+25. Integration Time : 16 LTA ~ 2.114 Sec.
+26. No of Antennas Working(Fringing) :28
+
+27. Name of Non-Working Antennas (with reason for each) :
+C09 : For servo maintenance.
+C11 : Servo problem.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 05:30 - 10:57
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+05:31 : Started scan on 3c286 for ~15min.
+05:55 : Started command file.
+'/odisk/gtac/cmd/nissim/1520+1601.cmd'.
+05:58 : Stopped scan and command file.
+
+Changed Total no.of chan for GSB from 256 to 512.
+And re-started GSB.
+
+06:04 : Started scan on 3c286 for ~15min.
+06:23 : Started command file.
+
+    '/odisk/gtac/cmd/nissim/1520+1601.cmd'.
+10:35 : cmd file stopped.
+10:38 : Started scan on phase cal.
+10:47 : Started scan on 3C295 
+10:58 : Observing session over.
+------------------------------------------------
+
+
+
+

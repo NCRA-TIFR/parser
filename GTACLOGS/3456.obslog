@@ -1,0 +1,69 @@
+		 GTAC Observation Log 
+
+1. Date : 20/11/2007
+2. Observation Sr. No. : 3456
+3. Observer : CRS
+4. Observer's Email : crs@rri.res.in,peeyush@rri.res.in
+5. Project Name : Transit Servey
+6. Project Code : 10CRS01
+7. Operator(s) : Jayprakash,
+	Manisha,
+	Nilesh,
+	Sachin,
+	
+8. Command File : /atemp2/cmd/hold.cmd
+9. LTA File : /rawdata/20nov/10crs01_3c48cal.lta,
+	/rawdata1/20nov/10crs01_3c48cal.ltb,
+	/rawdata/20nov/10crs01_20nov2007.lta,
+	/rawdata1/20nov/10crs01_20nov2007.ltb,
+	/rawdata/20nov/10crs01_20nov2007.lta.1,
+	/rawdata1/20nov/10crs01_20nov2007.ltb.1,
+	/rawdata/20nov/10crs01_20nov2007.lta.2,
+	/rawdata1/20nov/10crs01_20nov2007.ltb.2,
+	/rawdata/20nov/10crs01_20nov2007.lta.3,
+	/rawdata1/20nov/10crs01_20nov2007.ltb.3,
+	/rawdata/20nov/10crs01_20nov2007.lta.4,
+	/rawdata1/20nov/10crs01_20nov2007.ltb.4,
+	
+10. LogFlag File : /atemp2/logflags/10CRS01.FLAGS,
+	/atemp2/logflags/10CRS01.FLAGS.4,
+	/atemp2/logflags/10CRS01.FLAGS.5,
+	/atemp2/logflags/10CRS01.FLAGS.6
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 246 MHz ,RF2 : 246 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 316 MHz, ILO2 : 316 MHz, IVLO1 : 70.0000 MHz, IVLO2 : 70.0000 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:255:1
+17. Frequency Parameters (TPA) : 246 246 316 316 70.0000 70.0000 
+
+18. Integration Time : 1 LTA ~ 0.132 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+W05 : Feed jammed.
+21. Note for Backup : Due to large size ( Integration time :128msec), the above data files did not backup.
+--
+
+22. Start and End Time of Obs.(IST): 23:45 - 00:00
+
+23. Comments (During Observations) :
+---------------------------------------------------
+******** ONLINE Machine : ADITYA   ********* 
+******** Corr Mode : USBHighRes Mode *********
+----------------------------------------------------
+C06 feed focused @1420MHz & remaining antennas are @235MHz
+Antenna Settings : C06,E04,S04 & W04
+TPA 1180 246 1250 316 70 70 
+IFBW : 32Mhz
+**
+And settings for all other remaining Antennas :
+RF : 235 MHz + 14dB , LO : 316 MHz, IFBW : 32 MHz
+TPA 180 180 250 250 70 70
+
+

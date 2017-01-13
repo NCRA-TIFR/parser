@@ -1,0 +1,63 @@
+		 GTAC Observation Log 
+
+1. Date : 03/07/2010
+2. Observation Sr. No. : 4941
+3. Observer : R J Van Weeren, M. Hoeft
+4. Observer's Email : rvweeren@strw.leidenuniv.nl,hoeft@tls-tautenburg.de
+5. Project Name : A polarization study of the CIZA relic
+6. Project Code : 18_066
+7. Operator(s) : Amruta,
+	Deepak,
+	Navanath,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/weeren/ciza.cmd
+9. LTA File : /rawdata/3jul/18_066_03jul2010.lta,
+	/rawdata1/3jul/18_066_03jul2010.ltb
+10. GSB File : /gsbifrdata/3jul/18_066_03jul2010_gsb.lta
+11. LogFlag File : /odisk/online1/logflags/18_066.FLAGS.4
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 308 MHz ,RF2 : 308 MHz, SA1 : 0 dB, SA2 : 0 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 246 MHz, ILO2 : 246 MHz, IVLO1 : 62 MHz, IVLO2 : 62 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+15. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 308 308 246 246 62 62 
+
+18. Integration Time : 64 LTA ~ 8.454 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C11 : Servo Maintenance.
+S06 : Fringe fluctuations(GHB).
+E02 : mcm 14 time out.
+21. Note for Backup :--
+
+22. Start and End Time of Obs.(IST): 01:00 - 09:09
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : UsbPolar
+
+25. Comments (During Observations) :
+01:10 : Started scan on PKS1937+21 for 20mins.
+01:31 : Started command file
+        /odisk/gtac/cmd/weeren/ciza.cmd
+04:30 : Command file stopped.
+04:36 : Started scan on PKS1937+21 for 20mins.
+05:03 : Started scan on 3C48 for 15mins.
+05:20 : Restarted command file.
+08:13 : Stopped command file.
+
+08:25 : Started scan on 3C138.
+08:40 : Stopped scan.
+
+08:43 : Started scan on 3C147.
+09:09 : Stopped scan and observing session over.
+
+
+

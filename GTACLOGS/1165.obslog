@@ -1,0 +1,79 @@
+		 GTAC Observation Log 
+
+1. Date : 30/09/2003
+2. Observation Sr. No. : 1165
+3. Observer : Poonam Chandra
+4. Observer's Email : poonam@tifr.res.in
+5. Project Name : Supernovae
+6. Project Code : 04PCA01
+7. Operator(s) : Manisha J.,
+	Jitendra,
+	
+8. Command File : /btemp2/cmd/poonam/sept_2003/sn2002hh.cmd,
+	/btemp2/cmd/poonam/sept_2003/sn2003gf.cmd,
+	/btemp2/cmd/poonam/sept_2003/sn2003gd.cmd
+9. LTA File : /rawdata/30sep/04pca01_sn2002hh.lta,
+        /rawdata/30sep/04pca01_sn2003gf.lta,
+        /rawdata/30sep/04pca01_sn2003gd.lta,
+        /rawdata1/30sep/04pca01_sn2002hh.ltb,
+	/rawdata1/30sep/04pca01_sn2003gf.ltb,
+	/rawdata1/30sep/04pca01_sn2003gd.ltb
+10. LogFlag File : /btemp2/logflags/04PCA01.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 325 MHz ,RF2 : 325 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 255 MHz, ILO2 : 255 MHz, IVLO1 : 70.00 MHz, IVLO2 : 70.00 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 325 325 255 255 70.00 70.00 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+--
+
+21. Start and End Time of Obs.(IST): 17:05 - 00:00
+
+22. Comments (During Observations) :
+******************************************
+ONLINE runing on bhaskar.
+IF ATTN : Authif at 325 with ALCs on
+******************************************
+17:05	Started scan on 3C286 ~10mins.
+	USB DATA FILE :
+	mithuna:/DATA/observer/30sep/04pca01_sn2002hh.lta
+17:32	Started command file 
+	/temp2/data/cmd/poonam/sept_2003/sn2002hh.cmd
+20:02	stopped command file.
+20:12	started scan on 3C48 ~10mins.
+	started new ltafiles :
+	/rawdata1/30sep/04pca01_sn2003gf.ltb
+	mithuna:/DATA/observer/30sep/04pca01_sn2003gf.lta
+20:36	Started command file 
+	/temp2/data/cmd/poonam/sept_2003/sn2003gf.cmd
+
+23:18   command file stopped.
+23:24   phase cal scan started for 5m.
+23:41   flux cal scan started for 5m.
+23:47   scan stopped & new command file restarted
+        for sn2003gd.
+24:20   scan started manually on SN2003GD , S04 not reached due to intermittant
+         Az brake problem.
+
+*** Note : Files
+	        /DATA/observer/30sep/04pca01_sn2002hh.lta
+         	/DATA/observer/30sep/04pca01_sn2003gf.lta
+                /DATA/observer/30sep/04pca01_sn2003gd.lta
+           has been moved to
+                /rawdata/30sep/04pca01_sn2002hh.lta,
+                /rawdata/30sep/04pca01_sn2003gf.lta,
+                /rawdata/30sep/04pca01_sn2003gd.lta
+                      ... Mangesh(05-10-2003)  
+

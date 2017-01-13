@@ -1,0 +1,61 @@
+		 GTAC Observation Log 
+
+1. Date : 04/01/2011
+2. Observation Sr. No. : 5178
+3. Observer : Ishwar
+4. Observer's Email : arti@ncra.tifr.res.in,ishwar@ncra.tifr.res.in
+5. Project Name : QSOJ2322
+6. Project Code : 19_050
+7. Operator(s) : Santaji,
+	
+8. Command File : /odisk/gtac/cmd/19_050/19_050.cmd
+9. LTA File : /rawdata/4jan/19_050_04jan2010.lta,
+	/rawdata1/4jan/19_050_04jan2010.ltb
+10. GSB File : /gsbifrdata/4jan/19_050_04jan2011.lta
+11. LogFlag File : /odisk/online1/logflags/19_050.FLAGS
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 218 MHz, ILO2 : 218 MHz, IVLO1 : 62 MHz, IVLO2 : 62 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+15. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+GHB Settings :
+16. GHB Channels : 0:127:1
+17. Correlator Mode : IndianPolar
+18. Frequency Parameters (TPA) : 156 156 218 218 62 62 
+
+GSB Settings :
+19. Maximum Channels : 256 
+20. Final Bandwidth (MHz): OFF MHz; Step # 0
+21. IFBW (MHz) : LO5 (KHz) : 16:138000-167000
+22. Stokes : Total_Intensity
+23. Beam - 1 : OFF
+24. Beam - 2 : OFF
+
+25. Integration Time : 128 LTA ~ 16.908 Sec.
+26. No of Antennas Working(Fringing) :26
+
+27. Name of Non-Working Antennas (with reason for each) :
+E02 : Maintenance. 
+C00 : painting.
+C03 : painting.
+C11 : OFC Rx/Tx problem.
+
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 15:00 - 21:00
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+15:00 : setup started.
+15:16 : command file started.
+18:15 : C00 and C03 released for observations.
+19:30 : C11 started working.
+21:00 : observation session over.
+
+

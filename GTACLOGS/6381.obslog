@@ -1,0 +1,85 @@
+		 GTAC Observation Log 
+
+1. Date : 16/2/2013
+2. Observation Sr. No. : 6381
+3. Observer : Vishal Gajjar
+4. Observer's Email : gajjar@ncra.tifr.res.in
+5. Project Name : Nulling properties of individual profile components 
+6. Project Code : 23_058
+7. Operator(s) : Navanath,
+	Pramod,
+	Sachin,
+	Shilpa,
+	Surender
+8. Command File : 
+9. LTA File : /gsbifrdata/16feb/23_058_16feb2013.lta
+10. LogFlag File : /odisk/online1/logflags/23_058.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : OFF 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : PA
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 512 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 306 306 255 255 51 51.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :25
+
+27. Name of Non-Working Antennas (with reason for each) :
+C02 : No fringe.
+C04 : Counter Weight Rectification.
+W02 : BLDC WORK.
+C09 : Elevation motor current high. 
+C12 : Painting.
+
+
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 14:30 - 01:00
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+14:30 : Started set up for 325MHz.
+
+             Selection of antenna in GAC
+
+For PA : Total=15
+C00,C01,C03,C05,C06,C08,C10,C11,C13,C14,W01,E02,E03,S01,S02
+
+15:30 : Power equalised and phasing is done on 3C48.
+15:52 : Phasing is done on 0521+166.
+15:58 : Started scan on B0525+21. 
+16:08 : Stopped scan on B0525+21.
+16:11 : Started scan on B0329+54.
+16:17 : Stopped scan on B0329+54.
+16:19 : Started scan on B0525+21.
+16:26 : Stopped scan on B0525+21.
+16:29 : Phasing is done on 0521+166.
+16:31 : Stopped scan on B0525+21.
+17:04 : Restarted scan and by removing E03 from GAC.
+18:33 : Stopped scan on B0525+21.
+18:44 : Phasing is done on 0521+166.
+18:48 : Started scan on B0525+21.
+20:49 : Stopped scan on B0525+21.
+21:05 : Phasing is done on 0521+166.
+21:08 : Started scan on B0525+21.
+E03 Started working and add in GAC.
+01:15 : Observation stopped.
+
+
+
+

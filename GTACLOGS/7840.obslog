@@ -1,0 +1,79 @@
+		 GTAC Observation Log
+
+1. Date : 13/06/2015
+2. Observation Sr. No. : 7840
+3. Observer : Sambit Roychowdhury, Nissim Kanekar, Jayaram Narayanan Chengalur, Jacqueline vanGorkom
+4. Observer's Email : sambit@mpa-garching.mpg.de, nkanekar@ncra.tifr.res.in, chengalur@ncra.tifr.res.in, jvangork@astro.columbia.edu
+5. Project Name : Mapping HI-21cm emission in massive, gas-rich galaxies at z = 0.2
+6. Project Code : 28_094
+7. Operator(s) : Deepak, Pramod
+8. Command File : /odisk/gtac/cmd/28_094/s2.cmd
+9. LTA File : /gsbifrdata/12jun/28_094_12jun2015.lta.1,/gsbifrdata/12jun/28_094_12jun2015.lta
+10. LogFlag File : /odisk/online1/logflags/28_094.FLAGS.1,/odisk/online1/logflags/28_094.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1179.3501 MHz ,RF2 : 1179.3501 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1115 MHz, ILO2 : 1115MHz , IVLO1 : 64.3501 MHz, IVLO2 : 64.3501 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 6 MHz,ON, IF-CH2 : 4+14 dB, 6 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 4 MHz; Step # 1
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 135.6499
+28. LO5 -2  : 169.3501
+
+29. Frequency Parameters (TPA) : 1179.3501 1179.3501 1115 1115 64.3501 64.3501
+30. Integration Time : 8.053 Sec
+31. No of Antennas Working(Fringing) at the beginning :26
+
+32. Name of Non-Working Antennas (with reason for each) :
+W06 : No fringe
+C03 : Servo problem.
+S04 : MCM 5 time out
+S02 : Servo timeout
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 12 Jun 2015 18:00:00 - 13 Jun 2015 06:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :22
+
+37. Comments (During Observations) :
+
+18:00 : Started setup.
+18:26 : Started scan on 3C286.
+18:40 : Started command file
+20:39 : Electrical power glitch, many antenna got ABC reset.
+21:00 : C01 - servo problem
+        S06 - servo brake not releasing.
+        E06 - servo time out.
+
+21:18 : Retarted command file.
+22:35 : Stated scan on 3c286 for 5mins.
+22:41 : Restarted command file.
+04:38 : Buffer Loss found in acq. window (gsbm1 machine).Hence halt the GSB and restarted it.After restarting GSB problem got solved.
+04:42 : C05 applied brakes.
+04:48 : Started scan on 3C48 for 5 min.
+04:55 : Restarted command file.
+05:45 : Stopped command file.
+05:50 : Started scan on 3C48.
+06:00 : Stopped scan and observation session is over.
+
+
+
+

@@ -1,0 +1,171 @@
+		 GTAC Observation Log 
+
+1. Date : 06/01/2010
+2. Observation Sr. No. : 5131
+3. Observer : Nissim Kanekar, JNC
+4. Observer's Email : nkanekar@ncra.tifr.res.in,chengalu@ncra.tifr.res.in
+5. Project Name : A GMRT survey for HI-21cm absorption in strong MgII absorbers in the redshift desert
+6. Project Code : 19_066
+7. Operator(s) : Manisha,
+	Nilesh,
+	Rupsingh,
+	Sachin,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/nissim/0919+2125.cmd,
+	/odisk/gtac/cmd/nissim/1455+4431.cmd,
+	/odisk/gtac/cmd/nissim/1653+3107.cmd,
+	/odisk/gtac/cmd/nissim/0154-0007.cmd,
+	/odisk/gtac/cmd/nissim/0833+0959.cmd,
+	/odisk/gtac/cmd/nissim/0953+3225.cmd,
+	/odisk/gtac/cmd/nissim/1018+2650.cmd
+9. LTA File : /rawdata/6dec/19_066_6dec2010.lta,
+	/rawdata1/6dec/19_066_6dec2010.ltb,
+	/rawdata/6dec/19_066_6dec2010.lta.1,
+	/rawdata1/6dec/19_066_6dec2010.ltb.1,
+	/rawdata/7dec/19_066_07dec2010.lta,
+	/rawdata1/7dec/19_066_07dec2010.ltb,
+	/rawdata/7dec/19_066_07dec2010.lta.1,
+	/rawdata1/7dec/19_066_07dec2010.ltb.1,
+	/rawdata1/7dec/19_066_07dec2010.ltb.2,
+	
+10. GSB File : /gsbifrdata/6dec/19_066_06dec2010_gsb.lta.2,
+	/gsbifrdata/6dec/19_066_06dec2010_gsb.lta.3,
+	/gsbifrdata/7dec/19_066_07dec2010_gsb.lta,
+	/gsbifrdata/7dec/19_066_07dec2010_gsb.lta.1,
+	/gsbifrdata/7dec/19_066_07dec2010_gsb.lta.2,
+	
+11. LogFlag File : /odisk/online1/logflags/19_066.FLAGS.12,
+	/odisk/online1/logflags/19_066.FLAGS.13,
+	/odisk/online1/logflags/19_066.FLAGS.14,
+	/odisk/online1/logflags/19_066.FLAGS.15
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+12 dB, 16 MHz,ON, IF-CH2 : 10+12 dB, 16 MHz,ON
+15. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+GHB Settings :
+16. GHB Channels : 0:127:1
+17. Correlator Mode : IndianPolar
+18. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+GSB Settings :
+19. Maximum Channels : 256 
+20. Final Bandwidth (MHz): 4 MHz; Step # 2
+21. IFBW : LO5(MHz) : 32:149-156 MHz
+22. Stokes : Total_Intensity
+23. Beam - 1 : OFF
+24. Beam - 2 : OFF
+
+25. Integration Time : 128 LTA ~ 16.908 Sec.
+26. No of Antennas Working(Fringing) :29
+
+27. Name of Non-Working Antennas (with reason for each) :
+C00 : Servo problem.
+
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 23:45 - 10:17
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+23:50 : Started scan on 3c147.
+00:04 : Stopped scan.
+00:07 : Started command file
+       '/odisk/gtac/cmd/nissim/0919+2125.cmd'
+04:54 : Stopped command file.
+04:58 : Started scan on 3C286.
+05:08 : Stopped scan.
+---------------------------------------------
+05:09 : Setup changed
+        RF -580,
+        LO1-510,
+        L05-16,
+        Final BW-4, step-2
+        Costum-138KHz & 167 KHz,
+05:23 : Started scan on 3C286.
+05:35 : Stopped scan.
+05:36 : Started command file
+        '/odisk/gtac/cmd/nissim/1455+4431.cmd'
+09:00 : C03 parked for painting.
+09:43 : stopped command file.
+09:47 : started scan on 3C286 ~ 15mins.
+10:03 : stopped scan.
+------------------
+settings changed to :
+GHB : corr mode : USB-HighRes.
+CLK_SEL : 3.
+
+BB BW : 2 MHz.
+IF BW : 16 MHz.
+
+TPA 640 640 570 570 70 70.
+
+GSB : Final BW : 4 MHz, Step # 3.
+Max. Channel : 512.
+LO5 : 142.0, 163.0 MHz.
+
+10:28 started scan on 3C286 ~15mins.
+10:35 : command file 1653+3107.cmd started.
+
+15:06 : C14 Power reset.
+15:43 : C14 Started working.
+
+17:30 : Stopped command file.
+17:35 : Started scan on phase cal ~ 8min.
+17:48 : Started scan on 3c48 ~20 min.
+18:00 : C00 Started working.
+18:10 : Stopped scan.
+-------------------------------------------------
+
+Settings changed to :
+GHB : corr mode : USB-HighRes.
+CLK_SEL : 3.
+
+BB BW : 2 MHz.
+IF BW : 16 MHz.
+
+TPA 650 650 580 580 70 70.
+
+GSB : Final BW : 4 MHz, Step # 2.
+Max. Channel : 512.
+LO5 : 139.0, 166.0 MHz.
+
+18:18 : C03 released for observation.
+18:20 : Started scan on 3c48.
+18:29 : C03 Started working.
+18:49 : Stopped scan.
+19:00 : Started command file '0154-0007'.
+23:05 : Stopped command file.
+23:08 : Started scan on 3C48.
+23:19 : Stopped scan.
+------------------------------------------------
+23:20 : Settings changed to :
+       GHB : corr mode : USB-HighRes.
+       CLK_SEL : 3.
+       BB BW : 2 MHz.
+       IF BW : 16 MHz.
+       GSB : Final BW : 4 MHz, Step # 2.
+       Max. Channel : 512.
+       LO5 : 139.0, 166.0 MHz.
+       TPA 625 625 555 555 70 70
+23:26 : Started scan 3C48.
+23:40 : Stopped scan.
+23:49 : Started command file '0833+0959.cmd'
+00:09 : Stopped command file.
+00:14 : Started command file ' 0953+3225.cmd'
+00:28 : Stopped command file.
+00:43 : Started command file '1018+2650.cmd'
+
+
+08:30 : C03 antenna parked for painting work.
+10:00 : stopped command file.
+10:02 : started scan on 3C286 ~ 15mins.
+10:17 : stopped das & observation session.
+

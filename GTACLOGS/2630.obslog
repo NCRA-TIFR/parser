@@ -1,0 +1,62 @@
+		 GTAC Observation Log 
+
+1. Date : 30/05/2006
+2. Observation Sr. No. : 2630
+3. Observer : Neeraj
+4. Observer's Email : neeraj@ncra.tifr.res.in
+5. Project Name : TOO
+6. Project Code : 06DT030
+7. Operator(s) : Jayprakash,
+	Manisha J.,
+	
+8. Command File : /btemp2/cmd/neeraj/apm08279.cmd
+9. LTA File : /rawdata/30may/06dt030_apm08279_3.lta,
+	/rawdata1/30may/06dt030_apm08279_3.ltb,
+	
+10. LogFlag File : /btemp2/logflags/06DT030.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 335.3 MHz ,RF2 : 335.3 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 265 MHz, ILO2 : 265 MHz, IVLO1 : 70.3000 MHz, IVLO2 : 70.3000 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 16 MHz,ON, IF-CH2 : 16+16 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 335.3 335.3 265 265 70.3000 70.3000 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C01 : No fringe
+C05 : No fringe.
+W02 : Painting.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 12:50 - 19:10
+
+23. Comments (During Observations) :
+-----------------------------------------------
+******** ONLINE : Bhaskar           ********* 
+******** Corr Mode : IndianPolar    *********
+-----------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB : 
+   First ~40 channels - bad bandshape.
+2. Please Use 'CLASSIC NORM OFF' (Un-normalised) 
+   while using listscan/gvfits.
+-----------------------------------------------
+12:50 : Started scan on 3c147 for phaing.
+12:58 : Phasing done & started scan on 3c147.
+13:26 : Stopped the scan & started the command file.
+
+19:55 : Command file stopped.
+19:05 : Stopped observation.
+
+

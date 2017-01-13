@@ -1,0 +1,52 @@
+1. Date : 09/12/2002
+2. Observation Sr. No. : 0896
+3. Observer : Ishwar Chandra
+4. Observer's Email : ishwar@ncra.tifr.res.in
+5. Project Name : PKS1706
+6. Project Code : 03CHI02
+7. Operator(s) : Manisha J.,
+	Sanjay,
+	
+8. Command File : /temp2/data/cmd/ishwar/pks1706.cmd
+9. LTA File : /rawdata/9dec/03chi02_pks1706.lta
+10. LogFlag File : /temp2/data/logflags/03CHI02.FLAGS.5
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 976.27 MHz ,RF2 : 976.27 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 910 MHz, ILO2 : 910 MHz, IVLO1 : 66.27 MHz, IVLO2 : 66.27 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+10 dB, 16 MHz,ON, IF-CH2 : 10+10 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 976.27 976.27 910 910 66.27 66.27 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+S01 : no fringe.
+W02 : dnfl/dnpl flag.
+W04 : Intermittant MCM time outs.
+
+
+21. Start and End Time of Obs.(IST): 09:27 - 17:30
+
+22. Comments (During Observations) :
+IF Attns : 
+C05 : 16+16,20+20. C02 :10+10,20+20.
+S02 : 0+0,0+0.
+
+S-arm antennas are showing RFI in bandpass,
+
+09:27 : started scan on 3c286 for ~ 45mins.
+10:16   : stopped scan.
+10:25   : started command file.
+15:45 : W04 down for MCM T.O. work.(Ref. GCC&SVP)
+16:22 : Stopped cmd file.
+16:33 : Started record on 3c48.
+17:30 : Stopped record on 3c48, stopped project.
+

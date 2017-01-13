@@ -1,0 +1,84 @@
+		 GTAC Observation Log 
+
+1. Date : 09/8/2011
+2. Observation Sr. No. : 5499
+3. Observer : Agnieszka Slowikowska
+4. Observer's Email : aga@ncac.torun.pl,visitor6@gmrt.ncra.tifr.res.in
+5. Project Name : The Crab Pulsar Polarization at Low Radio Frequencies
+6. Project Code : 20_036
+7. Operator(s) : Manisha,
+	Navanath,
+	Sachin,
+	
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /gsbifrdata/09aug/20_036_09aug2011.lta
+10. LogFlag File : /odisk/online1/logflags/20_036.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 602 MHz ,RF2 : 602 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540 MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+4 dB, 16 MHz,OFF, IF-CH2 : 20+4 dB, 16 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : OFF 
+17. Stokes : Full_Polar
+18. Beam - 1 : IA
+19. Beam - 2 : PA
+20. ACQ BW : 16 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 16:138000-167000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 602 602 540 540 62 62.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :30
+
+27. Name of Non-Working Antennas (with reason for each) :
+E06,S06,W06 : NOT Using 
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 07:04 - 12:02
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+------------------------------------------------------------
+gsbuser@node33:/mnt/pulsar/gsbuser/09aug2011_ia/*
+gsbuser@node34:/mnt/pulsar/gsbuser/09aug2011_pa/*
+Note for Backup :- You can Copy this data from gsbm2 machine
+-----------------------------------------------------------
+07:05 : Started feed rotation to 50 cm
+07:20 : All feeds rotated to 50cm
+07:30 : Started pntg on 3C147
+08:00 : Pntg analysis done.Started power(gain) eq and and phasing.
+08:20 : Phasing and power eq done.
+08:24:00 : Started scan on 0521+166 for ~ 8.58993 min.
+08:39:15 : Started scan on B0329+54 for ~ 4.5634 min.
+08:46:31 : Started scan on B0355+54 for ~ 10.2005 min.
+09:00:10 : Started scan on B0531+21 for ~ 45.0971 min.
+09:58:43 : Started scan on 0521+166 for ~ 1.61061 min.
+10:00:38 : Started scan on 0521+166 for ~ 0 min.
+10:05:08 : Started scan on B0329+54 for ~ 5.10027 min.
+10:11:14 : Started scan on B0355+54 for ~ 10.2005 min.
+10:23:54 : Started scan on B0531+21 for ~ 23.3539 min.
+10:49:35 : Started scan on 0521+166 for ~ 1.07374 min.
+10:50:57 : Started scan on 0521+166 for ~ 1.07374 min.
+10:52:23 : Started scan on 0521+166 for ~ 0.53687 min.
+10:53:11 : Started scan on 0521+166 for ~ 0.53687 min.
+10:54:04 : Started scan on 0521+166 for ~ 1.07374 min.
+10:55:00 : S04 Started Parking due to high wind 
+         : Removed from GAC. 
+10:56:19 : Started scan on B0531+21 for ~ 31.6754 min.
+11:30:13 : Started scan on 0521+166 for ~ 1.07374 min.
+11:31:29 : Started scan on 0521+166 for ~ 0.53687 min.
+11:33:08 : Started scan on B0531+21 for ~ 10.7374 min.
+11:47:25 : Started scan on B0329+54 for ~ 3.48966 min.
+11:51:16 : Started scan on B0355+54 for ~ 1.61061 min.
+12:02:00 : Observing session over.
+-------------------------------------------------------
+
+

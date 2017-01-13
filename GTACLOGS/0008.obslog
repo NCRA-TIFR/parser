@@ -1,0 +1,47 @@
+1. Date :  04/01/2002
+2. Observation Sr. No. : 8
+3. Observer & email : S Ananthkrishnan.
+4. Project Name & Code : 02SAK02
+5. Operator(s) : Sanjay(1), Manisha(1), Jayprakash(2), Manish(2), Mangesh(3)
+6. Command File/Source  & Lta File : /temp2/data/cmd/sak/ngc891.cmd 
+                                     /d3/4jan/ngc891_235.lta
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 : 235 MHz.,0 dB.,OFF.
+8. Ist LO (MHz) & IVth LO (MHz) :310  MHz.,66 MHz.
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status :18+18 dB., 6 MHz.,ON.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status :8 MHz., 3 dB., ON.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 1 / 1
+12. Channels : 0,127,1
+13. Frequency Parameters (TPA) : 244 244 310 310 66 66
+
+14. Integration Time (Sec.) : 16 sec (16*8m) & 2sec.
+15. No of Antennas Working(Fringing) : 25.5
+16. Name of Non-Working Antennas (with reason for each) :
+
+	C01		Servo T.O.
+	C06		Telemetry Problem.
+	C12		no fringe.
+	W01     Servo T.O.
+	W04     MCM 5 Time Out.
+	W06     Pol 130 bad.
+
+17. Starting and Ending time of Observations (IST) : 14:12-24:12
+18. Comments (During Observations) :
+
+    14:12  Started the command file /temp2/data/cmd/sak/ngc891.cmd
+		   stopped command file.
+		   SCAN # 1 BAD, source (ngc891) was not risen.
+		   SCAN # 2 BAD
+    16:00  C06 started communicating.		
+    24:00  Stopped the cmdfile. Stopped the scan. Moved antennas to
+           3c48 for last scan.
+    
+    24:02  Started a scan on 3c48 for 10 minutes.
+    24:12  Stopped the scan and closed the observation.
+
+19. Data Backup files & Tape No. :

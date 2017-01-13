@@ -1,0 +1,49 @@
+		 GTAC Observation Log 
+
+1. Date : 11/02/2006
+2. Observation Sr. No. : 2479
+3. Observer : S. Pal
+4. Observer's Email : spal@ncra.tifr.res.in
+5. Project Name : 06DT001
+6. Project Code : 06DT001
+7. Operator(s) : Deepak,
+	Jitendra,
+	
+8. Command File : /atemp2/cmd/spal/cygx3_11feb06.cmd
+9. LTA File : /rawdata/11feb/06dt001_11feb06.lta,
+	/rawdata1/11feb/06dt001_11feb06.ltb
+10. LogFlag File : /atemp2/logflags/06DT001.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+C09- Painting.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 11:10 - 12:10
+
+23. Comments (During Observations) :
+|Online : Aditya
+|IFATTN : Auth IF @ 610-235 Mhz.
+|_________________________________________________
+
+11:29 : Started scan on 2052+365 for 3 mins.
+11:34 : Started scan on CYGX3.
+12:10 : Observation stopped.
+
+

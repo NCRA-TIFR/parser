@@ -1,0 +1,70 @@
+		 GTAC Observation Log 
+
+1. Date : 12/05/2007
+2. Observation Sr. No. : 3139
+3. Observer : JNC
+4. Observer's Email : chengalu@ncra.tifr.res.in
+5. Project Name : 1413+135
+6. Project Code : 11NKA03
+7. Operator(s) : Deepak,
+	Navanath,
+	
+8. Command File : /btemp2/cmd/nissim/1413+135.cmd
+9. LTA File : /rawdata/12may/11nka03_12may2007.lta,
+	/rawdata1/12may/11nka03_12may2007.ltb
+10. LogFlag File : /btemp2/logflags/11NKA03.FLAGS.18
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1379.81 MHz ,RF2 : 1379.81 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1315 MHz, ILO2 : 1315 MHz, IVLO1 : 64.81 MHz, IVLO2 : 64.81 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+10 dB, 16 MHz,ON, IF-CH2 : 4+10 dB, 16 MHz,ON
+14. BB BW(KHz) & BB ALC : 500 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:255:1
+17. Frequency Parameters (TPA) : 1379.81 1379.81 1315 1315 64.81 64.81 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+E03 : No fringe.
+C12 : No fringe.
+
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 17:15 - 04:40
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : USB highraise    *********
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+---------------------------------------------
+17:10 : Started settings for 11NKA03
+17:30 : Baseband sttings problem
+18:30 : Problem recovered.
+18:51 : Started scan on 3c286 for 12 min.
+19:21 : Started scan on source for 3h.
+22:24 : Started command file
+   /temp2/data/cmd/nissim/1413+135.cmd
+
+02:00 : Started working.
+03:44 : Command file stopped.
+03:45 : Started scan on 3C286 for 15mins.
+04:00 : Started scan on 1413+135
+04:35 : Scan stopped.
+04:40 : Observation stopped.
+
+
+

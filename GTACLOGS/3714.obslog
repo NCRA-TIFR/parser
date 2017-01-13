@@ -1,0 +1,87 @@
+		 GTAC Observation Log 
+
+1. Date : 06/05/2008
+2. Observation Sr. No. : 3714
+3. Observer : J.Roy
+4. Observer's Email : jroy@ncra.tifr.res.in
+5. Project Name : PSR J1833-1034
+6. Project Code : 14JRB01
+7. Operator(s) : Jitendra,
+	
+8. Command File : /btemp2/cmd/hold.cmd
+9. LTA File : /rawdata/6may/14jrb01_6may2008.lta,
+	/rawdata1/6may/14jrb01_6may2008.ltb
+10. LogFlag File : /btemp2/logflags/14JRB01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 6+0 dB, 32 MHz,OFF, IF-CH2 : 6+0 dB, 32 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C01- Phase unstable
+S01 - Self Zero
+E02 - ABC T.O.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 23:20 - 03:40
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+---------------------------------------------
+23:20 :   14JRB01 - IF Power equalized to 650, BB gain equlized to 1000 counts.
+          Default 610 MHz.
+          E02,S01 - ABC T.O.
+
+23:56 : Scan # 1, 2 - Phasing
+
+          C01 - Phase not stable in both sideband.
+          S01 - Zero counts in USB.
+          W02-W05 - No fringe in USB.
+          LSB - C05-C10 No phase stable.- Phasing problem.
+
+00:27 : target Psr G21.5
+
+02:51 : scan stopped, 610 MHz observation over.
+
+02:52 : Default 235 MHz setup started with Full Baseband BW (16 MHz)
+        TPA 244 244 310 310 66 66
+      : IF+BB Gain - equalized to 1000  on 1830-360
+
+03:15 : scan #12 Phasing on 1830-360
+03:40 : Observing session over.
+
+02:01 : W phasing on 1822-096 (Scan #5).
+
+
+02:51 : scan stopped, 610 MHz observation over.
+
+02:52 : Default 235 MHz setup started with Full Baseband BW (16 MHz)
+        TPA 244 244 310 310 66 66
+      : IF+BB Gain - equalized to 1000  on 1830-360
+
+03:15 : scan #12 Phasing on 1830-360
+03:40 : Observing session over.
+
+
+

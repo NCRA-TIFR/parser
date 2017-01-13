@@ -1,0 +1,80 @@
+		 GTAC Observation Log 
+
+1. Date : 19/10/2009
+2. Observation Sr. No. : 4540
+3. Observer : Philiplah
+4. Observer's Email : philiplah@ncra.tifr.res.in
+5. Project Name : ggdp
+6. Project Code : 17_027
+7. Operator(s) : Navanath,
+   sachin,nilesh,rupsing.	
+8. Command File : /odisk/gtac/cmd/philiplah/a370.cmd
+9. LTA File : /rawdata/19oct/17_027_19oct2009.lta,
+	/rawdata1/19oct/17_027_19oct2009.ltb,
+	/rawdata/20oct/17_027_20oct2009.lta,
+	/rawdata1/20oct/17_027_20oct2009.ltb,
+	/rawdata/20oct/17_027_20oct2009.lta.1,
+  /rawdata1/20oct/17_027_20oct2009.ltb.1,
+10. LogFlag File : /odisk/online1/logflags/17_027.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1040 MHz ,RF2 : 1040 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1110 MHz, ILO2 : 1110 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1040 1040 1110 1110 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :24
+
+20. Name of Non-Working Antennas (with reason for each) :
+C08 : Servo problem.
+W04 : ABC time out.
+W05 : Not fringing.
+C04 : USB-LSB-130 chann having ripples. 
+C10 : 175 polarisation not fringing for both sidebands.
+E03 : USB bad baselines
+
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 22:00 - 00:00
+
+23. ONLINE Machine : Lenyadri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+
+GSB data files are :
+/mnt/a/gsbuser/19oct/17_027_19oct2009.lta,
+/mnt/a/gsbuser/20oct/17_027_20oct2009.lta,
+/mnt/a/gsbuser/20oct/17_027_20oct2009.lta.1,
+/mnt/a/gsbuser/20oct/17_027_20oct2009.lta.2,
+
+22:00 : Started setup for 17_027 project.
+22:15 : E-arm MSEB Power failure.
+22:21 : Started scan on 3C48 for 20min.
+22:40 : E-arm back in obs.
+22:55 : Started command file.
+00:42 : Oper2 machine hung. Rebooted machine and restarted 
+machine. But restarting the machine took time.
+01:28 : Restarted command file.
+04:15 : Stopped command file.
+4:18 : Started scan on 3C48 for 10 mins, with
+simultaneous new record file for next source.
+04:28 : Stopped scan on 3C48 and stopped previously running
+record file.
+09:56 : Stopped gsb record file, statred next record file
+        /mnt/a/gsbuser/20oct/17_027_20oct2009.lta.2 
+12:39 : Stopped command file.
+12:42 : NOTE :in gsb record file scan no.6 is bad
+12:45 : Started scan on 3C286.
+13:00 : Stopped scan and observation session over.
+

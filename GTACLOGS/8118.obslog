@@ -1,0 +1,63 @@
+		 GTAC Observation Log
+
+1. Date : 25/10/2015
+2. Observation Sr. No. : 8118
+3. Observer : Joe Ninan
+4. Observer's Email : ninan@tifr.res.in
+5. Project Name : Mapping of a possibly sequential star formation along filament near IRAS 06103\\+1523
+6. Project Code : 29_038
+7. Operator(s) : Navnath
+8. Command File : /odisk/gtac/cmd/29_038/25oct15/obs.cmd
+9. LTA File : /gsbifrdata/25oct/29_038_25oct2015.lta
+10. LogFlag File : /odisk/online1/logflags/29_038.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1281 MHz ,RF2 : 1281 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1230 MHz, ILO2 : 1230MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_lenyadri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 135.2499
+28. LO5 -2  : 169.7501
+
+29. Frequency Parameters (TPA) : 1281 1281 1230 1230 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :28
+
+32. Name of Non-Working Antennas (with reason for each) :
+W04 : : BLDC Work
+W01 : : No fringe at 1280 Mhz.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 25 Oct 2015 01:00:00 - 25 Oct 2015 06:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :28
+
+37. Comments (During Observations) :
+00:00 ; Started setup.
+00:27 : Started scan on 3C147.
+00:44 : Started cmd file.
+
+   /odisk/gtac/cmd/29_038/25oct15/obs.cmd
+
+05:43 : Started scan on 3C147.
+06:00 : Observation session over.
+

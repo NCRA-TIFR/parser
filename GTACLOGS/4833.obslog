@@ -1,0 +1,53 @@
+		 GTAC Observation Log 
+
+1. Date : 25/04/2010
+2. Observation Sr. No. : 4833
+3. Observer : sayan
+4. Observer's Email : sayan@tifr.res.in
+5. Project Name : NGC3278
+6. Project Code : 18_033
+7. Operator(s) : Santaji,
+	
+8. Command File : /odisk/gtac/cmd/sayan/obs18/18_033_610.cmd
+9. LTA File : /rawdata/25apr/18_033_25apr2010.lta,
+	/rawdata1/25apr/18_033_25apr2010.ltb
+10. GSB File : /gsbifrdata/25apr/18_033_25apr2010_gsb.lta
+11. LogFlag File : /odisk/online1/logflags/18_033.FLAGS.2
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+15. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C01 :OFF
+C02 :ELEVEN FEED.
+E04 :Painting.
+
+21. Note for Backup :--
+
+22. Start and End Time of Obs.(IST): 17:40 - 21:00
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+17:43 : scan stared on 3c147.
+18:00 : E04 released for observation.
+18:03 : command file started.
+20:52 : stopped the command file and scan started on
+        3c286.
+21:00 : stopped the scan and observation session.
+
+

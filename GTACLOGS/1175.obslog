@@ -1,0 +1,64 @@
+		 GTAC Observation Log 
+
+1. Date : 12/10/2003
+2. Observation Sr. No. : 1175
+3. Observer : Prof. Steve Rawlings
+4. Observer's Email : visitor2@gmrt.ncra.tifr.res.in,s.rawlings1@physics.ox.ac.uk
+5. Project Name : TONS OF HI
+6. Project Code : 04SRB01
+7. Operator(s) : Manish G.,
+	Jayprakash,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd//rawlings/filipe1.cmd
+9. LTA File : /rawdata/11oct/04srb01_5c7p56.lta,
+	/rawdata1/12oct/04srb01_5c7p56.ltb
+10. LogFlag File : /btemp2/logflags/04SRB01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1134.9 MHz ,RF2 : 1134.9 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1065 MHz, ILO2 : 1065 MHz, IVLO1 : 69.9 MHz, IVLO2 : 69.9 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+4 dB, 16 MHz,ON, IF-CH2 : 4+4 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1134.9 1134.9 1065 1065 69.9 69.9 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+E06 : Servo Problem.
+C12 : No fringe.
+
+
+
+21. Start and End Time of Obs.(IST): 02:30 - 11:33
+
+22. Comments (During Observations) :
+*****************************
+ONLINE: bhaskar
+AUTHIF: 1170 MHz.
+*****************************
+02:30  Started scan on 3C48, 10 mins.
+02:40  Stopped the scan, antennas moved to 0834+555.
+02:45  Started command file  /temp2/data/cmd/rawlings/filipe1.cmd
+07:10  E06:stopped tracking, Servo brake problem.
+08:47  cmd file loop finished.
+08:49  Started record on 3c147.
+08:59  Stopped record on 3c147.
+09:01  Restarted cmd file
+09:02  C03, parked (for painting).
+10:51  cmd file loop finished,
+10:52  MSEB power failed.
+11:06  MSEB power resumed.
+11:21  Started record on 3c286.
+11:25  Ants C10, C13, W05, stopped working after power resumption.
+       E06, applying brakes, take out of subarray for maint.
+11:33  Stopped record, stopped observation.
+
+

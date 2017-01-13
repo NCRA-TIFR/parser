@@ -1,0 +1,66 @@
+		 GTAC Observation Log
+
+1. Date : 15/08/2014
+2. Observation Sr. No. : 7287
+3. Observer : Anandmayee Tej, Sarita Vig, swagat ranjan das, Swarna Kanti Ghosh, C.H. IshwaraChandra
+4. Observer's Email : anandmayee.tej@gmail.com, sarita@iist.ac.in, dasswagat77@gmail.com, swarna@ncra.tifr.res.in, ishwar@ncra.tifr.res.in
+5. Project Name : Bubbles as probes for star formation and ISM
+6. Project Code : 26_041
+7. Operator(s) : Navnath, Nilesh, Pramod
+8. Command File : /odisk/gtac/cmd/26_041/obs_1300_S6_14Aug14.cmd
+9. LTA File : /gsbifrdata/14aug/26_041_14aug2014.lta
+10. LogFlag File : /odisk/online1/logflags/26_041.FLAGS.6
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1281 MHz ,RF2 : 1281 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1230 MHz, ILO2 : 1230MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 0
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 1281 1281 1230 1230 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :26
+
+32. Name of Non-Working Antennas (with reason for each) :
+S02 : Taken for PC104.
+W01 : MCM 5 time out
+W05 : Taken for BLDC work.
+C10 : 130 pol low fringe.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 14 Aug 2014 18:00:00 - 15 Aug 2014 00:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :26
+
+37. Comments (During Observations) :
+17:40 : Started set up.
+18:01 : Started scan on 3C286 for 15 min.
+18:16 : Stopped scan and started command file.
+        ' /odisk/gtac/cmd/26_041/obs_1300_S6_14Aug14.cmd '
+
+22:40 : C14 : Very very bad band shape.
+23:29 : Stopped command file.
+23:30 : Started scan on phase cal for ~8min.
+23:46 : Started scan on 3c48 for ~15min.
+00:05 : Stopped scan and closed observation session.

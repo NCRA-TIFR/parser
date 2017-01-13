@@ -1,0 +1,48 @@
+1. Date : 24/09/2002
+2. Observation Sr. No. : 0818
+3. Observer : Nimisha
+4. Observer's Email : ngk@ncra.tifr.res.in
+5. Project Name : RX PUP
+6. Project Code : 02USK01
+7. Operator(s) : Galande M.M.,
+	Kudale S.S.,
+	
+8. Command File : /temp2/data/cmd/kamath/rxpup.cmd
+9. LTA File : /rawdata/24sep/02usk01_rxpup_1280.lta
+
+ANTENNA SETTINGS :
+
+10. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1280 MHz ,RF2 : 1280 MHz, SA1 : 0 dB, SA2 : 0 dB
+11. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1210 MHz, ILO2 : 1210 MHz, IVLO1 : 70.00 MHz, IVLO2 : 70.00 MHz
+12. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 2+2 dB, 32 MHz,ON, IF-CH2 : 2+2 dB, 32 MHz,ON
+13. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+14. CLK_SEL/Samp_Freq : 0
+15. Channels : 0:127:1
+16. Frequency Parameters (TPA) : 1280 1280 1210 1210 70.00 70.00 
+
+17. Integration Time : 128 STA ~ 16.908 Sec.
+18. No of Antennas Working(Fringing) :26
+
+19. Name of Non-Working Antennas (with reason for each) :
+C06 : 175 pol no fringe.
+S03 : No fringe.
+S04 : Servo problem.
+W04 : MCM's time out.
+
+20. Start and End Time of Obs.(IST): 05:20 - 11:43
+
+21. Comments (During Observations) :
+05:20  Started scan on 3C147.
+05:35  Stopped the scan. Antennas moved to source 0828-375.
+06:03  Started command file /temp2/data/cmd/kamath/rxpup.cmd.
+09:50  Power failed on S-arm.
+10:06  C06 down for maint work (Ref. GCC)
+10:15  Scan #16(started @ 09:49) bad, online machine failure.
+11:12  Stopped cmd file.
+11:23  Started record on FLUX/BPASS cal (3c286).
+11:43  Stopped record on 3c286 and project.
+
+

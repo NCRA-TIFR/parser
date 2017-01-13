@@ -1,0 +1,58 @@
+		 GTAC Observation Log 
+
+1. Date : 12/09/2007
+2. Observation Sr. No. : 3379
+3. Observer : Marija
+4. Observer's Email : vlajic@astro.ox.ac.uk,hrk@astro.ox.ac.uk
+5. Project Name : cdfs
+6. Project Code : 12SRB02
+7. Operator(s) : Jayprakash,
+	Manisha,
+	Nilesh,
+	Sachin,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/vlajic/cdfs.cmd,
+	/btemp2/cmd/vlajic/cosmoss.cmd
+9. LTA File : /rawdata/12sep/12srb02_12sep2007.lta,
+	/rawdata1/12sep/12srb02_12sep2007.ltb
+10. LogFlag File : /btemp2/logflags/12SRB02.FLAGS.12
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1092 MHz ,RF2 : 1092 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1160 MHz, ILO2 : 1160 MHz, IVLO1 : 68.0000 MHz, IVLO2 : 68.0000 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1092 1092 1160 1160 68.0000 68.0000 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+bad baseline
+W01:[C09,C10,C11,C12]
+C00 & C03 : Not tracking.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 01:20 - 09:36
+
+23. Comments (During Observations) :
+----------------------------------------------
+******** ONLINE Machine : Bhaskar   **********
+******** Corr Mode : IndianPolar     *********
+----------------------------------------------
+01:20 : Started scan on 3c48 for 15min.
+01:35 : Stopped the scan.
+01:45 : Started the command file.
+06:32 : Stopped the command file.
+06:38 : Started the next command file.
+09:09 : Stopped command file.
+09:20 : Started scan on 3C147.
+09:36 : Stopped scan and observation session.
+

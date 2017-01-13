@@ -1,0 +1,49 @@
+		 GTAC Observation Log 
+
+1. Date : 25/02/2005
+2. Observation Sr. No. : 1912
+3. Observer : Nissim
+4. Observer's Email : nkanekar@aoc.nrao.edu
+5. Project Name : 07NKA01
+6. Project Code : 07NKA01
+7. Operator(s) : Jayprakash,
+	Sachin,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/nissim/iras13153.cmd
+9. LTA File : /rawdata/25feb/07NKA01_13153.lta,
+	/rawdata1/25feb/07NKA01_13153.ltb
+10. LogFlag File : /btemp2/logflags/07NKA01.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1040 MHz ,RF2 : 1040 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 970 MHz, ILO2 : 970 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 32 MHz,ON, IF-CH2 : 12+12 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1040 1040 970 970 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+W05 : MCM-5 time out.
+
+21. Start and End Time of Obs.(IST): 23:01 - 06:13
+
+22. Comments (During Observations) :
+ONLINE : bhaskar
+AUTHIF : 1390 MHz
+****************************
+23:01 : Started scan on 3C286.
+23:16 : Stopped scan on 3C286.
+23:20 : Started command file.
+05:47 : Stopped command file & took scan on phase cal.
+05:56 : Stopped scan on phase cal.
+06:01 : Started scan on 3C286 for 12 mins.
+06:13 : Stopped scan on 3C286 & closed observation.

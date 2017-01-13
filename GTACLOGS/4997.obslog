@@ -1,0 +1,63 @@
+		 GTAC Observation Log 
+
+1. Date : 04/08/2010
+2. Observation Sr. No. : 4997
+3. Observer : Gregory Paciga
+4. Observer's Email : paciga@astro.utoronto.ca
+5. Project Name : The GMRT EoR Project
+6. Project Code : 18_058
+7. Operator(s) : Deepak,
+	Nilesh,
+	Sachin,
+	
+8. Command File : /odisk/gtac/cmd/uelipen/aug05_final.1.cmd,
+	/odisk/gtac/cmd/uelipen/aug05_final.2.cmd
+9. LTA File : /rawdata/5aug/18_058_05aug2010.lta,
+	/rawdata1/5aug/18_058_05aug2010.ltb,
+	
+10. GSB File : 
+11. LogFlag File : /odisk/online1/logflags/18_058.FLAGS.19
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 218 MHz, ILO2 : 218 MHz, IVLO1 : 62 MHz, IVLO2 : 62 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+10 dB, 16 MHz,OFF, IF-CH2 : 24+10 dB, 16 MHz,OFF
+15. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 156 156 218 218 62 62 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C08 : Fringe fluctuations.
+E05 : No Fringe.
+21. Note for Backup :--
+
+22. Start and End Time of Obs.(IST): 20:00 - 07:00
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : UsbPolar
+
+25. Comments (During Observations) :
+****************************************************
+19:30 : Started power eq.
+20:00 : Power eq. done.
+20:01 : Noise source on,low cal,25% duty cycle.
+20:15 : Source risen, started command file
+        '/odisk/gtac/cmd/uelipen/aug04_final.1.cmd'.
+
+21:07 : S-arm power failure.
+21:40 : S-arm power restored.
+21:55 : S-arm started working.
+00:04 : Started command file
+        /odisk/gtac/cmd/uelipen/aug04_final.2.cmd
+07:00 : Observation stopped.
+
+****************************************************
+

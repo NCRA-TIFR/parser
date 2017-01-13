@@ -1,0 +1,77 @@
+		 GTAC Observation Log 
+
+1. Date : 11/08/2006
+2. Observation Sr. No. : 2770
+3. Observer : Dr. Ishwar
+4. Observer's Email : ishwar@ncra.tifr.res.in,samuel@star.sr.bham.ac.jk,irs@star.sr.bham.ac.uk
+5. Project Name : Exoplanet
+6. Project Code : 10ISA01
+7. Operator(s) : Jitendra,
+	Manish G.,
+	Sachin,
+	Sanjay,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/ishwar/isaeps.cmd,
+	/btemp2/cmd/ishwar/isahd.cmd
+9. LTA File : /rawdata/11aug/10isa01_epseri.lta,
+	/rawdata/11aug/10isa01_isacnc.lta
+10. LogFlag File : /btemp2/logflags/10ISA01.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 157 MHz ,RF2 : 157 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 223 MHz, ILO2 : 223 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 16 MHz,ON, IF-CH2 : 16+16 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 157 157 223 223 66 66 
+
+18. Integration Time : 64 LTA ~ 8.454 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+E03 - No fringe.
+W02 - MCM 2 and 10 time out.
+S03 - band base lines.
+W06 - servo problem.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 01:15 - 21:30
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndPolar    *********
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+---------------------------------------------
+02:27 : scan started on 3c48
+02:56 : commad file started.
+03:30 : C00 servo problem.
+05:38 : S - arm down due to electrical problem.
+06:17 : S - arm started working.
+08:38 : Stopped the command file and observed
+        3C48 for 10 mins.
+08:50 : Started new command file and new data files.
+11:00 : W02 started working.
+12:00 : W06 started working.
+16:00 : Stopped command file.
+16:10 : Started scan on 3C286 for 10 mins.
+16:37 : Started next command file.
+21:00 : Stopped command file.
+21:03 : Started scan on phase cal for 6 mins.
+21:10 : Stopped scan on phase cal.
+21:12 : Started scan on 3C286 for 18 mins.
+21:30 : Stopped scan on 3C286 and closed project.
+

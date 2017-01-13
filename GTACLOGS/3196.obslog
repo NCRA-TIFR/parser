@@ -1,0 +1,94 @@
+		 GTAC Observation Log 
+
+1. Date : 11/06/2007
+2. Observation Sr. No. : 3196
+3. Observer : Neeraj Gupta
+4. Observer's Email : neeraj@ncra.tifr.res.in
+5. Project Name : DLA
+6. Project Code : 12RSA02
+7. Operator(s) : Deepak,
+	Jayprakash,
+	Jitendra,
+	Manisha J.,
+	Sachin,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/neeraj/dla0816.cmd,
+	/btemp2/cmd/neeraj/dla1435.cmd
+9. LTA File : /rawdata/11jun/12rsa02_11jun2007.lta,
+	/rawdata1/11jun/12rsa02_11jun2007.ltb,
+	/rawdata/11jun/12rsa02_11jun2007.lta.1,
+	/rawdata1/11jun/12rsa02_11jun2007.ltb.1,
+	
+10. LogFlag File : /btemp2/logflags/12RSA02.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 319.9454 MHz ,RF2 : 319.9454 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 250 MHz, ILO2 : 250 MHz, IVLO1 : 69.9454 MHz, IVLO2 : 69.9454 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+4 dB, 6 MHz,ON, IF-CH2 : 16+4 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 500 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 319.9454 319.9454 250 250 69.9454 69.9454 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :25
+
+20. Name of Non-Working Antennas (with reason for each) :
+E04 : Bad Bandshape in USB.
+W02 : No fringe.
+W03 : 175 pol no fringe.
+C14 : 175 pol no fringe.
+W01 : No fringe.
+E03 : NO fringe.
+BAD baselines USB:C03X(S02,S03,S04,S06,W01)
+BAD baselines LSB:C02X(C08,C09,C10,C11,C12,C13,W04)
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 11:00 - 03:20
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    **********
+--------------------------------------------
+11:00 : Started scan on 3C147 for 15mins.
+11:15 : E04 started working.
+11:25 : Started command file
+        /btemp2/cmd/neeraj/dla0816.cmd
+11:52 : E02 started working.
+12:00 : MSEB power failure.
+12:05 : MSEB power resume.
+12:20 : C05 MCM 5 time out.
+12:25 : Restarted command file.
+14:35 : command file stopped.
+14:37 : Started on scan 3C147 for 10m.
+14:48 : Restarted command file.
+
+15:00 : Command file is running.
+15:14 : C14 released.(Problem was 175 channel down.).
+17:54 : Stopped the command file.
+18:00 : Started scan on 3c286 for 10min.
+18:10 : Stopped the scan & obs.
+        Started settings for next source.
+                Antenna Settings : RF = 325 MHz, LO = 260 MHz,
+                                   IFBW = 6 MHz, BB = 1 MHz,
+                                                   BBLO = 69.6747
+18:19 : Started scan on 3c286 for 15min.
+18:35 : Stopped the scan.
+18:37 : Started the command file.
+19:47 : E02 got ABC reset.
+20:05 : C05 started working.
+20:09 : E02 started working.
+20:41 : E02 got ABC reset.
+21:10 : E02 resumed.
+00:45 : E02 got ABC reset.
+01:05 : 3C286 scan started.
+01:17 : Restarted cmd file.
+03:20 : cmd file stopped, closed observation.
+
+

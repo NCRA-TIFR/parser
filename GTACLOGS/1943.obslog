@@ -1,0 +1,63 @@
+		 GTAC Observation Log 
+
+1. Date : 13/03/2005
+2. Observation Sr. No. : 1943
+3. Observer : APR
+4. Observer's Email : pramesh@ncra.tifr.res.in
+5. Project Name : CG12/DS53
+6. Project Code : 07PKS01
+7. Operator(s) : Jayprakash,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/pramesh/pks02.cmd
+9. LTA File : /rawdata/13mar/07pks01_13mar.lta,
+	/rawdata1/13mar/07pks01_13mar.ltb
+10. LogFlag File : /btemp2/logflags/07PKS01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1280 MHz ,RF2 : 1280 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1210 MHz, ILO2 : 1210 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 32 MHz,ON, IF-CH2 : 12+12 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 4000 KHz, 6 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 2
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1280 1280 1210 1210 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :23
+
+20. Name of Non-Working Antennas (with reason for each) :
+W05 : MCM-5 Timeout.
+W02 : USB-175, LSB no fringe.
+E-Arm : Power failed.
+
+21. Start and End Time of Obs.(IST): 03:26 - 11:55
+
+22. Comments (During Observations) :
+** ONLINE : bhaskar **
+** AUTHIF : 1280 MHz **
+===============================
+
+03:26 : Started scan on 3c286 for 10min.
+03:35 : Stopped the scan.
+03:45 : Started the command file /btemp2/cmd/pramesh/pks02.cmd.
+*** Phase cal not risen, so started the scan on target source ***
+09:23 : C12 parked for painting.
+11:19 : Stopped cmd file,
+      : Source 1830-360 set, ants set on BP-cal 3c48.
+11:28 : Started BP-cal on 3c48.
+11:33 : Stopped 3c48.
+----------------
+IF/BB ALC turned off.
+IF ATTN=AUTH+8 dB.
+source CG12-0.1 set
+11:43 : Started scan on DS53 
+11:48 : Stopped scan
+11:49 : Started scan on 1911-201.
+11:55 : Stopped scan, closed observation.
+--------------------
+

@@ -1,0 +1,65 @@
+		 GTAC Observation Log 
+
+1. Date : 18/08/2009
+2. Observation Sr. No. : 4479
+3. Observer : Aritra Basu, D. Mitra
+4. Observer's Email : aritra@ncra.tifr.res.in,dmitra@ncra.tifr.res.in,yogesh@ncra.tifr.res.in,ishwar@ncra.tifr.res.in,akk@iucaa.ernet.in
+5. Project Name : NGC4321
+6. Project Code : 16_269
+7. Operator(s) : Navanath,
+	Nilesh,
+	Sachin,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/aritra/16_269.s1.18aug.1.cmd,
+	/odisk/gtac/cmd/aritra/16_269.s1.18aug.2.cmd
+9. LTA File : /rawdata/18aug/16_269_18aug2009.lta,
+	/rawdata1/18aug/16_269_18aug2009.ltb,
+	
+10. LogFlag File : /odisk/online1/logflags/16_269.FLAGS.10
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 325 MHz ,RF2 : 325 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 255 MHz, ILO2 : 255 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 325 325 255 255 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+E03 : Servo time out.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 10:00 - 18:05
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+10:03 : Started scan on 3c147 ~12min. 
+10:18 : Scan stopped.
+10:19 : changing track from outer to inner.
+        It tooks about (~16min).
+10:20 : E03 released for Observation.
+10:35 : Started command file.
+12:57 : E-arm MSEB power failure.
+13:32 : E-arm MSEB power resumed.
+15:54 : Started scan on source.
+15:24 : scan stopped.
+16:32 : started scan on 3c286 but need to change track.
+      : Changed track from inner to outer.
+      : It tooks ~ 12min.
+17:45 : C10 parked due to tracking problem.
+17:52 : Started scan on 3C286 for 10 min.
+18:05 : Observation session over.
+
+

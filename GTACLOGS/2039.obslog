@@ -1,0 +1,58 @@
+		 GTAC Observation Log 
+
+1. Date : 28/05/2005
+2. Observation Sr. No. : 2039
+3. Observer : Joydeep Bagchi/Chavan
+4. Observer's Email : joydeep@iucaa.ernet.in,satyajit@iucaa.ernet.in
+5. Project Name : A523 Radio Halo
+6. Project Code : 08JBA01
+7. Operator(s) : Deepak,
+	Jitendra,
+	Sanjay,
+	
+8. Command File : /atemp2/cmd/bagchi/08jba01.cmd
+9. LTA File : /rawdata/28may/08jba01_a523.lta,
+	/rawdata1/28may/08jba01_a523.ltb
+10. LogFlag File : /atemp2/logflags/08JBA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+C10 - Parked for painting
+
+21. Start and End Time of Obs.(IST): 08:20 - 18:20
+
+22. Comments (During Observations) :
+ONLINE : ADITYA
+AUTHIF : 610 MHz
+===============================
+08:20 : Flux calibrator scan started.
+08:33 : Scan stopped.
+08:49 : command file started.
+08:50 : Scan#1 : C11 not pointing on target src.
+12:19 : command file stopped.
+        C11- Reset given to Antenna base computer
+        plus receiver settings done again.
+        C11- antenna giving fringe.
+12:34 : Flux cal. scan on 3C147 started for 10m.
+12:44 : scan stopped.
+12:54 : Command file restarted with outer track.
+18:01 : Stopped cmd file.
+18:10 : Started scan on 3C286 for 10mins.
+18:20 : Observation stopped.
+
+

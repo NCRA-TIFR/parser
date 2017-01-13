@@ -1,0 +1,73 @@
+		 GTAC Observation Log
+
+1. Date : 24/03/2015
+2. Observation Sr. No. : 7702
+3. Observer : Jayanta Roy, Maura Ann McLaughlin, Scott M. Ransom, Bhaswati Bhattacharyya, Duncan Ross Lorimer, Lina Levin
+4. Observer's Email : jayanta.roy@manchester.ac.uk, maura.mclaughlin@mail.wvu.edu, sransom@nrao.edu, bhaswati.bhattacharyya@manchester.ac.uk, Duncan.Lorimer@mail.wvu.edu, lina.s.levin@gmail.com
+5. Project Name : Coherently dedispersed timing studies at the GMRT for IPTA MSPs
+6. Project Code : 27_043
+7. Operator(s) : Nilesh, Rupsing, Sachin, Shilpa
+8. Command File : /odisk/gtac/cmd/jroy/27_043_24mar.cmd
+9. LTA File : /gsbifrdata1/24mar/27_043_24mar2015_2s.lta.1,/gsbifrdata1/24mar/27_043_24mar2015_2s.lta
+10. LogFlag File : /odisk/online1/logflags/27_043.FLAGS.9,/odisk/online1/logflags/27_043.FLAGS.8,/odisk/online1/logflags/27_043.FLAGS.7
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : IA
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 306 306 255 255 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :27
+
+32. Name of Non-Working Antennas (with reason for each) :
+W06 : Feed cage painting.
+W04 : 175pol low fringe.
+E06 : Strong RFI. 
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 24 Mar 2015 05:30:00 - 24 Mar 2015 10:23:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :25
+
+37. Comments (During Observations) :
+05:50 : Power eq. on 1830-360.
+----------------------------------------------------------------------------
+06:00 : Setup IF=16MHz for raw mode.
+----------------------------------------------------------------------------
+06:05 : Started scan on J1947-43(raw mode).
+
+08:05 : Stopped RAW mode.
+08:10 : Changed settings to IF = 32 MHz, default 325, ALC off, IA-OFF.
+        W01 removed from GAC due to strong RFI.
+        W06 started working. 
+08:14 : Started command file.
+
+09:55 : E02, E04 removed from GAC, after 9 min into the scan on HR_2048-42.
+
+E02 - Servo problem.
+E04 - Painting.
+
+10:23 : Stopped command file and observing session over.

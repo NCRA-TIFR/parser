@@ -1,0 +1,68 @@
+		 GTAC Observation Log 
+
+1. Date : 18/01/2010
+2. Observation Sr. No. : 4721
+3. Observer : Rosita Paladino
+4. Observer's Email : rosita.paladino@uibk.ac.at
+5. Project Name : Low frequency observations of two nearby spiral galaxies: NGC 2403
+6. Project Code : 17_045
+7. Operator(s) : Deepak,
+	Jayprakash,
+	Nilesh,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/17_045/paladino.cmd
+9. LTA File : /rawdata/18jan/17_045_18jan2010.lta,
+	/rawdata1/18jan/17_045_18jan2010.ltb
+10. LogFlag File : /odisk/online1/logflags/17_045.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 325 MHz ,RF2 : 325 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 255 MHz, ILO2 : 255 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 325 325 255 255 70 70 
+
+18. Integration Time : 64 LTA ~ 8.454 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+C13 - Bad band-shape.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 18:00 - 04:00
+
+23. ONLINE Machine : Lenyadri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+18:00 : Started setup @ 325 MHz.
+********************************************
+Software correlator data files :
+/gsbifrdata/18jan/17_045_18jan2010_gsb.lta
+********************************************
+18:15 : Started scan on 3c147 for 15min.
+18:32 : Started command file.
+'/odisk/gtac/cmd/17_045/paladino.cmd'.
+
+19:23 : Strong RFI Lines @ 315MHz, 320MHz,330MHz,335MHz,340MHz.
+19:47 : Strong RFI only @ 330 MHz.
+19:50 : RFI Vanished.
+00:17 : Stopped the command file.
+00:20 : Started scan on 3c286 for 10min.
+00:31 : Stopped the scan.
+00:32 : Restarted the command file.
+03:40 : Stopped the command file.
+03:45 : Started scan on 3c286.
+04:00 : Stopped the scan & observation.
+
+
+
+

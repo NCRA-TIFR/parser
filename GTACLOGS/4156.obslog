@@ -1,0 +1,100 @@
+		 GTAC Observation Log 
+
+1. Date : 24/01/2009
+2. Observation Sr. No. : 4156
+3. Observer : J.Roy
+4. Observer's Email : jroy@ncra.tifr.res.in
+5. Project Name : Pulsar observation
+6. Project Code : 15MBA01
+7. Operator(s) : Deepak,
+	Jayprakash,
+	Manisha,
+	Navanath,
+	
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /rawdata/24jan/15mba01_24jan2009.lta,
+	/rawdata1/24jan/15mba01_24jan2009.ltb,
+  /rawdata/24jan/15mba01_24jan2009_diffstop.lta,
+  /rawdata1/24jan/15mba01_24jan2009_diffstop.ltb
+10. LogFlag File : /btemp2/logflags/15MBA01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 325 MHz ,RF2 : 325 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 255 MHz, ILO2 : 255 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+0 dB, 32 MHz,OFF, IF-CH2 : 20+0 dB, 32 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 325 325 255 255 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+S01 - No fringe.
+S03 : Not tracking.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 05:00 - 15:55
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+
+06:46:54 : Started scan on  J1024-0719
+07:05:07 : Started scan on  J1022+1001
+07:18:56 : Started scan on  J1300+1240
+07:25:23 : Started scan on  J1312+1810
+07:41:16 : Started scan on  J1537+1155
+07:50:18 : Started scan on  J1640+2224
+08:05:40 : Started scan on  J1455-3330
+08:17:36 : Started scan on  J1623-2631
+08:26:32 : Started scan on  J1643-1224
+08:30:46 : Started scan on  J1721-2457
+08:42:40 : Started scan on  J1730-2304
+08:54:20 : Started scan on  J1751-2857
+09:27 : W01 painting.
+09:10 : Fresh power eq. on 1822-096
+10:00 : C14 painting.
+10:03:41 : Started scan on  J1756-2251
+10:20:40 : Started scan on  J1744-1134
+10:28:32 : Started scan on  J1745-0952
+10:41:50 : Started scan on  J1713+0747
+10:49:19 : Started scan on  J1709+2313
+11:03:28 : Started scan on  J1801-1417
+11:14:50 : Started scan on  J1802-2124
+11:26:28 : Started scan on  J1804-2717
+11:33:00 : Started scan on  J1824-2452
+11:45:10 : Started scan on  J1843-1113
+11:54:36 : Started scan on  J1909-3744
+12:06:18 : Started scan on  J1911-1114
+12:13:35 : Started scan on  J2124-3358
+12:23:13 : Started scan on  J1918-0642
+12:32:45 : Started scan on  J2051-0827
+12:41:48 : Started scan on  J2145-0750
+12:58 : phasing done on 3C48. cal run on 3C48.
+13:33:49 : Started scan on  J1905+0400
+13:47:21 : Started scan on  J1853+1303
+13:59:14 : Started scan on  J1857+0943
+14:05:45 : Started scan on  J1910+1256
+14:17:06 : Started scan on  J1913+1011
+14:26:18 : Started scan on  J1939+2134
+14:31:10 : Started scan on  J1944+0907
+14:41:01 : Started scan on  J1955+2908
+14:52:48 : Started scan on  J1959+2048
+14:57:30 : Started scan on  J1952+3252
+15:08:58 : Started scan on  J2019+2425
+15:16:51 : Started scan on  J2229+2643
+15:29:07 : Started scan on  J2317+1439
+15:42:55 : Started scan on  J2322+2057
+15:53:00 : Observation session ovner.
+
+
+

@@ -1,0 +1,60 @@
+		 GTAC Observation Log 
+
+1. Date : 17/12/2004
+2. Observation Sr. No. : 1765
+3. Observer : Hota
+4. Observer's Email : hota@ncra.tifr.res.in
+5. Project Name : NGC2805
+6. Project Code : 07DJS01
+7. Operator(s) : Manish G.,
+	Jayprakash,
+	Sachin,
+	Sanjay,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/hota/ngc2805.cmd
+9. LTA File : /rawdata/17dec/07djs01_ngc2805HI.lta.1,
+	/rawdata1/17dec/07djs01_ngc2805HI.ltb.1
+10. LogFlag File : /btemp2/logflags/07DJS01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1411.239 MHz ,RF2 : 1411.239 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1345 MHz, ILO2 : 1345 MHz, IVLO1 : 66.239 MHz, IVLO2 : 66.239 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+10 dB, 16 MHz,ON, IF-CH2 : 10+10 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 4000 KHz, 6 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 2
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1411.239 1411.239 1345 1345 66.239 66.239 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+C12 : Fringe not stable.
+C03 : Started applying breaks after 23:00 Hrs. 
+
+
+21. Start and End Time of Obs.(IST): 09:11 - 00:00
+
+22. Comments (During Observations) :
+******** ONLINE BHASKAR *******
+******** AUTH IF AT 1390 MHz. *
+-------------------------------
+
+21:11 : Started scan on 3C147.
+21:57 : Started command file /btemp2/cmd/hota/ngc2805.cmd.
+23:00 : 2300Hrs. onward C03 started applying elevation brakes.
+01:27 : Given the ABC reset from control room to C03.
+01:27 : Stopped the command file & taken scan on 3C147 for 30 mins.
+02:08 : Started the same command file.
+05:10 : Stopped the command file & taken scan on 3C147 for 30 mins.
+05:47 : Started the same command file.
+06:40 : S06 applied brake, also parked with stowing the antenna.
+08:46 : Stopped the command file.
+08:50 : Started scan on 3C286.
+09:13 : Stopped the scan. Stopped the observation.
+

@@ -1,0 +1,72 @@
+		 GTAC Observation Log 
+
+1. Date : 28/4/2014
+2. Observation Sr. No. : 7071
+3. Observer : Rahul Basu,Dipanjan Mitra
+4. Observer's Email : rbasu@ncra.tifr.res.in,dmitra@ncra.tifr.res.in
+5. Project Name : Studying Off-pulse emission from long period Pulsars using Interferometric Imaging.
+6. Project Code : 26_057
+7. Operator(s) : Deepak,Rupsingh,
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /gsbifrdata/28apr/26_057_28apr2014.lta,
+10. LogFlag File : /odisk/online1/logflags/26_057.FLAGS.23,
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 602 MHz ,RF2 : 602 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540 MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+12 dB, 16 MHz,OFF, IF-CH2 : 20+12 dB, 16 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : Realtime 
+15. GSB LTA : 4 
+16. GSB CTRL : ONLINE 
+17. GSB Fstop : ON 
+18. GAIN EQ : OFF, 
+19. Stokes : TotIntensity
+20. Beam - 1 : OFF
+21. Beam - 2 : OFF
+22. ACQ BW : 16.67 MHz
+23. Final BW : 16.666666 MHz; Step # 0
+24. Maximum Channels : 256 
+25. Channel Numbers : 0:255:1 
+26. LO5 -1  : 138.00 
+27. LO5 -2  : 167.00 
+
+28. Frequency Parameters (TPA) : 602 602 540 540 62 62.
+29. Integration Time :  Sec.
+30. No of Antennas Working(Fringing) at the begining :26
+
+31. Name of Non-Working Antennas (with reason for each) :
+S06 : BLDC
+S04 : feed removed.
+E04 : Servo problem.
+S03 : ABC time out.
+32. Note for Backup :
+
+33. Start and End Time of Obs.(IST): 18:00 - 22:00
+
+34. ONLINE Machine : Shivneri
+
+35. No of Antennas Working(Fringing) at the end :27
+
+36. Comments (During Observations) :
+18:00 : Started power eq. on 3C147.
+18:10 : Power eq. done.
+18:10 : W-arm power failure.
+18:42 : Started scan on 3C147.
+18:50 : Stopped scan.
+18:51 : Power come back.
+19:00 : S03 started working.
+----------------------------------------------------------------------
+19:02:22 : Started scan on 0837-198 for ~ 4.36204 min.
+19:08:05 : Started scan on B0818-13 for ~ 45.4659 min.
+19:54:50 : Started scan on 0837-198 for ~ 4.0936 min.
+20:00:10 : Started scan on B0818-13 for ~ 45.4659 min.
+20:46:49 : Started scan on 0837-198 for ~ 4.16071 min.
+20:51:57 : Started scan on B0818-13 for ~ 30.3329 min.
+21:23:27 : Started scan on 0837-198 for ~ 4.0265 min.
+21:28:24 : Started scan on B0818-13 for ~ 30.4336 min.
+21:59:39 : Started scan on 0837-198 for ~ 4.19427 min.
+22:03:00 : Stopped scan and observation over.

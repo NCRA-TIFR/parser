@@ -1,0 +1,60 @@
+		 GTAC Observation Log 
+
+1. Date : 26/01/2003
+2. Observation Sr. No. : 0957
+3. Observer : Katherine,Sanjay Bhatnagar,Steve
+4. Observer's Email : kmb@astro.ox.ac.uk,sr@astro.ox.ac.uk
+5. Project Name : Qusars
+6. Project Code : 03KBA01
+7. Operator(s) : Manish G.,
+	Sanjay,
+	
+8. Command File : /temp2/data/cmd/kmb/26jan/kmb08.cmd,
+	/temp2/data/cmd/kmb/26jan/kmb08_2.cmd,
+	/temp2/data/cmd/kmb/26jan/kmb10hr.cmd,
+	/temp2/data/cmd/kmb/26jan/kmb14hr.cmd,
+	/temp2/data/cmd/kmb/26jan/kmb17hr.cmd
+9. LTA File : /rawdata/26jan/03kba01_08hr.lta,
+	/rawdata/26jan/03kba01_10hr.lta,
+	/rawdata/26jan/03kba01_14hr.lta,
+	/rawdata/26jan/03kba01_17hr.lta
+10. LogFlag File : /temp2/data/logflags/03KBA01.FLAGS.6
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 244 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 310 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+20 dB, 6 MHz,ON, IF-CH2 : 20+20 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 244 244 310 310 66 66 
+
+18. Integration Time : 80 STA ~ 10.568 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C13 P.M.
+W03 No fringe.
+S04 ABC Time Out.
+
+21. Start and End Time of Obs.(IST): 22:30 - 09:58
+
+22. Comments (During Observations) :
+22:30  Started scan on 3C147.
+22:36  Stopped the scan. Antennas moved to source 7C014.
+22:39  Started the command file  /temp2/data/cmd/kmb/26jan/kmb08.cmd.
+01:26  Stopped cmd file.
+01:28  Started cmd file /temp2/data/cmd/kmb/26jan/kmb08_2.cmd
+02:37  Stopped cmd file
+02:47  Started cmd file /temp2/data/cmd/kmb/26jan/kmb10hr.cmd
+       LTA FILE:/rawdata/26jan/03kba01_10hr.lta
+05:57  Stopped cmd file, stopped ltafile.
+06:02  Started cmd file /temp2/data/cmd/kmb/26jan/kmb14hr.cmd
+       LTA FILE: /rawdata/26jan/03kba01_14hr.lta
+08:10  E02 servo time outs, not tracking.
+09:58  Stopped the scan. Closed the observation.
+

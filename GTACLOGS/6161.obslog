@@ -1,0 +1,61 @@
+		 GTAC Observation Log 
+
+1. Date : 14/9/2012
+2. Observation Sr. No. : 6161
+3. Observer : Narendranath Patra,Karen Lee-Waddell
+4. Observer's Email : karen.lee-waddell@rmc.ca,narendra@ncrea.tifr.res.in
+5. Project Name : HI Mapping of the Interacting Groups NGC 4725/4747 and NGC 871/876/877
+6. Project Code : 22_009
+7. Operator(s) : Nilesh,
+	Rupsingh,
+	
+8. Command File : /odisk/gtac/cmd/22_009/field_a.cmd
+9. LTA File : /gsbifrdata/14sep/22_009_14ep2012.lta
+10. LogFlag File : /odisk/online1/logflags/22_009.FLAGS.6
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1391.7835 MHz ,RF2 : 1391.7835 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1330 MHz, ILO2 : 1330 MHz , IVLO1 : 61.7835 MHz, IVLO2 : 61.7835 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : OFF 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 16 MHz
+21. Maximum Channels : 512 
+22. IFBW (MHz) : LO5 (KHz) : Custom :- 16 : 138.21 - 166.78
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 1391.7835 1391.7835 1330 1330 61.7835 61.7835.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :28
+
+27. Name of Non-Working Antennas (with reason for each) :
+C03 : Maintenance.
+C09 : Low fringe.
+S01 : Low fringe.
+S06 : Low fringe.
+
+
+
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 21:30 - 06:00
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+21:36 : Started scan on 3C48.
+22:02 : Stopped scan.
+22:05 : Command file started.
+
+05:45 : Command file stopped.
+05:47 : Started scan on 3C48.
+06:00 : Observation stopped.
+

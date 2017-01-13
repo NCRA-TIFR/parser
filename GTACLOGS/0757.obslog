@@ -1,0 +1,57 @@
+1. Date : 16/08/2002
+2. Observation Sr. No. : 0757
+3. Observer : SanB,Nimisha,Poonam.
+4. Observer's Email : sanjay@ncra.tifr.res.in,ngk@ncra.tifr.res.in,poonam@tifr.res.in
+5. Project Name : W49B
+6. Project Code : 02SBA01
+7. Operator(s) : Kamble J.R.,Katore S.N.,
+8. Command File : /temp2/data/cmd/ngk/w49b.cmd
+9. LTA File : /rawdata/16aug/02sba01_w49b.lta
+
+ANTENNA SETTINGS :
+
+10. RF Freq(MHz) & Solar Attn(dB)- RF1 : 324.4915 MHz ,RF2 : 324.4915 MHz, SA1 : 0 dB, SA2 : - dB
+11. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 254 MHz, ILO2 : 254 MHz, IVLO1 : 70.491 MHz, IVLO2 : 70.491 MHz
+12. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 22+22 dB, 6 MHz,on, IF-CH2 : 22+22 dB, 6 MHz,on
+13. BB BW(KHz), BB Gain(dB) & BB ALC : 1000 KHz, 12 dB, on
+
+CORREATOR SETTINGS :
+
+14. CLK_SEL/Samp_Freq : 4
+15. Channels : 0:127:1
+16. Frequency Parameters (TPA) : 324.4915 324.4915 254 254 70.491 70.491 
+
+17. Integration Time : 128 STA ~ 16.908 Sec.
+18. No of Antennas Working(Fringing) :28
+
+19. Name of Non-Working Antennas (with reason for each) :
+W01: low fringe.
+W02: 130 pol no fringe.
+
+20. Start and End Time of Obs.(IST): 18:00 - 00:00
+
+21. Comments (During Observations) :
+18:27 started scan on 3c286.
+19:06 started scan on cyga.
+19:48 started the command file
+      /temp2/data/cmd/ngk/w49b.cmd.
+19:48 antenna w02 given for honeybee removal.
+20:10 antenna w02 released for observations.
+22:15 started scan on cyga.
+22:55 restarted the command file.
+23:46 Stopped scan & command file.
+23:57 Started scan on 3c48 for 30min.
+00:30 Stopped scan.
+00:41 Started command file 
+      /temp2/data/cmd/ngk/w49b.cmd.
+01:31 Stopped command file.
+      Phase cal 1822-096 set.Changed phase cal & started command file
+      /temp2/data/cmd/ngk/w49b.cmd.
+02:45 Source W49B set,stopped command file.
+02:52 Started scan on 3c48 for 30min.
+*** Scan = 21 Bad scan ****
+03:30 Started scan on 3c48 for 10min.
+03:45 Started scan on CYGA.
+04:05 Source CYGA set,stopped scan & observation.
+
+

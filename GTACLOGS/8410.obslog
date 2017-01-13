@@ -1,0 +1,67 @@
+		 GTAC Observation Log
+
+1. Date : 14/02/2016
+2. Observation Sr. No. : 8410
+3. Observer : Manoj Puravankara, Sarita Vig, Mayra Osorio, Guillem Anglada, Ana Karla DíazRodríguez, S Thomas Megeath, Dan M Watson, William J Fischer, Thomas L Wilson, Beatriz Maria Gonzalez-Garcia, Dharam Vir Lal
+4. Observer's Email : manoj.puravankara@tifr.res.in, sarita@iist.ac.in, osorio@iaa.es, guillem@iaa.es, akdiaz@iaa.es, tommegeath@gmail.com, dmw@pas.rochester.edu, wjfischer@gmail.com, tom.wilson@nrl.navy.mil, bgonzale@sciops.esa.int, dharam@ncra.tifr.res.in
+5. Project Name : GMRT OBSERVATIONS OF PROTOSTELLAR JETS IN ORION
+6. Project Code : 29_013
+7. Operator(s) : Deepak, Navnath, Rupsing
+8. Command File : /odisk/gtac/cmd/29_013/13feb16/obs.cmd
+9. LTA File : /gsbifrdata1/13feb/29_013_13feb2016_8s.lta
+10. LogFlag File : /odisk/online1/logflags/29_013.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1371 MHz ,RF2 : 1371 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1320 MHz, ILO2 : 1320MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_lenyadri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 1371 1371 1320 1320 51 51
+30. Integration Time : 8.053 Sec
+31. No of Antennas Working(Fringing) at the beginning :28
+
+32. Name of Non-Working Antennas (with reason for each) :
+C08 : : BLDC work
+E04 : : CST Painting
+E06 : Low fringe.
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 13 Feb 2016 17:00:00 - 14 Feb 2016 01:00:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :28
+
+37. Comments (During Observations) :
+17:00 : Started setup.
+17:17 : Started scan on 3C147 for 10 min
+17:27 : Scan stop.
+17:30 : Started cmd file.
+
+        /odisk/gtac/cmd/29_013/13feb16/obs.cmd
+
+00:39 : Stopped command file.
+00:42 : Started scan on 3C147.
+01:00 : Stopped scan and observation session over.
+
+
+

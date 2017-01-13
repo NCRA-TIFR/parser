@@ -1,0 +1,47 @@
+		 GTAC Observation Log 
+
+1. Date : 10/12/2002
+2. Observation Sr. No. : 0897
+3. Observer : Dr. Ishwar Chandra
+4. Observer's Email : ishwar@ncra.tifr.res.in
+5. Project Name : PKS1504
+6. Project Code : 03AOA02
+7. Operator(s) : Mangesh,
+	Manisha J.,
+	Jayprakash,
+	Sanjay,
+	
+8. Command File : /temp2/data/cmd/ishwar/pks1504.cmd
+9. LTA File : /rawdata/10dec/03aoa02_pks1504.lta
+10. LogFlag File : /temp2/data/logflags/03AOA02.FLAGS.5
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 994.3 MHz ,RF2 : 994.3 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 930 MHz, ILO2 : 930 MHz, IVLO1 : 64.3 MHz, IVLO2 : 64.3 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 6+6 dB, 16 MHz,ON, IF-CH2 : 6+6 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 4000 KHz, 6 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 2
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 994.3 994.3 930 930 64.3 64.3 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+--
+
+21. Start and End Time of Obs.(IST): 07:03 - 15:22
+
+22. Comments (During Observations) :
+07:03	: started scan on 3C286 for ~ 30mins.
+07:36	: started command file.
+09:04	: C13 got ABC power reset.
+09:07	: c13 started working.
+09:17	: C11 parked for painting.
+15:22   : Stopped cmd file, project.
+
+

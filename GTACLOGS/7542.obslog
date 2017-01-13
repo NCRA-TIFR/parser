@@ -1,0 +1,72 @@
+		 GTAC Observation Log
+
+1. Date : 05/01/2015
+2. Observation Sr. No. : 7542
+3. Observer : Jayanta Roy, Maura Ann McLaughlin, Scott M. Ransom, Bhaswati Bhattacharyya, Duncan Ross Lorimer, Lina Levin
+4. Observer's Email : jayanta.roy@manchester.ac.uk, maura.mclaughlin@mail.wvu.edu, sransom@nrao.edu, bhaswati.bhattacharyya@manchester.ac.uk, Duncan.Lorimer@mail.wvu.edu, lina.s.levin@gmail.com
+5. Project Name : Coherently dedispersed timing studies at the GMRT for IPTA MSPs
+6. Project Code : 27_043
+7. Operator(s) : Nilesh, Sachin
+8. Command File : /odisk/gtac/cmd/jroy/27_043_5jan.cmd
+9. LTA File : /gsbifrdata1/05jan/27_043_05jan2015_2s.lta.1,/gsbifrdata1/05jan/27_043_05jan2015_2s.lta
+10. LogFlag File : /odisk/online1/logflags/27_043.FLAGS.4,/odisk/online1/logflags/27_043.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+10 dB, 32 MHz,OFF, IF-CH2 : 20+10 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : IA
+22. Beam - 2 : PA
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 306 306 255 255 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :28
+
+32. Name of Non-Working Antennas (with reason for each) :
+E04 : : BLDC installation work.
+W04 : : Mechanical maintenance.
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 05 Jan 2015 12:00:00 - 05 Jan 2015 18:18:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :26
+
+37. Comments (During Observations) :
+11:10 : Started settings.
+11:30 : Started observation. with 16MHz GSB in RAW mode.
+
+12:40 : Changed settings to 32MHz, 512 chan, REALTIME, and IA-PA.
+13:00 : Started observation command file.
+
+14:05 : stopped command file and Changed settings to 16MHz GSB in RAW mode.
+14:08 : started observation in RAW mode.
+16:17 : Stopped command file.
+--------------------------------------------------------------------------
+16:20 : IF=32 Beam-1=IA , Beam-2=off
+16:30 : Power eq on 2225-049.
+--------------------------------------------------------------------------
+16:40 : W05,W06 removed from GAC due to RFI.
+--------------------------------------------------------------------------
+16:46 : Started command file
+18:18 : Stopped command file and observation session over.
+ 
+

@@ -1,0 +1,51 @@
+1. Date : 08/09/2002
+2. Observation Sr. No. : 0802
+3. Observer : Dr. Jayram Chengalur, Ayesha
+4. Observer's Email : chengalu@ncra.tifr.res.in,ayesha@ncra.tifr.res.in
+5. Project Name : OHM
+6. Project Code : 02JNC02
+7. Operator(s) : Kamble J.R.,Umbarje M.S.,
+8. Command File : /temp2/data/cmd/chengalu/ohm.cmd
+9. LTA File : /rawdata/8sep/02jnc02_0hm_USB.lta,/rawdata1/8sep/02jnc02_ohm_LSB.lta
+
+ANTENNA SETTINGS :
+
+10. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+11. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+12. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 32 MHz,ON, IF-CH2 : 12+12 dB, 32 MHz,ON
+13. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+14. CLK_SEL/Samp_Freq : 0
+15. Channels : 0:127:1
+16. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+17. Integration Time : 256 STA ~ 33.817 Sec.
+18. No of Antennas Working(Fringing) :29
+
+19. Name of Non-Working Antennas (with reason for each) :
+C10 - No fringe at 610 
+
+
+20. Start and End Time of Obs.(IST): 09:20 - 00:00
+
+21. Comments (During Observations) :
+09:20 Started scan on 3C147 for 20min.
+09:44 Started command file 
+      /temp2/data/cmd/chengalu/ohm.cmd.
+10:34 Ran corr_config ( for LSB corr. )
+10:36 Scan # 3 is bad for both file ( LSB & USB )
+
+11:33 Scan 6, USB for first 4 records corr_config 1
+      was being run(for flat band shape) and fstop
+      was not running. 
+13:14 Stopped command file & started scan on 3c286 for 15min.
+17:08 C10 ch#175 fringing at 610 MHz.
+18:37 command file stopped.
+18:40 phase cal scan started.
+18:49 scan stopped.
+18:53 scan started on 3c286
+19:06 scan stopped & project over.
+
+

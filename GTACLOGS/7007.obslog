@@ -1,0 +1,107 @@
+		 GTAC Observation Log 
+
+1. Date : 14/3/2014
+2. Observation Sr. No. : 7007
+3. Observer : Dipanjan Mitra,Krzysztof Maciesiak,Rahul Basu,Anna Maria Skrzypczak,Janusz Gil
+4. Observer's Email : dmitra@ncra.tifr.res.in,jezyk@astro.ia.uz.zgora.pl,rbasu@ncra.tifr.res.in,ania.skrzypczak@hotmail.com,jag@astro.ia.uz.zgora.pl
+5. Project Name : %latex% A Metrewavelength Survey of Pulsar Emission: ( -50  $<$ Dec $<$ 25 )
+6. Project Code : 25_038
+7. Operator(s) : Sachin,Shilpa,Surender
+8. Command File : 
+9. LTA File : /gsbifrdata/14mar//25_038_14mar2014.lta,/gsbifrdata1/14mar//25_038_14mar2014.lta,
+10. LogFlag File : /odisk/online1/logflags/25_038.FLAGS.19,
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 317 MHz ,RF2 : 317 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255 MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 16 MHz,OFF, IF-CH2 : 24+4 dB, 16 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : Realtime 
+15. GSB LTA : 8 
+16. GSB CTRL : ONLINE 
+17. GSB Fstop : ON 
+18. GAIN EQ : OFF, 
+19. Stokes : FullStokes
+20. Beam - 1 : IA
+21. Beam - 2 : PA
+22. ACQ BW : 16.67 MHz
+23. Final BW : 16.666666 MHz; Step # 0
+24. Maximum Channels : 256 
+25. Channel Numbers : 0:255:1 
+26. LO5 -1  : 138.00 
+27. LO5 -2  : 167.00 
+
+28. Frequency Parameters (TPA) : 317 317 255 255 62 62.
+29. Integration Time : 16.106112 Sec.
+30. No of Antennas Working(Fringing) at the begining :29
+
+31. Name of Non-Working Antennas (with reason for each) :
+C13 : Mech work so servo in off mode.
+
+32. Note for Backup :
+
+33. Start and End Time of Obs.(IST): 02:00 - 10:02
+
+34. ONLINE Machine : Lenyadri
+
+35. No of Antennas Working(Fringing) at the end :22
+
+36. Comments (During Observations) :
+In Pulsar phased array taken CSQ(Except C13) + upto 2nd no. arm antenna.
+02:44:48 - 02:47:29 Recorded data on 3C286
+02:52:35 - 02:57:41 Recorded data on B0950+08
+02:59:17 - 03:00:54 Recorded data on 1021+219
+03:01:26 - 03:01:58 Recorded data on 1021+219
+03:04:07 - 03:09:13 Recorded data on B0950+08
+03:11:22 - 03:11:54 Recorded data on 1021+219
+03:16:28 - 03:17:00 Recorded data on 1311-222
+03:17:49 - 03:18:21 Recorded data on 1311-222
+03:18:53 - 03:19:41 Recorded data on 1311-222
+03:20:30 - 03:21:02 Recorded data on 1311-222
+03:23:11 - 03:41:58 Recorded data on B1325-43
+03:44:07 - 03:44:39 Recorded data on 1311-222
+03:47:53 - 03:49:29 Recorded data on 1625-311
+03:50:01 - 03:50:34 Recorded data on 1625-311
+03:53:47 - 03:54:35 Recorded data on 1822-096
+03:55:07 - 03:55:40 Recorded data on 1822-096
+03:57:16 - 04:08:17 Recorded data on J1835-1020
+04:09:37 - 04:15:15 Recorded data on J1835-1106
+04:16:36 - 04:27:04 Recorded data on J1848-1414
+04:28:41 - 04:29:45 Recorded data on 1822-096
+04:30:33 - 04:31:06 Recorded data on 1822-096
+04:32:26 - 05:04:23 Recorded data on J1901-0906
+05:05:59 - 05:06:16 Recorded data on 1822-096
+05:08:40 - 05:09:13 Recorded data on 1830-360
+05:10:01 - 05:10:33 Recorded data on 1830-360
+05:11:22 - 05:11:54 Recorded data on 1830-360
+05:14:19 - 05:19:41 Recorded data on B1706-44
+05:21:34 - 05:43:18 Recorded data on B1717-29
+05:44:55 - 05:45:43 Recorded data on 1830-360
+05:46:15 - 05:47:04 Recorded data on 1830-360
+05:47:42 - 05:48:40 Recorded data on 1830-360
+05:50:17 - 06:07:12 Recorded data on B1718-32
+06:08:32 - 06:20:21 Recorded data on B1736-29
+06:21:41 - 06:22:14 Recorded data on 1830-360
+06:27:36 - 06:28:24 Recorded data on 1924+334
+06:28:56 - 06:29:28 Recorded data on 1924+334
+06:32:26 - 06:40:13 Recorded data on B1929+10
+06:41:49 - 06:52:34 Recorded data on B1907+10
+06:54:26 - 07:23:10 Recorded data on B1918+19
+07:25:51 - 07:26:55 Recorded data on 1924+334
+07:33:06 - 07:34:10 Recorded data on 1830-360
+07:34:58 - 07:35:47 Recorded data on 1830-360
+07:37:23 - 08:23:01 Recorded data on J1727-2739
+08:24:38 - 08:25:42 Recorded data on 1830-360
+08:26:15 - 08:27:03 Recorded data on 1830-360
+08:28:36 - 09:16:02 Recorded data on J1700-3312
+09:17:00 - W02,E03 & S02 taken for painting.
+09:20:36 : Started scan on 1830-360 for ~ 0.805306 min.
+09:22:50 : Started scan on B1857-26 for ~ 22.2801 min.
+09:35:00 : S-arm Power failure. 
+09:46:31 : Started scan on 1830-360 for ~ 2.95279 min.
+09:55:56 : Started scan on 3C48 for ~ 5 min. 
+10:02:00 : Stopped scan and observing session is over.
+

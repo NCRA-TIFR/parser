@@ -1,0 +1,57 @@
+		 GTAC Observation Log 
+
+1. Date : 01/05/2013
+2. Observation Sr. No. : 6475
+3. Observer : Poonam Chandra
+4. Observer's Email : poonam@ncra.tifr.res.in
+5. Project Name : DDT observation
+6. Project Code : 13DT020
+7. Operator(s) : Navanath,
+	Rupsingh,
+	Surender
+8. Command File : /odisk/gtac/cmd/poonam/ddt/may01_obs.cmd
+9. LTA File : /gsbifrdata/01may/13dt020_01may2013.lta
+10. LogFlag File : /odisk/online1/logflags/13DT020.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 591 591 540 540 51 51.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :27
+
+27. Name of Non-Working Antennas (with reason for each) :
+E03 : BLDC.
+E04 : Servo problem.
+C14 : Structural Repair.
+
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 21:45 - 01:00
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+21:48 : Started scan on 3C286.
+22:08 : Stopped scan.
+22:12 : Started command file.
+00:44 : Stopped command file.
+00:48 : Started scan on 3C286.
+01:00 : Stopped scan and observing session over.
+

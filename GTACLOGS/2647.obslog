@@ -1,0 +1,63 @@
+		 GTAC Observation Log 
+
+1. Date : 10/06/2006
+2. Observation Sr. No. : 2647
+3. Observer : S Roy
+4. Observer's Email : visitor6@ncra.tifr.res.in
+5. Project Name : GL
+6. Project Code : 10SRA01
+7. Operator(s) : Deepak,
+	Jitendra,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/roy/gc.polar2.cmd
+9. LTA File : /rawdata/10jun/10sra01_10jun06.lta,
+	/rawdata1/10jun/10sra01_10jun06.ltb
+10. LogFlag File : /btemp2/logflags/10SRA01.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1400 MHz ,RF2 : 1400 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1330 MHz, ILO2 : 1330 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1400 1400 1330 1330 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+W03-175 no fringe.
+C08 - Maint
+C14- Phase unstable.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 21:20 - 04:15
+
+23. Comments (During Observations) :
+-----------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : USBPolar   *********
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data
+   if 'CLASSIC NORM OFF' (Un-normalised) is used
+   in listscan/gvfits.
+---------------------------------------------
+21:45 : Started scan on 3C286 for 5mins.
+22:04 : Started scann on 1748-253.
+22:18 : Started command file
+        /btemp2/cmd/roy/gc.polar2.cmd
+27:59  : Command file stopped.
+28:04  : Scan on CTB93 started.
+28:15  : Scan stopped and observing session over.
+

@@ -1,0 +1,50 @@
+		 GTAC Observation Log 
+
+1. Date : 31/08/2004
+2. Observation Sr. No. : 1645
+3. Observer : Dr. J. N. Chengalur,Ekta
+4. Observer's Email : chengalu@ncra.tifr.res.in
+5. Project Name : HS1704
+6. Project Code : 06SAP01
+7. Operator(s) : Santaji,
+	
+8. Command File : /btemp2/cmd/chengalu/hs1704.cmd
+9. LTA File : /rawdata/31aug/06sap01_hs1704.lta,
+	/rawdata1/31aug/06sap01_hs1704.ltb
+10. LogFlag File : /btemp2/logflags/06SAP01.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1411.14 MHz ,RF2 : 1411.14 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1340 MHz, ILO2 : 1340 MHz, IVLO1 : 71.14 MHz, IVLO2 : 71.14 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+4 dB, 16 MHz,ON, IF-CH2 : 4+4 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 1000 KHz, 12 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 4
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1411.14 1411.14 1340 1340 71.14 71.14 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+S04- no fringe
+W05- maint GCC
+W04- no fringe
+
+21. Start and End Time of Obs.(IST): 15:00 - 00:00
+
+22. Comments (During Observations) :
+*** ONLINE RUNNING ON BHASKAR ****
+*** AUTH IF AT 1390 MHz. *********
+-----------------------------------------------
+15:00	stup started.
+15:02 	scan started on 3c286.
+15:20 	command file started.
+23:35   Stopped cmd file.
+23:44   Started record on BP-cal,3c48
+00:00   Stopped record on BP-cal, closed observation.
+
+

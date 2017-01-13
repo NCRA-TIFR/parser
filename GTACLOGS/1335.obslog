@@ -1,0 +1,50 @@
+		 GTAC Observation Log 
+
+1. Date : 06/02/2004
+2. Observation Sr. No. : 1335
+3. Observer : YG
+4. Observer's Email : ygupta@ncra.tifr.res.in
+5. Project Name : PULSAR
+6. Project Code : 04DT013
+7. Operator(s) : Jayprakash,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/hold.cmd
+9. LTA File : /rawdata/7feb/04dt013_phs.lta.1
+10. LogFlag File : /btemp2/logflags/04DT013.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 227 MHz ,RF2 : 227 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 165 MHz, ILO2 : 165 MHz, IVLO1 : 62 MHz, IVLO2 : 62 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 16 MHz,OFF, IF-CH2 : 16+16 dB, 16 MHz,OFF
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, OFF
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 227 227 165 165 62 62 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :22
+
+20. Name of Non-Working Antennas (with reason for each) :
+C00 :
+C03 :
+C14 :
+E04 :
+E06 :
+W04 :
+W05 :
+W03 : No fringe, 
+
+21. Start and End Time of Obs.(IST): 17:50 - 00:00
+
+22. Comments (During Observations) :
+*** ONLINE:bhaskar ****
+=====================================
+
+
+23:25 : Closed the observation.
+

@@ -1,0 +1,77 @@
+		 GTAC Observation Log
+
+1. Date : 24/11/2016
+2. Observation Sr. No. : 9016
+3. Observer : Neeraj Gupta, Sanjay Bhatnagar, Preshanth Jagannathan, Raghunathan Srianand, Patrick Petitjean, Pasquier Noterdaeme
+4. Observer's Email : ngupta@iucaa.in, sbhatnag@aoc.nrao.edu, pjaganna@nrao.edu, anand@iucaa.in, ppetitje@iap.fr, noterdaeme@iap.fr
+5. Project Name : Evolution of magnetic fields in galaxies traced by intervening absorbers
+6. Project Code : DDTB252
+7. Operator(s) : Manisha, Nilesh
+8. Command File : /odisk/gtac/cmd
+9. LTA File : /gsbifrdata/24nov/ddtb252_24nov2016.lta.1, /gsbifrdata/24nov/ddtb252_24nov2016.lta, /gwbifrdata/24nov/ddtb252_400mhz_16k_fullstokes_gwb.lta.1, /gwbifrdata/24nov/ddtb252_400mhz_16k_fullstokes_gwb.lta
+10. LogFlag File : /odisk/online1/logflags/TST1561.FLAGS, /odisk/online1/logflags/DDTB252.FLAGS.1, /odisk/online1/logflags/DDTB252.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1454 MHz ,RF2 : 1454 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1505 MHz, ILO2 : 1505MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 0 MHz; Step # 0
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 1454 1454 1505 1505 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :30
+
+32. Name of Non-Working Antennas (with reason for each) :
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 24 Nov 2016 02:15:00 - 24 Nov 2016 08:00:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :30
+
+37. Comments (During Observations) :
+03:00 : Started settings.
+    GWB - 400 MHz, Full Stokes, 16384 channels.
+03:17:38 : Started scan on 3C147 for ~ 9.70841 min.
+03:28:08 : Started scan on 3C147 for ~ 10.2005 min.
+03:41:27 : Started scan on 3C138 for ~ 9.9321 min.
+03:54:12 : Started scan on 3C147 for ~ 9.9321 min.
+04:07:03 : Started scan on 3C138 for ~ 9.66367 min.
+04:20:12 : Started scan on 0713+438 for ~ 9.66367 min.
+04:34:03 : Started scan on 3C286 for ~ 9.66367 min.
+04:50:02 : Started scan on 0713+438 for ~ 9.9321 min.
+05:04:05 : Started scan on 3C286 for ~ 9.66367 min.
+05:14:54 : Started scan on OQ208 for ~ 9.66367 min.
+05:26:06 : Started scan on 3C286 for ~ 9.66367 min.
+05:36:55 : Started scan on OQ208 for ~ 9.9321 min.
+05:51:26 : Started scan on 3C147 for ~ 9.9321 min.
+06:03:23 : Started scan on 3C138 for ~ 9.66367 min.
+06:15:12 : Started scan on 0713+438 for ~ 9.66367 min.
+06:26:43 : Started scan on 3C147 for ~ 9.9321 min.
+06:38:47 : Started scan on 3C138 for ~ 9.9321 min.
+06:50:41 : Started scan on 0713+438 for ~ 8.05306 min.
+07:05:24 : Started scan on 3C286 for ~ 9.66367 min.
+07:16:31 : Started scan on OQ208 for ~ 9.66367 min.
+07:31:39 : Started scan on 0713+438 for ~ 9.9321 min.
+
+07:42 : stopped das & observation session.

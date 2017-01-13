@@ -1,0 +1,59 @@
+		 GTAC Observation Log
+
+1. Date : 04/09/2014
+2. Observation Sr. No. : 7330
+3. Observer : Nissim Kanekar
+4. Observer's Email : nkanekar@ncra.tifr.res.in
+5. Project Name : DDTB102 observations
+6. Project Code : DDTB102
+7. Operator(s) : Navnath, Rupsing
+8. Command File : /odisk/gtac/cmd/nissim/1529 1904.cmd
+9. LTA File : /gsbifrdata/04sep/ddtb102_04sep2014.lta
+10. LogFlag File : /odisk/online1/logflags/DDTB102.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 448.5 MHz ,RF2 : 448.5 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 510 MHz, ILO2 : 510MHz , IVLO1 : 61.5 MHz, IVLO2 : 61.5 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+4 dB, 16 MHz,ON, IF-CH2 : 12+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : 0
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : 0
+18. GSB Fstop : 1
+19. GAIN EQ : 1
+20. Stokes : 2
+21. Beam - 1 : 0
+22. Beam - 2 : 0
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 44.444442666667 MHz; Step # 0.375
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 138500000.0,166500000.0
+28. LO5 -2  : 
+
+29. Frequency Parameters (TPA) : 448.5 448.5 510 510 61.5 61.5
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :29
+
+32. Name of Non-Working Antennas (with reason for each) :
+S01 : Feed jam.
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 04 Sep 2014 18:00:00 - 04 Sep 2014 23:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :29
+
+37. Comments (During Observations) :
+Cone-dipole feed:-C04,C06,C08,C10,C11,C13,E02,E06,S02,S04,W01,W04,W06
+----------------------------------------------------------------------------
+18:25 : Started command file.
+22:27 : Stopped command file.
+22:35 : Started scan on 3C48.
+23:00 : Stopped scan and observation session over.
+

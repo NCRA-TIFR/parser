@@ -1,0 +1,97 @@
+		 GTAC Observation Log 
+
+1. Date : 12/07/2003
+2. Observation Sr. No. : 1049
+3. Observer : D.J. Saikia.
+4. Observer's Email : djs@ncra.tifr.res.in
+5. Project Name : Galaxy
+6. Project Code : 04AHA01
+7. Operator(s) : Mangesh,
+	Jayprakash,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/djs/1124+193.cmd,
+	/btemp2/cmd/djs/1429_610.cmd,
+	/btemp2/cmd/djs/0041_610.cmd,
+	/btemp2/cmd/djs/0155_610.cmd
+9. LTA File : /rawdata/12jul/04aha01_1124.lta,
+	/rawdata1/12jul/04aha01_1124_610.ltb,
+	/rawdata/12jul/04aha01_1429.lta,
+	/rawdata1/12jul/04aha01_1429.ltb,
+	/rawdata/12jul/04aha01_0041.lta,
+	/rawdata1/12jul/04aha01_0041.ltb,
+	/rawdata/12jul/04aha01_0155.lta,
+	/rawdata1/12jul/04aha01_0155.ltb
+10. LogFlag File : /btemp2/logflags/04AHA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 32 MHz,ON, IF-CH2 : 12+12 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+USB:
+C05 : Flat band shape; no fringe.
+S01     : No fringe
+S04-175 : No fringe.
+S06-175 : No fringe
+
+LSB:
+C11,C12,C13,C14 : No fringe.
+W01 : no fringe
+S01 : No fringe
+S04(175) - no fringe.
+
+
+21. Start and End Time of Obs.(IST): 18:03 - 06:00
+
+22. Comments (During Observations) :
+ONLINE : BHASKAR
+******************
+IF ATTN. FROM AUTHIF FILE @ 610 MHz.
+------------------------------------
+18:03 : Started command file,
+        /temp2/data/cmd/djs/1123+193.cmd.
+18:52 : USB - C06 flat band shape.
+20:02 : LSB - C05 flat band shape.
+21:11 : Stopped cmd file
+21:14 : Started record on 3c286.
+21:14 : Started record in other file for source 1429+160
+21:40 : Stopped record on 3c286,
+      : Closed lta files on ealier source.
+21:42 : Started cmd file /temp2/data/cmd/djs/1429_610.cmd
+21:52 : C11, C12, C13, C14 & W01 (ON LSB) stopped giving fringes.
+00:38 : B1429+160 is setting. Stopped the cmd file.
+00:40 : Started a scan on 1445+099 for 5 minutes. 
+00:45 : Stopped the cmd file and lta files.
+00:54 : With same settings started the command file
+          /btemp2/cmd/djs/0041_610.cmd 
+        and  lta files as follows
+          USB - /rawdata/12jul/04aha01_0041.lta
+          LSB - /rawdata1/12jul/04aha01_0041.ltb
+03:31 : Stopped the cmd file.
+03:35 : Started recording on 3c48 for 20 minutes.
+        Also started lta files
+          USB - /rawdata/12jul/04aha01_0155.lta
+          LSB - /rawdata1/12jul/04aha01_0155.ltb
+03:37 : Noticed that C09 and W02 is giving flat 
+        band-shape in USB.
+        E04 175 self is quite low.
+04:15 : Started the command file
+            /btemp2/cmd/djs/0155_610.cmd
+        USB-W03-175 bandshape went bad also
+        LSB-S02-130 bad bandshape 
+06:00 : Stopped the command file. Closed the
+        observation. 
+

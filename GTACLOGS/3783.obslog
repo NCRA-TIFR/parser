@@ -1,0 +1,53 @@
+		 GTAC Observation Log 
+
+1. Date : 07/06/2008
+2. Observation Sr. No. : 3783
+3. Observer : sambit,T. Martinsson
+4. Observer's Email : martinsson@astro.rug.nl
+5. Project Name : The Disk-Mass Project
+6. Project Code : 14MVA01
+7. Operator(s) : Deepak,
+	Nilesh,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/sambit/7jun/obs_07jun.cmd
+9. LTA File : /rawdata/7jun/14mva01_07jun08.lta,
+	/rawdata1/7jun/14mva01_07jun08.ltb
+10. LogFlag File : /btemp2/logflags/14MVA01.FLAGS.6
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1395.281 MHz ,RF2 : 1395.281 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1330 MHz, ILO2 : 1330 MHz, IVLO1 : 65.281 MHz, IVLO2 : 65.281 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 8000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1395.281 1395.281 1330 1330 65.281 65.281 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :23
+
+20. Name of Non-Working Antennas (with reason for each) :
+C05 : servo problem.
+W01 : Mcm 5 time out.
+S06 : FE problem
+W04,W05,W06 : NO power.
+C03 : Servo problem.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 22:30 - 03:50
+
+23. Comments (During Observations) :
+--------------------------------------------
+******** ONLINE Machine : Bhaskar   ******** 
+******** Corr Mode : USBpolar Mode *****
+--------------------------------------------
+22:40 : Started scan on 3C286.
+22:55 : Stopped scan.
+23:18 : Started command file.
+03:50 : observation session over.
+

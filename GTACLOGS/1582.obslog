@@ -1,0 +1,78 @@
+		 GTAC Observation Log 
+
+1. Date : 31/07/2004
+2. Observation Sr. No. : 1582
+3. Observer : JP
+4. Observer's Email : visitor2@gmrt.ncra.tifr.res.in,jerry@prl.ernet.in
+5. Project Name : SUN OBSERVATION
+6. Project Code : 06MRK01
+7. Operator(s) : Jayprakash,
+	Jitendra,
+	Sachin,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/psubrama/jul312004/sun.cmd
+9. LTA File : /rawdata/31jul/06mrk01_sun31jul04.lta,
+	/rawdata1/31jul/06mrk01_sun31jul04.ltb,
+	/rawdata/31jul/06mrk01_sun31jul04.lta.1,
+	/rawdata1/31jul/06mrk01_sun31jul04.ltb.1,
+	/rawdata/31jul/06mrk01_sun31jul04.lta.2,
+	/rawdata1/31jul/06mrk01_sun31jul04.ltb.2,
+	/rawdata/31jul/06mrk01_sun31jul04.lta.3,
+	/rawdata1/31jul/06mrk01_sun31jul04.ltb.3
+10. LogFlag File : /btemp2/logflags/06MRK01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 32 MHz,ON, IF-CH2 : 18+18 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C06 : ABC T.O.
+C11-LSB-130 : No fringe.
+
+
+
+21. Start and End Time of Obs.(IST): 11:09 - 18:09
+
+22. Comments (During Observations) :
+*** ONLINE BHASKAR ***
+*** IF attn : AuthIF at 610-235 MHz.***
+--------------------------------
+11:09 : Started record on 3c147.
+11:30 : C06 started working
+11:35 : stopped 3c147.
+        Observation going on manually.
+13:00 : Scan# 3 bad at the end after 12:50 Hrs.
+15:11 : record file closed.
+15:32 : command file started.
+--------------------------------
+15:14 : New lta/b file started.
+15:20 : flux cal scan started on 3c286 source.
+15:25 : calibrator scan stopped.
+16:23 : record file closed
+         W05 auto stowlock.
+---------------------------------
+16:24 : New lta/b file started
+        W05 started tracking
+17:21 : c13,S04 applying brakes due to high
+        wind.
+17:22 : record file closed
+------------------------------------
+17:23 : new lta/b and command file started.
+17:48 : Sun00066 set, scan stopped 
+        Solar attenuation 14dB -235, 0dB-610
+17:55 : flux cal scan started.
+18:09 : flux cal scan stopped and project over.
+

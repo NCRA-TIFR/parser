@@ -1,0 +1,57 @@
+		 GTAC Observation Log 
+
+1. Date : 01/08/2005
+2. Observation Sr. No. : 2161
+3. Observer : Nirupam
+4. Observer's Email : nirupam@ncra.tifr.res.in
+5. Project Name : NGC7610
+6. Project Code : 08ASA01
+7. Operator(s) : Jitendra,
+	
+8. Command File : /atemp2/cmd/nirupam/ngc7610.cmd
+9. LTA File : /rawdata/1aug/08asa01_ngc7610.lta,
+	/rawdata1/1aug/08asa01_ngc7610.ltb
+10. LogFlag File : /atemp2/logflags/08ASA01.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1401.567 MHz ,RF2 : 1401.567 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1330 MHz, ILO2 : 1330 MHz, IVLO1 : 71.567 MHz, IVLO2 : 71.567 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+10 dB, 16 MHz,ON, IF-CH2 : 10+10 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 4000 KHz, 6 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 2
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1401.567 1401.567 1330 1330 71.567 71.567 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+S01 - No fringe.
+C14 - Feed not focussed.
+      (mcm 14 timeout)
+W03 - ABC T.O.(FE-prob)
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 23:44 - 07:00
+
+23. Comments (During Observations) :
+***** ONLINE ADITYA *******
+***** NAUTH@1390 MHz ****
+---------------------------
+23:43 Command file started.
+23:56 Scan#1 Bad ( Source cordinates wrong).
+24:53 : Flux cal scan on 3C48, C13 started fringing.
+25:07 : scan stopped.
+25:13 : command file started.
+06:36am : Command file stopped.
+06:38 : Phase cal for 10m
+06:52 : Flux cal on 3C48
+07:00 : Scan stopped and project over.
+
+
+

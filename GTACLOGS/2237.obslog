@@ -1,0 +1,57 @@
+		 GTAC Observation Log 
+
+1. Date : 11/09/2005
+2. Observation Sr. No. : 2237
+3. Observer : Ananda Hota
+4. Observer's Email : hota@ncra.tifr.res.in
+5. Project Name : a1367
+6. Project Code : 08AHA01
+7. Operator(s) : Deepak,
+	Jitendra,
+	Sanjay,
+	
+8. Command File : /atemp2/cmd/hota/a1367p.cmd
+9. LTA File : /rawdata/11sep/08aha01_a1367p.lta,
+	/rawdata1/11sep/08aha01_a1367p.ltb
+10. LogFlag File : /atemp2/logflags/08AHA01.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 325 MHz ,RF2 : 325 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 255 MHz, ILO2 : 255 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 325 325 255 255 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C01 - 175 MHz no RF signal.
+C02 - LSB fringe not good.
+W01 - Feed not focused.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 07:50 - 17:11
+
+23. Comments (During Observations) :
+*** ONLINE :bhaskar          ***
+*** IF ATTN-AuthIF @ 325 MHz ***
+--------------------------------
+
+08:00 : Started scan on 3C147 for 15mins.
+08:25 : Started comman file a1367p.cmd
+      : Calibrator very near to sun, RF band does not look
+      : normal, also amplitude is very high.
+09:50 : C11 Started working.
+11:57 : Scan#13 is bad. 
+15:30 : broad band RFI seen.(lightening?)
+17:11 : Stopped cmd file, closed observation.
+
+

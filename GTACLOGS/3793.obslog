@@ -1,0 +1,51 @@
+		 GTAC Observation Log 
+
+1. Date : 13/06/2008
+2. Observation Sr. No. : 3793
+3. Observer : Kota
+4. Observer's Email : quarter@pparc.geophys.tohoku.ac.jp
+5. Project Name : Jupiter
+6. Project Code : 14KIA01
+7. Operator(s) : Sanjay,
+	
+8. Command File : /odisk/gtac/cmd/misawa/kota20080612b.cmd
+9. LTA File : /rawdata/13jun/14kia01_13jun2008.lta,
+	/rawdata1/13jun/14kia01_13jun2008.ltb
+10. LogFlag File : /btemp2/logflags/14KIA01.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 6+0 dB, 32 MHz,OFF, IF-CH2 : 6+0 dB, 6 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+C00 - fringe not stable.
+W04 - no MSEB Power
+W05 - no MSEB Power
+W06 - no MSEB Power
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 01:22 - 03:45
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+01:22 : cmd file started.
+03:25 : Stopped cmd file,
+03:29 : Started 3c48,
+03:45 : Stopped 3c48. closed observation.
+
+

@@ -1,0 +1,69 @@
+		 GTAC Observation Log 
+
+1. Date : 10/2/2013
+2. Observation Sr. No. : 6370
+3. Observer : Jayanta Roy
+4. Observer's Email : jroy@ncra.tifr.res.in
+5. Project Name : Multi-frequency follow-up study and timing of the eclipsing Black Widow millisecond  pulsar J1544+4937
+6. Project Code : 23_038
+7. Operator(s) : Navanath,
+	
+8. Command File : /odisk/gtac/cmd/jroy/23_038.10feb.cmd
+9. LTA File : /gsbifrdata/10feb/23_038_10feb13.lta
+10. LogFlag File : /odisk/online1/logflags/23_038.FLAGS.17
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+24 dB, 32 MHz,OFF, IF-CH2 : 4+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : OFF 
+17. Stokes : Total_Intensity
+18. Beam - 1 : IA
+19. Beam - 2 : PA
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 512 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 591 591 540 540 51 51.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :29
+
+27. Name of Non-Working Antennas (with reason for each) :
+C04 : Taken for Servo motor replacement.
+
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 00:05 - 06:15
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+00:05 : Started setup.
+00:30 : Power eq and phasing done.
+03:35 : Started cmd file.
+
+/odisk/gtac/cmd/jroy/23_038.10feb.cmd
+
+04:52 : cmd file stopped,scan stopped.
+04:55 : Set-up changed.
+With set-up in Trial mode. 
+ Beam1=Off
+ Beam2=Voltage
+33Mhz,Chann=256
+
+05:00 : power eq done.
+05:03 : Started scan on J1536-4948.
+06:03 : scan stopped.
+06:15 : observing session over.
+-----------------------------------
+
+
+
+

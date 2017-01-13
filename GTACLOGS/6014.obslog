@@ -1,0 +1,62 @@
+		 GTAC Observation Log 
+
+1. Date : 01/07/2012
+2. Observation Sr. No. : 6014
+3. Observer : Abhishek Johri
+4. Observer's Email : johri@ncra.tifr.res.in
+5. Project Name : Pulsar Observation
+6. Project Code : 22_071
+7. Operator(s) : Deepak,
+	Navanath,
+	Rupsingh,
+	Santaji,
+	
+8. Command File : 
+9. LTA File : /gsbifrdata/01jul/22_071_01jul2012.lta
+10. LogFlag File : /odisk/online1/logflags/22_071.FLAGS.6
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1041 MHz ,RF2 : 1041 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 990 MHz, ILO2 : 990 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : OFF 
+17. Stokes : Total_Intensity
+18. Beam - 1 : IA
+19. Beam - 2 : PA
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 512 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 1041 1041 990 990 51 51.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :28
+
+27. Name of Non-Working Antennas (with reason for each) :
+C06- No fringe.
+W02 - 130 pole low fringe.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 22:00 - 05:50
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+22:20 : Started power eq. on 1822-096.
+22:40 : Power eq done.
+22:47 : Started observation(ON & OFF scan).
+22:59 : Started scan on B1859+01.
+23:06 : Ele power failure for E-arm antennas.
+23:30 : Ele power back and E-arm started working.
+        started the observation on J1833-1034.
+05:30 : started scan on 3c48 (ON-OFF)
+05:50 : observation session over.
+
+
+

@@ -1,0 +1,61 @@
+		 GTAC Observation Log 
+
+1. Date : 12/08/2010
+2. Observation Sr. No. : 5010
+3. Observer : Gregory Paciga,UeLiPen
+4. Observer's Email : paciga@astro.utoronto.ca
+5. Project Name : EOR
+6. Project Code : 18_058
+7. Operator(s) : Deepak,
+	Navanath,
+	Nilesh,
+	
+8. Command File : /odisk/gtac/cmd/uelipen/aug12_final.1.cmd,
+	/odisk/gtac/cmd/uelipen/aug12_final.2.cmd
+9. LTA File : /rawdata/12aug/18_058_12aug2010.lta,
+	/rawdata1/12aug/18_058_12aug2010.ltb,
+	
+10. GSB File : 
+11. LogFlag File : /odisk/online1/logflags/18_058.FLAGS.21
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 218 MHz, ILO2 : 218 MHz, IVLO1 : 62 MHz, IVLO2 : 62 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 16 MHz,OFF, IF-CH2 : 24+4 dB, 16 MHz,OFF
+15. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 156 156 218 218 62 62 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C03,E03 : No Fringe.
+C10 : Maintenance.
+21. Note for Backup :--
+
+22. Start and End Time of Obs.(IST): 19:00 - 07:05
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : UsbPolar
+
+25. Comments (During Observations) :
+19:00 : Started setup.
+--------------------------------------------------
+SETUP : 
+        150MHz ALC's OFF, Power eq @ 300 counts.
+        correlator : UsbPolar, 
+        W03 : HI cal 100% Noise ON, and 
+        Other antennas : Low cal 25% Noise ON.
+--------------------------------------------------
+19:45 : Started command file.
+        /odisk/gtac/cmd/uelipen/aug12_final.1.cmd
+00:19 : Started command file.
+        /odisk/gtac/cmd/uelipen/aug12_final.2.cmd
+07:05 : Stopped command file and observing session over.
+

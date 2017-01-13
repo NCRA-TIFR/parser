@@ -1,0 +1,59 @@
+		 GTAC Observation Log 
+
+1. Date : 26/02/2004
+2. Observation Sr. No. : 1359
+3. Observer : Ishwar
+4. Observer's Email : ishwar@ncra.tifr.res.in
+5. Project Name : GRB
+6. Project Code : 05DBA01
+7. Operator(s) : Manish G.,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/ishwar/grb.cmd
+9. LTA File : /rawdata/26feb/05dba01_grb26feb610.lta,
+	/rawdata1/26feb/05dba01_grb26feb610.ltb,
+	/rawdata/26feb/05dba01_grb26feb610.lta.1,
+	/rawdata1/26feb/05dba01_grb26feb610.ltb.1
+10. LogFlag File : /btemp2/logflags/05DBA01.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+E03 feed Jam
+E05 NO ELE power.
+
+21. Start and End Time of Obs.(IST): 20:30 - 04:42
+
+22. Comments (During Observations) :
+** ONLINE BHASKAR **
+** AUTH IF @ 610 MHz. **
+---------------------------------
+20:57 started the scan on 3c147
+21:28 started the command file
+	/temp2/data/cmd/ishwar/grb.cmd
+22:30 Stopped the command file.
+      Scintallations started.
+23:33 Started scan on 3C147, for 10 mins.
+      Started new data files.
+23:49 Started scan on 1021+219.
+24:01 Started scan on GRB030329.
+24:46 Stopped the scan. Antennas moved to 1021+219.
+25:00 Started command file  /temp2/data/cmd/ishwar/grb.cmd
+28:30 Stopped the command file. Antennas moved to 3C286.
+28:32 Started scan on 3C286.
+28:42 Stopped the scan. Stopped the observation.
+

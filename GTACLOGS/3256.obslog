@@ -1,0 +1,71 @@
+		 GTAC Observation Log 
+
+1. Date : 16/07/2007
+2. Observation Sr. No. : 3256
+3. Observer : Nirupam Roy
+4. Observer's Email : nirupam@ncra.tifr.res.in
+5. Project Name : wnm
+6. Project Code : 12NRB01
+7. Operator(s) : Deepak,
+	Jayprakash,
+	Jitendra,
+	Manisha,
+	Nilesh,
+	Sachin,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/nirupam/0837-198.cmd,
+	/btemp2/cmd/nirupam/1347+122.cmd
+9. LTA File : /rawdata/16jul/12nrb01_16jul2007.lta,
+	/rawdata1/16jul/12nrb01_16jul2007.ltb,
+	/rawdata/16jul/12nrb01_16jul2007.lta.1,
+	/rawdata1/16jul/12nrb01_16jul2007.ltb.1
+10. LogFlag File : /btemp2/logflags/12NRB01.FLAGS.10,
+	/btemp2/logflags/12NRB01.FLAGS.11
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1419.961 MHz ,RF2 : 1419.961 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1355 MHz, ILO2 : 1355 MHz, IVLO1 : 64.961 MHz, IVLO2 : 64.961 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 6+0 dB, 16 MHz,ON, IF-CH2 : 6+0 dB, 16 MHz,ON
+14. BB BW(KHz) & BB ALC : 500 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:255:1
+17. Frequency Parameters (TPA) : 1419.961 1419.961 1355 1355 64.961 64.961 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+C11 : 175 USB zero self.
+C12 : LO unlock.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 08:51 - 00:19
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : USBHiRes  *********
+---------------------------------------------
+
+08:51 : started scan on 3C48.
+09:27 : Started command file
+        /btemp2/cmd/nirupam/0837-198.cmd
+13:14 : Command file stopped.
+13:20 : Started scan on 3C286 for 7 mins.
+13:28 : Setting changed.
+        TPA 1420.1195 1420.1195 1355 1355 65.1195 65.1195
+13:30 : C12 started working.
+13:35 : Started scan on 3C286 for 10mins.
+13:47 : Started command file
+        /btemp2/cmd/nirupam/1347+122.cmd
+22:08 : Scan no 87 is bad (Source :1347+122B)
+22:19 : Changed track. Restarted command file. 
+23:48 : Started 3C286,
+23:58 : Started 3C468.1
+00:19 : Stopped 3c468.1, closed observation.
+

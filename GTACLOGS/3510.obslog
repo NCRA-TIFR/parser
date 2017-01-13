@@ -1,0 +1,53 @@
+		 GTAC Observation Log 
+
+1. Date : 22/12/2007
+2. Observation Sr. No. : 3510
+3. Observer : M. R. Samal
+4. Observer's Email : manash@aries.ernet.in
+5. Project Name : GSFR
+6. Project Code : 13MRS01
+7. Operator(s) : Deepak,
+	Jayprakash,
+	Santaji,
+	
+8. Command File : /atemp2/cmd/mrs/13mrs01.cmd
+9. LTA File : /rawdata/22dec/13mrs01_22dec2007.lta,
+	/rawdata1/22dec/13mrs01_22dec2007.ltb
+10. LogFlag File : /atemp2/logflags/13MRS01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1280 MHz ,RF2 : 1280 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1210 MHz, ILO2 : 1210 MHz, IVLO1 : 70  MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1280 1280 1210 1210 70  70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+C04-130-USB - bad band shape.
+S04-175-LSB - very low self.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 21:00 - 01:30
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : aditya   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+21:12 : Started scan on 3C147 for 15mins.
+21:40 : Started command file.
+01:17 : Stopped the command file.
+01:24 : Started scan on 3c147 for 5min.
+01:30 : Stopped the scan & obs. session.
+
+
+

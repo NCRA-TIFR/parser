@@ -1,0 +1,58 @@
+		 GTAC Observation Log 
+
+1. Date : 05/08/2008
+2. Observation Sr. No. : 3910
+3. Observer : Uday Shankar
+4. Observer's Email : uday@rri.res.in,udaya.uday@gmail.com
+5. Project Name : Polar Survey
+6. Project Code : 14NUS01
+7. Operator(s) : Nilesh,
+	
+8. Command File : /odisk/gtac/cmd/uday/6aug08_1.cmd,
+	/odisk/gtac/cmd/uday/6aug08_2.cmd,
+	/odisk/gtac/cmd/uday/6aug08_3.cmd
+9. LTA File : /rawdata/5aug/14nus01_calib_16s.lta,
+	/rawdata1/5aug/14nus01_calib_16s.ltb,
+	/rawdata/5aug/14nus01_6aug08_16s.lta,
+	/rawdata1/5aug/14nus01_6aug08_16s.ltb
+10. LogFlag File : /btemp2/logflags/14NUS01.FLAGS.8
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 157 MHz ,RF2 : 157 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 223 MHz, ILO2 : 223 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 6 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 8000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 157 157 223 223 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+W04 : Low Fringe.
+W05 : Low Fringe.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 23:50 - 09:00
+
+23. Comments (During Observations) :
+------------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : USB Polar Mode  *********
+------------------------------------------------
+00:00 : Started Calib tests.
+00:55 : Calib tests finished.
+01:00 : Started project 14NUS01.
+01:02 : Started scan on 3C48 for 10min.
+01:24 : Started command file 6aug08_1.cmd.
+03:12 : Started command file 6aug08_2.cmd.
+07:42 : Started command file 6aug08_3.cmd.
+09:00 : observation session over.
+------------------------------------------------
+
+

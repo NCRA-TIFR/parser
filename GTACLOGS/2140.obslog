@@ -1,0 +1,62 @@
+		 GTAC Observation Log 
+
+1. Date : 23/07/2005
+2. Observation Sr. No. : 2140
+3. Observer : Dr. Jayaram Chengalur
+4. Observer's Email : chengalu@ncra.tifr.res.in
+5. Project Name : BR1202
+6. Project Code : 08NKA01
+7. Operator(s) : Jayprakash,
+	Jitendra,
+	Sanjay,
+	
+8. Command File : /atemp2/cmd/chengalu/br1202.cmd
+9. LTA File : /rawdata/23jul/08nka01_br1202.lta,
+	/rawdata1/23jul/08nka01_br1202.ltb
+10. LogFlag File : /atemp2/logflags/08NKA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 587.26 MHz ,RF2 : 587.26 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 520 MHz, ILO2 : 520 MHz, IVLO1 : 67.26 MHz, IVLO2 : 67.26 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 16 MHz,ON, IF-CH2 : 18+18 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 2000 KHz, 9 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 3
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 587.26 587.26 520 520 67.26 67.26 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+W03-USB-175 no fringe.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 11:05 - 21:00
+
+23. Comments (During Observations) :
+***************************************
+------- ONLINE: adiyta ----------------
+------- ATTN NAUTHIF @ 610MHz ---------
+***************************************
+11:05 Record started, flux 3c48.
+17:34 : Stopped the command file.
+17:43 : Started scan on 3c286 for 10min.
+17:53 : Stopped the scan.
+18:00 : Changed the phase cal to 1130-148,
+        and command file restarted.
+
+19:40 : S04- Honey-bee removal work, antenna not
+        tracking.
+20:47 : Stopped the command file. Phase cal set.
+20:51 : Started scan on 3c286 for 10min.
+        S04 started tracking the source.
+21:01 : Scan stopped, and project over.
+
+
+
+

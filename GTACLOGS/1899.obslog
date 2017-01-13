@@ -1,0 +1,54 @@
+		 GTAC Observation Log 
+
+1. Date : 20/02/2005
+2. Observation Sr. No. : 1899
+3. Observer : Prof. V. Kulkarni
+4. Observer's Email : vasant@ncra.tifr.res.in
+5. Project Name : ULXS
+6. Project Code : 07KKG01
+7. Operator(s) : Jitendra,
+	Sachin,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/vku/20feb05_1.cmd
+9. LTA File : /rawdata/20feb/07kkg01_j1235.lta,
+	/rawdata1/20feb/07kkg01_j1235.ltb
+10. LogFlag File : /btemp2/logflags/07KKG01.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 14+14 dB, 32 MHz,ON, IF-CH2 : 14+14 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C11,C12,C13,C14,W01-LSB problem.
+C06 - IF bandwidth is not set.
+S01 - Servo elevation brakes has not released.
+
+21. Start and End Time of Obs.(IST): 20:52 - 06:30
+
+22. Comments (During Observations) :
+##############################
+### ONLINE: bhaskar
+### AuthIF: 610-235 MHz
+##############################
+20:52 : Started scan on 3c48 for 19mins.
+Due to sources were not up, keep tracking 3C147.
+Then source 1227+365 rised & started the command file 20feb05_1.cmd.
+21:46 : Started command file /btemp2/cmd/vku/20feb05_1.cmd.
+22:50 : Stopped the command file /btemp2/cmd/vku/20feb05_1.cmd.
+22:51 : Started command file /btemp2/cmd/vku/20feb05.cmd
+06:30 : Stopped cmd file.
+
+

@@ -1,0 +1,63 @@
+		 GTAC Observation Log 
+
+1. Date : 09/07/2005
+2. Observation Sr. No. : 2111
+3. Observer : JNC
+4. Observer's Email : chengalu@ncra.tifr.res.in
+5. Project Name : 1413CHOH
+6. Project Code : 08NKA01
+7. Operator(s) : Jayprakash,
+	Jitendra,
+	Manisha J.,
+	
+8. Command File : /atemp2/cmd/chengalu/1413.cmd
+9. LTA File : /rawdata/9jul/08nka01_1413.lta,
+	/rawdata1/9jul/08nka01_1413.ltb
+10. LogFlag File : /atemp2/logflags/08NKA01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 668.69 MHz ,RF2 : 668.69 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 600 MHz, ILO2 : 600 MHz, IVLO1 : 68.69 MHz, IVLO2 : 68.69 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+10 dB, 6 MHz,ON, IF-CH2 : 10+10 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 1000 KHz, 12 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 4
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 668.69 668.69 600 600 68.69 68.69 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+W03-175-USB -No fring.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 13:54 - 23:20
+
+23. Comments (During Observations) :
+***************************************
+------- ONLINE : Adiyta ---------------
+---------- AUTHIF : 610 MHz -----------
+***************************************
+13:54 : Started scan on 3c286.
+14:40 : Stopped the scan.
+14:56 : Started the command file /btemp2/chengalu/1413.cmd.
+
+15:45 : Due to high wind, all antennas parked.
+
+19:10 : Started observation
+19:14 : STarted scan on 3C286 for 5mins.
+19:35 : Restarted command file.
+
+23:01 : stopped command file.
+
+23:03 : started scan on 3c286 ~15mins.
+23:20 : stopped das & observation session.
+
+
+

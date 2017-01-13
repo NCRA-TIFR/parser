@@ -1,0 +1,60 @@
+		 GTAC Observation Log 
+
+1. Date : 22/01/2010
+2. Observation Sr. No. : 4729
+3. Observer : Nissim Kanekar
+4. Observer's Email : nkanekar@ncra.tifr.res.in
+5. Project Name : TXS0001-111
+6. Project Code : 17_014
+7. Operator(s) : Deepak,
+	Navanath,
+	Nilesh,
+	Sachin,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/nissim/0001-111.cmd
+9. LTA File : /rawdata/22jan/17_014_22jan2010.lta,
+	/rawdata1/22jan/17_014_22jan2010.ltb
+10. LogFlag File : /odisk/online1/logflags/17_014.FLAGS.5
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 572.365 MHz ,RF2 : 572.365 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 505 MHz, ILO2 : 505 MHz, IVLO1 : 67.365 MHz, IVLO2 : 67.365 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+14. BB BW(KHz) & BB ALC : 4000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 572.365 572.365 505 505 67.365 67.365 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+W05 : SSI work
+C01,E05 painting.
+S01,C09 maintenance.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 15:00 - 18:00
+
+23. ONLINE Machine : Lenyadri
+
+24. Correlator Mode : UsbHighRes
+
+25. Comments (During Observations) :
+GSB file:
+/gsbifrdata/22jan/17_014_22jan_gsb.lta.3
+-------------------------------------------------
+15:11 : Started scan on 3C48 for 15mins.
+15:37 : Started command file
+        /odisk/gtac/cmd/nissim/0001-111.cmd
+
+16:39 : C01 released for observation.
+
+17:53 : Started scan on 3C48.
+18:00 : Observation stopped.
+
+

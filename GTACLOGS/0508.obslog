@@ -1,0 +1,63 @@
+1. Date : 9/04/2002
+2. Observation Sr. No. : 508
+3. Observer & email : AGB
+4. Project Name & Code : MICHIEL/01AGB01
+5. Operator(s) : Manisha, Sanjay, Mangesh
+6. Command File/Source  & Lta File : /rawdata/9apr/01agb01_michiel1.lta
+                                   : /rawdata/9apr/01agb01_michiel1.lta.1
+                                   : /temp2/data/cmd/chengalu/michiel1.cmd
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 : 1060 MHz, 0 dB, OFF.
+8. Ist LO (MHz) & IVth LO (MHz) : 930 MHz., 70 MHz.
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : 8+8 dB. 32 MHz.,ON 
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status : 16 MHz.,  0 dB., OFF.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 0 / 0 
+12. Channels : 0,127,1
+13. Frequency Parameters (TPA) : 1000 1000 930 930 70 70
+ 
+14. Integration Time (Sec.) : ~32 sec 
+15. No of Antennas Working(Fringing) :26
+16. Name of Non-Working Antennas (with reason for each) :
+
+	C02  Painting+feed work.
+	S01  Servo Motor work.
+	S04	 MCM 3 T.O.
+	W04  Not releasing brakes.
+
+17. Starting and Ending time of Observations (IST) : 22:36
+18. Comments (During Observations) :
+	22:36 : started recording on 3C309.1.
+	22:43 : started command file.
+            E06 ABC T. O. (Since ~22:30 Hr.)
+
+    03:00 : Noticed that there is problem in command file at line no. 33
+            The problem was that stpndasc command was missing totally
+            for the source MICHIEL1. So stopped the command file, 
+            stopped the scan and closed the lta file. Corrected the
+            command file and restarted it. Started new lta file
+            '/rawdata/9apr/01agb01_michiel1.lta.1'
+
+    05:32 : Power failed and came back. When power resumed back following
+            antennas did not come back (ABC T.O.)
+            E04, E06 ( E06 kept coming and going several times for all night.)
+
+            Scan no. 10 and 11 (counting from 0) are bad in the lta file
+            /rawdata/9apr/01agb01_michiel1.lta.1
+
+    06:20 : Only by 6:20  could set all antennas and start a scan on 3c468
+            for 5 minutes.
+
+    06:30 : Started the command file '/temp2/data/cmd/chengalu/michiel1.cmd'
+    06:31 : C10 got ABC reset. 
+    07:05 : Stopped the command file.
+            Antennas moved to source 3C468.
+    07:12 : Started scan on 3C468.
+    07:32 : Stopped then scan. Stopped the observation.
+
+
+19. Data Backup files & Tape No. :

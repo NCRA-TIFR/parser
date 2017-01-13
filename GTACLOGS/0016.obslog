@@ -1,0 +1,37 @@
+1. Date : 7/02/2001
+2. Observation Sr. No. : 16
+3. Observer & email : Prof. V.K.Kulkarni.
+4. Project Name & Code : 20255  / 02SKG01
+5. Operator(s) :Manisha(1),Santaji(1),Jitendra(2)and Jprakash(2). 
+6. Command File/Source  & Lta File : /raid/data/7jan/02skg01_20255.lta 
+								   : /temp2/data/cmd/vku/20255.cmd
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 : 610 MHz., 0 dB., OFF.
+8. Ist LO (MHz) & IVth LO (MHz) : 540 MHz., 70 MHz.
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : 10 + 10 dB., 32 MHz., ON.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status :16 MHz., 0 dB., ON.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 0 / 0
+12. Channels : 0,127,1
+13. Frequency Parameters (TPA) : 610 610 540 540 70 70
+
+14. Integration Time (Sec.) : 16 sec (16*8m)
+15. No of Antennas Working(Fringing) : 25.5
+16. Name of Non-Working Antennas (with reason for each) :
+
+	C06		no fringe. & MECH work (antenna taken by GCC at 14:45).
+	E03		Eln brake problem.
+	W01     servo off.
+	w04     MCM 5 time out.
+	W06     130 pol low self, no fringe
+
+17. Starting and Ending time of Observations (IST) : 14:34
+18. Comments (During Observations) :
+
+    14:45  Started scan on 3C48.
+
+19. Data Backup files & Tape No. :

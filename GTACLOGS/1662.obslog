@@ -1,0 +1,55 @@
+		 GTAC Observation Log 
+
+1. Date : 12/09/2004
+2. Observation Sr. No. : 1662
+3. Observer : Ishwar
+4. Observer's Email : dna@astr.tohoku.ac.jp,ishwar@ncra.tifr.res.in
+5. Project Name : DNA - 337.30
+6. Project Code : 06DNA01
+7. Operator(s) : Jitendra,
+	Sachin,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/ishwar/dna.cmd
+9. LTA File : /rawdata/12sep/06dna01.lta,
+	/rawdata1/12sep/06dna01.ltb
+10. LogFlag File : /btemp2/logflags/06DNA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 337.3 MHz ,RF2 : 337.3 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 270 MHz, ILO2 : 270 MHz, IVLO1 : 67.30 MHz, IVLO2 : 67.30 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 16 MHz,ON, IF-CH2 : 16+16 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 4000 KHz, 6 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 2
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 337.3 337.3 270 270 67.30 67.30 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C12 : LO setting problem
+E04 : Servo problem
+
+
+21. Start and End Time of Obs.(IST): 04:27 - 14:10
+
+22. Comments (During Observations) :
+***** ONLINE RUNNING ON BHASKAR *******
+***** AUTH IF @ 325 MHZ. **************
+---------------------------------------
+04:27 : Flux calibrator scan started for 10m.
+04:37 : scan stopped.
+04:43 : command file started.
+07:29 : stopped the command file.
+07:32 : taken 30mins scan on 3C147.
+08:05 : started the command file.
+08:21 : C01 shown servo time-out.
+08:30 : C01 came back.
+13:30 : Stopped command file.
+14:10 : Clossed the observation.
+

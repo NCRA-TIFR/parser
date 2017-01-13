@@ -1,0 +1,65 @@
+		 GTAC Observation Log 
+
+1. Date : 02/09/2011
+2. Observation Sr. No. : 5553
+3. Observer : Sandeep Sirothia 
+4. Observer's Email : sirothia@ncra.tifr.res.in
+5. Project Name : The GMRT extra-galactic sky survey at 150 MHz - TGSS
+6. Project Code : 20_083
+7. Operator(s) : Deepak,
+	Rupsingh,
+	Sachin,
+	
+8. Command File : /odisk/gtac/cmd/sirothia/20_083_20110902a.cmd
+9. LTA File : /gsbifrdata/02sep/20_083_02sep2011.lta
+10. LogFlag File : /odisk/online1/logflags/20_083.FLAGS.40
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 218 MHz, ILO2 : 218 MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+12 dB, 16 MHz,ON, IF-CH2 : 10+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Full_Polar
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 16 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 16:138000-167000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 156 156 218 218 62 62.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :30
+
+27. Name of Non-Working Antennas (with reason for each) :
+--
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 22:00 - 05:00
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+2s data file :
+/gsbifrdata1/02sep/20_083_02sep2011_2s.lta
+----------------------------------------------------
+22:27 : Started scan on 3C48.
+22:33 : Stopped scan.
+22:36 : Started command file.
+01:33 : S-arm power failed.
+01:50 : S01,S02 were on generator backup, set S01,S02.
+02:35 : S-arm power come back. Once again whole array
+setup is done.
+02:45 : S-arm started working.
+04:09 : Stopped command file.
+04:15 : Started scan on J0218+4232.
+04:30 : Stopped scan on J0218+4232.
+04:32 : Started scan on 3C48.
+05:00 : Stopped scan on 3C48 and closed observation session.
+

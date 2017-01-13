@@ -1,0 +1,86 @@
+		 GTAC Observation Log 
+
+1. Date : 23/11/2008
+2. Observation Sr. No. : 4054
+3. Observer : N. kanekar
+4. Observer's Email : nkanekar@aoc.nrao.edu
+5. Project Name : 0014
+6. Project Code : 15NKA01
+7. Operator(s) : Deepak,
+	Navanath,
+	Nilesh,
+	Rupsingh,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/nissim/0014+813.cmd,
+	/odisk/gtac/cmd/nissim/0620+38.cmd,
+	/odisk/gtac/cmd/nissim/0800+618.cmd
+9. LTA File : /rawdata/23nov/15nka01_23nov2008.lta,
+	/rawdata1/23nov/15nka01_23nov2008.ltb
+10. LogFlag File : /btemp2/logflags/15NKA01.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 323.33 MHz ,RF2 : 323.33 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 255 MHz, ILO2 : 255 MHz, IVLO1 : 68.33 MHz, IVLO2 : 68.33 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 6 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 4000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:255:1
+17. Frequency Parameters (TPA) : 323.33 323.33 255 255 68.33 68.33 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+C10-130 no fringe.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 19:30 - 09:34
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : USB Highres    *********
+--------------------------------------------
+19:30 : Started setup.
+19:40 : Started scan on fulx cal for 15min.
+19:59 : Started command file.
+
+     /odisk/gtac/cmd/0014+813.cmd
+20:30 : Most of the antennas not tracking properly.
+        Going away from source and coming back to it.
+        C05 : 2032 to 2035
+        E03 : 2032 to 2037
+        C09 : 2038 to 2042
+        E04 : 2032 to 2050
+20:50 : Antennas started tracking properly.
+
+22:45 : C13 high temperature.
+23:43 : Command file stopped.
+23:46 : Started scan on 3C147.
+23:58 : Settings changed to
+        tpa 315.8400  315.8400 248 248 67.8400 67.8400
+
+00:00 : Started scan on 3C147.
+00:14 : Started command file
+         /odisk/gtac/cmd/nissim/0620+38.cmd
+03:27 : Command file stopped.
+03:28 : Settings changed
+        tpa 350.2000  350.2000 282 282 68.2000 68.2000
+03:28 : Started scan on 3C147.
+         W05 - no fringe.
+03:42 : Started command file.
+        /odisk/gtac/cmd/nissim/0800+618.cmd
+08:50 : C05 taken for painting.
+09:05 : C13 started working.
+09:15 : Stopped command file.
+09:20 : Started scan on 3C286.
+09:34 : Stopped scan & observing session over.
+
+
+
+

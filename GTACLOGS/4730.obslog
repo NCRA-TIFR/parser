@@ -1,0 +1,59 @@
+		 GTAC Observation Log 
+
+1. Date : 22/01/2010
+2. Observation Sr. No. : 4730
+3. Observer : Rosita Paladino
+4. Observer's Email : rosita.paladino@uibk.ac.at
+5. Project Name : Spectral index study of nearby spiral galaxies
+6. Project Code : 17_045
+7. Operator(s) : Deepak,
+	Navanath,
+	Nilesh,
+	Rupsingh,
+	
+8. Command File : /odisk/gtac/cmd/17_045/22jan/paladino.cmd
+9. LTA File : /rawdata/22jan/17_045_22jan2010.lta
+10. LogFlag File : /odisk/online1/logflags/17_045.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 244 MHz ,RF2 : 244 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 310 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 6 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 8000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 244 244 310 310 66 66 
+
+18. Integration Time : 64 LTA ~ 8.454 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+W05 : SSI work
+E03 : servo problem.
+S06 : mcm 5 time out
+W03 :no fringe.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 18:00 - 04:00
+
+23. ONLINE Machine : Lenyadri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+GSB file:
+/gsbifrdata/22jan/17_045_22jan_gsb.lta
+-------------------------------------------------
+18:13 : Started scan on 3C48 for 15min.
+18:32 : Started command file.
+18:34 : S06 Started fringing.
+18:36 : W03 Started fringing.
+03:47 : Stopped command file.
+03:50 : Started scan on 3C286.
+04:00 : Stopped scan and observation closed.
+
+

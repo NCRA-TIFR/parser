@@ -1,0 +1,60 @@
+		 GTAC Observation Log 
+
+1. Date : 17/01/2005
+2. Observation Sr. No. : 1826
+3. Observer : Philip
+4. Observer's Email : visitor2@ncra.tifr.res.in
+5. Project Name : Cluster HI
+6. Project Code : 07PLA01
+7. Operator(s) : Deepak,
+	Manisha J.,
+	Jayprakash,
+	Jitendra,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/chengalu/cl0024.cmd
+9. LTA File : /rawdata/17jan/07pla01_cl0024.lta,
+	/rawdata1/17jan/07pla01_cl0024.ltb
+10. LogFlag File : /btemp2/logflags/07PLA01.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1024 MHz ,RF2 : 1024 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 955 MHz, ILO2 : 955 MHz, IVLO1 : 69 MHz, IVLO2 : 69 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+10 dB, 32 MHz,ON, IF-CH2 : 10+10 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1024 1024 955 955 69 69 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C04-Having servo problem
+C11-MCM-5 time-out.
+W05 : MCM 5 Time Out.
+
+21. Start and End Time of Obs.(IST): 12:11 - 21:00
+
+22. Comments (During Observations) :
+** ONLINE : Bhaskar  ***
+** Auth IF @ 1060  MHz. ***
+-------------------------
+
+12:09 : Started scan on 3c468.1 for 5min.
+12:14 : Stopped the scan.
+12:17 : Started the command file /btemp2/cmd/chengalu/cl0024.cmd.
+13:12 : Stopped the scan & command file.
+13:14 : Started scan on 3c48 for 10min.
+13:28 : Stopped the scan.
+13:28 : Restarted the command file /btemp2/cmd/chengalu/cl0024.cmd.
+14:15 : W05 started fringing.
+~15:00 : scan#6,7,8 shows fringe amplitude variation
+         on central square baselines.
+20:42 : command file stopped and scan strted on 3c48
+21:00 : stopped the scan and observation session. 
+

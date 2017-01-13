@@ -1,0 +1,56 @@
+		 GTAC Observation Log 
+
+1. Date : 26/07/2007
+2. Observation Sr. No. : 3275
+3. Observer : Dwelly
+4. Observer's Email : td@phys.soton.ac.uk
+5. Project Name : 13hrxmm
+6. Project Code : 12NSA01
+7. Operator(s) : Deepak,
+	Nilesh,
+	Sachin,
+	
+8. Command File : /btemp2/cmd/ns/13hrxmm.cmd
+9. LTA File : /rawdata/26jul/12nsa01_26jul2007_16s.lta,
+	/rawdata1/26jul/12nsa01_26jul2007_16s.ltb
+10. LogFlag File : /btemp2/logflags/12NSA01.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 6+0 dB, 32 MHz,ON, IF-CH2 : 6+0 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 64 LTA ~ 8.454 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+E02 - servo problem
+E03 - ABC time out.
+W06 - FE problem
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 18:00 - 22:20
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+18:05 : Started scan on 3C286 for 10mins.
+18:10 : C02,C03,C04,C05 are bad in LSB in scan no#0.
+18:16 : Started command file.
+        /btemp2/cmd/ns/13hrxmm.cmd
+18:50 : E02 started working.
+20:20 : E03 started communicating.
+        E03 - USB high self.
+
+22:20 : Observation stopped.
+

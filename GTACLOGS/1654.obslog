@@ -1,0 +1,45 @@
+		 GTAC Observation Log 
+
+1. Date : 06/09/2004
+2. Observation Sr. No. : 1654
+3. Observer : Ishwara Chandra C H
+4. Observer's Email : ishwar@ncra.tifr.res.in
+5. Project Name : GRB
+6. Project Code : 06DBA01
+7. Operator(s) : Manisha J.,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/ishwar/dba.cmd
+9. LTA File : /rawdata/6sep/06dba01_6sep04.lta,
+	/rawdata1/6sep/06dba01_6sep04.ltb
+10. LogFlag File : /btemp2/logflags/06DBA01.FLAGS.7
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 32 MHz,ON, IF-CH2 : 12+12 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+E04 : No fringe.
+C03-175 : Low fringe.
+
+21. Start and End Time of Obs.(IST): 07:58 - 00:00
+
+22. Comments (During Observations) :
+**** ONLINE : Bhaskar ****
+**** AUTHIF : 610 MHz ****
+---------------------------
+07:58	started scan on 3C147 ~15mins.
+08:18	started command file.
+

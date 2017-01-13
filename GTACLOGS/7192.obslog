@@ -1,0 +1,94 @@
+		 GTAC Observation Log 
+
+1. Date : 28/6/2014
+2. Observation Sr. No. : 7192
+3. Observer : Dipanjan Mitra,Krzysztof Maciesiak,Rahul Basu,Anna Maria Skrzypczak,Janusz Gil
+4. Observer's Email : dmitra@ncra.tifr.res.in,jezyk@astro.ia.uz.zgora.pl,rbasu@ncra.tifr.res.in,ania.skrzypczak@hotmail.com,jag@astro.ia.uz.zgora.pl
+5. Project Name : %latex% A Metrewavelength Survey of Pulsar Emission: ( -50  $<$ Dec $<$ 25 )
+6. Project Code : 25_038
+7. Operator(s) : Nilesh,Surender
+8. Command File : 
+9. LTA File : /gsbifrdata/28jun/25_038_28jun2014.lta,
+10. LogFlag File : /odisk/online1/logflags/25_038.FLAGS.42,
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 317 MHz ,RF2 : 317 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255 MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 16 MHz,OFF, IF-CH2 : 24+4 dB, 16 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : Realtime 
+15. GSB LTA : 8 
+16. GSB CTRL : ONLINE 
+17. GSB Fstop : ON 
+18. GAIN EQ : OFF, 
+19. Stokes : FullStokes
+20. Beam - 1 : IA
+21. Beam - 2 : PA
+22. ACQ BW : 16.67 MHz
+23. Final BW : 16.666666 MHz; Step # 0
+24. Maximum Channels : 256 
+25. Channel Numbers : 0:255:1 
+26. LO5 -1  : 138.00 
+27. LO5 -2  : 167.00 
+
+28. Frequency Parameters (TPA) : 317 317 255 255 62 62.
+29. Integration Time : 8.053056 Sec.
+30. No of Antennas Working(Fringing) at the begining :26
+
+31. Name of Non-Working Antennas (with reason for each) :
+E02 : Servo Work.
+W06 : Taken for BLDC work.
+S01 : Servo Time out.
+C13 : Low fringe@175pol.
+32. Note for Backup :
+
+33. Start and End Time of Obs.(IST): 09:32 - 16:00
+
+34. ONLINE Machine : Shivneri
+
+35. No of Antennas Working(Fringing) at the end :27
+
+36. Comments (During Observations) :
+09:32:00 : Started set-up.
+09:58:42 : Started scan on 3C48 for ~ 8.92547 min.
+10:11:11 : Started scan on 0116-208 for ~ 2.11393 min.
+10:13:27 : Started scan on 0116-208 for ~ 2.08037 min.
+10:17:32 : Started scan on B0203-40 for ~ 22.515 min.
+10:41:16 : Started scan on 0116-208 for ~ 1.07374 min.
+10:45:20 : Started scan on 0323+055 for ~ 1.47639 min.
+10:46:58 : Started scan on 0323+055 for ~ 1.24151 min.
+10:50:04 : Started scan on B0301+19 for ~ 49.6605 min.
+11:40:57 : Started scan on 0323+055 for ~ 0.973078 min.
+11:42:18 : Started scan on 1021+219 for ~ 0.134218 min.
+11:52:47 : Started scan on 1021+219 for ~ 7.01287 min.
+11:59:57 : Started scan on 1021+219 for ~ 1.87905 min.
+12:02:04 : Started scan on 1021+219 for ~ 1.00663 min.
+12:04:07 : Started scan on B0950+08 for ~ 10.0999 min.
+12:14:58 : Started scan on B0919+06 for ~ 16.4417 min.
+12:32:33 : Started scan on 1021+219 for ~ 1.24151 min.
+12:41:53 : Started scan on 0521+166 for ~ 0.973078 min.
+12:42:59 : Started scan on 0521+166 for ~ 1.47639 min.
+12:49:54 : Started scan on B0656+14 for ~ 14.5962 min.
+13:09:56 : Started scan on 0521+166 for ~ 1.5435 min.
+13:24:39 : Started scan on 1021+219 for ~ 4.32852 min.
+13:29:13 : Started scan on 1021+219 for ~ 0.469762 min.
+13:29:00 : S01 Released for observation and add in GAC.
+13:30:39 : Started scan on B0950+08 for ~ 6.34178 min.
+13:38:15 : Started scan on 1021+219 for ~ 1.04019 min.
+13:43:00 : Started scan on 0837-198 for ~ 0.0671088 min.
+13:44:55 : Started scan on 0837-198 for ~ 1.44284 min.
+13:46:31 : Started scan on 0837-198 for ~ 1.37573 min.
+13:47:59 : Started scan on 0837-198 for ~ 1.44284 min.
+13:51:14 : Started scan on B0727-18 for ~ 18.9582 min.
+14:11:59 : Started scan on B0736-40 for ~ 14.7975 min.
+14:29:49 : Started scan on B0942-13 for ~ 20.9715 min.
+14:51:48 : Started scan on 0837-198 for ~ 1.34218 min.
+15:38:11 : Started scan on 0837-198 for ~ 1.34218 min.
+15:41:27 : Started scan on 1033-343 for ~ 1.1073 min.
+15:42:43 : Started scan on 1033-343 for ~ 1.24151 min.
+15:45:54 : Started scan on J0905-5127 for ~ 14.3613 min.
+16:00    : Observing session over.
+-----------------------------------------------------------

@@ -1,0 +1,62 @@
+		 GTAC Observation Log
+
+1. Date : 01/08/2015
+2. Observation Sr. No. : 7958
+3. Observer : John Antoniadis, Robert Main, Ue Li Pen, Marten H vanKerkwijk, Michael Kramer, Keith Vanderlinde, Siqi Liu
+4. Observer's Email : antoniadis@dunlap.utoronto.ca, main@astro.utoronto.ca, pen@cita.utoronto.ca, mhvk@astro.utoronto.ca, Michael.Kramer@manchester.ac.uk, vanderlinde@di.utoronto.ca, sqliu@astro.utoronto.ca
+5. Project Name : Probing the properties of the double pulsar at low frequencies
+6. Project Code : 28_068
+7. Operator(s) : Nilesh, Pramod
+8. Command File : /odisk/gtac/cmd
+9. LTA File : /gsbifrdata1/01aug/28_068_01aug2015.lta
+10. LogFlag File : /odisk/online1/logflags/28_068.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 218 MHz, ILO2 : 218MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 16 MHz,ON, IF-CH2 : 24+4 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : RawDump
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 16.666666 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 138
+28. LO5 -2  : 167
+
+29. Frequency Parameters (TPA) : 156 156 218 218 62 62
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :28
+
+32. Name of Non-Working Antennas (with reason for each) :
+E06 : Servo problem
+E02 : Taken for BLDC
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 01 Aug 2015 08:00:00 - 01 Aug 2015 15:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :28
+
+37. Comments (During Observations) :
+08:00 : Started setting.
+08:01 : Started scan on 3C147.
+08:04 : Stopped scan and started observation in raw dump mode.
+09:52 : W05 released for observation.
+11:11 : E06 released for observation.
+14:15 : Stopped raw dump mode duo to high wind speed.
+14:15 to 15:00 : Could not do observation duo to high wind speed.
+15:00 : Observation session is over.

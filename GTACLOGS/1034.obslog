@@ -1,0 +1,56 @@
+		 GTAC Observation Log 
+
+1. Date : 25/06/2003
+2. Observation Sr. No. : 1034
+3. Observer : ishwar
+4. Observer's Email : ishwar@ncra.tifr.res.in
+5. Project Name : GRS
+6. Project Code : 04PDA01
+7. Operator(s) : Jayprakash,
+	
+8. Command File : /btemp2/cmd/ishwar/jun24.cmd
+9. LTA File : /rawdata/25jun/04pda01_jun24.lta,
+	/rawdata1/25jun/04pda01_24jun.ltb
+10. LogFlag File : /atemp2/logflags/04PDA01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 32 MHz,ON, IF-CH2 : 12+12 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :25
+
+20. Name of Non-Working Antennas (with reason for each) :
+USB :-
+C00 : No fringe.
+S03 : Ch.2 no fringe.
+S06 : ABC Time Out.
+W01 : No fringe.
+W05 : No fringe.
+LSB :-
+E03 : Ch. 2 no fringe.
+S06 : ABC Time Out.
+W01 : No fringe.
+W05 : No fringe.
+
+21. Start and End Time of Obs.(IST): 03:44 - 05:30
+
+22. Comments (During Observations) :
+** ONLINE ON ADITYA **
+
+03:44 : Started scan on 3c48 for 15min.
+04:10 : Started command file 
+        /temp2/data/cmd/ishwar/jun24.cmd.
+05:00 : Command file stopped.
+05:14 : Started scan on 3c48 for 15min.
+05:30 : Observation over.
+

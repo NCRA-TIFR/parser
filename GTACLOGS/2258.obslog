@@ -1,0 +1,47 @@
+		 GTAC Observation Log 
+
+1. Date : 23/09/2005
+2. Observation Sr. No. : 2258
+3. Observer : Yashwant Gupta
+4. Observer's Email : ygupta@ncra.tifr.res.in
+5. Project Name : Pulsar Observation
+6. Project Code : 08PCF01
+7. Operator(s) : Manisha J.,
+	Sachin,
+	Santaji,
+	
+8. Command File : /atemp2/cmd/hold.cmd
+9. LTA File : /rawdata/23sep/08pcf01_23sep.lta,
+	/rawdata1/23sep/08pcf01_23sep.ltb
+10. LogFlag File : /atemp2/logflags/08PCF01.FLAGS.12
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,OFF, IF-CH2 : 16+16 dB, 32 MHz,OFF
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, OFF
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+E06 - motor change
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 10:00 - 22:00
+
+23. Comments (During Observations) :
+***********************************************
+***********   ONLINE  ADITYA ******************
+*********  Power Equilise at 610 MHz. *********
+-----------------------------------------------
+
+

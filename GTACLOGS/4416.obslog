@@ -1,0 +1,74 @@
+		 GTAC Observation Log 
+
+1. Date : 17/07/2009
+2. Observation Sr. No. : 4416
+3. Observer : Vishal Gajjar
+4. Observer's Email : gajjar@ncra.tifr.res.in
+5. Project Name : Pulsar Observation
+6. Project Code : 16_048
+7. Operator(s) : Jayprakash,
+	Rupsingh,
+	Sachin,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /rawdata/17jul/16_048_17jul09.lta,
+	/rawdata1/17jul/16_048_17jul09.ltb
+10. LogFlag File : /odisk/online1/logflags/16_048.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+4 dB, 32 MHz,OFF, IF-CH2 : 16+4 dB, 32 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+S06 : Servo off.
+S04 : No fringe.
+** lta and ltb time stamps 
+are not matching.
+C12 : No fringe.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 18:00 - 06:40
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+Correlator configured in pulsar mode.
+18:00 : Started doing setting for pulsar observation.
+18:57 : Started scan for phasing after power 
+        equalise on 3C286. (600 counts at IF and 1000 counts
+        at baseband level)
+
+19:07 : Started pulsar observation.
+22:37 : Started scan 1701-3726.
+00:35 : Stopped scan.
+00:36 : Started scan on 1830-360 for phasing.
+00:59 : Phasing done.
+01:01 : Started scan on 1757-2223.
+02:14 : Stopped scan.
+02:15 : Started scan on 1830-360 for phasing.
+02:21 : Phasing done.
+02:23 : Started scan on 1901+0413.
+04:28 : Stopped scan.
+04:31 : Started scan on 2225-049 for phasing.
+04:37 : Phasing done.
+04:41 : Started scan on 2022+2854
+06:30 : Stopped scan.
+06:35 : Started scan 3C48.
+06:40 : Stopped scan and observation session.
+
+
+

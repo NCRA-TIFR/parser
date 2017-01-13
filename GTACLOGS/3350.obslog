@@ -1,0 +1,65 @@
+		 GTAC Observation Log 
+
+1. Date : 28/08/2007
+2. Observation Sr. No. : 3350
+3. Observer : J N Chengalur
+4. Observer's Email : chengalu@ncra.tifr.res.in
+5. Project Name : M81 Dwarfs
+6. Project Code : 12JNC01
+7. Operator(s) : Jitendra,
+	Manisha,
+	Nilesh,
+	Sachin,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/chengalu/12jnc01a.cmd
+9. LTA File : /rawdata/28aug/12jnc01_28aug2007.lta,
+	/rawdata1/28aug/12jnc01_28aug2007.ltb,
+	/rawdata/28aug/12jnc01_28aug2007.lta.1,
+	/rawdata1/28aug/12jnc01_28aug2007.ltb.1
+10. LogFlag File : /btemp2/logflags/12JNC01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1417.6 MHz ,RF2 : 1417.6 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1350 MHz, ILO2 : 1350 MHz, IVLO1 : 67.6 MHz, IVLO2 : 67.6 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+14. BB BW(KHz) & BB ALC : 4000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1417.6 1417.6 1350 1350 67.6 67.6 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+W02 : servo problem
+E02 : servo timeout.
+
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 09:21 - 17:08
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : USB HighRes  *********
+--------------------------------------------
+09:21 : started scan on 3c147 ~ 5mins.
+09:30 : Started command file.
+09:35 : stopped command file. In LSB few antennas 
+are showing bad bandshape, reran corr-config.
+09:42 : Restarted command file with new datafiles.
+        lta[b] files contains scan on calibrators and
+        has bad data in LSB so can be neglected.
+11:26 : W-arm power failed.
+11:41 : W-arm restored in observing session.
+17:00 : Stopped command file.
+17:02 : Started scan on 3c286.
+17:08 : Stopped scan and observation session over.
+
+

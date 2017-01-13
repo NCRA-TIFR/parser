@@ -1,0 +1,57 @@
+		 GTAC Observation Log 
+
+1. Date : 17/12/2007
+2. Observation Sr. No. : 3501
+3. Observer : S. Pal
+4. Observer's Email : spal@ncra.tifr.res.in
+5. Project Name : wr98
+6. Project Code : 13MGB01
+7. Operator(s) : Jayprakash,
+	Nilesh,
+	Sachin,
+	
+8. Command File : /atemp2/cmd/spal/wr98-dual.cmd
+9. LTA File : /rawdata/17dec/13mgb01_17dec07.lta,
+	/rawdata1/17dec/13mgb01_17dec07.ltb
+10. LogFlag File : /atemp2/logflags/13MGB01.FLAGS.13
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+4 dB, 32 MHz,ON, IF-CH2 : 20+4 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C02 : Servo problem.
+C05 : ABC Time Out.
+LSB : High cross count (C01,C02,C03,C04) X (E04,E05,E06,S01)
+LSB : Flat band shapes for C12,C13 & W01.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 09:30 - 16:15
+
+23. Comments (During Observations) :
+----------------------------------------------------
+******** ONLINE Machine : Aditya   ********* 
+******** Corr Mode : IndianPolar *********
+---------------------------------------------------
+
+09:30 : Started scan on 3c286 for 10min.
+09:40 : Stopped the scan.
+09:51 : Started the command file.
+15:48 : Stopped command file.
+15:50 : Started scan on phase cal.
+15:54 : Stopped scan.
+16:02 : Started scan on 3c48.
+16:15 : Stopped scan and observation over.
+

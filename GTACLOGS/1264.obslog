@@ -1,0 +1,81 @@
+		 GTAC Observation Log 
+
+1. Date : 02/01/2004
+2. Observation Sr. No. : 1264
+3. Observer : Subhashis Roy, Sanjay Bhatnagar
+4. Observer's Email : roy@ncra.tifr.res.in,sanjay@ncra.tifr.res.in
+5. Project Name : Supernovae
+6. Project Code : 05SBA02
+7. Operator(s) : Manisha J.,
+	Jitendra,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/roy/roy.g107.cmd
+9. LTA File : /rawdata/2jan/05sba02_g107.lta,
+	/rawdata1/2jan/05sba02_g107.ltb,
+	/rawdata/2jan/05sba02_g107.lta.1,
+	/rawdata1/2jan/05sba02_g107.ltb.1,
+	/rawdata/2jan/05sba02_g107.lta.2,
+	/rawdata1/2jan/05sba02_g107.ltb.2
+10. LogFlag File : /btemp2/logflags/05SBA02.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 606 MHz ,RF2 : 233 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 307 MHz, IVLO1 : 74 MHz, IVLO2 : 74 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,OFF, IF-CH2 : 16+16 dB, 6 MHz,OFF
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, OFF
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 606 233 680 307 74 74 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :25
+
+20. Name of Non-Working Antennas (with reason for each) :
+C01 : Painting.
+C08 : Elevation Brakes Problem.
+C12 : Cherry Picker Work.
+E02 : Mech Work.
+W05 : Painting.
+
+21. Start and End Time of Obs.(IST): 11:57 - 22:53
+
+22. Comments (During Observations) :
+************************
+-- ONLINE : Bhaskar ---
+************************
+ALC's OFF, did power equalisation.
+
+11:57	started command file.
+12:45	C12 started working.
+19:16   mithunb hung, 
+19:55   Rebooted mithunb, restarted observation.
+        Restarted cmd file, record in 
+        05sba02_g107.lta.1,05sba01_g107.ltb
+19:58   E-arm & W-arm antennas,no fringe,
+        Reconfigured corr, same status.
+
+20:38   Corr status no change, restarted observation,
+        latest ltafiles overwritten.
+        
+        * Problem did not recovered , still there is a 
+          ramp in phase for all antenna.
+
+21:31   Scan stopped & das halted.
+21:41   Das initialised with all acq programs.
+21:42   Scan started on 3c48 source to check the fringe
+        for all the antenna.
+
+       scan # 0 : bad.
+22:06  Flux cal scan started with correct TPA.
+22:11  flux cal scan stopped.
+
+22:17  Command file started.
+22:35  Stopped cmd file.
+22:37  Started record on 3c48.
+22:53  Stopped record on 3c48, closed project.
+

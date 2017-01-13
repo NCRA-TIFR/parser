@@ -1,0 +1,72 @@
+		 GTAC Observation Log 
+
+1. Date : 24/5/2011
+2. Observation Sr. No. : 5345
+3. Observer : Ujjwal Kumar
+4. Observer's Email : ujjwal@ncra.tifr.res.in
+5. Project Name : Pulsar Observation
+6. Project Code : 20_041
+7. Operator(s) : Rupsingh,
+	
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /gsbifrdata/24may/20_041_610_24may2011.lta,
+	/gsbifrdata/24may/20_041_325_24may2011.lta
+10. LogFlag File : /odisk/online1/logflags/SUBA2.FLAGS.162,
+	/odisk/online1/logflags/SUBA4.FLAGS.167
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+10 dB, 32 MHz,OFF, IF-CH2 : 20+10 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. Maximum Channels : 512 
+15. Final Bandwidth (MHz): OFF MHz; Step # 0
+16. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+17. Stokes : Total_Intensity
+18. Beam - 1 : PA
+19. Beam - 2 : PA
+
+20. Frequency Parameters (TPA) : 591 591 540 540 51 51.
+21. Integration Time : 16.106 Sec.
+22. No of Antennas Working(Fringing) :28
+
+23. Name of Non-Working Antennas (with reason for each) :
+C11 : Painting.
+W02 : Lo1 unlock
+24. Note for Backup :--
+
+25. Start and End Time of Obs.(IST): 14:30 - 20:00
+
+26. ONLINE Machine : Shivneri
+
+27. Comments (During Observations) :
+14:30: Started Power eq. @350 counts.
+15:50: Power eq.done.
+
+14:51: * Suba 2 * RF-325MHz,IF-32MHz
+       C01,C02,C03,C05,C10,C12,C13,E02,S01,W01.
+       
+       * Suba 4 * RF-610MHz, IF-32MHz 
+       C00,C04,C06,C08,C09,C11,C14,E03,E04,
+       W02,W03,W04,S02,S03,S04 
+
+15:09:00 : Started Phasing on 0521+166.
+15:20:00 : Phasing done.
+15:22:00 : Started observation
+15:22:27 : Started scan on J0621+1002 for ~ 37.5809 min.
+16:02:32 : Started scan on J0613-0200 for ~ 45.634 min.
+16:50:33 : Started scan on B0740-28 for ~ 30.6016 min.
+17:23:14 : Started scan on 0837-198 for ~ 2.68435 min.
+17:26:34 : Started scan on 0837-198 for ~ 1.34218 min.
+17:31:03 : Started scan on B0950+08 for ~ 6.97932 min.
+17:40:03 : Started scan on B0919+06 for ~ 31.1385 min.
+18:13:12 : Started scan on B0950+08 for ~ 16.643 min.
+18:32:04 : Started scan on J1022+1001 for ~ 35.7019 min.
+19:14:16 : Started scan on J1012+5307 for ~ 45.634 min.
+20:00:00 : Stopped scan & observation session over.
+
+ 
+

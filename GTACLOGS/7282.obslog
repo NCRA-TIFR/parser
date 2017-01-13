@@ -1,0 +1,69 @@
+		 GTAC Observation Log
+
+1. Date : 11/08/2014
+2. Observation Sr. No. : 7282
+3. Observer : Kenda Knowles, Kavilan Moodley, Neeraj Gupta, Matt Hilton, Jon Sievers, Raghunathan Srianand, Andrew Jordan Baker, Nick Battaglia, Richard J Bond, Catherine Cress, Sudeep Das, John P. Hughes, Robert Raymond Lindner, Tobias Andrew Marriage, Felipe Menanteau, Erik Reese, Caroline Louise Zunckel
+4. Observer's Email : kendaknowles.astro@gmail.com, moodleyk41@ukzn.ac.za, nrjgupta@gmail.com, hiltonm@ukzn.ac.za, sievers@cita.utoronto.ca, anand@iucaa.ernet.in, ajbaker@physics.rutgers.edu, nbatta@cita.utoronto.ca, bond@cita.utoronto.ca, ccress@uwc.ac.za, sudeepphys@gmail.com, jph@physics.rutgers.edu, robertrlindner@gmail.com, marriage@pha.jhu.edu, felipe@illinois.edu, erreese@physics.upenn.edu, caroline.zunckel@gmail.com
+5. Project Name : High Redshift Radio Halos in ACT SZ Clusters
+6. Project Code : 26_031
+7. Operator(s) : Nilesh, Sachin, Surender
+8. Command File : /odisk/gtac/cmd/26_031_obs_11aug.cmd
+9. LTA File : /gsbifrdata/11aug/26_031_11aug2014.lta,,/gsbifrdata/11aug/26_031_11aug2014.lta.1
+10. LogFlag File : /odisk/online1/logflags/26_031.FLAGS.6,/odisk/online1/logflags/26_031.FLAGS.5
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 0
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 591 591 540 540 51 51
+30. Integration Time : 8.0530 Sec
+31. No of Antennas Working(Fringing) at the beginning :29
+
+32. Name of Non-Working Antennas (with reason for each) :
+W05 : servo upgradation (BLDC).
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 11 Aug 2014 00:00:00 - 11 Aug 2014 09:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :29
+
+37. Comments (During Observations) :
+23:50 : started set-up.
+00:08 : Started scan on 3c48 for 15min.
+
+C00,C06,C12,E05,W01,S01 : Servo problem.
+
+00:31 : stopped scan and halted gsb and started online.
+00:48 : Started scan on 3c48 for 10min.
+01:04 : Started command file.
+01:33 : C00,C06,C12,E05,W01,S01 : Servo problem solved.
+
+09:02 : Source set below Horizon, Stopped scan and command file.
+09:09 : Started scan on 3c147 for ~15 min.
+09:15 : E03 Servo Problem.
+09:28 : E03 Started working.
+09:35 : Stopped scan and closed observation.
+

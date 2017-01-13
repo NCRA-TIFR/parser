@@ -1,0 +1,69 @@
+		 GTAC Observation Log 
+
+1. Date : 19/01/2008
+2. Observation Sr. No. : 3567
+3. Observer : S. J. George
+4. Observer's Email : samuel@star.sr.bham.ac.uk,krioma@gmail.com
+5. Project Name :  Brown Dwarf Observation
+6. Project Code : 13SGB01
+7. Operator(s) : Deepak,
+	Jayprakash,
+	Nilesh,
+	Santaji,
+	
+8. Command File : /atemp2/cmd/13sgb01/obs2.cmd,
+	/atemp2/cmd/13sgb01/obs3.cmd,
+	/atemp2/cmd/13sgb01/obs4.cmd
+9. LTA File : /rawdata/19jan/13sgb01_19jan08.lta,
+	/rawdata1/19jan/13sgb01_19jan08.ltb,
+	/rawdata/19jan/13sgb01_19jan08.lta.1,
+	/rawdata1/19jan/13sgb01_19jan08.ltb.1,
+	/rawdata/19jan/13sgb01_19jan08.lta.2,
+	/rawdata1/19jan/13sgb01_19jan08.ltb.2
+10. LogFlag File : /atemp2/logflags/13SGB01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1280 MHz ,RF2 : 1280 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1210 MHz, ILO2 : 1210 MHz, IVLO1 : 70.00 MHz, IVLO2 : 70.00 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1280 1280 1210 1210 70.00 70.00 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+--
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 19:00 - 11:30
+
+23. Comments (During Observations) :
+--------------------------------------------------
+******** ONLINE Machine : Aditya    ********* 
+******** Corr Mode : USB Polar mode   *********
+--------------------------------------------------
+19:08 : Started scan on 3c147.
+19:23 : Stopped scan.
+19:25 : Started command file.
+22:50 : Stopped command file.
+22:56 : Started scan on 3c147.
+23:11 : Stopped scan.
+23:17 : started the new command file.
+03:12 : stopped the command file.
+03:17 : started scan on 3c147.
+03:39 : started the new command file.
+08:21 : Electric power failed.
+08:40 : Electric Power resume.
+08:50 : Restarted the command file.
+11:15 : Stopped the command file.
+        Started scan on phase cal for 5min.
+11:21 : Started scan on 3c286.
+11:30 : Stopped the scan & obs Session.
+

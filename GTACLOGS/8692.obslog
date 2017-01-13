@@ -1,0 +1,67 @@
+		 GTAC Observation Log
+
+1. Date : 28/06/2016
+2. Observation Sr. No. : 8692
+3. Observer : YOGESH CHANDOLA, Minfeng Gu
+4. Observer's Email : yogesh.chandola@gmail.com, gumf@shao.ac.cn
+5. Project Name :  H1 absorption towards Radio Loud Narrow Line Seyfert1 hosts
+6. Project Code : 30_057
+7. Operator(s) : Nilesh
+8. Command File : /odisk/gtac/cmd/30_057/27jun16/obs.cmd
+9. LTA File : /gsbifrdata/27jun/30_057_27jun2016.lta, /gsbifrdata1/28jun/30_057_28jun2016.lta
+10. LogFlag File : /odisk/online1/logflags/30_057.FLAGS.5
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1232 MHz ,RF2 : 1232 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1170 MHz, ILO2 : 1170MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 16 MHz,ON, IF-CH2 : 4+14 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 0 MHz; Step # 0
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 138
+28. LO5 -2  : 167
+
+29. Frequency Parameters (TPA) : 1232 1232 1170 1170 62 62
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :25
+
+32. Name of Non-Working Antennas (with reason for each) :
+C09 : : Gear Box replacement
+C10 : : MCM-10 time out
+C11 : : BLDC
+C12 : : BLDC Work
+E03 : : Servo Problem
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 28 Jun 2016 00:00:00 - 28 Jun 2016 04:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :25
+
+37. Comments (During Observations) :
+00:00 Started settings.
+00:12 : Started scan on 3C286 for ~ 12 min.
+00:25 : Started command file.
+        /odisk/gtac/cmd/30_057/27jun16/obs.cmd
+
+03:27 : Stopped command file.
+03:28 : Started scan on 1609+266 for ~ 5 min.
+03:34 : Started scan on J1644+2619 for ~ 12 min.
+03:52 : Started scan on 3C48 for ~ 12 min.
+04:05 : Stopped scan and closed observation.
+

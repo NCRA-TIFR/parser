@@ -1,0 +1,63 @@
+		 GTAC Observation Log 
+
+1. Date : 12/9/2013
+2. Observation Sr. No. : 6698
+3. Observer : arunima banerjee,Jayaram Narayanan Chengalur,Narendranath Patra
+4. Observer's Email : arunima@ncra.tifr.res.in,chengalur@ncra.tifr.res.in,narendra@ncra.tifr.res.in
+5. Project Name : HI observations of superthin galaxies
+6. Project Code : 24_009
+7. Operator(s) : Navanath,Pramod,Rupsingh,
+8. Command File : /odisk/gtac/cmd/arunima/12sep13/fgc2441.cmd
+9. LTA File : /gsbifrdata/12sep/24_009_12sep2013.lta,
+10. LogFlag File : /odisk/online1/logflags/24_009.FLAGS.5,
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1402.0901 MHz ,RF2 : 1402.0901 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1340 MHz, ILO2 : 1340 MHz , IVLO1 : 62.0901 MHz, IVLO2 : 62.0901 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : Realtime 
+15. GSB LTA : 8 
+16. GSB CTRL : ONLINE 
+17. GSB Fstop : ON 
+18. GAIN EQ : ON 
+19. Stokes : TotIntensity
+20. Beam - 1 : OFF
+21. Beam - 2 : OFF
+22. ACQ BW : 16.67 MHz
+23. Final BW : 4.17 MHz; Step # 1
+24. Maximum Channels : 512 
+25. Channel Numbers : 0:511:1 
+26. LO5 -1  : 137.91 
+27. LO5 -2  : 167.09 
+
+28. Frequency Parameters (TPA) : 1402.0901 1402.0901 1340 1340 62.0901 62.0901.
+29. Integration Time : 16.106112 Sec.
+30. No of Antennas Working(Fringing) at the begining :26
+
+31. Name of Non-Working Antennas (with reason for each) :
+C04 : Taken for maintenance.
+E05 : No feed of 1420MHz.
+W05 : No fringe.
+W03 : No fringe for 175 pole.
+32. Note for Backup :
+
+33. Start and End Time of Obs.(IST): 19:00 - 05:35
+
+34. ONLINE Machine : Shivneri
+
+35. No of Antennas Working(Fringing) at the end :26
+
+36. Comments (During Observations) :
+19:00 : Started set up for 1390MHz.
+19:10 : Started scan on 3C286.
+19:20 : Stopped scan and started command file.
+        '/odisk/gtac/cmd/arunima/12sep13/fgc2441.cmd'
+
+00:00 : C01 servo problem.
+05:16 : Stopped command file.
+05:20 : Started scan on 3C48.
+05:35 : Stopped scan & observation session over.

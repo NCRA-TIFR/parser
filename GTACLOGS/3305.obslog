@@ -1,0 +1,92 @@
+		 GTAC Observation Log 
+
+1. Date : 09/08/2007
+2. Observation Sr. No. : 3305
+3. Observer : Ue-Li Pen
+4. Observer's Email : pen@cita.utoronto.ca
+5. Project Name : test at 150 MHz. 
+6. Project Code : 12PUL01
+7. Operator(s) : Deepak,
+	Navanath,
+	Nilesh,
+	Santaji,
+	
+8. Command File : /btemp2/obs/12pul01/obs.cmd
+9. LTA File : /rawdata/9aug/12pul01_09aug2007.lta,
+	/rawdata1/9aug/12pul01_09aug2007.ltb,
+10. LogFlag File : /btemp2/logflags/12PUL01.FLAGS,
+	/btemp2/logflags/SUBA3.FLAGS.3,
+	/btemp2/logflags/12PUL01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 218 MHz, ILO2 : 218 MHz, IVLO1 : 62 MHz, IVLO2 : 62 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+4 dB, 16 MHz,OFF, IF-CH2 : 10+4 dB, 16 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 156 156 218 218 62 62 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+C10 no fringe.
+E04 no fringe.
+W02 no fringe.
+W06 no fringe.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 22:20 - 11:19
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : UsbPolar  **************
+******** power eq at indian polar mode******* 
+****and then swiched to Usb polsar mode.*****
+--------------------------------------------
+22:20 : Scan stated on 3c468.1
+22:40 : Scan started on J2219+47
+07:20 : Stopped scan.
+07:23 : Started scan on 3C48.
+07:43 : Stopped scan.
+suba 4:
+C00,C02,C04,C06,C09,C11,C13,S01,S02,S04,E02,E04,E06,W03,W06
+ante 15 7 5 3 20 4 9 11 26 27 29 17 21 23 14 25
+cp 0;defs 4;suba 4
+suba 3:
+C01,C03,C05,C08,C10,C12,C14,E03,E05,S03,S06,W02,W01,W04,W05
+ante 15 6 1 19 24 12 2 10 18 22 28 30 13 8 15 16
+cp 0;defs 3;suba 3
+08:00 : started az scans (suba 3) (scan 0 to 4)
+        1) 08:02  08:07  08:12
+        2) 08:14  08:19  08:24
+        3) 08:25  08:30  08:35
+        4) 08:37  08:42  08:47
+        5) 08:49  08:54  08:59
+09:00 : Started el scans (suba 3) (scan 5 to 9)
+        1) 09:01  09:06  09:11
+        2) 09:13  09:18  09:23
+        3) 09:25  09:30  09:35
+        4) 09:37  09:42  09:47
+        5) 09:49  09:54  09:59
+10:00 : started az scans (suba 3) (scan 11 to 15)
+        1) 10:20  10:25  10:30  :el off= -2d
+        2) 10:32  10:37  10:42  :el off= -1d
+        3) 10:44  10:49  10:54  :el off=  0d
+        4) 10:57  11:02  11:07  :el off=  1d
+        5) 11:09  11:14  11:19  :el off=  2d
+11:19 : Stopped scan and observation session over.
+
+**NOTE **
+*********
+The following files are deleted
+/rawdata/10aug/12pul01_suba4.lta,
+/rawdata1/10aug/12pul01_suba4.ltb,
+/rawdata/10aug/12pul01_suba3.lta,
+/rawdata1/10aug/12pul01_suba3.ltb.

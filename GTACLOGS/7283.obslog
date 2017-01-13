@@ -1,0 +1,65 @@
+		 GTAC Observation Log
+
+1. Date : 12/08/2014
+2. Observation Sr. No. : 7283
+3. Observer : Tiziana Venturi, Loredana Bassani, Dharam Vir Lal, Giacintucci Simona, Angela Malizia, Manuela Molina
+4. Observer's Email : tventuri@ira.inaf.it, bassani@iasfbo.inaf.it, dharam@ncra.tifr.res.in, simona@astro.umd.edu, malizia@iasfbo.inaf.it, molina@iasfbo.inaf.it
+5. Project Name : Giant Radio Galaxies: clues of their origin from INTEGRAL detections?
+6. Project Code : 26_032
+7. Operator(s) : Deepak, Rupsing, Surender
+8. Command File : /odisk/gtac/cmd/26_032/11aug14-obs.cmd,/odisk/gtac/cmd/26_032/12aug14-obs.cmd,,
+9. LTA File : /gsbifrdata/11aug/26_032_11aug2014.lta
+10. LogFlag File : /odisk/online1/logflags/26_032.FLAGS.8
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 0
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 591 591 540 540 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :26
+
+32. Name of Non-Working Antennas (with reason for each) :
+C00 : Electrical problem.
+W01 : MCM-5 time out.
+W05 : BLDC
+S02 : PC104 installation.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 11 Aug 2014 20:00:00 - 12 Aug 2014 07:01:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :26
+
+37. Comments (During Observations) :
+19:30 : Started scan on 3C286.
+19:50 : Stopped scan.
+19:57 : Started command file.
+         /odisk/gtac/cmd/26_032/11aug14-obs.cmd,
+01:15 : Stopped command file and started new command file.
+         /odisk/gtac/cmd/26_032/12aug14-obs.cmd,
+06:38 : Stopped command file.
+06:42 : Started scan on 3C48.
+07:01 : Stopped scan and observing session is over.

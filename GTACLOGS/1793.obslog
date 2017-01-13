@@ -1,0 +1,63 @@
+		 GTAC Observation Log 
+
+1. Date : 03/01/2005
+2. Observation Sr. No. : 1793
+3. Observer : Ayesha 
+4. Observer's Email : ayesha@ncra.tifr.res.in
+5. Project Name : DWARFS
+6. Project Code : 07ABA01
+7. Operator(s) : Deepak,
+	Manisha J.,
+	Sanjay,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/ash/kk69.cmd,
+	/btemp2/cmd/ash/kk195.cmd
+9. LTA File : /rawdata/3jan/07aba01_kk69.lta,
+	/rawdata1/3jan/07aba01_kk69.ltb,
+	/rawdata/4jan/07aba01_kk195.lta,
+	/rawdata1/4jan/07aba01_kk195.ltb
+10. LogFlag File : /btemp2/logflags/07ABA01.FLAGS.6
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1417.76 MHz ,RF2 : 1417.76 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1350 MHz, ILO2 : 1350 MHz, IVLO1 : 67.76 MHz, IVLO2 : 67.76 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+10 dB, 16 MHz,ON, IF-CH2 : 10+10 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 1000 KHz, 12 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 4
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1417.76 1417.76 1350 1350 67.76 67.76 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+LSB-C00 to C10 corr problem.
+
+21. Start and End Time of Obs.(IST): 22:21 - 11:15
+
+22. Comments (During Observations) :
+**** ONLINE BHASKAR *****
+**** AUTH IF @ 1390 MHz. **
+-------------------------------
+
+22:21  Started scan on 3C48 for 10mins.
+22:39  Command file started
+       /btemp2/cmd/ash/kk69.cmd.
+04:08 : Stopped the scan & command file.
+04:14 : Started scan on 3c286 for 10min.
+04:24 : Stopped the scan & obs.
+---------------------------------------
+** Changed the IVth LO & started next obs.
+TPA 1417.36 1417.36 1350 1350 67.36 67.36
+04:28 : Started scan on 3c286 for 10min.
+04:38 : Stopped the scan.
+04:53 : Started the command file
+        /btemp2/cmd/ash/kk195.cmd.
+11:15 : stopped the observation session.
+
+

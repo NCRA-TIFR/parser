@@ -1,0 +1,59 @@
+		 GTAC Observation Log 
+
+1. Date : 28/01/2007
+2. Observation Sr. No. : 3015
+3. Observer : S Pal
+4. Observer's Email : spal@ncra.tifr.res.in
+5. Project Name : GCRT
+6. Project Code : 11SHA01
+7. Operator(s) : Santaji,
+	
+8. Command File : /btemp2/cmd/spal/28jan07gcrt.cmd
+9. LTA File : /rawdata/28jan/11sha01_28jan2007.lta,
+	/rawdata1/28jan/11sha01_28jan2007.ltb
+10. LogFlag File : /btemp2/logflags/11SHA01.FLAGS.7
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+4 dB, 32 MHz,OFF, IF-CH2 : 4+4 dB, 6 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+C11 - fringe problem.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 07:50 - 12:45
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : Indian polar   ************
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+---------------------------------------------
+07:51 scan started on 3c286.
+08:00 E03 parked for painting.
+08:10 command file started.
+
+10:48 MSEB power failed.
+11:00 MSEB power resumed.
+11:29 restarted the observation.
+12:45 Observing session over.
+
+

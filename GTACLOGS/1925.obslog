@@ -1,0 +1,54 @@
+		 GTAC Observation Log 
+
+1. Date : 02/03/2005
+2. Observation Sr. No. : 1925
+3. Observer : Mamta, Prof. Philippe Durouchoux
+4. Observer's Email : mamta@ncra.tifr.res.in,pdurouchoux@hotmail.com
+5. Project Name : INTEGRAL
+6. Project Code : 07PDA02
+7. Operator(s) : Deepak,
+	Manisha J.,
+	Sachin,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/mamta/07pda02mar5.cmd
+9. LTA File : /rawdata/2mar/07pda02_igrj.lta,
+	/rawdata1/2mar/07pda02_igrj.ltb
+10. LogFlag File : /btemp2/logflags/07PDA02.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 32 MHz,ON, IF-CH2 : 18+18 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, OFF
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+C01 - servo problem
+
+21. Start and End Time of Obs.(IST): 03:00 - 10:15
+
+22. Comments (During Observations) :
+****************************
+ONLINE: BHASKAR
+AUTHIF: 610-235 MHz.
+*****************************
+02:44 : Scan started on 3C286.
+
+03:06 : Command file started.
+	/temp2/data/cmd/mamta/07pda02mar5.cmd
+06:00 : C01 started working.
+08:41 : C12 parked for painting.
+09:53 : Command file stopped.
+10:02 : STarted scan on 3C468 for 10mins.
+10:15 : Observation stopped.
+

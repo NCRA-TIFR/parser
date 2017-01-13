@@ -1,0 +1,71 @@
+		 GTAC Observation Log
+
+1. Date : 13/12/2015
+2. Observation Sr. No. : 8251
+3. Observer : A.R. Rao, Varsha Chitnis, KP Singh, Gulab Chand Dewangan, Dipankar Bhattacharya, C.H. IshwaraChandra, Ranjeev Misra, C.S. Stalin, Santosh Vadawale, Sachindra Naik, Biswajit Paul, Amit Shukla
+4. Observer's Email : arrao@tifr.res.in, vchitnis@tifr.res.in, singh@tifr.res.in, gulabd@iucaa.ernet.in, dipankar@iucaa.ernet.in, ishwar@ncra.tifr.res.in, rmisra@iucaa.ernet.in, stalin@iiap.res.in, santoshv@prl.res.in, snaik.prl@gmail.com, bpaul@rri.res.in, amit008@gmail.com
+5. Project Name : Understanding the X-ray jet emission in 3C273
+6. Project Code : 29_078
+7. Operator(s) : Nilesh, Rupsing, Surender
+8. Command File : /odisk/gtac/cmd/29_078/obs.cmd
+9. LTA File : /gsbifrdata1/13dec/29_078_suba4_lband_13dec2015.lta, /gsbifrdata1/13dec/29_078_suba2_dual_13dec2015.lta
+10. LogFlag File : /odisk/online1/logflags/29_078.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1371 MHz ,RF2 : 1371 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1320 MHz, ILO2 : 1320MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 1371 1371 1320 1320 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :26
+
+32. Name of Non-Working Antennas (with reason for each) :
+C00 : Servo problem.
+C10 : Servo problem.
+C13 : Feed cage painting.
+W01 : BLDC installation.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 13 Dec 2015 03:00:00 - 13 Dec 2015 12:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :27
+
+37. Comments (During Observations) :
+03:10  : Started settings.
+
+subar 4 : 1390 MHz Default, ALC ON, tpa 1371 1371 1320 1320 51 51.
+          BAND covers (1371+33.333333 MHz).
+subar 2 : 610/235 MHz Default, ALC ON, tpa 629 253 680 304 51 51.
+          BAND covers (630-33.333333 MHz for 130 pol).
+          BAND covers (253-33.333333 MHz for 175 pol).
+03:31 : Started scan on 3C147 for ~ 21 min.
+04:01 : Started command file.
+09:31 : C04 taken for painting.
+10:15 : C00 and C10 released for observation.
+11:42 : Stopped command file.
+11:45 : Started scan on 3C286.
+12:00 : Stopped command file and observing session is over.
+

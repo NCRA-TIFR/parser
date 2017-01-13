@@ -1,0 +1,56 @@
+1. Date : 27/05/2002
+2. Observation Sr. No. : 600
+3. Observer & email : A.P.Rao. pramesh@ncra.tifr.res.in
+4. Project Name & Code : GALACTIC SURVEY. / 01APR01
+5. Operator(s) : Manish, Sanjay(3)
+6. Command File/Source  & Lta File : /temp2/data/cmd/pramesh/galsurvey/g000pm4.cmd
+								   : /rawdata/27may/01APR01_g000pm4.lta
+                                   : /rawdata/27may/01APR01_3c48.lta
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 :235 MHz.,14 dB., OFF.
+8. Ist LO (MHz) & IVth LO (MHz) :310 MHz., 66 Mhz. 
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : 18+18 dB., 6 MHz., ON.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status :8 MHz., 3 dB., ON.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 0 / 0 
+12. Channels :0,63,1
+13. Frequency Parameters (TPA) : 244 244 310 310 66 66
+
+14. Integration Time (Sec.) : 16 sec (16*8m).
+15. No of Antennas Working(Fringing) : 30
+16. Name of Non-Working Antennas (with reason for each) :
+    None
+
+17. Starting and Ending time of Observations (IST) : 20:45
+18. Comments (During Observations) :
+
+    20:45  Scan # 0 : Power equalised, IF+BB ALC's ON  : 3C286 for 20 min.
+         ### Ran corr_config 1, due to flat bandshape for S06. ###
+    21:16  Scan # 1 : Power equalised, IF+BB ALC's OFF : 3C286 (BAD, no fstop).
+    21:18  Scan # 2 : Power equalised, IF+BB ALC's OFF : 3C286 for 5 min.
+    21:40  Scan # 3 : Power equalised, IF+BB ALC's ON  : 3C296 for 15 min 
+                      (May be scintillating).
+    22:12  Scan # 4 : Power equalised, IF+BB ALC's OFF : GS000+04 for 5 min.
+                      (Delay out of range on Card 23).
+    22:20  Scan # 5 : Power equalised, IF+BB ALC's OFF : GS000+02 for 5 min.
+    22:35  Scan # 6 : Power equalised, IF+BB ALC's OFF : GS000+00 for 5 min.
+                      (S03 IF attn 30+30, Power level still high).
+    22:43  Scan # 7 : Power equalised, IF+BB ALC's OFF : GS000-02 for 5 min.
+    22:55  Scan # 8 : Power equalised, IF+BB ALC's OFF : GS000-04 for 5 min.
+
+    23:00  Switched on the ALC's. Power equalised.
+    23:05  Started the command file  /temp2/data/cmd/pramesh/galsurvey/g000pm4.cmd
+    05:30  Stopped the command file closed the lta file.
+
+    07:25  Started scan on 3c48 with same settings, ALC on power equilised
+           . Lta file is
+
+           /rawdata/27may/01APR01_3c48.lta
+
+    07:55  Stopped the scan. Closed the observation.
+
+19. Data Backup files & Tape No. :

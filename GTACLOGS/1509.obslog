@@ -1,0 +1,62 @@
+		 GTAC Observation Log 
+
+1. Date : 18/05/2004
+2. Observation Sr. No. : 1509
+3. Observer : Prof. Gopal Krishna,Dr. Ishwar Chandra
+4. Observer's Email : ishwar@ncra.tifr.res.in,krishna@ncra.tifr.res.in
+5. Project Name : GRS1915
+6. Project Code : 04DT046
+7. Operator(s) : Mangesh,
+	Jayprakash,
+	
+8. Command File : /btemp2/cmd/ishwar/too18may.cmd
+9. LTA File : /rawdata/18may/04dt046_18may1915.lta,
+	/rawdata1/18may/04dt046_18may1915.ltb
+10. LogFlag File : /btemp2/logflags/04DT046.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 250 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 320 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+10 dB, 32 MHz,ON, IF-CH2 : 10+10 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 250 680 320 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :22
+
+20. Name of Non-Working Antennas (with reason for each) :
+C05 : Feed Jam.
+C13 : Servo off mode
+W05 : Feed pos. unknown(MCM 14 T. O.)
+C06 : Servo T. O.
+S04 : Servo T. O.
+S06 : Servo T. O.
+W04 : No fringe.
+E02 : USB giving 0 corr.
+W02-130 : No fringe.
+
+21. Start and End Time of Obs.(IST): 22:14 - 06:57
+
+22. Comments (During Observations) :
+*** ONLINE  : bhaskar  ***
+*** IF ATTN : AUTHIF (ON) at 610-235 ***
+---------------------------------------
+
+22:14 : Started a scan on 3c286.
+22:46 : Started command file /btemp2/cmd/ishwar/too18may.cmd.
+03:50 : Changed the track & restarted the command file.
+05:15 : S03 azimuth "run" flag abscent.
+06:30 : Stopped the scan & command file.
+** BECAUSE THERE WILL NOT BE ANY SCIENTIFIC ASST. IN FIRST SHIFT **
+06:34 : Started scan on 1822-096 for 5min.
+06:39 : Stopped the scan.
+        W02 +afl flag in az. axis.
+06:47 : Started scan on 3c48 for 10min.
+06:57 : Stopped the scan & observation session.
+

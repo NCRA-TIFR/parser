@@ -1,0 +1,119 @@
+		 GTAC Observation Log 
+
+1. Date : 03/5/2014
+2. Observation Sr. No. : 7080
+3. Observer : Rajeshwari Dutta,Raghunathan Srianand,Neeraj Gupta,Patrick Petitjean,Pasquier Noterdaeme,hadi Rahmani
+4. Observer's Email : rdutta@iucaa.ernet.in,anand@iucaa.ernet.in,nrjgupta@gmail.com,ppetitje@iap.fr,noterdaeme@iap.fr,hadi@iucaa.ernet.in
+5. Project Name : CHITALS: Cold HI 21-cm Absorption Line Survey
+6. Project Code : 26_029
+7. Operator(s) : Manisha,Navanath,Nilesh,Pramod,Surender
+8. Command File : /odisk/gtac/cmd/rdutta/qgpj0802p16.cmd,/odisk/gtac/cmd/rdutta/qgpj1438p17.cmd
+9. LTA File : /gsbifrdata/03may/26_029_03may2014.lta,/gsbifrdata/03may/26_029_03may2014.lta.1,/gsbifrdata/03may/26_029_03may2014.lta.2,
+10. LogFlag File : /odisk/online1/logflags/26_029.FLAGS.13,/odisk/online1/logflags/26_029.FLAGS.11,/odisk/online1/logflags/26_029.FLAGS.10,/odisk/online1/logflags/26_029.FLAGS.12,
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1392.269 MHz ,RF2 : 1392.269 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1330 MHz, ILO2 : 1330 MHz , IVLO1 : 62.269 MHz, IVLO2 : 62.269 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+16 dB, 16 MHz,ON, IF-CH2 : 4+16 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : Realtime 
+15. GSB LTA : 8 
+16. GSB CTRL : ONLINE 
+17. GSB Fstop : ON 
+18. GAIN EQ : OFF, 
+19. Stokes : TotIntensity
+20. Beam - 1 : OFF
+21. Beam - 2 : OFF
+22. ACQ BW : 33.33 MHz
+23. Final BW : 33.333333 MHz; Step # 0
+24. Maximum Channels : 256 
+25. Channel Numbers : 0:255:1 
+26. LO5 -1  : 149.00 
+27. LO5 -2  : 156.00 
+
+28. Frequency Parameters (TPA) : 1392.269 1392.269 1330 1330 62.269 62.269.
+29. Integration Time : 16.106112 Sec.
+30. No of Antennas Working(Fringing) at the begining :27
+
+31. Name of Non-Working Antennas (with reason for each) :
+S04 : FPS Work.
+S06 : BLDC work.
+W02 : ILO UNLOCK.
+
+
+
+32. Note for Backup :
+
+33. Start and End Time of Obs.(IST): 13:00 - 05:00
+
+34. ONLINE Machine : Shivneri
+
+35. No of Antennas Working(Fringing) at the end :28
+
+36. Comments (During Observations) :
+13:00 : LO4 settings problem.
+13:15 : LO4 problem solved.
+13:17 : started scan on 3C147 ~15mins.
+13:40 : started command file.
+           /odisk/gtac/cmd/rdutta/qgpj0802p16.cmd
+16:24-16:58 Power failure.
+16:58 : Restarted scan on phase cal.
+17:11 : Started scan on 3C147 for 8min.
+        (C04,C06,C06,C08-175 low fringe problem observed)
+17:21 : GSB chain halted, Rebooted GSB cluster.
+17:28 : started scan on 3c147 for 10min.  
+        ( (C04,C06,C06,C08-175 low fringe problem Solved)
+17:40 : ReStarted cmd file.
+         /odisk/gtac/cmd/rdutta/qgpj0802p16.cmd
+20:48 : cmd file stop.
+20:56 : Started scan on 3C286 for 10 min.
+21:06 : observing session one over.
+---------------------------------------------------------------------
+21:10 : Started new set-up.
+        line freq- 1238.5819.
+GSB line observation setup
+RF band= 1280 (1220 - 1340)
+LO1= 1170 (lower)
+IFBW= 18
+GSB [ACQ] BW= 16.6666
+Total Channel= 512
+
+Line/Center Frequency= 1238.5819
+CH#[0]= 1236.5032
+CH#[512]= 1240.6698
+BW= +4.1666
+CW= 8.14 (KHz.)
+
+Digital SubBand/step#= 2 is USEABLE ###
+GSB_CONFIG LO5= 141.83  163.17
+LTA_FILE   L05= 133.4968  171.5032
+BASE_BAND  LO4= 58.17  58.17
+tpa 1228.17 1228.17 1170 1170 58.17 58.17
+
+21:16 : Started scan on 3C286 fro 15 min.
+      : W02 started working...(Non Working Antennas:- S04,S06)
+21:40 : Started cmd file.
+
+                 /odisk/gtac/cmd/rdutta/qgpj1438p17.cmd
+01:50 : Stopped command file.
+01:50 : Started scan on 3C286 for 10min.
+02:05 : Restarted command file.
+03:11 : Stopped command file.
+03:12 : Started scan on 3C286 for 10min.
+03:25 : Restarted command file.
+05:00 : Stopped command file and observing session is over.
+ 
+    
+
+
+ 
+
+ 
+    
+
+
+ 
+

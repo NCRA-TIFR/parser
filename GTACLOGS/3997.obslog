@@ -1,0 +1,87 @@
+		 GTAC Observation Log 
+
+1. Date : 16/09/2008
+2. Observation Sr. No. : 3997
+3. Observer : T. Martinsson
+4. Observer's Email : martinsson@astro.rug.nl,verheyen@astro.rug.nl
+5. Project Name : Disk Mass Survey
+6. Project Code : 14MVA01
+7. Operator(s) : Jayprakash,
+	Nilesh,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/14mva01/obs_16sep_mkup.cmd,
+	/odisk/gtac/cmd/14mva01/obs_16sep_a.cmd,
+	/odisk/gtac/cmd/14mva01/obs_16sep_b.cmd
+9. LTA File : /rawdata/16sep/14mva01_16sep08.lta,
+	/rawdata1/16sep/14mva01_16sep08.ltb,
+	/rawdata/16sep/14mva01_16sep08.lta.1,
+	/rawdata1/16sep/14mva01_16sep08.ltb.1,
+	/rawdata/16sep/14mva01_16sep08.lta.2,
+	/rawdata1/16sep/14mva01_16sep08.ltb.2
+10. LogFlag File : /btemp2/logflags/14MVA01.FLAGS.11
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1395.281 MHz ,RF2 : 1395.281 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1330 MHz, ILO2 : 1330 MHz, IVLO1 : 65.281 MHz, IVLO2 : 65.281 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 8000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:255:1
+17. Frequency Parameters (TPA) : 1395.281 1395.281 1330 1330 65.281 65.281 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+S06 : No fringe.
+C14 : Bad bandshape.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 15:48 - 00:00
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : UsbHighRes   *********
+--------------------------------------------------------------------------
+15:48 : Started setting.
+        tpa 1395.281000 1395.281000 1330 1330 65.281000 65.281000
+
+16:02 : '/odisk/gtac/cmd/14mva01/obs_16sep_mkup.cmd' command file started.
+16:23 : Stopped command file.
+16:25 : Started scan on phase cal 1609+266.
+16:36 : Stopped scan.
+16:40 : Started scan on flux cal 3C286 for 15min.
+16:55 : Stopped scan.
+17:00 : Restarted command file.
+21:02 : Stopped command file.
+21:03 : Started scan on phase cal 1609+266 for 10min.
+21:13 : Stopped scan.
+21:19 : Started scan on flux cal 3C48 for 15min.
+21:35 : Stopped scan.
+
+        Setting changed.
+        tpa 1401.673000 1401.673000 1335 1335 66.673000 66.673000
+
+21:40 : Started scan on 3C48 for 10min.
+21:51 : Stopped scan.
+21:57 : '/odisk/gtac/cmd/14mva01/obs_16sep_a.cmd' command file started.
+
+         W01 : Intermittent RFI lines.
+02:15 : stopped the command file and changed the setup.
+      tpa 1394.711000 1394.711000 1330 1330 64.711000 64.711000
+02:15 : started new record files
+      : scan started on 3c48.
+02:30 : started the command file.
+07:28 : Started scan on flux cal for 10min.
+07:40 : Scan stopped.
+07:41 : Started scan on phase cal.
+08:00 : Obseving session over.
+---------------------------------------------------------------------------------
+
+
+

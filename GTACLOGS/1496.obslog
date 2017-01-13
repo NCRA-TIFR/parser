@@ -1,0 +1,68 @@
+		 GTAC Observation Log 
+
+1. Date : 04/05/2004
+2. Observation Sr. No. : 1496
+3. Observer : Ishwar
+4. Observer's Email : ishwar@ncra.tifr.res.in
+5. Project Name : 3CR sources
+6. Project Code : 05CHI01
+7. Operator(s) : Deepak,
+	Jayprakash,
+	
+8. Command File : /btemp2/cmd/ishwar/3c314.cmd,
+	/btemp2/cmd/ishwar/3c386.cmd
+9. LTA File : /rawdata/4may/05chi01_3c314.lta,
+	/rawdata1/4may/05chi01_3c314.ltb,
+	/rawdata/5may/05chi01_3c386.lta,
+	/rawdata1/5may/05chi01_3c386.ltb
+10. LogFlag File : /btemp2/logflags/05CHI01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 235 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 305 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 14+14 dB, 32 MHz,ON, IF-CH2 : 14+14 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 235 680 305 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C06 : Not available.
+C03 : ABC Time Out.
+
+
+21. Start and End Time of Obs.(IST): 18:20 - 06:43
+
+22. Comments (During Observations) :
+ONLINE: bhaskar
+
+------------------------------------------
+*** S02/S03-LSB : Bad bandshape.
+*** Also LSB : E06, S01, S02, S03, S04, S06 shows high cross.
+***      USB : W01-W04 & C09-C12 shows high cross count.
+
+18:22 : Started  scan on 3C147 
+18:24 : All antennas parked, because wind was above 60 Kmph in some antennas.
+        Also scan is stopped.
+19:29 : Startd scan on 3C286 for 15mins
+20:00 : scan #1 is bad
+20:02 : Started command file 
+        /btemp2/cmd/ishwar/3c314.cmd
+23:50 : E04 got ABC reset.
+00:03 : E04 started working.
+00:25 : Stopped the scan & command file.
+00:29 : Started scan on 3c286 for 15min.
+        ** Started new record for next source.
+00:43 : Stopped the scan.
+00:53 : Started the command file /btemp2/cmd/ishwar/3c386.cmd.
+05:10 : S04 : "dnpl" flag in elevation axis.
+06:43 : Stopped the scan & observation session.       
+
+

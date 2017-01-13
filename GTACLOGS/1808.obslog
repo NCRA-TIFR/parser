@@ -1,0 +1,54 @@
+		 GTAC Observation Log 
+
+1. Date : 10/01/2005
+2. Observation Sr. No. : 1808
+3. Observer : T Venturi
+4. Observer's Email : tventuri@ira.cnr.it,visitor4@gmrt.ncra.tifr.res.in
+5. Project Name : Cluster Radio Halos
+6. Project Code : 07CRA01
+7. Operator(s) : Sanjay,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/venturi/rxcj2003.cmd,
+	/btemp2/cmd/venturi/a2631.cmd,
+	/btemp2/cmd/venturi/a0209.cmd
+9. LTA File : /rawdata/10jan/07cra01_halos_10jan.lta,
+	/rawdata1/10jan/07cra01_halos_10jan.ltb
+10. LogFlag File : /btemp2/logflags/07CRA01.FLAGS.6
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 32 MHz,ON, IF-CH2 : 12+12 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+--
+
+21. Start and End Time of Obs.(IST): 16:30 - 23:25
+
+22. Comments (During Observations) :
+** ONLINE : Bhaskar  ***
+** AUTHIF @ 610 MHz. ***
+------------------------
+16:30 setup started
+16:37 command file started.
+      /temp2/data/cmd/venturi/rxcj2003.cmd
+17:53 command file started.
+      /temp2/data/cmd/venturi/a2631.cmd
+21:02 command file started.
+      /temp2/data/cmd/venturi/a0209.cmd
+23:10 Started scan on 3C48 for 15mins.
+23:25 Observation stopped.
+
+

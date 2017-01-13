@@ -1,0 +1,73 @@
+		 GTAC Observation Log
+
+1. Date : 02/10/2015
+2. Observation Sr. No. : 8103
+3. Observer : George Heald, Peter Kamphuis, Gyula I.G. Józsa, Paolo Serra, p a Duc, Gianfranco Gentile, Tom Oosterloo, Eva Juette, Maria Patterson, David A Thilker, Erwin deBlok
+4. Observer's Email : heald@astron.nl, peter.kamphuis@csiro.au, jozsa@astron.nl, serra@astron.nl, paduc@cea.fr, gianfranco.gentile@ugent.be, oosterloo@astron.nl, eva.juette@astro.rub.de, mtpatter@nmsu.edu, dthilker@pha.jhu.edu, blok@astron.nl
+5. Project Name : %latex%What is the dark \\textsc{H\\,i} companion to NGC 4274?
+6. Project Code : 25_061
+7. Operator(s) : Navnath, Sachin, Shilpa
+8. Command File : /odisk/gtac/cmd/chengalu/hi1220.cmd
+9. LTA File : /gsbifrdata1/02oct/25_061_02oct2015.lta
+10. LogFlag File : /odisk/online1/logflags/25_061.FLAGS.5
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1405 MHz ,RF2 : 1405 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1345 MHz, ILO2 : 1345MHz , IVLO1 : 60 MHz, IVLO2 : 60 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 16 MHz,ON, IF-CH2 : 4+14 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 4 MHz; Step # 2
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 140
+28. LO5 -2  : 165
+
+29. Frequency Parameters (TPA) : 1405 1405 1345 1345 60 60
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :23
+
+32. Name of Non-Working Antennas (with reason for each) :
+W04 : MCM 5 time
+C09 : LO problem
+C01 : Taken for Maintenance
+C00 : Servo problem.
+C08 : ABC timed out.
+C12 : Servo problem.
+S01 : Servo problem.
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 02 Oct 2015 06:00:00 - 02 Oct 2015 18:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :27
+
+37. Comments (During Observations) :
+06:11 : Started scan on 3C147.
+06:45 : Stopped scan on 3C147.
+06:51 : Started command file.
+09:21 : E-arm power failure.
+10:14 : E02,E03,E04,E05 started working.
+        C00,C09,W04 started working.
+10:55 : C04 taken for painting.
+11:03 : C03 taken for painting.
+11:04 : C08,E06,S01 started working.
+11:53 : E06 got abc reset.
+12:45 : E06 started working.
+12:47 : C00 taken for painting.
+17:45 : Started scan on 3c286
+18:00 : Observation session over.
+

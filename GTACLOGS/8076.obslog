@@ -1,0 +1,91 @@
+		 GTAC Observation Log
+
+1. Date : 20/09/2015
+2. Observation Sr. No. : 8076
+3. Observer : Jayaram Narayanan Chengalur, Igor Karachentsev
+4. Observer's Email : chengalur@ncra.tifr.res.in, ikar@sao.ru
+5. Project Name : HI in the most gas rich galaxies in the local volume
+6. Project Code : 28_056
+7. Operator(s) : Deepak, Nilesh, Pramod, Rupsing, Surender
+8. Command File : /odisk/gtac/cmd/chengalu/agc205268.cmd,, /odisk/gtac/cmd/chengalu/ddo143.cmd
+9. LTA File : /gsbifrdata/20sep/28_056_20sep2015.lta.1, /gsbifrdata/20sep/28_056_20sep2015.lta
+10. LogFlag File : /odisk/online1/logflags/28_056.FLAGS.5, /odisk/online1/logflags/28_056.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1404.5835 MHz ,RF2 : 1404.5835 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1340 MHz, ILO2 : 1340MHz , IVLO1 : 64.5835 MHz, IVLO2 : 64.5835 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 16 MHz,ON, IF-CH2 : 4+14 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 4 MHz; Step # 2
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 135.4165
+28. LO5 -2  : 169.5835
+
+29. Frequency Parameters (TPA) : 1404.5835 1404.5835 1340 1340 64.5835 64.5835
+30. Integration Time : 8.053 Sec
+31. No of Antennas Working(Fringing) at the beginning :27
+
+32. Name of Non-Working Antennas (with reason for each) :
+S02 : BLDC
+C02 : Servo problem
+W04 : MCM 5 timeout
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 20 Sep 2015 06:00:00 - 20 Sep 2015 20:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :28
+
+37. Comments (During Observations) :
+06:01 : Started scan on 3c48 for 15mins.
+06:20 : Started command file
+         /odisk/gtac/cmd/chengalu/agc205268.cmd
+09:53 : C00 taken for Painting.
+12:41 : Stopped command file.
+12:48 : Stated scan on 3C286.
+12:48 : W04 started working.
+13:00 : Stopped scan and started setting for 1417.54 MHz.
+----------------------------------------------------------
+Setup Parameters
+
+ Line/Center Frequency : 1417.54				
+ Radio Frequency Band  : 1390 [1330-1450]
+ First LO    Frequency : 1345
+ Maximum IF band width : 18
+ [ACQ] Band Width      : 16.6666
+ CH#[Start]........... : [0] 1415.4567 
+ CH#[Middle].......... : [256] 1417.54 
+ CH#[End]............. : [512] 1419.6233  
+ CH Width.(KHz)....... : 8.1379  
+ Final Band Width..... : 4.1666
+ Digital Sub Band(Step): 2  USE
+ Band Net sign    .....: 1
+ GSB CONFIG LO5   .... : 137.8765 167.1235
+ LTA FILE   LO5/LO4 .. : 129.5433 175.4567
+ BASE BAND  LO4   .... : 62.1235 62.1235
+ TPA : 1407.1235 1407.1235 1345 1345 62.1235 62.1235
+----------------------------------------------------------
+13:10 : Started scan on 3C286.
+13:26 : Started command file.
+   /odisk/gtac/cmd/chengalu/ddo143.cmd
+16:26 : C00 released for observation.
+18:50 : Stopped command file.
+18:52 : Started scan on 3C286.
+19:08 : Stopped scan and observation session is over.
+

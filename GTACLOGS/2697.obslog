@@ -1,0 +1,71 @@
+		 GTAC Observation Log 
+
+1. Date : 04/07/2006
+2. Observation Sr. No. : 2697
+3. Observer : RRB/DAR
+4. Observer's Email : rajubr@rri.res.in
+5. Project Name : 1830-211
+6. Project Code : 10RRB01
+7. Operator(s) : Deepak,
+	Manish G.,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/kmb/04jul2006.cmd
+9. LTA File : /rawdata/4jul/10rrb01_04jul06.lta,
+	/rawdata1/4jul/10rrb01_04jul06.ltb
+10. LogFlag File : /btemp2/logflags/10RRB01.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 612.8156 MHz ,RF2 : 612.8156 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 545 MHz, ILO2 : 545 MHz, IVLO1 : 67.8156 MHz, IVLO2 : 67.8156 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 16 MHz,ON, IF-CH2 : 16+16 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 1000 KHz, 12 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 4
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 612.8156 612.8156 545 545 67.8156 67.8156 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+C09 - Servo problem
+C11 - Servo problem
+S01 - Phase not stable, high self/cross.
+W02 - No fringe.
+W03 - No power in 175 poln.
+* Note: LSB E-arm and S-arm not working.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 21:01 - 07:00
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode :IndianPolar     *********
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+---------------------------------------------
+
+21:02  Started scan on 3C295 for 3mins.
+21:09  Started scan on 3C295 for 30mins.
+21:40  Stopped the scan.
+21:49  Started scan on 1830-211.
+
+23:55  E-arm power falure.
+02:45  E-arm started working.
+03:19  S02 ABC Time out.
+
+04:31  Started scan on 3C48 for 10mins
+04:54  Started scan on 3C444.
+07:00  Observatoin stopped.
+

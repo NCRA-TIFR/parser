@@ -1,0 +1,62 @@
+		 GTAC Observation Log 
+
+1. Date : 16/09/2003
+2. Observation Sr. No. : 1141
+3. Observer : Dwarkanath
+4. Observer's Email : visitor5@gmrt.ncra.tifr.res.in,dwaraka@rri.res.in
+5. Project Name : HIGH Z HI
+6. Project Code : 04CCA01
+7. Operator(s) : Manisha J.,
+	Jayprakash,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/ksd/0924.cmd,
+	/btemp2/cmd/ksd/0913.cmd
+9. LTA File : /rawdata1/16sep/04cca01_0924.ltb,
+	/rawdata1/16sep/04cca01_0913.ltb
+10. LogFlag File : /btemp2/logflags/04CCA01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 227.3 MHz ,RF2 : 227.3 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 300 MHz, ILO2 : 300 MHz, IVLO1 : 72.7 MHz, IVLO2 : 72.7 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 18+18 dB, 6 MHz,ON, IF-CH2 : 18+18 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 4000 KHz, 6 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 2
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 227.3 227.3 300 300 72.7 72.7 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+S06 : No Fringe
+
+
+21. Start and End Time of Obs.(IST): 06:00 - 15:10
+
+22. Comments (During Observations) :
+	ONLINE RUNNING ON BHASKAR
+	-------------------------
+	Auth IF Attn 
+ 	-------------------------
+06:11	started scan on 3c48 for 10 min.
+06:30 	started the command file
+	/temp2/data/cmd/ksd/0924.cmd
+06:45   C02 got reset.
+07:24 : Closed observation.
+07:36 : Started new observation.
+        Antenna Settings :- RF = 230.5 MHz. , LO = 302 MHz.
+                            IFBW = 6 MHz ,BB = 4 MHz., IVLO = 71.5
+                            IF ATTN = AUTH IF.
+        ** W01 No fringe , Ist LO Unlocked **
+        Lta File :- /rawdata1/16sep/04cca01_0913.ltb
+07:50 : Started command file /temp2/data/cmd/ksd/0913.cmd.
+12:25 : W01 started working.
+13:50 : S01 flat band shape.
+14:07 : Ran corr_config.
+15:10 : Closed observation.
+

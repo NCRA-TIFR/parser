@@ -1,0 +1,92 @@
+		 GTAC Observation Log 
+
+1. Date : 16/05/2008
+2. Observation Sr. No. : 3734
+3. Observer : Sen Gupta
+4. Observer's Email : sengupta@rri.res.in
+5. Project Name : NGC4061
+6. Project Code : 14EFA01
+7. Operator(s) : Sachin,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/freeland/ngc4061.cmd
+9. LTA File : /rawdata/16may/14efa01_16may2008.lta,
+	/rawdata1/16may/14efa01_16may2008.ltb
+10. LogFlag File : /odisk/online1/logflags/14EFA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1396.55 MHz ,RF2 : 1396.55 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1465 MHz, ILO2 : 1465 MHz, IVLO1 : 68.45 MHz, IVLO2 : 68.45 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1396.55 1396.55 1465 1465 68.45 68.45 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+C04 - painting.
+W04 - Painting.
+S01 - unstable phase.
+W01 - unstable phase.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 16:00 - 00:00
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+16:02 : scan started on 3c147.
+16:18 : command file started.
+17:07 : corr problem - junk phases.
+17:37 : corr problem solved after corr_config.
+        restarted the command file.
+
+       some problems
+   
+        USB
+
+
+   C01 - 175 - LOW SELF
+   C12 - 130 - LOW SELF
+
+   E05 - 130 - OSCILLATION
+   S04 - 130 - LOW SELF
+
+
+
+   S01 - phase not stable.
+   W01 - phase not stable.
+
+                   LSB
+
+
+     C01 - 175  - LOW SELF
+     C12 - 130  - LOW SELF
+
+     E02 - 130  - BAD BAND SHAPE
+     E04 - BOTH - BAD BAND SHAPE
+     W02 - 130  - BAD BAND SHAPE
+     C08 - 175  - BAD BAND SHAPE
+
+     S01 - phase not stable.
+     W01 - phase not stable.
+
+ 19:15 : W04 and C04 released from painting.
+
+20:06 : W04 timed out.
+20:55 : Stopped command file because source was transiting.
+21:03 : Changed track and started scan on phase cal for 6 mins.
+21:17 : Started scan on 3C286 for 10 mins.
+21:35 : Restarted command file.
+02:35 : observing session over.
+

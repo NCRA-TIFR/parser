@@ -1,0 +1,88 @@
+		 GTAC Observation Log
+
+1. Date : 07/08/2015
+2. Observation Sr. No. : 7974
+3. Observer : Yashwant Gupta
+4. Observer's Email : ygupta@ncra.tifr.res.in
+5. Project Name : Test observation
+6. Project Code : TST1249
+7. Operator(s) : Navnath, Pramod, Rupsing
+8. Command File :  
+9. LTA File : /gsbifrdata1/06aug/tst1249_1280_06aug15.lta\r,/gsbifrdata1/06aug/tst1249_1170_06aug15.lta\r,/gsbifrdata1/06aug/tst1249_-6aug2015.lta
+10. LogFlag File : /odisk/online1/logflags/TST1249.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1041 MHz ,RF2 : 1041 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 990 MHz, ILO2 : 990MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+10 dB, 32 MHz,OFF, IF-CH2 : 20+9 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : IA
+22. Beam - 2 : PA
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 1041 1041 990 990 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :29
+
+32. Name of Non-Working Antennas (with reason for each) :
+E02 : BLDC
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 06 Aug 2015 22:00:00 - 07 Aug 2015 01:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :29
+
+37. Comments (During Observations) :
+22:30 : Phasing and power eq on 1830-360.
+--------------------------------------------------------------------------
+GAC   : C00, C04, C06, C08, C10, C11, C12, C13, E06, S02, S04, S06, W01, W06
+--------------------------------------------------------------------------
+22:45 : Started observation.
+22:42:04 : Started scan on 1830-360 for ~ 1.87905 min.
+22:47:53 : Started scan on B1642-03 for ~ 16.1061 min.
+23:06:41 : Started scan on 1830-360 for ~ 1.34218 min.
+23:08:15 : Started scan on 1830-360 for ~ 1.34218 min.
+23:12:41 : Started scan on J1713+0747 for ~ 16.1061 min.
+
+-----------------------------------------------------------------------
+23:30 : Started setup for RF band 1170mhz.
+
+       GSB : TPA 1151 1151 1100 1100 51 51
+       GWB : 1230 Mhz GAB LO
+
+23:50:00 : Phasing done on 1230-360
+23:56:34 : Started scan on B1642-03 for ~ 0.53687 min.
+23:58:42 : Started scan on B1642-03 for ~ 13.9586 min.
+00:14:59 : Started scan on 1830-360 for ~ 1.34218 min.
+00:16:50 : Started scan on 1830-360 for ~ 0 min.
+00:20:21 : Started scan on J1713+0747 for ~ 10.75809 min.
+-----------------------------------------------------------------------
+00:30 : Started setup for 1280mhz RF band.
+-----------------------------------------------------------------------
+00:40:01 : Started scan on 1830-360 for ~ 0.805306 min.
+00:45:20 : Started scan on 1830-360 for ~ 6.71088 min.
+00:52:22 : Started scan on 1830-360 for ~ 0.268435 min.
+00:54:55 : Started scan on B1642-03 for ~ 5.63714 min.
+01:00 : test session over.
+-----------------------------------------------------------------------
+
+
+
+

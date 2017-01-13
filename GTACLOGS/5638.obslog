@@ -1,0 +1,57 @@
+		 GTAC Observation Log 
+
+1. Date : 15/11/2011
+2. Observation Sr. No. : 5638
+3. Observer : Abhirup Datta,Nirupam Roy
+4. Observer's Email : Abhirup.Datta@colorado.edu,nroy@aoc.nrao.edu
+5. Project Name : Southern Sky Flux Calibrator Survey for Low Frequency Radio Astronomy Experiments
+6. Project Code : 21_062
+7. Operator(s) : Nilesh,
+	Rupsingh,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/rahul/abhirup.cmd
+9. LTA File : /gsbifrdata/15nov/21_062_15nov2011.lta
+10. LogFlag File : /odisk/online1/logflags/21_062.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 618 MHz ,RF2 : 242 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 680 MHz, ILO2 : 304 MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 6+12 dB, 16 MHz,ON, IF-CH2 : 6+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 16 MHz
+21. Maximum Channels : 512 
+22. IFBW (MHz) : LO5 (KHz) : 16:138000-167000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 618 242 680 304 62 62.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :29
+
+27. Name of Non-Working Antennas (with reason for each) :
+C08 : No fringe@130 pole.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 21:00 - 00:00
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+# 2S data file #
+/gsbifrdata1/15nov/21_062_15nov2011_2s.lta
+----------------------------------------------------
+21:13 : Started scan 3C147.
+21:28 : Stopped scan.
+21:33 : Started command file.
+
+00:10 : Closed observation session.
+

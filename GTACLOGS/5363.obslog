@@ -1,0 +1,65 @@
+		 GTAC Observation Log 
+
+1. Date : 02/06/2011
+2. Observation Sr. No. : 5363
+3. Observer : Surajit Paul
+4. Observer's Email : surajit@iucaa.ernet.in
+5. Project Name : Probing different phases of major galaxy-cluster mergers
+6. Project Code : 20_062
+7. Operator(s) : Navanath,
+	Sachin,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/surajit/20_062_02jun.cmd.1,
+	/odisk/gtac/cmd/surajit/20_062_03jun.cmd.2
+9. LTA File : /gsbifrdata/02jun/20_062_02jun2011.lta
+10. LogFlag File : /odisk/online1/logflags/20_062.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 629 MHz ,RF2 : 259 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 680 MHz, ILO2 : 310 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. Maximum Channels : 512 
+15. Final Bandwidth (MHz): OFF MHz; Step # 0
+16. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+
+20. Frequency Parameters (TPA) : 629 259 680 310 51 51.
+21. Integration Time : 16.106 Sec.
+22. No of Antennas Working(Fringing) :28
+
+23. Name of Non-Working Antennas (with reason for each) :
+S01 : Servo problem.
+C11 : Servo problem.
+
+24. Note for Backup :--
+
+25. Start and End Time of Obs.(IST): 23:00 - 09:00
+
+26. ONLINE Machine : Shivneri
+
+27. Comments (During Observations) :
+# 2sec file
+/gsbifrdata1/02jun/20_062_02jun2011_2s.lta
+----------------------------------------------------
+23:15 : Started scan on 3C286.
+23:32 : Stopped scan.
+
+23:38 : '/odisk/gtac/cmd/surajit/20_062_02jun.cmd.1' command file started.
+04:22 : Stopped command file.
+
+04:30 : Started scan on 3C48.
+04:45 : Stopped scan.
+
+04:50 : '/odisk/gtac/cmd/surajit/20_062_03jun.cmd.2' command file started.
+08:38 : E-arm power failure.
+09:01 : W-arm power failed.
+09:02 : C12 got ABC reset.
+09:10 : Observing session over
+
+

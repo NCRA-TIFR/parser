@@ -1,0 +1,90 @@
+		 GTAC Observation Log
+
+1. Date : 28/10/2015
+2. Observation Sr. No. : 8124
+3. Observer : Jayanta Roy
+4. Observer's Email : jroy@ncra.tifr.res.in,jayroys@gmail.com 
+5. Project Name : GMRT High Resolution Southern Sky (GHRSS) survey for millisecond pulsars and transients : \r\nA SKA precursor survey \r\n
+6. Project Code : 29_025
+7. Operator(s) : Deepak, Navnath, Pramod
+8. Command File : /odisk/gtac/cmd/jroy/29_025_27oct.cmd,, /odisk/gtac/cmd/jroy/29_025_27oct.1.cmd,, /odisk/gtac/cmd/jroy/29_025_27oct.2.cmd
+9. LTA File : /gsbifrdata/27oct/29_025_27oct2015_2s.lta.3, /gsbifrdata/27oct/29_025_27oct2015_2s.lta.2, /gsbifrdata/27oct/29_025_27oct2015_2s.lta.1, /gsbifrdata/27oct/29_025_27oct2015_2s.lta
+10. LogFlag File : /odisk/online1/logflags/29_025.FLAGS.4, /odisk/online1/logflags/29_025.FLAGS.3, /odisk/online1/logflags/29_025.FLAGS.2, /odisk/online1/logflags/29_025.FLAGS.1, /odisk/online1/logflags/29_025.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : IA
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 306 306 255 255 51 51
+30. Integration Time : 2.0132 Sec
+31. No of Antennas Working(Fringing) at the beginning :26
+
+32. Name of Non-Working Antennas (with reason for each) :
+C00 : No feed of 325MHz.
+W04 : Taken for BLDC
+E06 : Applied both brakes
+W06 MCM 5 time out.
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 27 Oct 2015 17:40:00 - 28 Oct 2015 03:00:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :26
+
+37. Comments (During Observations) :
+17:40 : Started set up at 325MHz.
+18:00 : Power equalized and phasing done on 1459+716.
+18:37 : Started command file.
+     '/odisk/gtac/cmd/jroy/29_025_27oct.cmd'
+19:23 : Stopped command file and halt the GSB.
+-----------------------------------------------------------
+ GSB started in following mode,
+
+ Beam 1 : PA , Beam 2 : PA.
+
+19:35 : Phasing done on 2225-049.
+19:41 : Started command file.
+  '/odisk/gtac/cmd/jroy/29_025_27oct.1.cmd'
+
+Note : RFI is observed from 20:10 to 20:41.
+  
+20:41 : Stopped command file and halt the GSB.
+--------------------------------------------------------------------
+GSB started in following mode,
+
+Beam 1 : IA and Beam 2 : OFF.
+
+21:13 : Started command file.
+ 
+    '/odisk/gtac/cmd/jroy/29_025_27oct.2.cmd'
+
+Note : From 21:13 to 22:10 Strong RFI observed.
+02:27 : Started phasing on 0240-231.
+02:30 : Started cmd file.
+    '/odisk/gtac/cmd/jroy/29_025_27oct.3.cmd'
+03:00 : Observations session over.
+--------------------------------------------------------
+
+
+

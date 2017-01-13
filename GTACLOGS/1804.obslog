@@ -1,0 +1,57 @@
+		 GTAC Observation Log 
+
+1. Date : 08/01/2005
+2. Observation Sr. No. : 1804
+3. Observer : Mamta Pandey
+4. Observer's Email : mamta@ncra.tifr.res.in,pramesh@ncra.tifr.res.in
+5. Project Name : Micro quasars
+6. Project Code : 07PDA01
+7. Operator(s) : Manisha J.,
+	Jayprakash,
+	Jitendra,
+	
+8. Command File : /btemp2/cmd/mamta/07pda019jan5.cmd
+9. LTA File : /rawdata/9jan/07pda01_9jan.lta,
+	/rawdata1/9jan/07pda01_9jan.ltb
+10. LogFlag File : /btemp2/logflags/07PDA01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 14+14 dB, 32 MHz,ON, IF-CH2 : 14+14 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+S06 : Ele. brake prob.
+
+21. Start and End Time of Obs.(IST): 07:26 - 14:20
+
+22. Comments (During Observations) :
+***** ONLINE: bhaskar   *****
+***** AUTHIF: @ 610-235 MHz *****
+-----------------------------
+
+07:26 : Started scan on 3c286 for 10min.
+07:36 : Stopped the scan.
+07:45 ; Started the command file 
+	/btemp2/cmd/mamta/07pda019jan5.cmd.
+
+09:53	W02 taken for LO Spurius Check.
+11:08	Antenna released for observation.
+        scan #14 1822-096
+12:07 : Scan#15 bad, antenna not positioned on the source 
+        sacfile restarted.
+14:20	stopped observation.
+
+
+

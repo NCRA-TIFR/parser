@@ -1,0 +1,59 @@
+		 GTAC Observation Log 
+
+1. Date : 30/01/2007
+2. Observation Sr. No. : 3019
+3. Observer : N.G. Kantharia
+4. Observer's Email : ngk@ncra.tifr.res.in
+5. Project Name : RSOPH
+6. Project Code : 07DT002
+7. Operator(s) : Jayprakash,
+	Jitendra,
+	
+8. Command File : /btemp2/cmd/ngk/rsoph.cmd
+9. LTA File : /rawdata/30jan/07dt002_30jan07.lta,
+	/rawdata1/30jan/07dt002_30jan07.ltb
+10. LogFlag File : /btemp2/logflags/07DT002.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,OFF, IF-CH2 : 4+12 dB, 32 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C11 - fringe problem.
+E03 - Painting
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 07:50 - 14:00
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : Indian polar   ************
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+---------------------------------------------
+*       Correlator Self Power equalized to 300.
+
+07:50 : Flux cal scan started on 3c286.
+08:05 : Scan stopped.
+08:12 : Started the comand file.
+10:30 : C08 released for painting.
+14:00 : Stopped the command file.
+

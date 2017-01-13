@@ -1,0 +1,96 @@
+		 GTAC Observation Log
+
+1. Date : 11/08/2015
+2. Observation Sr. No. : 7986
+3. Observer : Jayanta Roy, Paul Ray, Bhaswati Bhattacharyya, Ben Stappers, Jayaram Narayanan Chengalur
+4. Observer's Email : jayanta.roy@manchester.ac.uk, paul.ray@nrl.navy.mil, bhaswati.bhattacharyya@manchester.ac.uk, Ben.Stappers@manchester.ac.uk, chengalur@ncra.tifr.res.in
+5. Project Name : Long-term radio timing follow-up of PSR J1227-4853, a redback pulsar in a LMXB-MSP transitioning system
+6. Project Code : 28_045
+7. Operator(s) : Deepak, Navnath, Nilesh, Shilpa
+8. Command File : /odisk/gtac/cmd/jroy/28_045_11aug.cmd
+9. LTA File : /gsbifrdata/11aug/28_045_11aug2015.lta.1\r,/gsbifrdata/11aug/28_045_11aug2015.lta
+10. LogFlag File : /odisk/online1/logflags/28_045.FLAGS.17
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 317 MHz ,RF2 : 317 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 16 MHz,OFF, IF-CH2 : 24+4 dB, 16 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 16.666666 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 138
+28. LO5 -2  : 167
+
+29. Frequency Parameters (TPA) : 317 317 255 255 62 62
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :26
+
+32. Name of Non-Working Antennas (with reason for each) :
+E02 : BLDC work.
+W05 : Structural repairing.
+S01 : Not releasing brakes.
+S04 : High temp.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 11 Aug 2015 14:00:00 - 11 Aug 2015 19:45:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :26
+
+37. Comments (During Observations) :
+13:35 : Started settings.
+13:55 : Power equalized on 1154-350 @ 300 counts.
+        Halted GSB.
+14:00 : Started raw voltage recording on 1154-350.
+14:07 : Started raw voltage recording on J1255-46.
+14:55 : Stopped recording for raw voltage mode.
+--------------------------------------------------
+TPA 306 306 255 255 51 51
+
+15:00 : Started setup for  32 MHz from trail PA+PA mode
+15:10 : Started power eq on 1154-350
+15:17 : phasing done on 1154-350.
+15:21 : Started cmd file.
+
+ 
+16:10 : MSEB power failure for all ants. 
+      : cmd file stopped and recording killed.
+
+16:30 : Started setup.
+16:40 : Started power eq.
+16:50 : Started phasing.
+17:00 : Started cmd file.
+
+      /odisk/gtac/cmd/jroy/28_045_11aug.cmd
+
+18:10 : MSEB power resumed.
+18:27 : Restarted with phasing on 1526-138.
+19:50 : observation session over.
+---------------------------------------------------------------
+
+
+
+
+
+         
+            
+
+
+
+        

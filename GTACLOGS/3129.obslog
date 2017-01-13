@@ -1,0 +1,57 @@
+		 GTAC Observation Log 
+
+1. Date : 04/04/2006
+2. Observation Sr. No. : 3129
+3. Observer : Neeraj
+4. Observer's Email : neeraj@ncra.tifr.res.in
+5. Project Name : MG2
+6. Project Code : 11RSA01
+7. Operator(s) : Sanjay,
+	
+8. Command File : /btemp2/cmd/neeraj/mg1430.cmd
+9. LTA File : /rawdata/4apr/11rsa01_04apr2007.lta
+10. LogFlag File : /btemp2/logflags/11RSA01.FLAGS.10
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 632.684 MHz ,RF2 : 632.684 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 565 MHz, ILO2 : 565 MHz, IVLO1 : 67.684 MHz, IVLO2 : 67.684 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 6 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 1000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 632.684 632.684 565 565 67.684 67.684 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+--
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 00:05 - 00:00
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+---------------------------------------------
+00:05 - Flux cal started,
+00:40 - cmd file started.
+03:06 - cmd file stopeed, flux cal taken,
+03:19 - restarted cmd file.
+05:30 - flux cal taken,
+07:15 - Observation stopped.
+
+
+

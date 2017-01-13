@@ -1,0 +1,60 @@
+		 GTAC Observation Log 
+
+1. Date : 10/02/2006
+2. Observation Sr. No. : 2474
+3. Observer : B C Joshi
+4. Observer's Email : bcj@ncra.tifr.res.in
+5. Project Name : Pulsar Dual-band
+6. Project Code : 09BJA01
+7. Operator(s) : Jitendra,
+	
+8. Command File : /atemp2/cmd/hold.cmd
+9. LTA File : /rawdata/10feb/09bja01_10feb_psr.lta,
+	/rawdata1/10feb/09bja01_10feb_psr.ltb,
+	/rawdata1/10feb/09bjb01_10feb_psr.ltb
+10. LogFlag File : /atemp2/logflags/
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 613 MHz ,RF2 : 613 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 73 MHz, IVLO2 : 73 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,OFF, IF-CH2 : 16+16 dB, 32 MHz,OFF
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, OFF
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 613 613 540 540 73 73 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+W02 to W06 USB - Flat band-shape.
+    C04-USB-175   : Low fringe at 235 MHz
+    C09           : Painting
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 07:15 - 11:40
+
+23. Comments (During Observations) :
+* ONLINE: aditya
+* AUTHIF: 235 MHz
+--------------------------
+subar 3 : C02,C03,C04,C06,C08,C11
+          TPA  233 233 306 306 73 73
+subar 4 : CSQ + first two antennas from each arm.
+          TPA  613 613 540 540 73 73
+08:54:42 0,1 3C286 # Phasing.
+09:28:30 2 B1642-03
+09:38:18 3 B1737-30
+09:55:10 4 B1937+21
+11:18:48 5,6 3C468.1 # Phasing.
+11:41:41 7 B1937+21
+11:54:48 8 B1957+20
+11:55      Observation stopped.
+
+

@@ -1,0 +1,66 @@
+		 GTAC Observation Log 
+
+1. Date : 07/08/2009
+2. Observation Sr. No. : 4454
+3. Observer : somak 
+4. Observer's Email : somak@star.sr.bham.ac.uk
+5. Project Name : Galaxy groups
+6. Project Code : 16_265
+7. Operator(s) : Jayprakash,
+	Navanath,
+	Rupsingh,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/somak/aug/07aug09_obs.cmd
+9. LTA File : /rawdata/7aug/16_265_7aug09_16s.lta,
+	/rawdata1/7aug/16_265_7aug09_16s.ltb
+10. LogFlag File : /odisk/online1/logflags/16_265.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 157 MHz ,RF2 : 157 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 223 MHz, ILO2 : 223 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 6 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 8000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:255:1
+17. Frequency Parameters (TPA) : 157 157 223 223 66 66 
+
+18. Integration Time : 16 LTA ~ 2.114 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+E02 : Applied az brakes.
+E05 : Strong RFI lines.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 04:05 - 09:17
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : UsbPolar
+
+25. Comments (During Observations) :
+2s recording files :
+/rawdata/7aug/16_265_7aug09_2s.lta,
+/rawdata1/7aug/16_265_7aug09_2s.ltb.
+
+GSB recording file : 
+/data/pulsar/gsbdata/7aug/16_265_07aug2009_16s.lta,
+/data/pulsar/gsbdata/7aug/16_265_07aug2009_2s.lta.
+
+04:05 : Started setup for 16_265 project.
+04:26 : Started scan on 3C48 for 10min.
+
+04:44 : Started command file.
+08:11 : S04 abc reset.
+08:33 : Stopped command file and extended scan on source.
+08:46 : Stopped scan on source.
+08:48 : Started scan on phase cal.
+        S04 started working. 
+08:58 : Stopped scan.
+09:00 : Started scan on 3C48. 
+09:17 : Stopped scan and observing session over.
+

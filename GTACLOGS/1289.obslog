@@ -1,0 +1,69 @@
+		 GTAC Observation Log 
+
+1. Date : 14/01/2004
+2. Observation Sr. No. : 1289
+3. Observer : Ananda Hota
+4. Observer's Email : hota@ncra.tifr.res.in
+5. Project Name : ULIRG
+6. Project Code : 05AHA01
+7. Operator(s) : Jitendra,
+	
+8. Command File : /btemp2/cmd/hota/325uof1.cmd,
+	/btemp2/cmd/hota/325uof1.4.cmd
+9. LTA File : /rawdata/14jan/05aha01_325uof1.lta,
+	/rawdata1/14jan/05aha01_325uof1.ltb
+10. LogFlag File : /btemp2/logflags/05AHA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 325 MHz ,RF2 : 325 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 255 MHz, ILO2 : 255 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+10 dB, 32 MHz,ON, IF-CH2 : 10+10 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, OFF
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 325 325 255 255 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+E04,E06 - Feed Jammed.
+C02,C08,C14 - LO Unlock problem.
+S04 - No fringe.
+
+
+
+21. Start and End Time of Obs.(IST): 00:24 - 00:00
+
+22. Comments (During Observations) :
+***************************
+-- ONLINE : Bhaskar  ---
+***************************
+corr_config & newdelay config ran for IFR mode.
+AUTHIF @ 325 MHz.
+
+00:24 : Flux cal scan started on 3c147 src.
+00:29 : scan stopped.
+00:40 : Command file started.
+00:51 : E04 , E06 tried to recalibrated & focus.
+        E06- Feed jammed.
+        E04- Feed focussed to 325 MHz after calibration.
+
+01:11 : Command file modified.
+01:17 : S04 swapping done , fringe appeared.
+02:20 : command file stopped.
+02:27 : Flux cal scan started
+02:43 : scan stopped.
+02:46 : command file restarted.
+02:52 : scan # 10 stopped,bad.
+03:10 : W03 not tracking properly.
+03:20 : W03 started responding for tracking command,
+        after hardware reboot to ABC.
+08:30 : W05 released for painting.
+09:07 : Stopped cmd file,
+09:08 : Started cmd file 325uof1.4.cmd
+

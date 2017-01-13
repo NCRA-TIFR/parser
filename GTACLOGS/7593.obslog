@@ -1,0 +1,63 @@
+		 GTAC Observation Log
+
+1. Date : 07/02/2015
+2. Observation Sr. No. : 7593
+3. Observer : Francesco deGasperin, Annalisa Bonafede, Marcus Bruggen, Huib Intema, Reinout Johannes vanWeeren
+4. Observer's Email : fdg@hs.uni-hamburg.de, annalisa.bonafede@hs.uni-hamburg.de, mbrueggen@hs.uni-hamburg.de, hintema@nrao.edu, rvanweeren@cfa.harvard.edu
+5. Project Name : Particle (re)acceleration in galaxy clusters
+6. Project Code : 27_018
+7. Operator(s) : Nilesh, Surender
+8. Command File : /odisk/gtac/cmd/27_018/07feb2015.cmd
+9. LTA File : /gsbifrdata/07feb/27_018_07feb2015.lta
+10. LogFlag File : /odisk/online1/logflags/27_018.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Full_Stokes
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 591 591 540 540 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :27
+
+32. Name of Non-Working Antennas (with reason for each) :
+C03 : : maintenance.
+W02 : : feed cage painting.
+W06 : : No fringe@130 pol.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 07 Feb 2015 05:00:00 - 07 Feb 2015 10:00:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :27
+
+37. Comments (During Observations) :
+05:00 : Started set-up.
+05:11 : Started scan on 3c286 for 15min.
+05:28 : Started command file.
+
+09:41 : Stopped command file.
+09:42 : Started scan on phase cal for ~ 5min.
+09:49 : Started scan on flux cal (3c295) for ~ 15min.
+10:05 : Stopped scan and closed observation.

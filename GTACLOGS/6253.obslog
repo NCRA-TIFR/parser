@@ -1,0 +1,71 @@
+		 GTAC Observation Log 
+
+1. Date : 02/12/2012
+2. Observation Sr. No. : 6253
+3. Observer : Susanta Kumar Bisoi
+4. Observer's Email : susanta@prl.res.in,jerry@prl.res.in
+5. Project Name : Synthesis Imaging Using Simultaneous GMRT and NRH Observations at 150 MHz
+6. Project Code : 23_006
+7. Operator(s) : Deepak,
+	Pramod,
+	Sachin,
+	Shilpa,
+	
+8. Command File : /odisk/gtac/cmd/jerry/02dec12.cmd
+9. LTA File : /gsbifrdata/02dec/23_006_02dec2012_16s.lta
+10. LogFlag File : /odisk/online1/logflags/23_006.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 218 MHz, ILO2 : 218 MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 16 MHz,OFF, IF-CH2 : 24+4 dB, 16 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 2 
+16. GAIN EQ : OFF 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 16 MHz
+21. Maximum Channels : 128 
+22. IFBW (MHz) : LO5 (KHz) : 16:138000-167000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 156 156 218 218 62 62.
+25. Integration Time : 64.424 Sec.
+26. No of Antennas Working(Fringing) :26
+
+27. Name of Non-Working Antennas (with reason for each) :
+W05 : MCH maintenance.
+W04 : ABC problem (Frequently getting RESET).
+E02 : Taken for painting.
+S03 : Freq. applying el brakes.
+28. Note for Backup :Please take backup of your 2 second and 0.5 second data because it will not be archived.
+
+29. Start and End Time of Obs.(IST): 08:37 - 17:06
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+2s and 0.5s Data Files : 
+/gsbifrdata1/02dec/23_006_02dec2012_0.5s.lta
+/gsbifrdata1/02dec/23_006_02dec2012_2s.lta
+-----------------------------------------------------------------------
+08:37 : Started settings.
+08:58 : Power equilised on 3C286 @ 400counts.
+
+08:59 : Started scan on 3C286.
+09:14 : Stopped scan.
+
+
+09:19 : Started scan on 1743-038.
+09:26 : Stopped scan.
+
+09:26 : '/odisk/gtac/cmd/jerry/02dec12.cmd' command file started.
+16:39 : Stopped command file.
+16:48 : Started scan on 3C48.
+17:06 : Stopped scan on 3C48 & observation session is over.
+

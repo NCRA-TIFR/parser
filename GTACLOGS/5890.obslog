@@ -1,0 +1,65 @@
+		 GTAC Observation Log 
+
+1. Date : 18/3/2012
+2. Observation Sr. No. : 5890
+3. Observer : Anant Tanna
+4. Observer's Email : a.tanna@unsw.edu.au
+5. Project Name : Atomic and Molecular Absorption in Dim Radio Galaxies and Quasars
+6. Project Code : 21_002
+7. Operator(s) : Santaji,
+	
+8. Command File : /odisk/gtac/cmd/tanna_2/21_002/obs1.cmd,
+	/odisk/gtac/cmd/tanna_2/21_002/obs2.cmd,
+	
+9. LTA File : /gsbifrdata/18mar/21_002_18mar2012.lta,
+	/gsbifrdata/18mar/21_002_18mar2012.lta.1
+10. LogFlag File : /odisk/online1/logflags/21_002.FLAGS.10
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1192 MHz ,RF2 : 1192 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1130 MHz, ILO2 : 1130 MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Full_Polar
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 16 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 16:138000-167000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 1192 1192 1130 1130 62 62.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :28
+
+27. Name of Non-Working Antennas (with reason for each) :
+C05 - servo problem
+W02 - 130 pol - no fringe.
+
+
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 03:30 - 06:00
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+03:30 : scan started on 3c286.
+03:45 : command file started.
+04:45 : command file finished.
+      : chnage in setup
+      : lo1=950, 
+        tpa 1012 950 62
+05:00 : scan started on 3c286.
+05:10 : new command file started.
+06:10 : observation session over.
+
+
+
+

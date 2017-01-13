@@ -1,0 +1,68 @@
+		 GTAC Observation Log 
+
+1. Date : 27/11/2006
+2. Observation Sr. No. : 2904
+3. Observer : Nirupam
+4. Observer's Email : nirupam@ncra.tifr.res.in
+5. Project Name : wnm
+6. Project Code : 11NRB01
+7. Operator(s) : Deepak,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/nirupam/0318.cmd,
+	/btemp2/cmd/nirupam/0534.cmd
+9. LTA File : /rawdata/27nov/11nrb01_27nov06.lta,
+	/rawdata1/27nov/11nrb01_27nov06.ltb,
+	/rawdata/27nov/11nrb01_27nov06.lta.1,
+	/rawdata1/27nov/11nrb01_27nov06.ltb.1
+10. LogFlag File : /btemp2/logflags/11NRB01.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1420.0746 MHz ,RF2 : 1420.0746 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1355 MHz, ILO2 : 1355 MHz, IVLO1 : 65.0746 MHz, IVLO2 : 65.0746 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 16 MHz,ON, IF-CH2 : 12+12 dB, 16 MHz,ON
+14. BB BW(KHz) & BB ALC : 500 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1420.0746 1420.0746 1355 1355 65.0746 65.0746 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+W05 : LSB bad band shape.
+C05 : Encoder problem.
+
+
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 20:00 - 06:05
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : USBHighRes    *********
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+------------------------------------------
+
+20:32 : Started scan on 3C48 for 10mins.
+20:48 : Started command file
+        /btemp2/cmd/nirupam/0318.cmd
+21:30 : E04 Started working.
+
+04:45 : changed the record files 
+05:00 : command file started.
+
+
+

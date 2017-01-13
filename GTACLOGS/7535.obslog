@@ -1,0 +1,79 @@
+		 GTAC Observation Log
+
+1. Date : 03/01/2015
+2. Observation Sr. No. : 7535
+3. Observer : Neeraj Gupta, Pasquier Noterdaeme, Rajeshwari Dutta, Raghunathan Srianand, Patrick Petitjean, hadi Rahmani
+4. Observer's Email : ngupta@iucaa.ernet.in, noterdae@iap.fr, rdutta@iucaa.ernet.in, anand@iucaa.ernet.in, ppetitje@iap.fr, hadi@iucaa.ernet.in
+5. Project Name : HI 21-cm absorption follow-up of DLAs from SDSS BOSS
+6. Project Code : 27_054
+7. Operator(s) : Manisha, Surender
+8. Command File : /odisk/gtac/cmd/27_054_s2/obs.cmd
+9. LTA File : /gsbifrdata/03jan/27_054_03jan2014.lta
+10. LogFlag File : /odisk/online1/logflags/27_054.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 299.9252 MHz ,RF2 : 299.9252 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 239 MHz, ILO2 : 239MHz , IVLO1 : 60.9252 MHz, IVLO2 : 60.9252 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 6 MHz,ON, IF-CH2 : 4+14 dB, 6 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 2 MHz; Step # 4
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 139.0748
+28. LO5 -2  : 165.9252
+
+29. Frequency Parameters (TPA) : 299.9252 299.9252 239 239 60.9252 60.9252
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :28
+
+32. Name of Non-Working Antennas (with reason for each) :
+E04 : Taken for BLDC
+W04 : Taken for Maintenance.
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 03 Jan 2015 03:00:00 - 03 Jan 2015 07:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :28
+
+37. Comments (During Observations) :
+03:00 : Started set-up.
+GSB line observation setup
+RF band= 325 (295 - 365)
+LO1= 239 (lower)
+IFBW= 6
+GSB [ACQ] BW= 16.6666
+Total Channel= 512
+
+Line/Center Frequency= 309.3
+CH#[0]= 308.2584
+CH#[512]= 310.3417
+BW= +2.0833
+CW= 4.07 (KHz.)
+
+Digital SubBand/step#= 4 is USEABLE ###
+GSB_CONFIG LO5= 139.0748  165.9252
+LTA_FILE   L05= 130.7416  174.2584
+BASE_BAND  LO4= 60.9252  60.9252
+tpa 299.9252 299.9252 239 239 60.9252 60.9252
+--------------------------------------------------
+03:09 : Started scan on 3c286 for 15min.
+03:26 : Started command file.
+
+07:00 : stopped command file and started scan on 3C286.
+07:22 : stopped das & observation session.
+

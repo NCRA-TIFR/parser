@@ -1,0 +1,49 @@
+		 GTAC Observation Log 
+
+1. Date : 07/03/2004
+2. Observation Sr. No. : 1384
+3. Observer : Neeraj Gupta, T Venturi, D Dallacasa
+4. Observer's Email : neeraj@ncra.tifr.res.in,tventuri@ira.cnr.it,ddallaca@ira.cnr.it
+5. Project Name : compact group
+6. Project Code : 05PFA01
+7. Operator(s) : Manisha J.,
+	
+8. Command File : /btemp2/cmd/neeraj/ngc5985.cmd
+9. LTA File : /rawdata/7mar/05pfa01_ngc5985.lta,
+	/rawdata1/7mar/05pfa01_ngc5985.ltb
+10. LogFlag File : /btemp2/logflags/05PFA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1404.588 MHz ,RF2 : 1404.588 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1335 MHz, ILO2 : 1335 MHz, IVLO1 : 69.588 MHz, IVLO2 : 69.588 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+10 dB, 16 MHz,ON, IF-CH2 : 10+10 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1404.588 1404.588 1335 1335 69.588 69.588 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+W05 & W06 : ABC Time Out (Fiber Optic Cut.)
+C02 : Frequent brakes in Az.
+
+21. Start and End Time of Obs.(IST): 05:29 - 08:44
+
+22. Comments (During Observations) :
+*** ONLINE: bhaskar    ***
+*** AUTHIF: @ 1390 MHz ***
+--------------------------
+Note : E04-USB ripples in the bandpass.
+	C14-LSB RFI around chan 60.
+05:29	Started scan on 3C286 ~15mins.
+05:55	cmdfile started.
+08:36 : Stopped the command file.
+08:38 : Started scan on phase cal "1634+627" for 7min.
+08:44 : Stoppped the scan and observation session.
+

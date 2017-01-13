@@ -1,0 +1,69 @@
+		 GTAC Observation Log 
+
+1. Date : 13/1/2012
+2. Observation Sr. No. : 5754
+3. Observer : Mayuresh Surnis
+4. Observer's Email : mpsurnis@ncra.tifr.res.in
+5. Project Name : Pulsar Observation
+6. Project Code : 21_054
+7. Operator(s) : Deepak,
+	Rupsingh,
+	Sachin,
+	Shilpa
+8. Command File : 
+9. LTA File : /gsbifrdata/13jan/21_054_13jan2012.lta
+10. LogFlag File : /odisk/online1/logflags/21_054.FLAGS.15
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : OFF 
+17. Stokes : Total_Intensity
+18. Beam - 1 : IA
+19. Beam - 2 : OFF
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 512 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 306 306 255 255 51 51.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :26
+
+27. Name of Non-Working Antennas (with reason for each) :
+C11 : Maintenance.
+S03,S04,W06 : For painting.
+E06 : 175pol strong RFI.
+
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 14:00 - 15:52
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+14:00 : Started settings.
+14:11 : Power equilised on 3C48 @ 200counts.
+        Halted GSB and restarted with gaineq on.
+14:21 : Started scan on 3C48 for 5min.
+14:26 : Started scan on 3C48(for 2min on, 2min off).
+14:41 : Started scan on 1822-096 for 5min.
+14:49 : Started scan on G170108 for 30min.
+15:20 : Stopped scan.
+15:21 : Started scan on B1929+10.
+15:27 : Stopped scan.
+15:29 : Started scan on B1037+212.
+15:35 : Stopped scan.
+15:37 : Started scan G170212.
+15:52 : Stopped scan & observation session over.
+
+
+
+

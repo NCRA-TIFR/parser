@@ -1,0 +1,91 @@
+		 GTAC Observation Log 
+
+1. Date : 22/02/2009
+2. Observation Sr. No. : 4211
+3. Observer : J. Roy
+4. Observer's Email : jroy@ncra.tifr.res.in
+5. Project Name : Pulsar Observation
+6. Project Code : 15MBA01
+7. Operator(s) : Deepak,
+	Manisha,
+	Navanath,
+	Sachin,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /rawdata/22feb/15mba01_22feb2009.lta,
+	
+10. LogFlag File : /btemp2/logflags/15MBA01.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 157 MHz ,RF2 : 157 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 223 MHz, ILO2 : 223 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+4 dB, 6 MHz,OFF, IF-CH2 : 16+4 dB, 6 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 157 157 223 223 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+S01 : No fringe.
+E04 : No fringe.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 05:00 - 17:52
+
+23. ONLINE Machine : Bhaskar
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+--------------------------------------------
+NOTE FOR THE USER :
+"The online fringe stopping algorithm was found to be in error by about 2s
+after 1Jan2009. This differential fringe rate was applied using the program
+diffstop. The fringe rate was corrected for an error of +2.0s, and the
+timestamps were also updated by the same amount."
+---------------------------------------------
+05:00 : Started setup for 15MBA01.
+        Power equilised @ 600 counts.
+05:49 : Started phasing on 3C286.
+
+06:54:12 : Started scan on J1300+1240.
+07:14:30 : Started scan on J1537+1155.
+07:33:45 : Started scan on J1455-3330.
+07:57:33 : Started scan on J1623-2631.
+08:30:02 : Started scan on J1721-2457.
+08:32:12 : Started scan on J1730-2304.
+08:50:33 : Started scan on J1744-1134.
+09:07:35 : Started scan on J1745-0952.
+09:40:55 : Started scan on J1713+0747.
+11:08:58 : Started scan on J1709+2313.
+11:38:27 : Started scan on J1804-2717.
+12:00:34 : Started scan on J1909-3744.
+12:28:43 : Started scan on J1911-1114.
+12:50:28 : Started scan on J1918-0642.
+13:12:30 : Started scan on J1905+0400.
+13:44:56 : Started scan on J1857+0943.
+14:07:04 : Started scan on J1853+1303.
+15:17:34 : Started scan on J1959+2048.
+15:24:46 : Started scan on J2051-0827.
+15:46:51 : Started scan on J2019+2425.
+15:59:45 : Started scan on J2145-0750.
+16:05:15 : Started scan on J2317+1439.
+16:13:32 : Started scan on J2322+2057.
+16:38:41 : Stopped scan.
+
+16:41:15 : Started phasing on 3C48.
+
+16:53:19 : Started scan on J0034-0534. 
+17:05:14 : Started scan on J0407+1607.
+17:23:18 : Started scan on J0621+1002.
+17:35:28 : Started scan on J0613-0200.
+17:52:07 : Stopped scan and observing session over.
+
+

@@ -1,0 +1,62 @@
+		 GTAC Observation Log 
+
+1. Date : 04/01/2008
+2. Observation Sr. No. : 3535
+3. Observer : Yogesh
+4. Observer's Email : yogesh@rri.res.in
+5. Project Name : PSR OBS
+6. Project Code : 12YMA01
+7. Operator(s) : Jayprakash,
+	Sachin,
+	
+8. Command File : /atemp2/cmd/hold.cmd
+9. LTA File : /rawdata/4jan/12yma01_244MHz.lta.1,
+	/rawdata1/4jan/12yma01_614MHz.ltb.1
+10. LogFlag File : /atemp2/logflags/12YMA0A.FLAGS.1,
+	/atemp2/logflags/12YMA01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 614 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 680 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+4 dB, 32 MHz,OFF, IF-CH2 : 20+4 dB, 32 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 614 680 680 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+--
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 22:00 - 06:45
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Aditya   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+Started phasing and started scans on the pulsars.
+Project Code : 12YMA01
+        Antenna Settings :
+        Subar 3 :  C00,C02,C04,C05,C06,C08,C09,C10,C11 & C12
+                   ante 10 7 5 3 19 20 24 4 12 9 2
+                   cp 0;defs 3;suba 3
+                   tpa 244 244 310 310 66 66
+        Subar 4 :  C01,C03,C13,C14,E02,E03,E04,E05,E06,W01,W02,W03,W04,W05,W06,
+                   S01,S02,S03,S04,S06.
+                   ante 20 6 1 11 10 17 18 21 22 23 8 13 14 15 16 25 26 27 28 29 30
+                   cp 0;defs 4;suba 4
+                   tpa 614 614 680 680 66 66
+
+NOTE : Data from 02:20 to 02:21 Hrs is not on the source. 
+Because sndsacsrc command was given for one hour.
+06:34 : Started on and off scans on 3C286.
+06:45 : Stopped observation session.
+

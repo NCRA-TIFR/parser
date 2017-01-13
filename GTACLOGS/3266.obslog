@@ -1,0 +1,53 @@
+		 GTAC Observation Log 
+
+1. Date : 21/07/2007
+2. Observation Sr. No. : 3266
+3. Observer : Amitesh
+4. Observer's Email : aomar@strw.leidenuniv.nl
+5. Project Name : NGC5171
+6. Project Code : 12AOA01
+7. Operator(s) : Sanjay,
+	
+8. Command File : /btemp2/cmd/aomar/ngc5171.cmd
+9. LTA File : /rawdata/21jul/12aoa01_21jul2007.lta,
+	/rawdata1/21jul/12aoa01_21jul2007.ltb
+10. LogFlag File : /btemp2/logflags/12AOA01.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+8 dB, 32 MHz,ON, IF-CH2 : 10+8 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+C01 : LSB low fringe amp.
+C09 : LSB-175 Low amp.
+E03 : LSB Low fringe amp.
+S03 : LSB Low fringe amp.
+W02 : LSB Low fringe amp.
+W06 : No fringe.
+21. Note for Backup :
+  
+
+22. Start and End Time of Obs.(IST): 15:06 - 22:36
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+
+15:06 - Flux cal started, 3c286
+15:19 - cmd file started.
+22:36 - cmd file stopped, closed observation.
+
+

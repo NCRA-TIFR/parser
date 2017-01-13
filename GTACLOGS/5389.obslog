@@ -1,0 +1,75 @@
+		 GTAC Observation Log 
+
+1. Date : 15/6/2011
+2. Observation Sr. No. : 5389
+3. Observer : Ujjwal Kumar
+4. Observer's Email : ujjwal@ncra.tifr.res.in
+5. Project Name : Pular Observation
+6. Project Code : 20_068
+7. Operator(s) : Navanath,
+	Nilesh,
+	
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /gsbifrdata/15jun/20_068_15jun2011_610.lta,
+	/gsbifrdata/15jun/20_068_15jun2011_325.lta,
+	
+10. LogFlag File : /odisk/online1/logflags/SUBA4.FLAGS.173,
+	/odisk/online1/logflags/SUBA2.FLAGS.170
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+10 dB, 32 MHz,OFF, IF-CH2 : 24+10 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : OFF 
+17. Stokes : Total_Intensity
+18. Beam - 1 : PA
+19. Beam - 2 : PA
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 512 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 591 591 540 540 51 51.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :27
+
+27. Name of Non-Working Antennas (with reason for each) :
+C03 : Maintenance.
+W06 : Low fringe.
+W03 : Ele. problem
+
+
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 20:00 - 11:30
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+20:00 : Started setup.
+# sub 2 # C01 C02 C03 C05 C10 C12 C13 W01 E02 S01
+ante 10 6 5 1 19 12 2 11 8 17 26
+cp 0;defs 2;subar 2
+
+# 610 Mhz
+# sub 4 # C00 C04 C06 C08 C09 C11 C14 W02 W03 W04 W05 W06 E03 E04 E05 E06 S02 S03 S04 S06
+ante 20 7 3 20 24 4 9 10 13 14 15 16 25 18 21 22 23 27 28 29 30
+cp 0;defs 4;subar 4
+---------------------------------------------------------------------------------------------------
+19:15 : Started setup for pulsar observation.
+19:40 : Parked all ants due to high wind.
+21:07 : Wind speed normal Started using ants for observation.
+21:10 : Started power eq.
+21:35 : Started phasing 
+        Pulsar Data Acq chain problem.
+        PA data Acq chain could not start.
+11:30 : stopped the observation.
+
+
+

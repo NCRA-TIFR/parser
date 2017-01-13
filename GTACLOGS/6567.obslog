@@ -1,0 +1,68 @@
+		 GTAC Observation Log 
+
+1. Date : 22/6/2013
+2. Observation Sr. No. : 6567
+3. Observer : Jayanta Roy
+4. Observer's Email : jroy@ncra.tifr.res.in
+5. Project Name : DDT observation
+6. Project Code : DDTB069
+7. Operator(s) : Navanath,
+	Pramod,
+	Surender
+8. Command File : /odisk/gtac/cmd/jroy/ddt.22jun.cmd,
+	/odisk/gtac/cmd/jroy/ddt.22jun.1.cmd
+9. LTA File : /gsbifrdata/22jun/ddtb069_22jun2013.lta,
+	/gsbifrdata/22jun/ddtb069_22jun2013.lta.1,
+	/gsbifrdata/22jun/ddtb069_22jun2013.lta.2
+10. LogFlag File : /odisk/online1/logflags/DDTB069.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1371 MHz ,RF2 : 1371 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1320 MHz, ILO2 : 1320 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : OFF 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 512 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 1371 1371 1320 1320 51 51.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :24
+
+27. Name of Non-Working Antennas (with reason for each) :
+C02 : Servo problem.
+C09 : Servo problem.
+E02 : MCM time out.
+E05 : No feed@ L-band.
+W05 : No fringe.
+S04 : Electrical problem.
+S01 : 130 pol no fringe.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 18:50 - 06:00
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+18:45 : Started  set up.
+19:05 : Power eq. and phasing done on 3C286.
+19:09 : Started command file.
+20:15 : C09 Started working.
+00:57 : C09 servo problem.
+
+03:30 : Command file stopped.
+03:45 : Restarted GSB in BM1=OFF, BM2=Voltage.
+05:00 : Restarted GSB in BM1=IA, BM2=PA
+06:00 : Observation stopped.
+
+

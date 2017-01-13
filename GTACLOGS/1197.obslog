@@ -1,0 +1,90 @@
+		 GTAC Observation Log 
+
+1. Date : 25/10/2003
+2. Observation Sr. No. : 1197
+3. Observer : Prof. SAK/Dr. NGK
+4. Observer's Email : ananth@ncra.tifr.res.in,ngk@ncra.tifr.res.in
+5. Project Name : UGC
+6. Project Code : 04SAK01
+7. Operator(s) : Sanjay,
+	
+8. Command File : /btemp2/cmd/ngk/ugc11093.cmd,
+	/btemp2/cmd/ngk/ugc11909.cmd,
+	/btemp2/cmd/ngk/ugc4961.cmd
+9. LTA File : /rawdata/25oct/04sak01_ugc11093.lta,
+	/rawdata1/25oct/04sak01_ugc11093.ltb,
+	/rawdata/26oct/04sak01_ugc4961.lta,
+	/rawdata1/26oct/04sak01_ugc4961.ltb
+10. LogFlag File : /btemp2/logflags/04SAK01.FLAGS.8
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C12:Rf problem.
+C14:130 - no fringe.
+
+
+21. Start and End Time of Obs.(IST): 16:50 - 06:45
+
+22. Comments (During Observations) :
+*** ONLINE:BHASKAR ***
+*** IF-ANT:AUTHIF  ***
+----------------------
+16:49  Started record on 3c286.
+16:57  S01-LSB flat bshape.
+17:00  C11-175 Stopped fringing.
+17:10  W02-USB flat bshape.
+17:10  Stopped record on 3c286.
+17:15  Started cmd file ugc11093.cmd
+17:33  C05-USB flat bshape.
+17:55  C14-130 pol started working.
+18:50  C05-LSB flat bshape.
+19:30  C09, brake problem, stopped working.
+21:14  Stoppped cmd file.
+21:22  Started record on 3c48.
+21:23  S- & E-arm no fringe, delay problem.
+       stopped record, scan# 14&15 bad.
+21:56  Restarted record on 3c48.
+       E05-175 stopped giving fringe.
+22:00  RF,LO & IF reset for C11 & E05, both started giving fringe.
+22:10  Stopped 3c48.
+22:13  Started cmd file ugc11909.cmd
+01:05  Stopped cmd file.
+01:08  Started record on 3c48.
+01:25  Stopped record on 3c48.
+       Closed lta/ltb files.
+======================================
+
+Antenna setting changed as following.
+RF=Dual(610/235MHz)
+LO=680/308 MHz.
+IF=32/6MHz
+BB=16MHz,73MHz.
+TPA 607 235 680 308 73 73
+--------------------------
+
+01:35  Started record on 3c48.
+data files 04sak01_ugc4961.lta& 04sak01_ugc4961.ltb 
+01:50  Stopped record on 3c48.
+01:54  Started cmd file.
+04:05  C05-USB, flat bshape.
+05:50  C04-LSB-flat bshape.
+06:27  Stopped cmd file.
+06:30  Started das on 3c147.
+06:45  Stopped das on 3c147, closed observation.
+
+

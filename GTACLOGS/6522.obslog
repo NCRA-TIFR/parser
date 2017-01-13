@@ -1,0 +1,79 @@
+		 GTAC Observation Log 
+
+1. Date : 01/06/2013
+2. Observation Sr. No. : 6522
+3. Observer : Mayuresh Surnis, B. C. Joshi.
+4. Observer's Email : mpsurnis@gmrt.ncra.tifr.res.in,bcj@gmrt.ncra.tifr.res.in
+5. Project Name : Deep radio study towards the supernova remnants/TeV sources G22.7-00.2/HESS J1832-093 and G25.5+0.0/HESS J1837-069
+6. Project Code : 24_038
+7. Operator(s) : Navanath,
+	Pramod,
+	
+8. Command File : /odisk/gtac/cmd/bcj/24_038.010613.1.cmd,
+	/odisk/gtac/cmd/bcj/24_038.010613.2.cmd,
+	/odisk/gtac/cmd/bcj/24_038.010613.3.cmd
+9. LTA File : /gsbifrdata/31may/24_038_01jun2013_s2.lta
+10. LogFlag File : /odisk/online1/logflags/24_038.FLAGS.14
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1261 MHz ,RF2 : 1261 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1210 MHz, ILO2 : 1210 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : IA
+19. Beam - 2 : PA
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 512 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 1261 1261 1210 1210 51 51.
+25. Integration Time : 8.053 Sec.
+26. No of Antennas Working(Fringing) :29
+
+27. Name of Non-Working Antennas (with reason for each) :
+E03 : BLDC work.
+.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 22:00 - 06:06
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+node33:/mnt/pulsar/gsbuser/24_038_01jun2013/G25.5+0.0.010613.1294.61us.session2.ia.dat,
+node34:/mnt/pulsar/gsbuser/24_038_01jun2013/G25.5+0.0.010613.1294.61us.session2.pa.dat
+--------------------------------------------------------------------------------------
+Selection of antennas in GAC
+
+BEAM1(IA) : Total 25 : All Central square(14)+W01,W03,W04,W05+E02,E04+S01,S02,S03,S04.S06
+BEAM2(PA) : Total 17 : All Central square(14)+W01+E02+S01
+---------------------------------------------------------------------------------------------------
+22:00 : Started set-up.
+22:10 : Started power eq on 1822-096.
+22:14 : Restarted gsb with gain-eq on.
+22:17 : Phasing done on 1822-096.
+22:26 :  Started command file.
+
+  /odisk/gtac/cmd/bcj/24_038.010613.1.cmd
+
+23:05 : Stopped command file and started new command file.
+   
+  /odisk/gtac/cmd/bcj/24_038.010613.2.cmd
+04:30 : Phasing is good because of low RFI.
+05:42 : Stopped command file and started following command file,contain phase and flux cal.
+
+ '/odisk/gtac/cmd/bcj/24_038.010613.3.cmd'
+
+06:06 : Stopped scan and observation session is over.
+
+
+   
+

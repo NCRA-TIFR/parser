@@ -1,0 +1,68 @@
+		 GTAC Observation Log 
+
+1. Date : 13/1/2012
+2. Observation Sr. No. : 5753
+3. Observer : Jayanta Roy
+4. Observer's Email : jroy@ncra.tifr.res.in
+5. Project Name : Pulsar Observation
+6. Project Code : 21_045
+7. Operator(s) : Sachin,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/jroy/21_045.13jan.325.1.cmd,
+	/odisk/gtac/cmd/jroy/21_045.13jan.325.2.cmd
+9. LTA File : /gsbifrdata/13jan/21_045_13jan2012.lta
+10. LogFlag File : /odisk/online1/logflags/21_045.FLAGS.28
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : OFF 
+17. Stokes : Total_Intensity
+18. Beam - 1 : IA
+19. Beam - 2 : PA
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 512 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 306 306 255 255 51 51.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :26
+
+27. Name of Non-Working Antennas (with reason for each) :
+C11 : Maintenance.
+C08 : Fringe fluctuations.
+E04 : Low fringe @ 130pol.
+W01 : Not tracking properly.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 07:00 - 12:02
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+07:00 : Started setting.
+07:20 : Power equilised @ 300counts on 1459+716.
+07:27 : Phasing done on 1459+716.
+
+07:34 : '/odisk/gtac/cmd/jroy/21_045.13jan.325.1.cmd' command file started.
+08:13 : '/odisk/gtac/cmd/jroy/21_045.13jan.325.2.cmd' command file started.
+
+08:53 : S04 taken for painting.
+09:01 : S03 taken for painting.
+10:17 : Stopped command due to the strong RFI lines.
+
+10:29 : Restarted command file.
+        E06 : 175pol removed from GAC due to the strong RFI.
+11:45 : W03 taken for maintenance so removed from GAC.
+12:02 : Stopped command file and observing session over.
+
+
+

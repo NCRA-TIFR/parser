@@ -1,0 +1,90 @@
+		 GTAC Observation Log
+
+1. Date : 12/09/2016
+2. Observation Sr. No. : 8888
+3. Observer : Anshu Kumari, Hariharan Krishnan, Kathiravan C
+4. Observer's Email : anshu@iiap.res.in, khariharan@iiap.res.in, kathir@iiap.res.in
+5. Project Name : Imaging Observations of Circularly Polarized Emission from Solar Transients at Decimeter Wavelengths using uGMRT
+6. Project Code : 30_077
+7. Operator(s) : Rupsing, Sachin, Surender
+8. Command File :  
+9. LTA File : /gsbifrdata/12sep/30_077_12sep2016_16s.lta, /gsbifrdata1/12sep/30_077_12sep2016_2s.lta, /gwbifrdata/12sep/30_077_12sep2016_16s.lta, /gwbifrdata1/12sep/30_077_12sep2016_0.5s.lta
+10. LogFlag File : /odisk/online1/logflags/30_077.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,OFF, IF-CH2 : 4+14 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Full_Stokes
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 0 MHz; Step # 0
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 306 306 255 255 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :29
+
+32. Name of Non-Working Antennas (with reason for each) :
+C05 : Applied servo brakes.
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 12 Sep 2016 08:00:00 - 12 Sep 2016 16:06:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :30
+
+37. Comments (During Observations) :
+GWB - S01 175 pol self down.
+
+08:35:38 : Started scan on 3C147 for ~ 8.32149 min.
+08:50:45 : Started scan on 1021+219 for ~ 5.90557 min.
+09:03:53 : Started scan on SUN_021 for ~ 19.8642 min.
+09:25:05 : Started scan on SUN_023 for ~ 19.8642 min.
+
+09:48 : C05 started tracking.
+09:53 : C06 got antenna base computer reset.
+
+10:10 : C06 started working.10:10:07 : Started scan on 1021+219 for ~ 5.63714 min.
+10:21:27 : Started scan on SUN_028 for ~ 0.268435 min.
+10:30:28 : Started scan on SUN_030 for ~ 19.8642 min.
+10:51:37 : Started scan on SUN_032 for ~ 19.5958 min.
+11:18:11 : Started scan on 1347+122 for ~ 5.90557 min.
+11:25:24 : Started scan on 3C286 for ~ 9.9321 min.
+11:43:28 : Started scan on SUN_038 for ~ 19.8642 min.
+
+11:47 : S-arm power failed. S01,S02,S03 have power backup at antenna base.
+only S04 and S06 were down.
+11:53 : S-arm power restored.
+12:03 : S04,S06 started working.
+
+12:04:35 : Started scan on SUN_040 for ~ 19.8642 min.
+12:30:50 : Started scan on 1347+122 for ~ 5.90557 min.
+12:40:28 : Started scan on 3C286 for ~ 7.78462 min.
+12:58:09 : Started scan on SUN_044 for ~ 19.8642 min.
+13:19:18 : Started scan on SUN_046 for ~ 19.5958 min.
+13:46:12 : Started scan on 1347+122 for ~ 5.63714 min.
+14:02:11 : Started scan on SUN_051 for ~ 19.8642 min.
+14:23:23 : Started scan on SUN_053 for ~ 19.8642 min.
+14:48:52 : Started scan on 1347+122 for ~ 5.90557 min.
+15:01:28 : Started scan on 3C286 for ~ 4.83183 min.
+15:14:02 : Started scan on SUN_058 for ~ 29.7963 min.
+15:51:06 : Started scan on 1347+122 for ~ 4.83183 min.
+15:59:09 : Started scan on 3C286 for ~ 4.83183 min.
+05:00:00 : Stopped scan and observation closed.
+

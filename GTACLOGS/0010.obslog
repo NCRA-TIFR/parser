@@ -1,0 +1,38 @@
+1. Date :  05/01/2002
+2. Observation Sr. No. : 10
+3. Observer & email : Prof. SAK/ananth@ncra.tifr.res.in
+4. Project Name & Code : 02SAK00
+5. Operator(s) : Jayprakash
+6. Command File/Source  & Lta File : /d3/5jan/3c147ng_02sak00.lta
+                                   : /temp2/data/cmd/ng/610ng.cmd
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 : 610 MHz.,0 dB.,ON.
+8. Ist LO (MHz) & IVth LO (MHz) :540  MHz.,70 MHz.
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status :10+10 dB., 32 MHz.,ON.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status :16 MHz., 0 dB., ON.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 0 / 0
+12. Channels : 0,127,1
+13. Frequency Parameters (TPA) : 610 610 540 540 70 70
+
+14. Integration Time (Sec.) : 16 sec (16*8m) & 2sec.
+15. No of Antennas Working(Fringing) : 27
+16. Name of Non-Working Antennas (with reason for each) :
+
+    C06     No Fringe
+	W01     Servo T.O.
+	W04     MCM 5 Time Out.
+
+17. Starting and Ending time of Observations (IST) : 19:00 - 
+18. Comments (During Observations) :
+
+    19:00  Started cmd file /temp2/data/cmd/ng/610ng.cmd.
+    21:06  W-arm power failed.
+    21:25  Started scintillation.
+    22:20  Stopped the observation.
+
+19. Data Backup files & Tape No. :

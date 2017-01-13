@@ -1,0 +1,41 @@
+1. Date : 25/02/2002
+2. Observation Sr. No. : 0479
+3. Observer & email : Jayram , chengalu@ncra.tifr.res.in
+4. Project Name & Code : 0537-286 / 01JNC01
+5. Operator(s) : Santaji(2),Manisha(2).
+6. Command File/Source  & Lta File : /temp2/data/cmd/chengalu/0537.cmd 
+                                   : /rawdata/25feb/01jnc01_0537.lta
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 : 325 MHz., 0 dB., OFF.
+8. Ist LO (MHz) & IVth LO (MHz) : 286 MHz., 70.90 MHz. 
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : 16+16 dB., 6 MHz., ON.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status : 1 MHz., 12 dB., ON.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 4 / 4
+12. Channels : 0,127,1
+13. Frequency Parameters (TPA) : 356.9 356.9 286 286 70.9 70.9
+
+14. Integration Time (Sec.) : 32 sec (16*16m)
+15. No of Antennas Working(Fringing) : 28 & 1/2
+16. Name of Non-Working Antennas (with reason for each) :
+	E06 : Mech Work.
+	S03 : 175 poln dead.
+
+
+17. Starting and Ending time of Observations (IST) : 15:32
+18. Comments (During Observations) :
+	15:32	Started scan on 3C48.
+	16:10	Started command file.
+	17:00	E06 started working.
+	19:15	W01 released for Honey Bee removal.
+	19:35	W01 back for observation.
+	19:36	S06 - flat bandshape, stopped das, reran corr_config, restarted das.
+			Scan # 10 - BAD.
+    23:23   Command file stopped.
+    23:34   Started scan on 3c286 for 20min.
+
+19. Data Backup files & Tape No. :
+

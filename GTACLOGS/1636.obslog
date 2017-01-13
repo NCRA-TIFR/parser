@@ -1,0 +1,45 @@
+		 GTAC Observation Log 
+
+1. Date : 28/08/2004
+2. Observation Sr. No. : 1636
+3. Observer : Dr. D. Mitra
+4. Observer's Email : dmitra@ncra.tifr.res.in
+5. Project Name : PSROBS1
+6. Project Code : 06JMR01
+7. Operator(s) : Mangesh,
+	
+8. Command File : /btemp2/cmd/hold.cmd
+9. LTA File : /rawdata/28aug/06jmr01_phsarr.lta,
+	/rawdata1/28aug/06jmr01_phsarr.ltb
+10. LogFlag File : /btemp2/logflags/06JMR01.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1170 MHz ,RF2 : 1170 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1100 MHz, ILO2 : 1100 MHz, IVLO1 : 70.00 MHz, IVLO2 : 70.00 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1170 1170 1100 1100 70.00 70.00 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+S04 : Unstable fringe.
+
+
+21. Start and End Time of Obs.(IST): 19:00 - 04:05
+
+22. Comments (During Observations) :
+** ONLINE : BHASKAR ***
+*** IF ATTN : 1170 MHz. AUTH IF : ****
+--------------------------------------------------
+
+19:00 : Started phasing on.
+04:05 : Stopped observation.
+

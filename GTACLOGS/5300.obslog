@@ -1,0 +1,68 @@
+		 GTAC Observation Log 
+
+1. Date : 28/4/2011
+2. Observation Sr. No. : 5300
+3. Observer : Sandeep Sirothia
+4. Observer's Email : sirothia@ncra.tifr.res.in
+5. Project Name : GMRT Search for radio-emission from exotic extra-solar planets 
+6. Project Code : 20_089
+7. Operator(s) : Deepak,
+	Navanath,
+	Nilesh,
+	Sachin,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/sirothia/20_089_28apr.cmd
+9. LTA File : /gsbifrdata/28apr/20_089_28apr2011.lta,
+	
+10. LogFlag File : /odisk/online1/logflags/20_089.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 218 MHz, ILO2 : 218 MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. Maximum Channels : 256 
+15. Final Bandwidth (MHz): OFF MHz; Step # 0
+16. IFBW (MHz) : LO5 (KHz) : 16:138000-167000
+17. Stokes : Full_Polar
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+
+20. Frequency Parameters (TPA) : 156 156 218 218 62 62.
+21. Integration Time : 16.106 Sec.
+22. No of Antennas Working(Fringing) :28
+
+23. Name of Non-Working Antennas (with reason for each) :
+C05 : Maintainance.
+W02 : Intermittent Fringe fluctuations.
+24. Note for Backup :--
+
+25. Start and End Time of Obs.(IST): 18:00 - 07:15
+
+26. ONLINE Machine : Shivneri
+
+27. Comments (During Observations) :
+--------------------------------------------------
+2s File : /gsbifrdata1/28apr/20_089_28apr2011_2s.lta
+--------------------------------------------------
+
+
+17:50 : Started setup for observation.
+18:06 : Started scan on J0329+5426 for ~20min.
+18:31 : Started scan on 3C286(1331+305) for ~15min.
+18:47 : Started command file.
+
+   '/odisk/gtac/cmd/sirothia/20_089_28apr.cmd'.
+
+19:40 : E05 High wind, antenna parked.
+05:37 : Stopped command file.
+05:52 : Started scan on 3C468.1.
+06:20 : Stopped scan.
+06:25 : Started scan on 3C48.
+06:54 : Stopped scan.
+06:56 : Started scan on J0218+4232.
+07:14 : Stopped scan on J calibrator and stopped observation session.
+

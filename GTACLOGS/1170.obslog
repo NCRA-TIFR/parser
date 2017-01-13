@@ -1,0 +1,102 @@
+		 GTAC Observation Log 
+
+1. Date : 05/10/2003
+2. Observation Sr. No. : 1170
+3. Observer : Dr. Pushpa Khare.
+4. Observer's Email : khare@iopb.res.in
+5. Project Name : PKOCTM1
+6. Project Code : 04PKA01
+7. Operator(s) : Mangesh,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/pk/pkm1.cmd,
+	/btemp2/cmd/pk/pkl1.cmd,
+	/btemp2/cmd/pk/pkl2.cmd,
+	/btemp2/cmd/pk/pkm2.cmd
+9. LTA File : /rawdata/5oct/04pka01_5oct.lta,
+	/rawdata1/5oct/04pka01_5oct.ltb,
+	/rawdata/5oct/04pka01_5oct.lta.1,
+	/rawdata1/5oct/04pka01_5oct.ltb.1,
+	/rawdata/5oct/04pka01_5oct.lta.2,
+	/rawdata1/5oct/04pka01_5oct.ltb.2,
+	/rawdata/5oct/04pka01_5oct.lta.3,
+	/rawdata1/5oct/04pka01_5oct.ltb.3
+10. LogFlag File : /btemp2/logflags/04PKA01.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 325 MHz ,RF2 : 325 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 255 MHz, ILO2 : 255 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 325 325 255 255 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+--
+
+21. Start and End Time of Obs.(IST): 08:06 - 08:50
+
+22. Comments (During Observations) :
+--------------------------------------------------
+*** ONLINE running on bhaskar
+*** Attn: AUTHIF at 325 with ALCs on
+--------------------------------------------------
+
+08:06 : Started a scan on 3c147 for 10 minutes.
+08:30 : Scan 1 on 1021+219  bad.
+08:32 : Started the command file
+           /btemp2/cmd/pk/pkm1.cmd
+10:49 : 17 antennas got reset due to power glitch.
+        Stopped the scan and command file.
+11:39 : After setting the antennas, restarted the
+        command file.
+           /btemp2/cmd/pk/pkm1.cmd
+13:01 : Stopped the command file and record file.
+13:10 : Started the command file
+          /btemp2/cmd/pk/pkn1.cmd
+        New ltafiles are
+           /rawdata/5oct/04pka01_5oct.lta.1
+           /rawdata1/5oct/04pka01_5oct.ltb.1
+16:20 : C06-USB flat band shape.
+16:25 : Stopped the command file. Ran corr_config.
+        C06 recovered.
+16:29 : Re-started the command file.
+17:33 : Power glitch (failure for ~ 1 min), all antennas got reset.
+        Started setting up antennas.
+17:58 : Started observation, without S-arm.
+        Started scan on 3C286.
+18:03 : Power for S-arm is back. Stopped the scan.
+        Set S-arm antennas.
+18:15 : Started scan on 3C286, for 5 mins.
+	
+18:20 : restarted the command file
+20:12 : started the new commad file
+	/temp2/data/cmd/pk/pkl1.cmd
+23:28 : C06 flat band shape.
+23:49 : C05 flat band shape.
+23:52 : Ran corr_config.
+24:28 : Closed the lta & command file.
+00:37 : Started new command & Lta file.
+        Command file : /temp2/data/cmd/pk/pkl2.cmd.
+        Lta File     : /rawdata/5oct/04pka01_5oct.lta.2
+                       /rawdata/5oct/04pka01_5oct.ltb.2
+00:48 : C05 flat band shape.
+01:35 : Ran corr_config.
+03:48 : Ran corr_config.
+04:36 : Stopped the command file.
+04:41 : Started scan on 3c48 for 10min.
+        & started new lta file for next observation.
+        Lta File : /rawdata/5oct/04pka01_5oct.lta.3
+                   /rawdata1/5oct/04pka01_5oct.ltb.3
+05:05 : Started command file /temp2/data/cmd/pk/pkm2.cmd.
+07:12 : Started command file /btemp2/cmd/pk/pkm2_1.cmd
+08:50 : Observation stopped.
+

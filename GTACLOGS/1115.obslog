@@ -1,0 +1,72 @@
+		 GTAC Observation Log 
+
+1. Date : 01/09/2003
+2. Observation Sr. No. : 1115
+3. Observer : Prof. A. P. Rao
+4. Observer's Email : pramesh@ncra.tifr.res.in
+5. Project Name : Observation at 610 MHz.   
+6. Project Code : 04TVA01
+7. Operator(s) : Deepak,
+	Mangesh,
+	Jitendra,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/pramesh/tventuri.cmd
+9. LTA File : /rawdata/1sep/04tva01_a2061_610.lta,
+	/rawdata1/1sep/04tva01_a2061_610.ltb
+10. LogFlag File : /btemp2/logflags/04TVA01.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70  MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70  70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C14 - No fringe.
+C12:USB no fringe
+
+
+21. Start and End Time of Obs.(IST): 13:20 - 22:15
+
+22. Comments (During Observations) :
+** ONLINE:bhaskar
+===============
+** Dual freq mode.
+** IF ATTN:authif @610 MHz with ALC ON
+====================
+
+13:20  : Started scan on 3c286 for 15mins.
+13:40  : Started command file
+         /btemp2/cmd/pramesh/tventuri.cmd
+15:27  : C14 released the brakes.
+16:20  : S01 got reset.
+16:27  : C14 - local mode.
+16:37  : S01 - started working
+16:45  : C14 - auto mode started working.
+16:48  : W02:USB flat band shape.
+16:55  : ran corr_config W02 recovered
+18:08  : W02:USB flat band shape.
+18:13  : ran corr_config  W02 recovered.
+19:36  : C05:USB flat band shape.
+19:40  : ran corr_config. C05 recovered.
+21:39  : C05:USB flat band shape 
+       : stopped the command file
+       : moved antennas to 2202+422
+21:45  : ran corr_config C05 recovered.
+21:55  : started the scan on 3c468.1
+22:08  : started the scan on 3c48 
+22:15  : stopped the observation session.
+
+
+

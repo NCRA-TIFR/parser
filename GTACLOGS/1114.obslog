@@ -1,0 +1,79 @@
+		 GTAC Observation Log 
+
+1. Date : 31/08/2003
+2. Observation Sr. No. : 1114
+3. Observer : Prof. D. J. Saikia
+4. Observer's Email : djs@ncra.tifr.res.in
+5. Project Name : CD GALAXIES
+6. Project Code : 04TVA02
+7. Operator(s) : Deepak,
+	Mangesh,
+	Sanjay,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/djs/mkw02.cmd,
+	/btemp2/cmd/djs/mkw03s.cmd,
+	/btemp2/cmd/djs/mkw07.cmd,
+	/btemp2/cmd/djs/a2162.cmd
+9. LTA File : /rawdata/31aug/04tva02_mkw02.lta
+10. LogFlag File : /btemp2/logflags/04TVA02.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 611 MHz ,RF2 : 233 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 685 MHz, ILO2 : 307 MHz, IVLO1 : 74 MHz, IVLO2 : 74 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 611 233 685 307 74 74 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C01:Unstable fringe.
+C12-LSB-175:No fringe(RF=233MHz)
+
+
+21. Start and End Time of Obs.(IST): 09:25 - 23:00
+
+22. Comments (During Observations) :
+** ONLINE:bhaskar
+===============
+** Dual freq mode.
+** IF ATTN:power eq
+====================
+
+09:25 : Started record on flux cal, 3c147.
+09:45 : Stopped record.
+09:58 : Started cmd file mkw02.cmd
+12:45 : C06 flat band shape(USB).
+13:02 : Command file stopped.
+13:03 : After running corr_config C06 recovered.
+13:20 : Command file started 
+        /btemp2/cmd/djs/a1775.cmd.
+14:40 : Command file stopped.
+14:58 : Command file started
+        /btemp2/cmd/djs/mkw07.cmd 
+15:08 : C06 flat band shape.
+15:10 : C05 flat band shape.
+15:20 : After running corr_config C05 and C06 recovered.
+
+17:35 : matmon shows high cross counts for the base lines 
+	USB:W03-C09,C10,C11,C12.
+18:15 : USB:C06 flat band shape.
+18:24 : ran corr_config C06 recovered.
+18:30 : started the new command file
+	/temp2/data/cmd/djs/mkw03s.cmd
+19:10 : USB:C05 flat band shape.
+19:15 : ran corr_config
+21:06 : started the command file
+	/temp2/data/cmd/djs/a2162.cmd
+22:50 : stopped the command file
+	and started the scan on 3c48 
+23:00 : stopped the observation.
+

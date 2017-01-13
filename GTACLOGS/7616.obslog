@@ -1,0 +1,76 @@
+		 GTAC Observation Log
+
+1. Date : 16/02/2015
+2. Observation Sr. No. : 7616
+3. Observer : Wojciech Lewandowski, Jim Cordes, Jaroslaw Kijak, Shami Chatterjee, Bhaswati Bhattacharyya, Jayanta Roy, Karolina Rozko
+4. Observer's Email : boe@astro.ia.uz.zgora.pl, cordes@astro.cornell.edu, jkijak@astro.ia.uz.zgora.pl, shami@astro.cornell.edu, bhaswati.bhattacharyya@manchester.ac.uk, jroy@ncra.tifr.res.in, krozko@gmail.com
+5. Project Name :  Multi-frequency scattering of pulsars with known distances
+6. Project Code : 27_038
+7. Operator(s) : Surender
+8. Command File : /odisk/gtac/cmd
+9. LTA File : /gsbifrdata/16feb/27_038_16feb2015.lta
+10. LogFlag File : /odisk/online1/logflags/27_038.FLAGS.8
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : IA
+22. Beam - 2 : PA
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 591 591 540 540 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :27
+
+32. Name of Non-Working Antennas (with reason for each) :
+W05 : No feed of 610MHz
+W06 : No fringe at 130 pole.
+E05 : Painting.
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 16 Feb 2015 08:00:00 - 16 Feb 2015 11:21:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :27
+
+37. Comments (During Observations) :
+GAC : All central square antennas + 2 antennas in each arm,
+Post integration =4 
+----------------------------------------------------
+08:17:25 : Started scan on 3C286 for ~ 1.34218 min.
+08:19:11 : Power done on @300 counts  3C286
+08:32:11 : Phasing done on 3C286.
+08:36:06 : Started scan on B1737-30 for ~ 20.8642 min.
+08:58:55 : Phasing done on 1822-096 
+09:02:49 : Started scan on B1758-03 for ~ 9.9321 min.
+09:14:01 : Started scan on B1829-08 for ~ 29.7963 min.
+09:56:06 : Phasing done on 1924+334
+10:05:10 : Started scan on B1900+05 for ~ 20.8642 min.
+10:25:00 : E-arm power failed so E02 and E03 removed from GAC.
+10:26:35 : Started scan on B1907+10 for ~ 10.9321 min.
+10:38:19 : Started scan on B1915+13 for ~ 10min.
+09:56:06 : Phasing done on 1924+334 
+09:57:00 : E02 and E03 added in GAC.
+10:56:57 : Started scan on B1920+21 for ~ 10 min.
+11:11:24 : Started scan on B2053+36 for ~ 10 min.
+11:21:26 : Stopped scan and observing session is over.
+
+

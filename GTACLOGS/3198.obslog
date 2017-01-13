@@ -1,0 +1,48 @@
+		 GTAC Observation Log 
+
+1. Date : 13/06/2007
+2. Observation Sr. No. : 3198
+3. Observer : Bhaswati
+4. Observer's Email : bhaswati@ncra.tifr.res.in
+5. Project Name : pulsar
+6. Project Code : 12BBB01
+7. Operator(s) : Sanjay,
+	
+8. Command File : /btemp2/cmd/hold.cmd
+9. LTA File : /rawdata/13jun/12bbb01_psr.lta
+10. LogFlag File : /btemp2/logflags/12BBB01.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 325 MHz ,RF2 : 325 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 255 MHz, ILO2 : 255 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+4 dB, 32 MHz,OFF, IF-CH2 : 16+4 dB, 32 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 325 325 255 255 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+C01 : servo problem.
+W02 : no fringe.
+E04 : No fringe
+S06 : No fringe
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 00:35 - 04:20
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    **********
+--------------------------------------------
+00:35 Started observation
+04:20 Stopped observation.
+
+

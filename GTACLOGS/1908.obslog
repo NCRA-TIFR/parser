@@ -1,0 +1,50 @@
+		 GTAC Observation Log 
+
+1. Date : 24/02/2005
+2. Observation Sr. No. : 1908
+3. Observer : R. Beswick
+4. Observer's Email : rbeswick@jb.man.ac.uk,djs@ncra.tifr.res.in
+5. Project Name : SYFERT
+6. Project Code : 07RBB01
+7. Operator(s) : Jayprakash,
+	Sachin,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/rbeswick/ngc4579.cmd
+9. LTA File : /rawdata/24feb/07rbb01_ngc4579.lta,
+	/rawdata1/24feb/07rbb01_ngc4579.ltb
+10. LogFlag File : /btemp2/logflags/07RBB01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1409.2431 MHz ,RF2 : 1409.2431 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1345 MHz, ILO2 : 1345 MHz, IVLO1 : 64.2431 MHz, IVLO2 : 64.2431 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 32 MHz,ON, IF-CH2 : 12+12 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1409.2431 1409.2431 1345 1345 64.2431 64.2431 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+C14 - no fringe.
+
+21. Start and End Time of Obs.(IST): 22:15 - 02:26
+
+22. Comments (During Observations) :
+ONLINE : bhaskar
+AUTHIF : 1390 MHz
+****************************
+
+22:26 scan started on 3c147 
+22:58 command file started
+/temp2/data/cmd/rbeswick/ngc4579.cmd
+02:01 : Stopped the command file after phase cal.
+02:06 : Started recording on flux cal 3C286.
+02:26 : Stopped scan on flux cal 3C286 & closed observation.
+

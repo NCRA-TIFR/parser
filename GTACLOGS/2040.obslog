@@ -1,0 +1,48 @@
+		 GTAC Observation Log 
+
+1. Date : 28/05/2005
+2. Observation Sr. No. : 2040
+3. Observer : Gopal Krishna , Samir Dhurde
+4. Observer's Email : krishna@ncra.tifr.res.in,samiris@ncra.tifr.res.in
+5. Project Name : YSO Jets
+6. Project Code : 08GKA04
+7. Operator(s) : Deepak,
+	Sanjay,
+	
+8. Command File : /atemp2/cmd/gk/0656.cmd
+9. LTA File : /rawdata/28may/08gka04_0656-039.lta,
+	/rawdata1/28may/08gka04_0656-039.ltb
+10. LogFlag File : /atemp2/logflags/08GKA04.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+--
+
+21. Start and End Time of Obs.(IST): 18:30 - 20:00
+
+22. Comments (During Observations) :
+ONLINE : ADITYA
+AUTHIF : 610 MHz
+============================
+
+18:28 : Started scan on 3C286 for 10mins.
+18:47 : Started scan on 0632+103 for 5mins.
+18:55 : Started scan on 0656-039 for 35mins.
+19:47 : Started scan on 3C286 for 10mins.
+20:00 : Observation stopped.
+

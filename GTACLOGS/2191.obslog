@@ -1,0 +1,59 @@
+		 GTAC Observation Log 
+
+1. Date : 15/08/2005
+2. Observation Sr. No. : 2191
+3. Observer : HANS
+4. Observer's Email : hrk@astro.ox.ac.uk
+5. Project Name : N479
+6. Project Code : 08HRK01
+7. Operator(s) : Deepak,
+	Manish G.,
+	Sachin,
+	Santaji,
+	
+8. Command File : /atemp2/cmd/hrk/hrkd4.cmd,
+	/atemp2/cmd/hrk/hrkd42.cmd
+9. LTA File : /rawdata/15aug/08hrk01_d4.lta,
+	/rawdata1/15aug/08hrk01_d4.ltb
+10. LogFlag File : /atemp2/logflags/08HRK01.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+S04 - MCM-5 timeout.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 07:10 - 23:00
+
+23. Comments (During Observations) :
+*** ONLINE: aditya
+*** AUTHIF: NAUTH @ 610-235
+------------------------------------------------
+
+07:12  Started scan on 3C147.
+07:27  Stopped the scan.
+07:28  Started command file: /atmep2/cmd/hrk/hrkd4.cmd
+14:47  Stopped the command file. Antennas moved to 3C286.
+14:49  Started scan on 3C286.
+15:04  Stopped the scan.
+15:10  Started the new command file 
+       '/temp2/data/cmd/hrk/hrkd42.cmd'
+22:54 Stopped command file.
+22:55 Started scan on the phase cal.
+23:00 Stopped scan on phase cal.
+

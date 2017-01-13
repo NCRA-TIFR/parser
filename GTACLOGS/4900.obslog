@@ -1,0 +1,71 @@
+		 GTAC Observation Log 
+
+1. Date : 05/06/2010
+2. Observation Sr. No. : 4900
+3. Observer : Chandreyee Sengupta
+4. Observer's Email : sengupta@ncra.tifr.res.in,sengupta.chandreyee@gmail.com
+5. Project Name : MRK334
+6. Project Code : 18_038
+7. Operator(s) : Amruta,
+	Manisha,
+	Navanath,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/csg/mrk334.cmd
+9. LTA File : /rawdata/5jun/18_038_05jun2010.lta,
+	/rawdata1/5jun/18_038_05jun2010.ltb
+10. GSB File : /gsbifrdata/5jun/18_038_05jun2010_gsb.lta
+11. LogFlag File : /odisk/online1/logflags/18_038.FLAGS.2
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1385.9246 MHz ,RF2 : 1385.9246 MHz, SA1 : 0 dB, SA2 : 0 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1320 MHz, ILO2 : 1320 MHz, IVLO1 : 65.9246 MHz, IVLO2 : 65.9246 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+15. BB BW(KHz) & BB ALC : 8000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1385.9246 1385.9246 1320 1320 65.9246 65.9246 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+C01 - Off.
+C03 - Phase not stable.
+C06 - No fringe @130.
+S01 - ABC timeout
+
+21. Note for Backup :--
+
+22. Start and End Time of Obs.(IST): 03:00 - 10:05
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+03:00 : Started setup.
+     GSB SETUP : ACQ BW=16MHz
+                  channals=512
+                  Final bw =OFF
+03:08 : Started scan on phase cal.
+04:35 : Command file stopped.
+04:40 : Started scan on 3C48 for 10min.
+04:53 : Restarted command file.
+        /odisk/gtac/cmd/csg/mrk334.cmd
+06:40 : Command file stopped.
+06:41 : Started scan on bandpass cal for 15min.
+06:56 : Stopped scan.
+
+06:57 : Restarted command file.
+09:47 : Stopped command file.
+
+09:49 : Started scan on 3C48.
+10:05 : Stopped scan and observing session over.
+
+
+      
+
+

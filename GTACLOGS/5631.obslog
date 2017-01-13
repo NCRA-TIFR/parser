@@ -1,0 +1,68 @@
+		 GTAC Observation Log 
+
+1. Date : 13/11/2011
+2. Observation Sr. No. : 5631
+3. Observer : Rahul Basu
+4. Observer's Email : rbasu@ncra.tifr.res.in
+5. Project Name : The nature of the off-pulse emission in the pulsar PSR B0525+21.
+6. Project Code : 21_090
+7. Operator(s) : Sachin,
+	
+8. Command File : /odisk/gtac/cmd/rahul/13nov2011.cmd
+9. LTA File : 
+10. LogFlag File : /odisk/online1/logflags/21_090.FLAGS.7
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 602 MHz ,RF2 : 602 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540 MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 16 MHz,OFF, IF-CH2 : 24+4 dB, 16 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 1 
+16. GAIN EQ : OFF 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 16 MHz
+21. Maximum Channels : 32 
+22. IFBW (MHz) : LO5 (KHz) : 16:138000-167000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 602 602 540 540 62 62.
+25. Integration Time : 0.258 Sec.
+26. No of Antennas Working(Fringing) :29
+
+27. Name of Non-Working Antennas (with reason for each) :
+C00 : MCM -5 time.
+
+
+
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 04:00 - 07:42
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+Data files 2s and 256ms.
+/gsbifrdata1/13nov/21_090_13nov2011_2s.lta,
+/gsbifrdata1/13nov/21_090_13nov2011_256ms.lta.
+------------------------------------------------------
+04:00:00 : Equalised power at 300 counts.
+04:07:32 : Started scan on 0521+166 for ~ 5.10027 min.
+04:16:26 : Started scan on B0525F for ~ 36.7756 min.
+04:53:54 : Started scan on 0521+166 for ~ 5.03316 min.
+05:02:11 : Started scan on B0525F for ~ 37.0776 min.
+05:40:04 : Started scan on 0521+166 for ~ 4.99961 min.
+05:48:36 : Started scan on B0525F for ~ 37.2454 min.
+06:26:40 : Started scan on 0521+166 for ~ 4.99961 min.
+06:35:05 : Started scan on B0525F for ~ 36.7085 min.
+07:12:58 : Started scan on 0521+166 for ~ 4.99961 min.
+07:21:14 : Started scan on 3C147 for ~ 21.0386 min.
+
+07:42 : Stopped scan and observing session over.
+
+

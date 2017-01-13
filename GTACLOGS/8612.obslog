@@ -1,0 +1,66 @@
+		 GTAC Observation Log
+
+1. Date : 28/05/2016
+2. Observation Sr. No. : 8612
+3. Observer : Peri, Paula Benaglia, Santiago delPalacio, C.H. IshwaraChandra, Michael de Becker
+4. Observer's Email : cintiaperi@gmail.com, pbenaglia@fcaglp.unlp.edu.ar, sdelpalacio@iar.unlp.edu.ar, ishwar@ncra.tifr.res.in, debecker@astro.ulg.ac.be
+5. Project Name : Testing the non-thermal radio emission from the putative gamma-ray source WR 11
+6. Project Code : 30_033
+7. Operator(s) : Deepak, Pramod, Rupsing, Sachin, Shilpa
+8. Command File : /odisk/gtac/cmd/30_033/obs.cmd
+9. LTA File : /gsbifrdata1/28may/30_033_28may2016.lta
+10. LogFlag File : /odisk/online1/logflags/30_033.FLAGS.1, /odisk/online1/logflags/30_033.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 0 MHz; Step # 0
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 306 306 255 255 51 51
+30. Integration Time : 8.053 Sec
+31. No of Antennas Working(Fringing) at the beginning :26
+
+32. Name of Non-Working Antennas (with reason for each) :
+C02 : BLDC.
+C09 : Feed jam.
+E05 : Reflecting surface work.
+W06 : 175pol very low fringe.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 28 May 2016 14:00:00 - 28 May 2016 20:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :28
+
+37. Comments (During Observations) :
+13:55 : Started settings.
+14:07 : Started scan on 3C147.
+14:20 : Stopped scan.
+
+14:28 : '/odisk/gtac/cmd/30_033/obs.cmd' command file started.
+17:04 : C09 and E05 started working.
+18:40 : Stopped command file because target source set early.
+18:46 : Started scan on 3C286.
+19:06 : Stopped scan and observation session is over.
+

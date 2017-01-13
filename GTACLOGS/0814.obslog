@@ -1,0 +1,65 @@
+1. Date : 21/09/2002
+2. Observation Sr. No. : 0814
+3. Observer : RM Smith
+4. Observer's Email : r.smith@astro.cf.ac.uk
+5. Project Name : NGC6585B
+6. Project Code : 02RMS01
+7. Operator(s) : Jangam M.S.,Kamble J.R.,Kodilkar J.P.,
+8. Command File : /temp2/data/cmd/rms/ngc6585b.cmd,/temp2/data/cmd/rms/ngc7347b.cmd,/temp2/data/cmd/rms/ic1711b.cmd,/temp2/data/cmd/rms/ic2098b.cmd
+9. LTA File : /rawdata/21sep/02rms01_ngc6585b.lta,/rawdata/22sep/02rms01_ic1711b.lta,/rawdata/22sep/02rms01_ic2098b.lta
+
+ANTENNA SETTINGS :
+
+10. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1400 MHz ,RF2 : 1400 MHz, SA1 : 0 dB, SA2 : 0 dB
+11. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1330 MHz, ILO2 : 1330 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+12. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 0+0 dB, 32 MHz,ON, IF-CH2 : 0+0 dB, 32 MHz,ON
+13. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+14. CLK_SEL/Samp_Freq : 0
+15. Channels : 0:127:1
+16. Frequency Parameters (TPA) : 1400 1400 1330 1330 70 70 
+
+17. Integration Time : 128 STA ~ 16.908 Sec.
+18. No of Antennas Working(Fringing) :29
+
+19. Name of Non-Working Antennas (with reason for each) :
+C06 Ch#175 Not fringing.
+C11 shows huge RFI in channel2
+s06 : ch#40,80,120 RFI Spikes
+
+20. Start and End Time of Obs.(IST): 17:26 - 09:00
+
+21. Comments (During Observations) :
+17:26 : flux cal scan started on 3C286 source.
+17:41 : scan stopped.
+
+17:47 : command file started.
+18:31 : E05 flat bandshape, not fringe.
+18:37 : ran corr_config, E05 started fringing.
+20:29 : E06 flat bandshape, not fringing.
+20:34 : Scintillation seems to be started.
+21:15 : scintillation over. Scan  : 11
+21:20 : Phase cal scan stopped & command file stopped.
+21:30 : Next command file '/temp2/data/cmd/rms/ngc7374b.cmd
+01:04 : Observation closed.
+01:10 : Started new observation.
+        Record File : /rawdata/22sep/02rms01_ic1711b.lta
+01:11 : Started scan on 3C48 for 15min.
+01:40 : Started command file.
+        /temp2/data/cmd/rms/ic1711b.cmd.
+        C09 - run flag absent in az. axis, can not track.
+01:55 : E06 flat band shape.
+02:20 : Ran corr_config for E06.
+02:29 : E06 Flat band shape.
+02:31 : Ran corr_config for E06.
+05:18 : Observation closed.
+05:22 : Started new observation.
+        Record File : /rawdata/22sep/02rms01_ic2098b.lta.
+        Command File : /temp2/data/cmd/rms/ic2098b.cmd.
+07:24 : scan #5, rec # 105 and onwards(till the end of scan)
+        are bad, corr_config 
+08:40 : Stopped cmd file, 
+08:46 : Started das scan on 3c147.
+

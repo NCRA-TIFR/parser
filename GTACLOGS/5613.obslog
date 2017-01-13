@@ -1,0 +1,59 @@
+		 GTAC Observation Log 
+
+1. Date : 06/11/2011
+2. Observation Sr. No. : 5613
+3. Observer : Nimisha Kantharia
+4. Observer's Email : ngk@ncra.tifr.res.in
+5. Project Name : CLoGS: The Complete Local-volume Groups Sample - part 3
+6. Project Code : 21_039
+7. Operator(s) : Nilesh,
+	Rupsingh,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/21_039/n1395-n1453-6nov11.cmd
+9. LTA File : /gsbifrdata/06nov/21_039_06nov2011.lta
+10. LogFlag File : /odisk/online1/logflags/21_039.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 629 MHz ,RF2 : 259 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 680 MHz, ILO2 : 310 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+12 dB, 32 MHz,ON, IF-CH2 : 10+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 629 259 680 310 51 51.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :29
+
+27. Name of Non-Working Antennas (with reason for each) :
+S06 : Feed jam.
+
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 22:00 - 06:00
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+22:00 : setup started.
+22:10 : scan started on 3c48
+22:21 : command file started.
+05:20 : Command file stopped.
+05:21 : Started scan on NGC1453.
+05:42 : Started scan on 0409-179.
+05:49 : Started scan on 3C147.
+06:02 : Observation stopped.
+
+

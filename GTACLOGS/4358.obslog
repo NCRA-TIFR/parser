@@ -1,0 +1,74 @@
+		 GTAC Observation Log 
+
+1. Date : 20/06/2009
+2. Observation Sr. No. : 4358
+3. Observer : S Joshi, Narendra Patra
+4. Observer's Email : narendra@ncra.tifr.res.in,sjoshi@ncra.tifr.res.in
+5. Project Name : polarization of 3C79
+6. Project Code : 09DT023
+7. Operator(s) : Deepak,
+	Manisha,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/sjoshi/ddt_20june_3c79.cmd
+9. LTA File : /rawdata/20jun/09dt023_20jun2009.lta,
+	/rawdata1/20jun/09dt023_20jun2009.ltb
+10. LogFlag File : /odisk/online1/logflags/09DT023.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 595 MHz ,RF2 : 595 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 525 MHz, ILO2 : 525 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 595 595 525 525 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+E03 - servo time out.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 04:00 - 12:00
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : UsbPolar
+
+25. Comments (During Observations) :
+        GSB data
+        mithunc:/data/pulsar/gsbdata/20jun/09dt023_20jun09.lta
+--------------------------------------------------------------
+04:11 : Started scan on 3C48 for 10mins
+        tpa 595 595 525 525 70 70
+
+04:23 : Started scan on 3C48 for 10mins.
+        tpa 630 630 560 560 70 70
+04:50 : Started scan on 3C79 for 20mins.
+05:10 : Started scan on 0318+164 for 5mins.
+05:15 : Started command file
+        /odisk/gtac/cmd/sjoshi/ddt_20june_3c79.cmd
+07:00 : stopped the command file and 
+        observed 3c147.
+07:18 : restarted the command file.
+07:30 : MSBEB power glitch - stopped the observation.
+
+07:46 : restarted observations.
+        C05,W01 : servo problem, not tracking.
+
+08:07 : E-arm antennas power failed.
+08:27 : E-arm antennas started working.
+10:30 : W01 started working.
+11:46 : command file stopped.
+        started scan on 3c147 for each freq for 5min.
+12:00 : stopped the observation session.
+ 
+
+
+

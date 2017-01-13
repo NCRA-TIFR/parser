@@ -1,0 +1,85 @@
+		 GTAC Observation Log 
+
+1. Date : 13/07/2004
+2. Observation Sr. No. : 1548
+3. Observer : Chandreyee Sengupta
+4. Observer's Email : csg@rri.res.in
+5. Project Name : H1 Content
+6. Project Code : 06CSG01
+7. Operator(s) : Manish G.,
+	Manisha J.,
+	Jayprakash,
+	Jitendra,
+	Sachin,
+	Sanjay,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/csg/ngc720.cmd,
+	/btemp2/cmd/csg/ngc5044.cmd
+9. LTA File : /rawdata/13jul/06csg01_ngc720.lta,
+	/rawdata1/13jul/06csg01_ngc720.ltb,
+	/rawdata/13jul/06csg01_ngc5044.lta,
+	/rawdata1/13jul/06csg01_ngc5044.ltb
+10. LogFlag File : /btemp2/logflags/06CSG01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1414.45 MHz ,RF2 : 1414.45 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1340 MHz, ILO2 : 1340 MHz, IVLO1 : 74.45 MHz, IVLO2 : 74.45 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+10 dB, 32 MHz,ON, IF-CH2 : 10+10 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 4000 KHz, 6 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 2
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1414.45 1414.45 1340 1340 74.45 74.45 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+S04 : ABC T.O.
+C12 : USB-175 :No fringe.
+      LSB : No frine.
+C14-130 : Low fringe.
+
+
+
+21. Start and End Time of Obs.(IST): 02:15 - 23:15
+
+22. Comments (During Observations) :
+*** ONLINE: bhaskar ***
+*** AUTHIF @ 1390 MHz. ***
+-----------------------------
+02:16 : Started scan on 3c48 for 15min.
+02:31 : Stopped the scan.
+02:46 : Started scan on ARP004 for 10min.
+02:57 : Satrted scan on DDO15 for 10min.
+03:08 : Started the command file.
+        /btemp2/cmd/csg/ngc720.cmd.
+06:06 : Stopped the command file.
+06:08 : Started scan on 0240-231 for 15min.
+06:23 : Stopped the scan.
+06:26 : Restarted the command file.
+11:20 : stopped the command file and scan strted
+	on 3c48 for 15 min.
+
+11:25 : changed the settings to 
+	RF=1390 MHz.
+	LO1=1345 MHz.
+	L04=64.78 MHz.
+	0th ch freq 1409.780 MHz.
+12:51 : scan started on 3c147.
+14:09 : command file started
+	/temp2/data/cmd/csg/ngc5044.cmd
+14:14 : stopped the command file to reset the 
+	base band settings ref GCC.
+14:25 : command file restarted.
+	
+       * problems 
+	1. C13 no fringe.
+	2. S04 servo problem.
+	3. C12:175:LSB no fringe.
+23:15  Stopped the scan. Stopped the observation.
+

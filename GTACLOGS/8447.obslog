@@ -1,0 +1,94 @@
+		 GTAC Observation Log
+
+1. Date : 29/02/2016
+2. Observation Sr. No. : 8447
+3. Observer : Emmanouil Papastergis, Elizabeth A.K. Adams, J.M. vanderHulst, Riccardo Giovanelli, Martha P Haynes, Jayaram Narayanan Chengalur, Gregory Hallenbeck
+4. Observer's Email : papastergis@astro.rug.nl, betsey@astro.cornell.edu, vdhulst@astro.rug.nl, riccardo@astro.cornell.edu, haynes@astro.cornell.edu, chengalur@ncra.tifr.res.in, ghallenbeck@astro.cornell.edu
+5. Project Name : An accurate measurement of the Baryonic Tully-Fisher Relation with very gas-dominated galaxies
+6. Project Code : 29_057
+7. Operator(s) : Navnath, Nilesh, Pramod, Shilpa, Surender
+8. Command File : /odisk/gtac/cmd/29_029/obs_21hrs.cmd
+9. LTA File : /gsbifrdata1/28feb/29_057_28feb2016.lta.1, /gsbifrdata1/28feb/29_057_28feb2016.lta, /gsbifrdata1/29feb/29_057_29feb2016.lta
+10. LogFlag File : /odisk/online1/logflags/29_057.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1386.1835 MHz ,RF2 : 1386.1835 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1325 MHz, ILO2 : 1325MHz , IVLO1 : 61.1835 MHz, IVLO2 : 61.1835 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 16 MHz,ON, IF-CH2 : 4+14 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_lenyadri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 4 MHz; Step # 8
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 138.8165
+28. LO5 -2  : 166.1835
+
+29. Frequency Parameters (TPA) : 1386.1835 1386.1835 1325 1325 61.1835 61.1835
+30. Integration Time : 8.053 Sec
+31. No of Antennas Working(Fringing) at the beginning :26
+
+32. Name of Non-Working Antennas (with reason for each) :
+C02 : : RFI.
+C06 : : MCM 14 Time out(feed jam).
+C08 : : BLDC work
+E05 : : CST Paniting.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 28 Feb 2016 21:00:00 - 29 Feb 2016 09:05:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :26
+
+37. Comments (During Observations) :
+21:00 : Started setup.
+21:25 : Started scan on 3C147 for 10 min.
+21:46 : Started command file.
+ '/odisk/gtac/cmd/29_029/obs_21hrs.cmd'
+02:40 : Stopped command file.
+02:45 : Started scan on 3C286.
+03:00 : Stopped scan.
+-----------------------------------------------------
+03:00 : Started following set-up.
+GSB line observation setup
+RF band= 1390 (1330 - 1450)
+LO1= 1340 (lower)
+IFBW= 18
+GSB [ACQ] BW= 16.6666
+Total Channel= 512
+
+Line/Center Frequency= 1411.5
+CH#[0]= 1409.4167
+CH#[256]= 1411.5
+CH#[512]= 1413.5833
+BW= +4.1666
+CW= 8.14 (KHz.)
+
+step#= 2 is USEABLE ###
+GSB_CONFIG LO5= 138.9165  166.0835
+LTA_FILE   L05= 130.5833  174.4167
+BASE BAND  LO4= 61.0835  61.0835
+
+online tpa 1401.0835 1401.0835 1340 1340 61.0835 61.0835
+------------------------------------------------------------
+03:12 : Started scan on 3C286.
+03:28 : Started command file.
+"/odisk/gtac/cmd/29_057/29feb16/obs_29feb_03hrs.cmd"
+
+08:42 : Stopped command file.
+
+08:47 : Started scan on 3C468.1.
+09:05 : Stopped scan and observing session over.

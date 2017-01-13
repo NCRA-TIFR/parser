@@ -1,0 +1,64 @@
+		 GTAC Observation Log
+
+1. Date : 24/07/2014
+2. Observation Sr. No. : 7244
+3. Observer : Sandeep K. Sirothia, Gopal krishna, Mukul Pradeep Mhaskey, Nimisha Kantharia, C.H. IshwaraChandra
+4. Observer's Email : sirothia@ncra.tifr.res.in, krishna@ncra.tifr.res.in, mhamu3@gmail.com, ngk@ncra.tifr.res.in, ishwar@ncra.tifr.res.in
+5. Project Name : Accurate determination of the sharply inverted spectra of (TGSS) extragalactic radio sources at metrewavelengths
+6. Project Code : 26_063
+7. Operator(s) : Shilpa
+8. Command File : /odisk/gtac/cmd/26_063_21cm/20140724.cmd
+9. LTA File : /gsbifrdata/24jul/26_063_24jul2014.lta
+10. LogFlag File : /odisk/online1/logflags/26_063.FLAGS.6
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1371 MHz ,RF2 : 1371 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1320 MHz, ILO2 : 1320MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 0
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 1371 1371 1320 1320 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :26
+
+32. Name of Non-Working Antennas (with reason for each) :
+C09 :  MCM link is not visible.
+W03 :  Servo Off.
+W05 :  BLDC Work.
+S03 :  Servo Problem (Stow not releasing).
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 24 Jul 2014 09:40:00 - 24 Jul 2014 12:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :26
+
+37. Comments (During Observations) :
+08:40 : Started settings.
+09:56 : Started scan on 3C147.
+10:09 : Stopped scan.
+10:15 : '/odisk/gtac/cmd/26_063_21cm/20140724.cmd' command file started.
+10:37 : S03 started working.
+11:15 : W01 servo problem.
+11:35 : Started scan on 3C147. 
+11:52 : Stopped scan and observing session over.
+

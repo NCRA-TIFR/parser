@@ -1,0 +1,62 @@
+		 GTAC Observation Log 
+
+1. Date : 29/5/2014
+2. Observation Sr. No. : 7133
+3. Observer : Dusmanta Patra,Sanjoy Adak,Sabyasachi Pal,Sandip Chakrabarti
+4. Observer's Email : dusmanta@csp.res.in,sanjoy@csp.res.in,sabya@csp.res.in,chakraba@bose.res.in
+5. Project Name : Multi frequency observation of 3C 061.1 and 3C 390.3
+6. Project Code : 26_065
+7. Operator(s) : Sachin,Surender
+8. Command File : /odisk/gtac/cmd/spal/3c390.cmd,/odisk/gtac/cmd/spal/3c61.cmd
+9. LTA File : /gsbifrdata/29may/26_065_29may2014.lta,
+10. LogFlag File : /odisk/online1/logflags/26_065.FLAGS,
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : Realtime 
+15. GSB LTA : 8 
+16. GSB CTRL : ONLINE 
+17. GSB Fstop : ON 
+18. GAIN EQ : ON 
+19. Stokes : TotIntensity
+20. Beam - 1 : OFF
+21. Beam - 2 : OFF
+22. ACQ BW : 33.33 MHz
+23. Final BW : 33.333333 MHz; Step # 0
+24. Maximum Channels : 256 
+25. Channel Numbers : 0:255:1 
+26. LO5 -1  : 149.00 
+27. LO5 -2  : 156.00 
+
+28. Frequency Parameters (TPA) : 306 306 255 255 51 51.
+29. Integration Time : 16.106112 Sec.
+30. No of Antennas Working(Fringing) at the begining :29
+
+31. Name of Non-Working Antennas (with reason for each) :
+S02 : Taken for Maintenance.
+32. Note for Backup :
+
+33. Start and End Time of Obs.(IST): 23:00 - 07:30
+
+34. ONLINE Machine : Shivneri
+
+35. No of Antennas Working(Fringing) at the end :29
+
+36. Comments (During Observations) :
+23:07 : Started scan on 3C286 and stopped after 10 mins.
+23:19 : Started command file.
+03:32 : Stopped command file. 
+03:39 : Started next command file.
+Note : Scan no. 13 is junk, i.e. zero records are there for that scan.
+06:58 : Stopped scan on source. 
+06:58 : Started scan on 0217+738 for ~ 4 min.
+07:06 : Started scan on 1829+487 for ~ 4 min.
+07:15 : Started scan on 3C48.
+07:30 : Stopped scan and observing session is over.
+

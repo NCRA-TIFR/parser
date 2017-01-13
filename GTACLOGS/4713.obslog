@@ -1,0 +1,70 @@
+		 GTAC Observation Log 
+
+1. Date : 14/01/2010
+2. Observation Sr. No. : 4713
+3. Observer : Dipanjan Mitra
+4. Observer's Email : dmitra@ncra.tifr.res.in
+5. Project Name : Pulsar Observation
+6. Project Code : 16_136
+7. Operator(s) : Deepak,
+	Navanath,
+	Nilesh,
+	
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /rawdata/14jan/16_136_14jan10.lta,
+	/rawdata1/14jan/16_136_14jan10.ltb,
+	
+10. LogFlag File : /odisk/online1/logflags/16_136.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 325 MHz ,RF2 : 325 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 255 MHz, ILO2 : 255 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 325 325 255 255 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+--
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 21:00 - 07:00
+
+23. ONLINE Machine : Lenyadri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+21:00 : Started settings.
+21:10 : Started power eq @ 1000 counts on 3C147.
+21:30 : Started phasing on 3C147.
+21:51 : Started phasing on 0837-198.
+22:00 : Started pulsar observation.
+22:12 : Started scan on 0943+10
+22:44 : Started scan for phasing 837-198
+      : Wide band phasing done.
+22:50 : Started scan on 0943+10           
+00:38 : Started scan for phasing 837-198
+      : Wide band phasing done.
+00:44 : Started scan on 0943+10
+02:47 : Stated scan on 837-198
+      : Wide band phasing done.
+02:54 : Started scan on 0943+10
+04:47 : Started scan for phasing 0837-198
+      : Wide band phasing done.
+05:02 : Started scan on 0943+10
+06:36 : Started scan on B0950+08
+07:00 : Stopped scan and observing session over.
+
+
+~                                                             
+
+

@@ -1,0 +1,68 @@
+		 GTAC Observation Log
+
+1. Date : 04/11/2015
+2. Observation Sr. No. : 8139
+3. Observer : Nissim Kanekar, Shiv Kumar Sethi, Dwarakanath K.S.
+4. Observer's Email : nkanekar@ncra.tifr.res.in, sethi@rri.res.in, dwaraka@rri.res.in
+5. Project Name : %latex%A GMRT search for HI-21cm emission from star-forming galaxies at $z \\\\\\\\\\\\\\\\approx 1.3$ 
+6. Project Code : 29_034
+7. Operator(s) : Sachin
+8. Command File : /odisk/gtac/cmd
+9. LTA File : /gsbifrdata1/04nov/29_034_04nov2015.lta.1, /gsbifrdata1/04nov/29_034_04nov2015.lta
+10. LogFlag File : /odisk/online1/logflags/29_034.FLAGS.7
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 591 591 540 540 51 51
+30. Integration Time : 8.053 Sec
+31. No of Antennas Working(Fringing) at the beginning :28
+
+32. Name of Non-Working Antennas (with reason for each) :
+S01  and W04 : no fringe
+C00,C09,C13,E02,E03,E05,W04,S01,S02.
+ : After power failure.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 04 Nov 2015 00:00:00 - 04 Nov 2015 05:00:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :19
+
+37. Comments (During Observations) :
+00:14 : Started scan on 3C48 for 10 mins.
+00:38 : Started command file.
+01:30 : Power glitch. Also observed that correlator has running one background processes i.e. read_corr.multi_256_4int which was from previous 
+observation which was not killed properly. But no buffer loss seen.
+
+Recovered power failure at 02:00.
+02:00 : Restarted gsb chain.
+Power failure following antennas gave problems
+C00,C09,C13,E02,E03,E05,W04,S01,S02.
+02:10 : Started command file.
+04:31 : Stopped command file and started scan on phase cal.
+04:45 : Started scan on 3C147 for 20 mins.
+05:05 : Stopped scan and observation session.

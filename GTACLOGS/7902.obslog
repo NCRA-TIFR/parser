@@ -1,0 +1,130 @@
+		 GTAC Observation Log
+
+1. Date : 10/07/2015
+2. Observation Sr. No. : 7902
+3. Observer : Krishnakumar MA, Dipanjan Mitra, ARUN KUMAR NAIDU, BHAL CHANDRA JOSHI, Periasamy K. Manoharan
+4. Observer's Email : kkma@ncra.tifr.res.in, dmitra@ncra.tifr.res.in, arun@ncra.tifr.res.in, bcj@ncra.tifr.res.in, mano@ncra.tifr.res.in
+5. Project Name : Multi-Frequency observations for measuring scatter-broadening parameters of pulsars with GMRT
+6. Project Code : 28_088
+7. Operator(s) : Navnath, Pramod, Rupsing, Sachin, Shilpa, Surender
+8. Command File : /odisk/gtac/cmd
+9. LTA File : /gsbifrdata/09jul/28_088_09jul2015.lta.1\r,/gsbifrdata/09jul/28_088_09jul2015.lta
+10. LogFlag File : /odisk/online1/logflags/28_088.FLAGS.4\r,/odisk/online1/logflags/28_088.FLAGS.3\r,/odisk/online1/logflags/28_088.FLAGS.2\r,/odisk/online1/logflags/28_088.FLAGS.1\r,/odisk/online1/logflags/28_088.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 242 MHz ,RF2 : 242 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 304 MHz, ILO2 : 304MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : PA
+22. Beam - 2 : PA
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 16.666666 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 138
+28. LO5 -2  : 167
+
+29. Frequency Parameters (TPA) : 242 242 304 304 62 62
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :24
+
+32. Name of Non-Working Antennas (with reason for each) :
+C01,C02 : No fringe.
+C08 : No fringe at 175 pol
+C13 : Taken for BLDC
+W06 : No fringe at 175 pol
+S06 : No fringe.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 09 Jul 2015 20:00:00 - 10 Jul 2015 09:01:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :24
+
+37. Comments (During Observations) :
+---------------------------------------------------------------------
+19:45 : Started set up.
+20:00 to 21:00 : Problem at node33 and node34. After updating ip table at gsbm1 problem get solved.
+21:00 to 22:00 : Problem in phasing.Again updating ip table at gsbm1 problem get solved.
+22:00 to 22:25 :Restarted set up.
+
+-------------------------------------------------
+22:25 : Phasing and power eq. on 1830-360.
+22:27:25 : Started scan on B1642-03 for ~ 5.3687 min.
+22:40:37 : Started scan on 1830-360 for ~ 1.34218 min.
+22:42:36 : Started scan on 1830-360 for ~ 2.14748 min.
+22:45:08 : Started scan on 1830-360 for ~ 0.805306 min.
+22:48:01 : Started scan on J1648-3256 for ~ 25.2329 min.
+23:14:49 : Started scan on 1830-360 for ~ 1.87905 min.
+23:16:58 : Started scan on 1830-360 for ~ 0.53687 min.
+23:19:38 : Started scan on B1635-45 for ~ 34.8966 min.
+23:56:40 : Started scan on 1830-360 for ~ 1.07374 min.
+23:58:09 : Started scan on 1830-360 for ~ 0.805306 min.
+00:00:32 : Started scan on B1727-47 for ~ 15.0324 min.
+00:17:42 : Started scan on B1749-28 for ~ 5.63714 min.
+00:24:31 : Started scan on 1830-360 for ~ 0.268435 min.
+00:25:20 : Started scan on 1830-360 for ~ 0.268435 min.
+00:27:22 : Started scan on B1700-32 for ~ 20.1326 min.
+00:49:58 : Started scan on 1822-096 for ~ 1.07374 min.
+00:51:17 : Started scan on 1822-096 for ~ 1.87905 min.
+00:53:24 : Started scan on 1822-096 for ~ 0.53687 min.
+00:55:42 : Started scan on B1804-27 for ~ 30.0647 min.
+01:27:45 : Started scan on 1822-096 for ~ 1.34218 min.
+01:29:20 : Started scan on 1822-096 for ~ 1.34218 min.
+01:30:54 : Started scan on 1822-096 for ~ 1.61061 min.
+01:33:03 : Started scan on 1822-096 for ~ 3.22122 min.
+01:36:33 : Started scan on 1822-096 for ~ 2.41592 min.
+01:39:22 : Started scan on 1822-096 for ~ 0.53687 min.
+01:41:26 : Started scan on B1758-03 for ~ 15.5692 min.
+01:58:31 : Started scan on 1822-096 for ~ 0.805306 min.
+01:59:52 : Started scan on 1822-096 for ~ 0.268435 min.
+02:01:30 : Started scan on B1804-08 for ~ 25.5013 min.
+02:28:02 : Started scan on 1822-096 for ~ 1.87905 min.
+02:30:14 : Started scan on 1822-096 for ~ 0.805306 min.
+02:32:13 : Started scan on B1756-22 for ~ 31.1385 min.
+03:04:38 : Started scan on 1822-096 for ~ 1.07374 min.
+03:05:55 : Started scan on 1822-096 for ~ 1.61061 min.
+03:07:57 : Started scan on 1822-096 for ~ 1.87905 min.
+03:10:00 : Started scan on 1822-096 for ~ 3.22122 min.
+03:15:28 : Started scan on B1851-14 for ~ 30.3332 min.
+03:46:40 : Started scan on 1822-096 for ~ 1.07374 min.
+03:48:13 : Started scan on 1822-096 for ~ 0.53687 min.
+03:50:06 : Started scan on B1852+10 for ~ 45.3655 min.
+04:36:25 : Started scan on 1859+129 for ~ 1.07374 min.
+04:37:58 : Started scan on 1859+129 for ~ 1.07374 min.
+04:40:14 : Started scan on B1933+16 for ~ 10.7374 min.
+04:56:02 : Started scan on 3C468.1 for ~ 1.34218 min.
+04:57:40 : Started scan on 3C468.1 for ~ 0.268435 min.
+05:01:11 : Started scan on B2002+31 for ~ 30.3332 min.
+05:34:43 : Started scan on 3C468.1 for ~ 1.07374 min.
+05:36:00 : Started scan on 3C468.1 for ~ 0 min.
+05:38:45 : Started scan on B2027+37 for ~ 30.0647 min.
+06:11:27 : Started scan on 3C468.1 for ~ 1.07374 min.
+06:13:00 : Started scan on 3C468.1 for ~ 0.805306 min.
+06:16:04 : Started scan on B2053+36 for ~ 20.6695 min.
+06:39:02 : Started scan on 3C468.1 for ~ 0.268435 min.
+06:41:15 : Started scan on B2111+46 for ~ 16.1061 min.
+07:09:19 : Started scan on 0521+166 for ~ 1.07374 min.
+07:10:46 : Started scan on 0521+166 for ~ 0.805306 min.
+07:12:38 : Started scan on B0531+21 for ~ 10.2005 min.
+07:24:32 : Started scan on 0521+166 for ~ 1.87905 min.
+07:26:45 : Started scan on 0521+166 for ~ 0.805306 min.
+07:29:30 : Started scan on B0611+22 for ~ 15.0324 min.
+07:45:43 : Started scan on 0521+166 for ~ 1.34218 min.
+07:47:28 : Started scan on 0521+166 for ~ 3.22122 min.
+07:53:37 : Started scan on B0458+46 for ~ 67.1088 min.
+09:01 : Stopped scan, due to high wind.
+09:01 : Observing session over.

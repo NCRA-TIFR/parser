@@ -1,0 +1,71 @@
+		 GTAC Observation Log
+
+1. Date : 27/02/2015
+2. Observation Sr. No. : 7637
+3. Observer : Anandmayee Tej, Sarita Vig, swagat ranjan das, Veena V.S., Tie Liu, Kee-Tae Kim, Swarna Kanti Ghosh, C.H. IshwaraChandra, Jeong-Eun Lee, Diego Mardones, Hongli Li
+4. Observer's Email : anandmayee.tej@gmail.com, sarita@iist.ac.in, dasswagat77@gmail.com, veenagangothri@gmail.com, liutiepku@gmail.com, ktkim@kasi.re.kr, swarna@ncra.tifr.res.in, ishwar@ncra.tifr.res.in, jeongeun.lee@khu.ac.kr, diego@das.uchile.cl, hlliu@nao.cas.cn
+5. Project Name : Bubbles as probes for triggered star formation
+6. Project Code : 27_029
+7. Operator(s) : Manisha, Sachin, Surender
+8. Command File : /odisk/gtac/cmd/27_029/feb27.cmd
+9. LTA File : /gsbifrdata/27feb/27_029_27feb2015.lta.2,/gsbifrdata/27feb/27_029_27feb2015.lta.1,/gsbifrdata/27feb/27_029_27feb2015.lta
+10. LogFlag File : /odisk/online1/logflags/27_029.FLAGS.5,/odisk/online1/logflags/27_029.FLAGS.4,/odisk/online1/logflags/27_029.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1281 MHz ,RF2 : 1281 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1230 MHz, ILO2 : 1230MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 1281 1281 1230 1230 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :28
+
+32. Name of Non-Working Antennas (with reason for each) :
+C12 : ABC problem.
+W05 : No feed due to maintenance.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 27 Feb 2015 04:00:00 - 27 Feb 2015 12:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :24
+
+37. Comments (During Observations) :
+04:11 : Done setup and recorded 3C286 for 15 mins.
+Came to know that the integrations time for correlator is kept 16 but
+it was 18.65s which was longer by 2.55 sec.
+04:30 : Rebooted correlator.
+04:46 : Started whole chain once again.
+04:48 : Started scan on 3C286 for 15 mins.
+05:03 : Stopped scan on 3C286.
+05:11 : Started command file.
+08:05 : Stopped command and halted GSB and restarted the GSB.
+08:13 : Restarted command file.
+09:52 : C01 low fringe@130 pol.
+10:04 : E04 taken for painting.
+10:52 : W04 taken for Maintenance.
+11:36 : Stopped command file.
+11:40 : C08 taken for maintenance.
+11:44 : Started scan on 3C48.
+12:00 : Stopped scan and observing sesion is over.

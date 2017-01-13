@@ -1,0 +1,61 @@
+		 GTAC Observation Log 
+
+1. Date : 19/12/2011
+2. Observation Sr. No. : 5709
+3. Observer : Sandeep Sirothia
+4. Observer's Email : sirothia@ncra.tifr.res.in
+5. Project Name : TGSS
+6. Project Code : 20_083
+7. Operator(s) : Nilesh,
+	
+8. Command File : /odisk/gtac/cmd/sirothia/21_057_20111219a.cmd,
+	
+9. LTA File : /gsbifrdata/19dec/20_083_19dec2011.lta,
+	
+10. LogFlag File : /odisk/online1/logflags/20_083.FLAGS.46
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 218 MHz, ILO2 : 218 MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+12 dB, 16 MHz,ON, IF-CH2 : 10+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Full_Polar
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 16 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 16:138000-167000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 156 156 218 218 62 62.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :29
+
+27. Name of Non-Working Antennas (with reason for each) :
+S01 : Strong RFI.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 23:30 - 06:00
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+2s data file :
+/gsbifrdata1/19dec/20_083_19dec2011_2s.lta,
+--------------------------------------------------
+23:47 : Started scan on 3c147 for ~25min.
+00:13 : Started scan on J0218+4232 for ~25min.
+00:46 : Started command file.
+'/odisk/gtac/cmd/sirothia/21_057_20111219a.cmd'.
+
+05:40 : Stopped command file.
+05:43 : Started scan on J0953+0755 ~10min.
+05:57 : Started scan 3c147 for ~5min.
+06:02 : Stopped observation session.
+

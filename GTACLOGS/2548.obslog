@@ -1,0 +1,64 @@
+		 GTAC Observation Log 
+
+1. Date : 20/03/2006
+2. Observation Sr. No. : 2548
+3. Observer : Hota/NEERAJ
+4. Observer's Email : neeraj@ncra.tifr.res.in,hota@ncra.tifr.res.in
+5. Project Name : 1833
+6. Project Code : 09NGA01
+7. Operator(s) : Deepak,
+	Jitendra,
+	Sanjay,
+	
+8. Command File : /atemp2/cmd/neeraj/1833.cmd
+9. LTA File : /rawdata/20mar/09nga01_1833.lta,
+	/rawdata1/20mar/09nga01_1833.ltb
+10. LogFlag File : /atemp2/logflags/09NGA01.FLAGS.6
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1340.7 MHz ,RF2 : 1340.7 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1270 MHz, ILO2 : 1270 MHz, IVLO1 : 70.70 MHz, IVLO2 : 70.70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 16 MHz,ON, IF-CH2 : 16+16 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 4000 KHz, 6 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 2
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1340.7 1340.7 1270 1270 70.70 70.70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C00 - Feed jammed.
+C02 - No fringe (?)
+C12-USB-175 No fringe.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 00:37 - 10:45
+
+23. Comments (During Observations) :
+************************************
+******* ONLINE ADITYA **************
+******* AuthIF @ 1390 MHz.    ******
+************************************
+00:37 : Started scan on 3C286.
+02:00 : Started command file.
+
+07:09 : Started scan on 3C286 for 10mins.
+07:25 : Started command file
+        /atemp2/cmd/neeraj/1833.cmd
+09:07 : Command file stopped.
+09:10 : Started scan on 3C48 for 10mins.
+09:27 : restarted command file.
+10:20 : Command file stopped.
+10:27 : Started scan on 3C48.
+10:45 : Observation stopped.
+
+
+         
+

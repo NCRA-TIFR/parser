@@ -1,0 +1,63 @@
+		 GTAC Observation Log 
+
+1. Date : 25/12/2008
+2. Observation Sr. No. : 4115
+3. Observer : Somak Raychaudhury,Chandreyee,spal
+4. Observer's Email : somak@star.sr.bham.ac.uk,sengupta@ncra.tifr.res.in,spal@ncra.tifr.res.in
+5. Project Name : Cluster CL0910+41
+6. Project Code : 15SRC01
+7. Operator(s) : Navanath,
+Deepak,
+Manisha,
+Santaji,
+Sachin
+	
+8. Command File : /odisk/gtac/cmd/spal/15src01_25dec.cmd
+9. LTA File : /rawdata/25dec/15src01_25dec08_16s.lta,
+	/rawdata1/25dec/15src01_25dec08_16s.ltb,
+	/rawdata/25dec/15src01_25dec08_4s.lta,
+	/rawdata1/25dec/15src01_25dec08_4s.ltb,
+10. LogFlag File : /btemp2/logflags/15SRC01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+C05 : No fringe
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 21:20 - 09:18
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : Indian Polar Mode   *********
+--------------------------------------------
+21:20 : Started setup.
+21:37 : Started scan on 3c48 for 15 min.
+22:01 : Started command file.
+
+03:32 : command file stopped.
+03:34 : Started scan on 3C147 for 15mins.
+03:50 : Restarted command file.
+08:19 : Stopped command file to catch phase cal.
+08:21 : Restarted command file with phase cal.
+08:53 : C05 parked for painting.
+08:56 : Stopped command file.
+09:00 : Stopped scan on the source.
+09:02 : Started scan on 3C286 for 15 mins.
+09:18 : Stopped scan on 3C286 and stopped observation session.
+

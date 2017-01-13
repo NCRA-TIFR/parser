@@ -1,0 +1,61 @@
+		 GTAC Observation Log
+
+1. Date : 22/12/2014
+2. Observation Sr. No. : 7511
+3. Observer : Poonam Chandra
+4. Observer's Email : poonam@ncra.tifr.res.in
+5. Project Name : GMRT observations of bright Type Ib supernova
+6. Project Code : DDTB146
+7. Operator(s) : Pramod
+8. Command File : /odisk/gtac/cmd/poonam/obs_22dec.cmd
+9. LTA File : /gsbifrdata/22dec/ddtb146_22dec2014.lta
+10. LogFlag File : /odisk/online1/logflags/DDTB146.FLAGS.5
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 591 591 540 540 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :27
+
+32. Name of Non-Working Antennas (with reason for each) :
+C10 : Taken for PC104
+E04 : Taken for BLDC
+W05 : No feed of 610MHz
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 22 Dec 2014 02:40:00 - 22 Dec 2014 05:00:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :27
+
+37. Comments (During Observations) :
+02:40 : Started set up.
+02:54 : Started scan on 3C286.
+03:04 : Stopped scan and started command file.
+        '/odisk/gtac/cmd/poonam/obs_22dec.cmd'
+05:00 : Stopped command file and observation session is over.
+

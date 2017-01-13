@@ -1,0 +1,46 @@
+1. Date : 25/11/2002
+2. Observation Sr. No. : 0870
+3. Observer : Ayesha
+4. Observer's Email : ayesha@ncra.tifr.res.in
+5. Project Name : u7298
+6. Project Code : 03ABA01
+7. Operator(s) : Kamble J.R.,
+	Kodilkar J.P.,
+	Umbarje M.S.,
+	
+8. Command File : /temp2/data/cmd/ash/7298.cmd
+9. LTA File : /rawdata/25nov/03aba01_u7298.lta
+
+ANTENNA SETTINGS :
+
+10. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1419.18 MHz ,RF2 : 1419.18 MHz, SA1 : 0 dB, SA2 : 0 dB
+11. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1350 MHz, ILO2 : 1350 MHz, IVLO1 : 69.18 MHz, IVLO2 : 69.18 MHz
+12. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 0+0 dB, 16 MHz,ON, IF-CH2 : 0+0 dB, 16 MHz,ON
+13. BB BW(KHz), BB Gain(dB) & BB ALC : 1000 KHz, 12 dB, ON
+
+CORREATOR SETTINGS :
+
+14. CLK_SEL/Samp_Freq : 4
+15. Channels : 0:127:1
+16. Frequency Parameters (TPA) : 1419.18 1419.18 1350 1350 69.18 69.18 
+
+17. Integration Time : 256 STA ~ 33.817 Sec.
+18. No of Antennas Working(Fringing) :30
+
+19. Name of Non-Working Antennas (with reason for each) :
+--
+
+20. Start and End Time of Obs.(IST): 23:05 - 14:25
+
+21. Comments (During Observations) :
+
+32:30 : E06 Flat band shape.
+33:00 : Ran corr_config for E06.
+33:05 : C11 released for painting.
+33:13 : Started scan on 3C286 for 10min.
+33:24 : Started command file.
+        /temp2/data/cmd/ash/7298.cmd.
+36:12 : E06 flat band shape .
+36:27 : Ran corr_config for E06 & restarted the cmd file.
+38:25 : Observation over.
+

@@ -1,0 +1,57 @@
+		 GTAC Observation Log 
+
+1. Date : 28/08/2005
+2. Observation Sr. No. : 2215
+3. Observer : Dr. Dave Green.
+4. Observer's Email : dag@mrao.cam.ac.uk,visitor7@gmrt.ncra.tifr.res.in
+5. Project Name : SWIRE & ELAIS NI
+6. Project Code : 08DAG01
+7. Operator(s) : Jitendra,
+	Manish G.,
+	Manisha J.,
+	Sanjay,
+	
+8. Command File : /atemp2/cmd/dag/08dag01-3.cmd
+9. LTA File : /rawdata/28aug/08dag01_28aug05.lta,
+	/rawdata1/28aug/08dag01_28aug05.ltb
+10. LogFlag File : /atemp2/logflags/08DAG01.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 14+14 dB, 32 MHz,ON, IF-CH2 : 14+14 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C09 - Servo Prob.
+S01 - fringe vanishing.
+E04 - Unstable Fringe.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 14:15 - 23:04
+
+23. Comments (During Observations) :
+ONLINE : ADITYA
+AUTHIF @ 610 MHz.
+===================================================
+14:15 : started scan on 3c286 ~15mins.
+18:55 : W02-ABC T.O.
+22:34 : command file stopped.
+22:37 : Phase cal scan started for 5m.
+22:42 : scan stopped.
+22:47 : Flux cal scan started on 3C48.
+23:04 : Scan stopped & Observation stopped.
+
+
+

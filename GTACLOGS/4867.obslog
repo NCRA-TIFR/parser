@@ -1,0 +1,70 @@
+		 GTAC Observation Log 
+
+1. Date : 15/05/2010
+2. Observation Sr. No. : 4867
+3. Observer : Ruben Sanchez Janssen
+4. Observer's Email : rsanchez@eso.org
+5. Project Name : The HI properties of dwarf galaxy associations
+6. Project Code : 18_082
+7. Operator(s) : Amruta,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/18_082/15may.cmd
+9. LTA File : /rawdata/15may/18_082_15may2010.lta,
+	/rawdata1/15may/18_082_15may2010.ltb,
+	/rawdata/15may/18_082_15may2010.lta.1,
+	/rawdata1/15may/18_082_15may2010.ltb.1
+10. GSB File : /gsbifrdata/15may/18_082_15may2010_gsb.lta,
+	/gsbifrdata/15may/18_082_15may2010_gsb.lta.1
+11. LogFlag File : /odisk/online1/logflags/18_082.FLAGS.4,
+	/odisk/online1/logflags/18_082.FLAGS.5
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1407.45 MHz ,RF2 : 1407.45 MHz, SA1 : 0 dB, SA2 : 0 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1340 MHz, ILO2 : 1340 MHz, IVLO1 : 67.45 MHz, IVLO2 : 67.45 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+15. BB BW(KHz) & BB ALC : 8000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1407.45 1407.45 1340 1340 67.45 67.45 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C01 : OFF.
+C03 : 175pol no fringe in GHB+GSB.
+C08 : 175pol cross and self is zero in GHB.
+S01 : Low fringe at 175 pol.
+
+21. Note for Backup :--
+
+22. Start and End Time of Obs.(IST): 00:00 - 06:10
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : UsbHighRes
+
+25. Comments (During Observations) :
+00:00 : Started settings.
+00:23 : Started scan on 3C286.
+00:39 : Stopped scan.
+
+00:44 : '/odisk/gtac/cmd/18_082/15may.cmd' command file started.
+
+01:12 : Dasconsole killed.
+        Stopped command file.
+
+01:24 : Restarted command file.
+03:00 : C03 started working.
+
+05:47 : Stopped command file.
+05:52 : Started scan on 3C48.
+06:10 : Stopped scan and observing session over.
+
+
+
+
+

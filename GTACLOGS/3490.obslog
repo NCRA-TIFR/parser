@@ -1,0 +1,70 @@
+		 GTAC Observation Log 
+
+1. Date : 10/12/2007
+2. Observation Sr. No. : 3490
+3. Observer : S Pal
+4. Observer's Email : spal@ncra.tifr.res.in
+5. Project Name : WR98
+6. Project Code : 13MGB01
+7. Operator(s) : Jitendra,
+	Nilesh,
+	Sachin,
+	
+8. Command File : /atemp2/cmd/spal/wr98-dual.cmd
+9. LTA File : /rawdata/10dec/13mgb01_wr98.lta,
+	/rawdata1/10dec/13mgb01_wr98.ltb,
+	/rawdata/10dec/13mgb01_wr98.lta.1,
+	/rawdata1/10dec/13mgb01_wr98.ltb.1
+10. LogFlag File : /atemp2/logflags/13MGB01.FLAGS.10
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 14+12 dB, 32 MHz,ON, IF-CH2 : 14+12 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+S06 - mcm 5 time out.
+C02 - Painting.
+E02 - phase jump@610 in flux calib scan.
+
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 09:30 - 16:30
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Aditya   ********* 
+******** Corr Mode :USbPolar *********
+----------------------------------------
+
+09:30 : Project 13MGB01 started with default 610 MHz settings.
+        S06 - No fringe, C02 - Painting.
+09:32 : Flux cal scan started on 3c286.
+10:02 : Wr98 scan started manually.
+10:04 : C00 Az brake problem.
+10:34 : Command file wr98-dual.cmd started.
+12:28 : S06 released.
+12:41 : Record file closed; dual frequency settings done.
+12:42 : C00 released.
+12:46 : Command file and lta-recording restarted.
+        S06, C00 started fringing.
+14:43 : MSEB S-Arm power failed.
+14:58 : S-arm power resumed.
+15:58 : Command file stopped.
+16:00 : Started scan on phase cal.
+16:04 : Stopped scan.
+16:18 : Started scan on 3c48.
+16:28 : Stopped scan and observation session over.
+

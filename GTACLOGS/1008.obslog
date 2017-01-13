@@ -1,0 +1,65 @@
+		 GTAC Observation Log 
+
+1. Date : 10/03/2003
+2. Observation Sr. No. : 1008
+3. Observer : Prof. A. P. Rao
+4. Observer's Email : pramesh@ncra.tifr.res.in
+5. Project Name : galactic survey
+6. Project Code : 03APR01
+7. Operator(s) : Deepak,
+	Mangesh,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/pramesh/galsurvey/g00+06.cmd
+9. LTA File : /rawdata/10mar/03apr01_galsurvey.lta
+10. LogFlag File : /temp2/data/logflags/03APR01.FLAGS.11
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 243 MHz ,RF2 : 243 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 310 MHz, ILO2 : 310 MHz, IVLO1 : 67 MHz, IVLO2 : 67 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 18+16 dB, 6 MHz,ON, IF-CH2 : 18+18 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:63:1
+17. Frequency Parameters (TPA) : 243 243 310 310 67 67 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+E05 - ABC T. O.
+E06 - ABC T. O.
+
+21. Start and End Time of Obs.(IST): 00:50 - 11:28
+
+22. Comments (During Observations) :
+** ONLINE running on bhaskar.
+
+00:50 Started recording on 3c295.
+02:10 C08 got ABC reset.
+03:00 Stopped the scan on 3c295.
+03:02 Started the scan on 3c286.
+03:26 Stopped the scan on 3c286.
+
+*** Till now IF ALCs were on and BB ALCs off.
+*** Switched on both ALCs.
+
+03:40 Started a scan on 3c286 for 15 minutes.
+04:05 Swithced off IF and BB ALCs. Power equilised
+      on 1822+096. Started the command file
+      /temp2/data/cmd/pramesh/galsurvey/tp_3m.cmd.
+04:32 Command file over. Switched on both ALCs.
+      Started the command file
+      /temp2/data/cmd/pramesh/galsurvey/g00+06.cmd
+      Delay out of range for W06 (Scan 9).
+
+08:23 first 3 recs of scan# 31 bad, corr_config running.
+11:00 Stopped cmd file,
+11:07 Started record on 3c48.
+11:28 Stopped record on 3c48 & stopped project.
+
+

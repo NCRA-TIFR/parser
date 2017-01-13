@@ -1,0 +1,57 @@
+		 GTAC Observation Log 
+
+1. Date : 21/04/2008
+2. Observation Sr. No. : 3686
+3. Observer : Ekta
+4. Observer's Email : ekta@ncra.tifr.res.in
+5. Project Name : 14EKA01
+6. Project Code : 14EKA01
+7. Operator(s) : Jayprakash,
+	Jitendra,
+	Nilesh,
+	Sachin,
+	
+8. Command File : /odisk/gtac/cmd/ekta/ugca166.cmd
+9. LTA File : /rawdata/21apr/14eka01_21apr2008.lta,
+	/rawdata1/21apr/14eka01_21apr2008.ltb
+10. LogFlag File : /odisk/online1/logflags/14EKA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+4 dB, 32 MHz,ON, IF-CH2 : 12+4 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+W04 : Painting.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 13:53 - 02:35
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+13:53 : Started scan on 3c147.
+14:13 : Stopped the scan.
+14:18 : Started the command file.
+19:45 : W04 released for obs.
+00:45 : Stopped command file.
+00:47 : Started scan on phase cal.
+00:55 : Stopped scan.
+00:56 : Started scan on source.
+01:54 : Stopped scan.
+01:57 : Started scan on Flux calibrator.
+02:47 : Stopped scan and observation closed.
+

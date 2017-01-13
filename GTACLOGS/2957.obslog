@@ -1,0 +1,79 @@
+		 GTAC Observation Log 
+
+1. Date : 26/12/2006
+2. Observation Sr. No. : 2957
+3. Observer : DHARAM
+4. Observer's Email : dharam@mpifr-bonn.mpg.de
+5. Project Name : x shape
+6. Project Code : 11DVL01
+7. Operator(s) : Deepak,
+	Jitendra,
+	Navanath,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/dharam/26dec06.cmd
+9. LTA File : /rawdata/26dec/11dvl01_1218_1130.lta.1,
+	/rawdata1/26dec/11dvl01_1218_1130.ltb.1
+10. LogFlag File : /btemp2/logflags/11DVL01.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C10-130 No fringe.
+E06 : ABC time out.
+C14 : servo problem.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 20:00 - 10:02
+
+23. Comments (During Observations) :
+-------------------------------------------
+********  ONLINE Machine : Bhaskar  ********* 
+******** Corr Mode : IndianPolar mode *********
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+-----------------------------------------------
+21:30 : Started setting for 11dvl01
+22:00 : started scan on 3C48 for 15 
+22:30 : command file stopped.
+23:03 : command file started.
+
+00:50 : Started new session in same lta files.
+01:08 : Started scan on J1130+0058.
+01:30 : Scan #13 is bad.
+01:42 : Started scan on 1123+055 for 8mins.
+01:54 : Started scan on J1130+0058 for 30mins.
+02:32 : Started command file
+        /btemp2/cmd/dharam/27dec06.cmd
+06:00 : Command file stopped.
+06:10 : Started scan on 1123+055 for 8mins.
+06:20 : Started scan on J1130+0058 for 30mins.
+06:54 : Started scan on 1123+055 for 8mins.
+08:34 : E03 Parked for painting.
+09:42 : Command file stopped.
+09:44 : Flux cal scan started on 3C286.
+10:02 : Scan stopped and project over.
+
+
+
+
+

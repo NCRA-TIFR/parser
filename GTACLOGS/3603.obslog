@@ -1,0 +1,52 @@
+		 GTAC Observation Log 
+
+1. Date : 03/02/2008
+2. Observation Sr. No. : 3603
+3. Observer : Somak 
+4. Observer's Email : somak@star.sr.bham.ac.uk,sgiaci_s@ira.inaf.it
+5. Project Name : Groups
+6. Project Code : 13SGA01
+7. Operator(s) : Deepak,
+	Navanath,
+	Nilesh,
+	Sanjay,
+	
+8. Command File : /atemp2/cmd/13sga01/sga4.cmd
+9. LTA File : /rawdata/3feb/13sga01_03feb2008.lta
+10. LogFlag File : /atemp2/logflags/13SGA01.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 244 MHz ,RF2 : 244 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 310 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 6 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 8000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 244 244 310 310 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+W02-130 - no fringe.  
+C03 - USB no fringe.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 22:00 - 07:45
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar  ********* 
+******** Corr Mode : Indian Polar   *********
+--------------------------------------------
+22:00  Started seettigs for 13SGA01
+12:17  Started scan on flux cal
+22:40 : command file started.
+00:57 : started second command file 
+07:45 : Stopped observation.
+
+

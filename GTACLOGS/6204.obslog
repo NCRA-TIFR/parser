@@ -1,0 +1,69 @@
+		 GTAC Observation Log 
+
+1. Date : 04/11/2012
+2. Observation Sr. No. : 6204
+3. Observer : Ian Robert Stevens
+4. Observer's Email : irs@star.sr.bham.ac.uk
+5. Project Name : Low Frequency Radio Emission from Massive Stars
+6. Project Code : 23_036
+7. Operator(s) : Pramod,
+	Sachin,
+	Surender
+8. Command File : /odisk/gtac/cmd/23_036/comm_f1/obs.cmd,
+	/odisk/gtac/cmd/23_036/comm_f2/obs.cmd
+9. LTA File : /gsbifrdata/04nov/23_036_04nov2012.lta,
+	/gsbifrdata/04nov/23_036_04nov2012_1.lta
+10. LogFlag File : /odisk/online1/logflags/23_036.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 629 MHz ,RF2 : 253 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 680 MHz, ILO2 : 304 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Full_Polar
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 629 253 680 304 51 51.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :26
+
+27. Name of Non-Working Antennas (with reason for each) :
+C00 : BLDC work.
+C12 : No fringe at 610MHz (130 Pol)
+C02 : No fringe at 235MHz (175 Pol)
+E02 : No fringe at 235MHz (175 Pol)
+
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 11:00 - 00:00
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+11:00 : Finished setup.
+11:02:08 - 11:15:49 Recorded data on 3C286
+11:09:00 - E-arm power failure. 
+11:35:00 - E-arm started working.
+11:37:00 - Started command file '/odisk/gtac/cmd/23_036/comm_f1/obs.cmd'
+15:30:00 - C12 130 pole started fringing.
+18:43:00 - Stopped command file '/odisk/gtac/cmd/23_036/comm_f1/obs.cmd'
+18:50:41 - Started scan on 3C48.
+19:00:00 - Stopped scan on 3C48.(This flux cal.(3C48) is used as a common source for next command file)
+19:04:59 - Started command file '/odisk/gtac/cmd/23_036/comm_f2/obs.cmd'
+23:38:31 - Stopped command file.
+23:44:00 - Started scan on 3C48.
+23:55:00 - Stopped scan on 3C48 & observation session is over.
+
+
+

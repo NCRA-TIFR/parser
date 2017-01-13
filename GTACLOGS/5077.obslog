@@ -1,0 +1,63 @@
+		 GTAC Observation Log 
+
+1. Date : 25/10/2010
+2. Observation Sr. No. : 5077
+3. Observer : Ishwar Chandra
+4. Observer's Email : ishwar@ncra.tifr.res.in
+5. Project Name : TOO
+6. Project Code : 10DT029
+7. Operator(s) : Deepak,
+	Manisha,
+	Navanath,
+	Rupsingh,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/spal/maxij1659.cmd
+9. LTA File : /rawdata/25oct/10DT029_25oct2010.lta,
+	/rawdata1/25oct/10DT029_25oct2010.ltb
+10. GSB File : /gsbifrdata/25oct/10dt029_25oct2010_gsb.lta
+11. LogFlag File : /odisk/online1/logflags/10DT029.FLAGS
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+4 dB, 32 MHz,OFF, IF-CH2 : 20+4 dB, 32 MHz,OFF
+15. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+GHB Settings :
+16. GHB Channels : 0:127:1
+17. Correlator Mode : IndianPolar
+18. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+GSB Settings :
+19. Maximum Channels : 256 
+20. Final Bandwidth (MHz): OFF MHz; Steps : 0
+21. IFBW : LO5(MHz) : 32:149-156 MHz
+22. Stokes : Total_Intensity
+23. Beam - 1 : OFF
+24. Beam - 2 : OFF
+
+25. Integration Time : 128 LTA ~ 16.908 Sec.
+26. No of Antennas Working(Fringing) :28
+
+27. Name of Non-Working Antennas (with reason for each) :
+C00:  Painting 
+C03 : Painting
+
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 12:45 - 18:00
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+12:45 : Started settings for 10DT029 project.
+      : power equlised @ 250 and 300 counts for both IF and bb
+13:00 : Started scan on flux cal 3C286 for 20 mins.
+13:21 : Stopped scan.
+13:33 : Started command file.
+18:00 : Stopped command file & observation session over.
+

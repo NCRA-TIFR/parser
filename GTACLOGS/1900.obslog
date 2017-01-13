@@ -1,0 +1,59 @@
+		 GTAC Observation Log 
+
+1. Date : 21/02/2005
+2. Observation Sr. No. : 1900
+3. Observer : Nissim Kanekar
+4. Observer's Email : nkanekar@aoc.nrao.edu
+5. Project Name : OHM
+6. Project Code : 07NKA01
+7. Operator(s) : Deepak,
+	Jitendra,
+	Manisha J.,
+	Sanjay,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/nissim/iras21354.cmd
+9. LTA File : /rawdata/21feb/07nka01_21354.lta,
+	/rawdata1/21feb/07nka01_21354.ltb
+10. LogFlag File : /btemp2/logflags/07NKA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 570.6 MHz ,RF2 : 570.6 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 505 MHz, ILO2 : 505 MHz, IVLO1 : 65.6 MHz, IVLO2 : 65.6 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 14+14 dB, 32 MHz,ON, IF-CH2 : 14+14 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 570.6 570.6 505 505 65.6 65.6 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C11,C12,C13,C14,W01-LSB problem.
+
+S01 - Servo elevation brakes has not released.
+C12-USB-175 : no fringe.
+W06 : Not stable fringe.
+
+21. Start and End Time of Obs.(IST): 07:00 - 16:30
+
+22. Comments (During Observations) :
+##############################
+### ONLINE: bhaskar
+### AuthIF: 610 MHz
+##############################
+
+07:00 Started scan on 3C286 .
+07:47 Started scan on 2047-026 for 10mins.
+08:02 Started command file
+      /btemp2/cmd/nissim/iras21354.cmd .
+09:10 C12 taken for painting work.
+12:25 S01 started working.
+16:30 stopped the observation session.
+
+

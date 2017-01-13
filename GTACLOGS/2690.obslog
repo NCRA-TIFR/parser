@@ -1,0 +1,66 @@
+		  Gtac Observation Log 
+
+1. Date : 29/06/2006
+2. Observation Sr. No. : 2690
+3. Observer : SPAL/ROY
+4. Observer's Email : roy@ncra.tifr.res.in
+5. Project Name : T00
+6. Project Code : 06DT034
+7. Operator(s) : Sanjay,
+	
+8. Command File : /btemp2/cmd/roy/roy.saga150.cmd
+9. LTA File : /rawdata/29jun/06dt034_29jun.lta
+10. LogFlag File : /btemp2/logflags/06DT034.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 157 MHz ,RF2 : 157 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 223 MHz, ILO2 : 223 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 6 MHz,OFF, IF-CH2 : 16+16 dB, 6 MHz,OFF
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, OFF
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 157 157 223 223 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C01 : feed problem
+C02 : Stwd pwob.
+C03 : feed problem
+C05 : servo Problem.
+E- & S-Arm
++W05,W06 : No fringe
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 00:20 - 00:00
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode :IndianPolar     *********
+******** Power eq. at 325 MHz.     *********
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+---------------------------------------------
+00:20 : Started observation.
+      : Scan# 0 = Normal scan on 1830-36
+      : Scan# 1 = W01 & W03 RF Swapped.
+      : C00 is applying brakes intermitantly.
+00:45 : W01, W03 RF SWAP restored.
+      : Satarted cmd file.
+03:53 : Started flux cal.
+04:04 : Stopped observation.
+
+

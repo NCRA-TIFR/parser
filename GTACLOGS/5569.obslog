@@ -1,0 +1,108 @@
+		 GTAC Observation Log 
+
+1. Date : 17/10/2011
+2. Observation Sr. No. : 5569
+3. Observer : Ujjwal Kumar
+4. Observer's Email : ujjwal@ncra.tifr.res.in
+5. Project Name : Simultaneous Multi-frequency Timing of Pulsars
+6. Project Code : 21_051
+7. Operator(s) : Deepak,
+	Manisha,
+	Navanath,
+	Nilesh,
+	Rupsingh,
+	Santaji,
+	
+8. Command File : 
+9. LTA File : /gsbifrdata/17oct/21_053_17oct11_610Mhz.lta,
+	/gsbifrdata/17oct/21_053_17oct11_325Mhz.lta,
+	/gsbifrdata/17oct/21_053_17oct11_610Mhz.lta.1,
+	/gsbifrdata/17oct/21_053_17oct11_325Mhz.lta.1,
+	/gsbifrdata/17oct/21_053_17oct11_610Mhz.lta.2,
+	/gsbifrdata/17oct/21_053_17oct11_325Mhz.lta.2,
+	/gsbifrdata/17oct/21_053_17oct11_325Mhz.lta.3,
+	/gsbifrdata/17oct/21_053_17oct11_610Mhz.lta.3,
+	
+10. LogFlag File : /odisk/online1/logflags/SUBA2.FLAGS.230,
+	/odisk/online1/logflags/SUBA4.FLAGS.234,
+	/odisk/online1/logflags/SUBA2.FLAGS.234,
+	/odisk/online1/logflags/SUBA4.FLAGS.238,
+	
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,OFF, IF-CH2 : 4+12 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : OFF 
+17. Stokes : Total_Intensity
+18. Beam - 1 : PA
+19. Beam - 2 : PA
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 512 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 591 591 540 540 51 51.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :24
+
+27. Name of Non-Working Antennas (with reason for each) :
+C09 : Maintenance.
+C14 : Painting 
+S04 : Painting
+W06 : Painting
+W04 : MCM-5 time out
+S01 : MCM-5 timeout
+
+
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 10:00 - 00:00
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+# sub 2 # C00 C02 C03 C05 C08 C09 C12 W01 E02 S01
+ante 10 7 5 1 19 24 4 2 8 17 26
+cp 0;defs 2;subar 2
+
+# sub 4 # C01 C04 C06 C10 C11 C13 C14 W02 W03 W04 W05 W06 E03 E04 E05 E06 S02 S03 S04 S06
+
+ante 20 6 3 20 12 9 11 10 13 14 15 16 25 18 21 22 23 27 28 29 30
+cp 0;defs 4;subar 4
+
+----------------------------------------------------------
+10:00 : Started feed rotation to 610Mhz
+10:15 : all feed rotated to 610Mhz except painting ants.
+10:30 : Started pointing run on src. 
+11:00 : offset calculated and updated.
+11:15 : Started setup for observation 21_053.
+      : Power equalisation and phasing done.
+12:20 : Buffer loss seen... 
+      : restarted GSB chain removing all process and shm.
+12:36 :Started phasing scan.
+12:47:59 : Started scan on J1713+0747 for ~ 46.9762 min.
+13:36:41 : Started scan on B1642-03 for ~ 30.6016 min.
+14:08:41 : Started scan on B1540-06 for ~ 11.5427 min.
+
+15:15 : Due to Buffer loss tried reboot to the GSB cluster.
+15:30 : Node 18 did not booting up.
+
+
+17:00 : Problem solved by Sumit Mirajkar.
+
+17:10 : Restarted GSB acquisition chain.
+17:13 : Started phasing on 1419+064.
+17:21 : Phasing done.
+17:23 : Started pulsar observation.
+
+20:00 : Scintillation observed. can not do phasing.
+00:00 : Stopped observation due to scintillation & Buffer loss.
+
+

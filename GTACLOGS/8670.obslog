@@ -1,0 +1,63 @@
+		 GTAC Observation Log
+
+1. Date : 20/06/2016
+2. Observation Sr. No. : 8670
+3. Observer : Marc Verheijen, Filippo Fraternali, Federico Lelli, sancisi
+4. Observer's Email : verheyen@astro.rug.nl, filippo.fraternali@unibo.it, federico.lelli@case.edu, sancisi@astro.rug.nl
+5. Project Name : Deep HI observations of Malin 1
+6. Project Code : 30_093
+7. Operator(s) : Deepak, Navnath, Rupsing, Shilpa
+8. Command File : /odisk/gtac/cmd/30_093/obs.cmd
+9. LTA File : /gsbifrdata1/19jun/30_093_19jun2016.lta
+10. LogFlag File : /odisk/online1/logflags/30_093.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1301.5555 MHz ,RF2 : 1301.5555 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1240 MHz, ILO2 : 1240MHz , IVLO1 : 61.5555 MHz, IVLO2 : 61.5555 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 16 MHz,ON, IF-CH2 : 4+14 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 4 MHz; Step # 2
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 138.4445
+28. LO5 -2  : 166.5555
+
+29. Frequency Parameters (TPA) : 1301.5555 1301.5555 1240 1240 61.5555 61.5555
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :27
+
+32. Name of Non-Working Antennas (with reason for each) :
+C11 : BLDC work.
+C12 : BLDC work.
+C03 : Frequently park due to false high wind indication.
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 19 Jun 2016 18:00:00 - 20 Jun 2016 01:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :27
+
+37. Comments (During Observations) :
+18:00 : Started settings.
+18:18 : Started scan on 3C286.
+18:31 : Stopped scan.
+
+18:34 : '/odisk/gtac/cmd/30_093/obs.cmd' command file started.
+00:32 : Stopped command file(source set).
+00:33 : Started scan on 3C286.
+01:00 : Stopped scan.
+

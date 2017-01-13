@@ -1,0 +1,68 @@
+		 GTAC Observation Log
+
+1. Date : 08/11/2015
+2. Observation Sr. No. : 8151
+3. Observer : Joydeep Bagchi, BIJU.K.G, Pratik Dabhade, Madhuri Gaikwad, C.H. IshwaraChandra, Joe Jacob
+4. Observer's Email : joydeep@iucaa.ernet.in, kgbiju42@gmail.com, pratikdabhade13@gmail.com, madhuri.explorer@gmail.com, ishwar@ncra.tifr.res.in, joe@iucaa.ernet.in
+5. Project Name : GMRT observations of   the largest radio source hosted by a grand-design spiral 
+6. Project Code : 29_061
+7. Operator(s) : Navnath, Nilesh
+8. Command File : /odisk/gtac/cmd/29_061/obs_07nov.cmd
+9. LTA File : /gsbifrdata/07nov/29_061_07nov2015.lta
+10. LogFlag File : /odisk/online1/logflags/29_061.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 591 591 540 540 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :28
+
+32. Name of Non-Working Antennas (with reason for each) :
+W03 : : BLDC work
+C04 : : Painting Work
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 07 Nov 2015 17:00:00 - 08 Nov 2015 01:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :29
+
+37. Comments (During Observations) :
+17:00 : Started setup.
+17:20 : Started scan on 3C468.1.
+17:40 : Started scan on on 3c48.
+17:52 : Started cmd file.
+
+        /odisk/gtac/cmd/29_061/obs_07nov.cmd
+
+19:00 : C04 released for observation.
+19:20 : C04 started working.
+
+00:45 : Stopped command file.
+00:46 : Started scan on Phase cal.
+00:55 : Started scan on Flux cal.
+01:10 : Stopped scan and closed observation session.

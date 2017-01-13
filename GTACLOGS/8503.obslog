@@ -1,0 +1,92 @@
+		 GTAC Observation Log
+
+1. Date : 28/03/2016
+2. Observation Sr. No. : 8503
+3. Observer :  Prajwal , Y. Gupta 
+4. Observer's Email : ygupta@ncra.tifr.res.in,prajwal3108@gmail.com
+5. Project Name : UGMRT - Pulsar Observations.
+6. Project Code : DDTU10
+7. Operator(s) : Nilesh, Surender
+8. Command File : /odisk/gtac/cmd
+9. LTA File : /gsbifrdata1/28mar/ddtu10_suba4_1420_28mar2016.lta, /gsbifrdata1/28mar/ddtu10_suba2_325_28mar2016.lta
+10. LogFlag File :  
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1454 MHz ,RF2 : 1454 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1505 MHz, ILO2 : 1505MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : PA
+22. Beam - 2 : PA
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 1454 1454 1505 1505 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :30
+
+32. Name of Non-Working Antennas (with reason for each) :
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 28 Mar 2016 05:00:00 - 28 Mar 2016 07:47:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :30
+
+37. Comments (During Observations) :
+05:00 : Started settings.
+05:10 : started power eq @ 250 counts for GSB and 150 counts for GWB.
+
+05:15 : node33 SHM related problem, not attaching to shm.
+        tried clearing IPC's Twice, and running processes.
+05:40 : Gave reboot to the node33 as not getting connected to SHM.
+05:48 : Restarted GSB, 
+05:55 : Started phasing for GSB and GWB.
+
+05:54:29 : Started scan on 3C286 for ~ 1.61061 min.
+06:01:30 : Started scan on 3C286 for ~ 2.14748 min.
+06:09:37 : Started scan on 1517-243 for ~ 1.61061 min.
+06:11:30 : Started scan on 1517-243 for ~ 1.61061 min.
+06:13:47 : Started scan on J1455-3330 for ~ 0 min.
+06:14:06 : Started scan on 1517-243 for ~ 1.34218 min.
+06:17:21 : Started scan on 3C296 for ~ 1.61061 min.
+06:19:13 : Started scan on 3C296 for ~ 1.07374 min.
+
+06:23 : NOTE : Skipped J1455-3330 as no better phase cal found for it, also it was about to set.
+
+
+06:24:32 : Started scan on 1822-096 for ~ 4.5634 min.
+06:29:44 : Started scan on 1822-096 for ~ 2.95279 min.
+06:36:18 : Started scan on J1600-3053 for ~ 11.5427 min.
+06:49:50 : Started scan on B1642-03 for ~ 2.95279 min.
+
+06:50 : Noticed that GWB ACQ got killed, Restarted GWB.
+06:55 : Started phasing on 1822-096.
+
+06:56:29 : Started scan on 1822-096 for ~ 3.75809 min.
+07:00:43 : Started scan on 1822-096 for ~ 0.805306 min.
+07:04:08 : Started scan on B1642-03 for ~ 5.53687 min.
+07:10:41 : Started scan on J1713+0747 for ~ 13.1533 min.
+07:26:03 : Started scan on 1822-096 for ~ 3.75809 min.
+07:30:02 : Started scan on 1822-096 for ~ 0.805306 min.
+07:33:54 : Started scan on J1857+0943 for ~ 13.1533 min.
+07:47:00 : Stopped scan and observing session is over.
+
+
+

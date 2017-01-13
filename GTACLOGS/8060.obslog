@@ -1,0 +1,70 @@
+		 GTAC Observation Log
+
+1. Date : 13/09/2015
+2. Observation Sr. No. : 8060
+3. Observer : O.Ivy Wong, Chandreyee Sengupta, Gyula I.G. Jozsa, Kevin Schawinski, Karen Masters
+4. Observer's Email : ivy.wong@csiro.au, sengupta.chandreyee@gmail.com, gjozsa@ska.ac.za, kevin.schawinski@phys.ethz.ch, karen.masters@port.ac.uk
+5. Project Name :  Probing the cause of rapid star formation truncation in galaxies
+6. Project Code : 28_086
+7. Operator(s) : Deepak, Pramod, Rupsing
+8. Command File : /odisk/gtac/cmd/28_086/obs.cmd
+9. LTA File : /gsbifrdata/13sep/28_086_13sep2015.lta.1, /gsbifrdata/13sep/28_086_13sep2015.lta
+10. LogFlag File : /odisk/online1/logflags/28_086.FLAGS.2, /odisk/online1/logflags/28_086.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1382 MHz ,RF2 : 1382 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1320 MHz, ILO2 : 1320MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 16.666666 MHz; Step # 
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 138
+28. LO5 -2  : 167
+
+29. Frequency Parameters (TPA) : 1382 1382 1320 1320 62 62
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :29
+
+32. Name of Non-Working Antennas (with reason for each) :
+S02 : Taken for BLDC.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 13 Sep 2015 12:00:00 - 13 Sep 2015 22:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :29
+
+37. Comments (During Observations) :
+11:30 : Started set up.
+12:00 : Started scan on 3C286.
+12:46 : Stopped scan.
+12:45 : Note  : Restarted GSB because of South arm electrical power failure.
+12:49 : Started scan on 3C286 for 10 min.
+13:00 : Stopped scan and started command file.
+       /odisk/gtac/cmd/28_086/obs.cmd
+16:44 : Stopped command file.
+16:48 : Started scan on 3C286.
+17:00 : Stopped scan.
+17:04 : Restarted command file.
+--------------------------------------------------------------------------
+18:40 : Data shows scintillation
+--------------------------------------------------------------------------  
+22:02 : Stopped command file.
+22:08 : Started scan on 3C48.(scintillation)
+22:21 : Stopped scan and observation session.

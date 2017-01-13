@@ -1,0 +1,86 @@
+		 GTAC Observation Log
+
+1. Date : 18/11/2014
+2. Observation Sr. No. : 7434
+3. Observer : Preeti Kharb, S7 Seyfert Collaboration
+4. Observer's Email : preeti.kharb@gmail.com, s7_syphysics@googlegroups.com
+5. Project Name : STUDYING AGN DYNAMICS WITH THE S7-GMRT SEYFERT SAMPLE
+6. Project Code : 27_067
+7. Operator(s) : Rupsing, Shilpa
+8. Command File : /odisk/gtac/cmd/27_067/17nov_18ist.cmd,,/odisk/gtac/cmd/27_067/17nov_20ist.cmd,,/odisk/gtac/cmd/27_067/18nov_00ist.cmd,,/odisk/gtac/cmd/27_067/18nov_01ist.cmd,,/odisk/gtac/cmd/27_067/18nov_03ist.cmd,,/odisk/gtac/cmd/27_067/18nov_04ist.cmd,,
+9. LTA File : /gsbifrdata/17nov/27_067_17nov2014.lta,/gsbifrdata1/17nov/27_067_17nov2014_8s.lta.2,/gsbifrdata1/17nov/27_067_17nov2014_8s.lta.1,/gsbifrdata1/17nov/27_067_17nov2014_8s.lta,/gsbifrdata1/17nov/27_067_17nov2014_2s.lta.2,/gsbifrdata1/17nov/27_067_17nov2014_2s.lta.1,/gsbifrdata1/17nov/27_067_17nov2014_2s.lta
+10. LogFlag File : /odisk/online1/logflags/27_067.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 591 591 540 540 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :25
+
+32. Name of Non-Working Antennas (with reason for each) :
+C01 : Feed Cage Support Truss Painting.
+C13 : Low fringe.
+E06 : BLDC.
+S04 : MCM-2 time out.
+W04 : Low fringe.
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 17 Nov 2014 17:30:00 - 18 Nov 2014 10:06:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :22
+
+37. Comments (During Observations) :
+!7:33 : Started scan on 3C48.
+17:48 : Stopped scan.
+17:55 : Started command file
+        '/odisk/gtac/cmd/27_067/17nov_18ist.cmd'
+19:56 : Command file stooped.
+----------------------------------------------------------------------------
+20:00 : Started command file
+        '/odisk/gtac/cmd/27_067/17nov_20ist.cmd'
+23::40 : Stopped command file and started recording on 3C48 and also started record file for another command file i.e. 00ist.cmd
+01:00 : Stopped 00ist.cmd and started 01ist.cmd
+02:57 : Stopped command file and starte scan on 3C48 for 10 mins.
+04:08 : Stopped command file and as the sources for 04ist.cmd were not 
+up so started 01ist.cmd upto 04:45.
+04:56 : Started 04ist.cmd.
+
+08:18 : MSEB power failed, so stopped command file.
+08:45 : Antennas started working.
+        C03 - Azimuth brakes applied.
+        S06 - ABC timeout.
+        W05 - 175pol no fringe.
+08:48 : Started scan on 3C286.
+08:53 : Stopped scan.
+
+08:56 : Restarted command file.
+09:44 : Stopped command file.
+
+09:49 : Started scan on 3C286.
+10:06 : Stopped scan and observing session over.
+
+

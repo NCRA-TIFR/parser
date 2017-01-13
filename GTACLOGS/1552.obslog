@@ -1,0 +1,52 @@
+		 GTAC Observation Log 
+
+1. Date : 14/07/2004
+2. Observation Sr. No. : 1552
+3. Observer : J. S. Bagchi
+4. Observer's Email : bagchi@iucaa.ernet.in
+5. Project Name : CGCG049
+6. Project Code : 06JBA02
+7. Operator(s) : Mangesh,
+	Manish G.,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/bagchi/cgcg049n.cmd
+9. LTA File : /rawdata/16jul/06jba01_cgcg049.lta,
+	/rawdata1/16jul/06jba01_cgcg049.ltb
+10. LogFlag File : /btemp2/logflags/06JBA01.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1280 MHz ,RF2 : 1280 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1210 MHz, ILO2 : 1210 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+10 dB, 32 MHz,ON, IF-CH2 : 10+10 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1280 1280 1210 1210 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C04-130: no fringe.
+W06 : Fringe fluctuations.
+
+
+21. Start and End Time of Obs.(IST): 17:26 - 01:28
+
+22. Comments (During Observations) :
+*** ONLINE: bhaskar ***
+*** AUTHIF: 1280 MHz***
+-----------------------------
+
+17:26 : Started record on 3c286.
+17:38 : Stopped record on 3c286.
+17:52 : Started cmd file.
+00:52 : Stopped the command file.
+01:07 : Started scan on 3C48.
+01:28 : Stopped the scan. Stopped the observation.
+

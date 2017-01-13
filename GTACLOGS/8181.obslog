@@ -1,0 +1,156 @@
+		 GTAC Observation Log
+
+1. Date : 19/11/2015
+2. Observation Sr. No. : 8181
+3. Observer : Nissim Kanekar
+4. Observer's Email : nkanekar@ncra.tifr.res.in
+5. Project Name : DDT observation for uGMRT.
+6. Project Code : DDTUG05
+7. Operator(s) : Navnath, Pramod
+8. Command File : /odisk/gtac/cmd/nissim/2340-0053.cmd,, /odisk/gtac/cmd/nissim/0407-4409.cmd,, /odisk/gtac/cmd/nissim/0347-211.cmd,, /odisk/gtac/cmd/nissim/1138\+0428.cmd
+9. LTA File : /gsbifrdata/18nov/ddtug05_18nov2015.lta.3, /gsbifrdata/18nov/ddtug05_18nov2015.lta.2, /gsbifrdata/18nov/ddtug05_18nov2015.lta.1, /gsbifrdata/18nov/ddtug05_18nov2015.lta
+10. LogFlag File : /odisk/online1/logflags/DDTUG05.FLAGS.8, /odisk/online1/logflags/DDTUG05.FLAGS.7, /odisk/online1/logflags/DDTUG05.FLAGS.6, /odisk/online1/logflags/DDTUG05.FLAGS.5, /odisk/online1/logflags/DDTUG05.FLAGS.4, /odisk/online1/logflags/DDTUG05.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 472.3 MHz ,RF2 : 472.3 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 535 MHz, ILO2 : 535MHz , IVLO1 : 62.7 MHz, IVLO2 : 62.7 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 16 MHz,ON, IF-CH2 : 4+14 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 8 MHz; Step # 6
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 137.3
+28. LO5 -2  : 167.7
+
+29. Frequency Parameters (TPA) : 472.3 472.3 535 535 62.7 62.7
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :28
+
+32. Name of Non-Working Antennas (with reason for each) :
+W03 : Taken for BLDC
+C11 : CST painting
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 18 Nov 2015 19:20:00 - 19 Nov 2015 05:06:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :28
+
+37. Comments (During Observations) :
+19:20 : Started set up  for 325 MHz.
+Note : E05 having low fringe in GWB.
+---------------------------------------------------------------------------
+Observation 1 : 
+
+Line frequency : 465.02 MHz
+
+All ALCs ON
+
+    RF Band     : 327 MHz
+    LO(1)       : 535 MHz
+    IF BW       : 18 MHz
+    LO(5)       : 137.3 167.7
+    LO(4)       : 62.7 62.7 MHz
+    Baseband BW : 2.08 MHz
+    Step        : 3
+
+    Channels    : 512
+    lta         : 4
+
+TPA 472.3 472.3 535 535 62.7 62.7
+
+The band should cover 463.9668 MHz - 466.0501 MHz.
+
+19:50 : Started command file.
+   '/odisk/gtac/cmd/nissim/2340-0053.cmd'
+---------------------------------------------------------------------------
+Observation 2 : 
+Line frequency : 487.61 MHz
+
+All ALCs ON
+
+    RF Band     : 327 MHz
+    LO(1)       : 560 MHz
+    IF BW       : 18 MHz
+    LO(5)       : 137 168 MHz
+    LO(4)       : 63 63 MHz
+    Baseband BW : 2.08 MHz
+    Step        : 4
+
+    Channels    : 512
+    lta         : 4
+
+TPA : 497 497 560 560 63 63
+
+The band should cover 488.6668 MHz - 486.5835 MHz.
+
+23:52 : Started command file.
+   '/odisk/gtac/cmd/nissim/0407-4409.cmd'
+---------------------------------------------------------------------------
+Observation 3 : 
+
+Line frequency : 481.98 MHz
+
+All ALCs ON
+
+    RF Band     : 327 MHz
+    LO(1)       : 550 MHz
+    IF BW       : 18 MHz
+    LO(5)       : 137.3 167.7
+    LO(4)       : 62.7 62.7 MHz
+    Baseband BW : 2.08 MHz
+    Step        : 2
+
+    Channels    : 512
+    lta         : 4
+
+TPA : 487.3 487.3 550 550 62.7 62.7
+
+The band should cover 483.1334 MHz to 481.0501 MHz.
+
+01:46 : Started comman dile.
+   '/odisk/gtac/cmd/nissim/0347-211.cmd'
+---------------------------------------------------------------------------
+Observation 4 :
+
+Line frequency : 426.65 MHz
+
+All ALCs ON
+
+    RF Band     : 327 MHz
+    LO(1)       : 500 MHz
+    IF BW       : 18 MHz
+    LO(5)       : 138 167 MHz
+    LO(4)       : 62 62 MHz
+    Baseband BW : 2.08 MHz
+    Step        : 5
+
+    Channels    : 512
+    lta         : 4
+
+TPA 438 438 500 500 62 62
+
+The band should cover 425.5 - 427.58 MHz
+
+03:52 : Started command file.
+   '/odisk/gtac/cmd/nissim/1138+0428.cmd'
+
+04:51 : Stopped command file.
+
+04:59 : Started scan on 3C147.
+05:06 : Stopped scan and observing session over.

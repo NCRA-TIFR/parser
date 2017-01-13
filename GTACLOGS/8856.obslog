@@ -1,0 +1,84 @@
+		 GTAC Observation Log
+
+1. Date : 28/08/2016
+2. Observation Sr. No. : 8856
+3. Observer : Roger Paul Deane, Sandeep K. Sirothia, Tariq Dylan Blecher
+4. Observer's Email : r.deane@ru.ac.za, sirothia@ncra.tifr.res.in, Tariq.blecher@gmail.com
+5. Project Name : Large-scale distorted jets in binary supermassive black hole candidates
+6. Project Code : 30_067
+7. Operator(s) : Sachin
+8. Command File : /odisk/gtac/cmd/30_067/28aug/obs.cmd
+9. LTA File : /gsbifrdata1/28aug/30_067_28aug2016_2s.lta, /gsbifrdata1/28aug/30_067_28aug2016_16s.lta
+10. LogFlag File : /odisk/online1/logflags/30_067.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1371 MHz ,RF2 : 1371 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1320 MHz, ILO2 : 1320MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 0 MHz; Step # 0
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 1371 1371 1320 1320 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :29
+
+32. Name of Non-Working Antennas (with reason for each) :
+E06 : Taken for mechanical maintenance.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 28 Aug 2016 09:00:00 - 28 Aug 2016 14:05:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :29
+
+37. Comments (During Observations) :
+08:00 : Since sources were going to up after 09:35 Hrs.
+08:57:31 : Started scan on 3C48 for ~ 5.3687 min.
+09:10:07 : Started scan on 3C147 for ~ 19.8642 min.
+09:32:15 : Started scan on 3C147 for ~ 8.32149 min.
+09:42 : Started command file.
+09:43:55 : Started scan on 1313+549 for ~ 4.83183 min.
+09:52:13 : Started scan on J1325+5736 for ~ 12.0796 min.
+10:05:18 : Started scan on 1313+549 for ~ 2.68435 min.
+10:13:08 : Started scan on 1400+621 for ~ 4.83183 min.
+10:21:16 : Started scan on J1351+5559 for ~ 12.0796 min.
+10:34:28 : Started scan on 1400+621 for ~ 2.68435 min.
+10:55 : C05 stopped trackig due to servo problem.
+10:57:33 : Started scan on PG1302-10 for ~ 19.8642 min.
+11:20:59 : Started scan on 1313+549 for ~ 4.83183 min.
+11:29:17 : Started scan on J1325+5736 for ~ 12.0796 min.
+11:42:27 : Started scan on 1313+549 for ~ 2.68435 min.
+11:46:25 : Started scan on 1400+621 for ~ 4.83183 min.
+11:54:35 : Started scan on J1351+5559 for ~ 12.0796 min.
+12:07:29 : Started scan on 1400+621 for ~ 2.95279 min.
+12:14:25 : Started scan on PG1302-10 for ~ 19.8642 min.
+12:38:31 : Started scan on 1313+549 for ~ 4.83183 min.
+12:46:37 : Started scan on J1325+5736 for ~ 12.0796 min.
+12:55 : C05 started tracking.
+12:59:55 : Started scan on 1313+549 for ~ 2.68435 min.
+13:03:52 : Started scan on 1400+621 for ~ 4.83183 min.
+13:12:07 : Started scan on J1351+5559 for ~ 11.8111 min.
+13:25:07 : Started scan on 1400+621 for ~ 2.95279 min.
+13:33:01 : Started scan on PG1302-10 for ~ 19.8642 min.
+13:58:29 : Started scan on 1313+549 for ~ 3.48966 min.
+14:04 : Stopped command file and closed observation session.
+

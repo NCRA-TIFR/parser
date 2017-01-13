@@ -1,0 +1,62 @@
+		 GTAC Observation Log
+
+1. Date : 02/01/2016
+2. Observation Sr. No. : 8299
+3. Observer : Viral Parekh, Dwarakanath K.S., Huib T Intema, Ruta Kale
+4. Observer's Email : viral@rri.res.in, dwaraka@rri.res.in, hintema@nrao.edu, ruta@ncra.tifr.res.in
+5. Project Name : Exploring diffuse radio sources within MCXC cluster catalogue
+6. Project Code : 29_085
+7. Operator(s) : Rupsing
+8. Command File : /odisk/gtac/cmd/29_085/02jan16/obs.cmd
+9. LTA File : /gsbifrdata1/02jan/29_085_02jan2016.lta
+10. LogFlag File : /odisk/online1/logflags/29_085.FLAGS.1, /odisk/online1/logflags/29_085.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 629 MHz ,RF2 : 253 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 680 MHz, ILO2 : 304MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+12 dB, 32 MHz,ON, IF-CH2 : 10+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 629 253 680 304 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :26
+
+32. Name of Non-Working Antennas (with reason for each) :
+C10 : Feed cage painting.
+E02 : No feed @235.
+W03 : No fringe @610MHz.
+S03 : No feed @235MHz.
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 02 Jan 2016 16:00:00 - 02 Jan 2016 22:20:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :26
+
+37. Comments (During Observations) :
+16:19 : Started scan on 3C48.
+16:31 : Stopped scan.
+16:41 : Started command file.
+22:01 : Stopped command file.
+22:04 : Started scan on 3C48.
+22:19 : Stopped scan and observation session over.
+

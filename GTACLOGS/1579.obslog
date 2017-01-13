@@ -1,0 +1,58 @@
+		 GTAC Observation Log 
+
+1. Date : 30/07/2004
+2. Observation Sr. No. : 1579
+3. Observer : Mamta Panday
+4. Observer's Email : mamta@ncra.tifr.res.in,ishwar@ncra.tifr.res.in,pramesh@ncra.tifr.res.in
+5. Project Name : INT. Sources.
+6. Project Code : 06PDA01
+7. Operator(s) : Mangesh,
+	Jayprakash,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/mamta/06pda0130jul04.cmd
+9. LTA File : /rawdata/30jul/06pda01_30jul.lta,
+	/rawdata1/30jul/06pda01_30jul.ltb
+10. LogFlag File : /btemp2/logflags/06PDA01.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 32 MHz,ON, IF-CH2 : 12+12 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+C06-175 : No fringe.
+C14-175 : No fringe.
+W05-175 : No fringe.
+E05:LSB : No fringe.
+
+
+
+
+
+21. Start and End Time of Obs.(IST): 19:00 - 23:53
+
+22. Comments (During Observations) :
+*** ONLINE BHASKAR ***
+*** IF attn : AuthIF at 610-235 MHz.***
+--------------------------------
+
+19:00 : sttings started.
+19:20 : Started scan on 3c286 for 10min..
+19:35 : Started the command file.
+        /btemp2/cmd/mamta/06pda0130jul04.cmd.
+22:56 : C02 servo started giving time outs.
+23:53 : Command file over. Closed the observation.
+
+

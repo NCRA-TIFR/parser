@@ -1,0 +1,53 @@
+		 GTAC Observation Log 
+
+1. Date : 24/12/2004
+2. Observation Sr. No. : 1775
+3. Observer : Ekta
+4. Observer's Email : ekta@ncra.tifr.res.in
+5. Project Name : J1215
+6. Project Code : 07EKA01
+7. Operator(s) : Sanjay,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/ekta/j1215+5223
+9. LTA File : /rawdata/24dec/07eka01_j1215.lta,
+	/rawdata1/24dec/07eka01_j1215.ltb
+10. LogFlag File : /btemp2/logflags/07EKA01.FLAGS.16
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1419.25 MHz ,RF2 : 1419.25 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1345 MHz, ILO2 : 1345 MHz, IVLO1 : 74.25 MHz, IVLO2 : 74.25 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+10 dB, 16 MHz,ON, IF-CH2 : 10+10 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 1000 KHz, 12 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 4
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1419.25 1419.25 1345 1345 74.25 74.25 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C11 - no fringe.
+C13 - servo problem.
+W04 - servo problem.
+
+21. Start and End Time of Obs.(IST): 05:15 - 12:01
+
+22. Comments (During Observations) :
+**** ONLINE RUNNING ON BHASKAR ***
+**** AUTH IF AT 1390 MHz. ********
+----------------------------------
+05:15 	setup started.
+05:28 	scan started on 3c286.
+05:46 	command file started.
+	/temp2/data/cmd/ekta/j1215+5223
+10:05   C11 started working.
+11:48   Stopped cmd file.
+11:50   Started record on 3c286.
+12:01   Stopped 3c286, closed observation.
+
+

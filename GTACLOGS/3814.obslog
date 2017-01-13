@@ -1,0 +1,55 @@
+		 GTAC Observation Log 
+
+1. Date : 21/06/2008
+2. Observation Sr. No. : 3814
+3. Observer : Ramya S.
+4. Observer's Email : ramya@iiap.res.in,ngk@wm.ncra.tifr.res.in,tpp@iiap.res.in
+5. Project Name : Radio continuum & HI study of optically selected Blue Compact Dwarf Galaxy
+6. Project Code : 14RSC01
+7. Operator(s) : Deepak,
+	Sachin,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/14rsc01/obs_part4.cmd
+9. LTA File : /rawdata/21jun/14rsc01_21jun2008.lta,
+	/rawdata1/21jun/14rsc01_21jun2008.ltb
+10. LogFlag File : /btemp2/logflags/14RSC01.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1407.83 MHz ,RF2 : 1407.83 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1340 MHz, ILO2 : 1340 MHz, IVLO1 : 67.83 MHz, IVLO2 : 67.83 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+14. BB BW(KHz) & BB ALC : 4000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1407.83 1407.83 1340 1340 67.83 67.83 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+W05 - maintenance.
+C14-130 low fringe.
+C09 - low fringe and self.
+
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 11:30 - 20:35
+
+23. Comments (During Observations) :
+---------------------------------------------
+******** ONLINE Machine : Bhaskar   *********
+******** Corr Mode : IndianPolar  *********
+---------------------------------------------
+
+11:42 : Started scan on 3C147 for 15 mins.
+12:00 : Started command file.
+16:00 : W05 started working.
+20:35 : observation session over.
+
+

@@ -1,0 +1,105 @@
+		 GTAC Observation Log 
+
+1. Date : 19/06/2009
+2. Observation Sr. No. : 4356
+3. Observer : Dr. Janardhan
+4. Observer's Email : jerry@prl.ernet.in
+5. Project Name : Solar Observation.
+6. Project Code : 16_021
+7. Operator(s) : Jayprakash,
+	Rupsingh,
+	Santaji,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/jerry/19jun09_235.cmd
+9. LTA File : /rawdata/19jun/16_021_19jun2009.lta
+	
+10. LogFlag File : /odisk/online1/logflags/16_021.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 244 MHz ,RF2 : 244 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 310 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 6 MHz,OFF, IF-CH2 : 4+12 dB, 6 MHz,OFF
+14. BB BW(KHz) & BB ALC : 8000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 244 244 310 310 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+S03 : Servo time out.
+C05 : No fringe @ 235MHz
+W01 : Not available @ 235MHz.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 10:00 - 18:00
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+10:00 : Setup started.
+-----------------------------------------------
+Default setup with ALC ON at 235 MHz.
+/rawdata/19jun/16_021_19jun2009_2s.lta,
+/rawdata/19jun/16_021_19jun2009_2s.lta.1
+
+10:18 : Scan started on 3C147 for 10m.
+10:31 : Scan started on phase cal 0555+398 for 5m.
+
+10:54 : ALC switched OFF and IF power eq.
+        Scan started on 3C147 for 10m.
+
+        S03 started working.
+ 
+11:06 : Scan started on 0555+398 for 5m.
+11:14 : Command file started.
+11:48 : Tried observaing cals 0530+135 and
+        0512+152 but not used because of 
+        bad data quality.
+
+12:15 : Restarted the command file.
+13:30 : Changed phase cal to 0521+166.
+13:42 : Started scan on 3C147 for 10m.
+13:55 : Restarted the command file.
+
+15:00 : Changed the source SUN00048.
+        Restarted command file.
+15:28 : Stopped command file.
+
+        Changed recording file for 2s.
+        /rawdata/19jun/16_021_19jun2009_2s.lta.2
+
+15:31 : Started scan on 0521+166.
+15:36 : Stopped scan.
+
+        Changed the source SUN00051.
+15:39 : Restarted command file.
+16:08 : Stopped command file.
+
+        Changed the source SUN00054.
+16:12 : Restarted command file.
+16:39 : Stopped command file.
+
+        Changed the source SUN00057.
+16:43 : Restarted command file.
+17:08 : Stopped command file.
+
+        Changed the source SUN00059.
+17:11 : Restarted command file.
+17:32 : Stopped command file.
+
+17:38 : Started scan on 3C286.
+17:57 : Stopped scan and observing session over.
+
+
+
+
+

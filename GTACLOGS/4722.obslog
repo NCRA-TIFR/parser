@@ -1,0 +1,57 @@
+		 GTAC Observation Log 
+
+1. Date : 19/01/2010
+2. Observation Sr. No. : 4722
+3. Observer : Edge
+4. Observer's Email : alastair.edge@durham.ac.uk,kcavagno@uwaterloo.ca
+5. Project Name : Steep Spectrum Clusters
+6. Project Code : 17_073
+7. Operator(s) : Jayprakash,
+	Rupsingh,
+	Sachin,
+	
+8. Command File : /odisk/gtac/cmd/17_073/run4_part1.corr
+9. LTA File : /rawdata/19jan/17_073_19jan2010.lta,
+	/rawdata1/19jan/17_073_19jan2010.ltb
+10. LogFlag File : /odisk/online1/logflags/17_073.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 325 MHz ,RF2 : 325 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 255 MHz, ILO2 : 255 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 325 325 255 255 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+C13 - Bad band-shape.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 04:00 - 10:34
+
+23. ONLINE Machine : Lenyadri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+04:00 : Started setup @ 325 MHz.
+********************************************
+04:12 : Started scan on 3c286 for 10min.
+04:22 : Stopped the scan.
+04:35 : Started the command file.
+09:12 : E05 taken for painting.
+09:35 : C01 taken for painting.
+10:00 : C04 taken for maintenance.
+10:10 : W05 taken for maintenance(ssi).
+10:13 : Command file stopped.
+10:17 : Started scan on 3C286.
+10:34 : Stopped scan and observation closed.
+

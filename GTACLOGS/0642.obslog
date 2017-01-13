@@ -1,0 +1,46 @@
+1. Date : 21/06/2002
+2. Observation Sr. No. : 642
+3. Observer & email : MRC / ndeem.
+4. Project Name & Code : MRC_1JY20JUN / 01MRC01
+5. Operator(s) : Santaji(3).
+6. Command File/Source  & Lta File : /temp2/data/cmd/mrc/mrc_1jy20jun.cmd
+								   : /rawdata/21jun/mrc_1jy20jun.lta
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 : 1280 MHz., 0 dB., OFF.
+8. Ist LO (MHz) & IVth LO (MHz) : 1210  MHz., 70 MHz.
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : 2+2 dB., 32 MHz., ON.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status : 16 MHz., 0 dB., ON.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 0 / 0 
+12. Channels : 0,127,1
+13. Frequency Parameters (TPA) : 1280 1280 1210 1210 70 70
+
+14. Integration Time (Sec.) : 16 sec (16*8m).
+15. No of Antennas Working(Fringing) : 29
+16. Name of Non-Working Antennas (with reason for each) :
+	
+	C13 	LO UNLOCK .
+	W03     130 pole down.
+
+
+17. Starting and Ending time of Observations (IST) : 02:56.
+18. Comments (During Observations) :
+
+	
+	02:56 	startrd the command file
+            /temp2/data/cmd/mrc/mrc_1jy20jun.cmd
+	06:18   started the scan on 3c48.
+			
+
+
+
+
+
+19. Data Backup files & Tape No. :
+
+
+

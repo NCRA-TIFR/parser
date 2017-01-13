@@ -1,0 +1,56 @@
+		 GTAC Observation Log 
+
+1. Date : 13/12/2008
+2. Observation Sr. No. : 4086
+3. Observer : Abhirup Datta
+4. Observer's Email : adatta@aoc.nrao.edu
+5. Project Name : Extragalactic
+6. Project Code : 15ADA01
+7. Operator(s) : Navanath,
+	
+8. Command File : /odisk/gtac/cmd/15ada01/0924.cmd
+9. LTA File : /rawdata/13dec/15ada01_13dec2008.lta,
+	/rawdata1/13dec/15ada01_13dec2008.ltb
+10. LogFlag File : /btemp2/logflags/15ADA01.FLAGS.6
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 231.468 MHz ,RF2 : 231.468 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 299 MHz, ILO2 : 299 MHz, IVLO1 : 67.532 MHz, IVLO2 : 67.532 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 6 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 4000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:255:1
+17. Frequency Parameters (TPA) : 231.468 231.468 299 299 67.532 67.532 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C04 : Freq. brakes
+C05 : Servo in local mode.
+W03 : No fringe.
+
+Note : lsb & usb dataflow mismatching by 0.0102s.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 01:00 - 07:05
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : USB highrese  *********
+--------------------------------------------
+01:00 : Started setup.
+01:13 : Started scan on 3c147 for 15min.
+01:40 : Started command file.
+  /odisk/gtac/cmd/15ada01/0924.cmd
+06:00 : Command file stopped.
+06:06 : Started scan on 3c147 for 15min.
+06:47 : Started scan on 3c286 for 15 min.
+07:05 : Observation stopped.
+
+

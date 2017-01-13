@@ -1,0 +1,70 @@
+		 GTAC Observation Log 
+
+1. Date : 03/06/2008
+2. Observation Sr. No. : 3775
+3. Observer : DJS/Swara
+4. Observer's Email : djs@ncra.tifr.res.in,
+5. Project Name : NGC3706
+6. Project Code : 14SRD01
+7. Operator(s) : Jayprakash,
+	Nilesh,
+	
+8. Command File : /odisk/gtac/cmd/djs/ngc3706.cmd
+9. LTA File : /rawdata/3jun/14srd01_03jun2008.lta,
+	/rawdata1/3jun/14srd01_03jun2008.ltb
+10. LogFlag File : /odisk/online1/logflags/14SRD01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C04 - Painting.
+W04 - Painting.
+S01 : LSB - No fringe.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 16:45 - 23:00
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Aditya   ********* 
+******** Corr Mode : Indian Polar Mode    *********
+------------------------------------------
+17:05 : Started scan on 3c286.
+17:15 : Stopped the scan.
+18:00 : E06,S04 High wind-speed not able to track source.
+18:05 : E05 high wind.
+18:06 : E-arm power failure.
+18:30 : Stopped observation due to High wind speed.
+18:35 : MSEB power failed.
+21:00 : Started resetting antennas.
+21:10 : Started scan on 3C286.
+Following antennas are not working ...
+    C00 : Az brake problem.
+    C05 : Servo Problem.
+    C09 : Servo problem.
+    Y-arm : No power. 
+C-SQ,E03,W02,S01 and S02 are working on genset power.
+21:35 : MSEB Power resumed.
+21:42 : Started scan on 3C286.
+21:54 : Stopped scan.
+22:00 : Started command file.
+22:31 : Stopped command file (source below horizon).
+22:35 : Started scan on phase cal.
+22:41 : Stopped scan.
+22:46 : Started scan on 3C286.
+23:00 : Stopped scan.
+

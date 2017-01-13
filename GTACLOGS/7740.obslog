@@ -1,0 +1,89 @@
+		 GTAC Observation Log
+
+1. Date : 26/04/2015
+2. Observation Sr. No. : 7740
+3. Observer : Yogesh Maan, BHAL CHANDRA JOSHI, ARUN KUMAR NAIDU
+4. Observer's Email : ymaan@ncra.tifr.res.in, bcj@ncra.tifr.res.in, arun@ncra.tifr.res.in
+5. Project Name : A Search for Giant Pulses from Millisecond and Young Pulsars
+6. Project Code : 27_020
+7. Operator(s) : Navnath
+8. Command File : /odisk/gtac/cmd
+9. LTA File : /gsbifrdata1/26apr/27_020_26apr15_2s.lta
+10. LogFlag File : /odisk/online1/logflags/27_020.FLAGS.15,/odisk/online1/logflags/27_020.FLAGS.14,/odisk/online1/logflags/27_020.FLAGS.13,/odisk/online1/logflags/27_020.FLAGS.12,/odisk/online1/logflags/27_020.FLAGS.11
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 602 MHz ,RF2 : 602 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 16 MHz,OFF, IF-CH2 : 24+4 dB, 16 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : Volt
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 16.666666 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 138
+28. LO5 -2  : 167
+
+29. Frequency Parameters (TPA) : 602 602 540 540 62 62
+30. Integration Time : 2.0132 Sec
+31. No of Antennas Working(Fringing) at the beginning :28
+
+32. Name of Non-Working Antennas (with reason for each) :
+S01 : : feed jam
+W05 : : Maintenance work
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 26 Apr 2015 10:00:00 - 26 Apr 2015 14:20:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :28
+
+37. Comments (During Observations) :
+GAC confing PA: CSQ+E02+W01
+Note : data recording on node33 and 34 but.
+ 
+      /mnt/pulsar/gsbuser/26apr15/*.lta for both L1,L2 and R1,R2.
+
+/mnt/a//mnt/b,/mnt/c,/mnt/d giving buffer loss due to disk defamation problem
+-----------------------------------------------------------------------
+10:00 : Started setup for project 27_020.
+10:20 : Started Power equalize to 150 cnts on 3c48 with gain off + ALC off.
+10:30 : Restarted GSB chain with GAIN ON.
+10:35 : Started phasing on 3C48.
+10:45 " Phasing done.
+11:00 : Started test recoding on node 32 and node33.
+11:10 : buffer loss error while recoding.
+--------------------------------------------------------------
+8 -- (SHM) buffers lost for RANK = 0 CURBLOCK = 2 SHM_CUR_BLOCK = 2 ITR 601
+8 -- (SHM) buffers lost for RANK = 0 CURBLOCK = 2 SHM_CUR_BLOCK = 2 ITR 601
+8 -- (SHM) buffers lost for RANK = 0 CURBLOCK = 2 SHM_CUR_BLOCK = 2 ITR 601
+8 -- (SHM) buffers lost for RANK = 0 CURBLOCK = 2 SHM_CUR_BLOCK = 2 ITR 601
+8 -- (SHM) buffers lost for RANK = 0 CURBLOCK = 2 SHM_CUR_BLOCK = 2 ITR 601
+8 -- (SHM) buffers lost for RANK = 0 CURBLOCK = 2 SHM_CUR_BLOCK = 2 ITR 601
+---------------------------------------------
+11:30 : restarted by removing all shared memories and process.
+11:45 : Started phasing and recording. still problem persists.
+12:00 : raised call-sheet.
+12:00--12:30 : down for buffer loss test, rebooted gsbm1 machine.
+-----------------------------------------------------------------
+12:30 : Started setup and phasing on 3c147.
+12:46:48 : Started scan on 3C147 for ~ 0.268435 min.
+12:51:10 : Started scan on 3C147 for ~ 4.59695 min.(off-on-off)
+12:59:44 : Started scan on 3C147 for ~ 6.8451 min.
+13:08:01 : Started scan on B0531+21 for ~ 61.1697 min.
+14:14:16 : Started scan on 3C147 for ~ 5.53648 min.
+14:20 : Observing session over
+-----------------------------------------------------------------------

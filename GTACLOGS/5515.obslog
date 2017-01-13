@@ -1,0 +1,92 @@
+		 GTAC Observation Log 
+
+1. Date : 16/8/2011
+2. Observation Sr. No. : 5515
+3. Observer : Ruta Kale
+4. Observer's Email : ruta@rri.res.in
+5. Project Name : Polarization Study of the Radio Relic in the Galaxy Cluster Abell 4038
+6. Project Code : 20_055
+7. Operator(s) : Navanath,
+	Nilesh,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/ruta/16aug2011.cmd
+9. LTA File : /gsbifrdata/16aug/20_055_16aug2011.lta,
+	
+10. LogFlag File : /odisk/online1/logflags/20_055.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+12 dB, 32 MHz,ON, IF-CH2 : 10+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Full_Polar
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 306 306 255 255 51 51.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :28
+
+27. Name of Non-Working Antennas (with reason for each) :
+W04 : MCM  5 time out.
+E06 : Intermittent RFI lines.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 21:30 - 07:01
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+21:25 : Started settings.
+21:34 : Started scan on 3c286 ~15min.
+21:55 : Started command file.
+     '/odisk/gtac/cmd/ruta/16aug2011.cmd'.
+
+21:57:00 : Started scan on 1941-154 for ~ 19.8642 min.
+22:17:49 : Started scan on 1956-076 for ~ 19.8642 min.
+22:39:49 : Started scan on 2206-185 for ~ 14.7639 min.
+22:56:47 : Started scan on A4038 for ~ 31.1385 min.
+23:29:09 : Started scan on 0025-260 for ~ 4.83183 min.
+23:35:09 : Started scan on A4038 for ~ 30.87 min.
+00:07:09 : Started scan on 0025-260 for ~ 4.83183 min.
+00:13:04 : Started scan on A4038 for ~ 30.87 min.
+00:45:02 : Started scan on 0025-260 for ~ 4.83183 min.
+00:50:54 : Started scan on A4038 for ~ 31.1385 min.
+01:23:01 : Started scan on 0025-260 for ~ 4.83183 min.
+01:29:06 : Started scan on A4038 for ~ 30.87 min.
+02:01:22 : Started scan on 0025-260 for ~ 4.83183 min.
+02:07:22 : Started scan on A4038 for ~ 31.1385 min.
+02:39:37 : Started scan on 0025-260 for ~ 4.5634 min.
+02:45:35 : Started scan on A4038 for ~ 30.87 min.
+03:17:25 : Started scan on 0025-260 for ~ 5.3687 min.
+03:31:42 : Started scan on 0521+166 for ~ 6.17401 min.
+03:44:55 : Started scan on 0025-260 for ~ 4.83183 min.
+03:50:42 : Started scan on A4038 for ~ 26.3066 min.
+04:18:02 : Started scan on 0025-260 for ~ 4.83183 min.
+04:24:00 : Started scan on A4038 for ~ 25.7698 min.
+04:50:57 : Started scan on 0025-260 for ~ 4.83183 min.
+05:01:18 : Started scan on 0521+166 for ~ 4.83183 min.
+05:08:35 : Started scan on DA240 for ~ 4.5634 min.
+05:19:49 : Started scan on 0025-260 for ~ 4.83183 min.
+05:25:34 : Started scan on A4038 for ~ 26.0382 min.
+05:52:54 : Started scan on 0025-260 for ~ 4.5634 min.
+05:58:43 : Started scan on A4038 for ~ 26.3066 min.
+06:26:18 : Started scan on 0025-260 for ~ 4.5634 min.
+06:39:00 : Started scna on DA740 for 5 min.
+06:46:00 : Started scan on flux cal 3C147 for 15min.
+07:01 :  ; Observing session over
+
+
+
+

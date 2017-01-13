@@ -1,0 +1,38 @@
+1. Date : 27/04/2002
+2. Observation Sr. No. : 546
+3. Observer & email :  Observer@gmrt
+4. Project Name & Code :  SYSTEM TEST, TEST
+5. Operator(s) : manisha, santaji
+6. Command File/Source  & Lta File :  /rawdata/27apr/0432.lta
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 :  1280 MHz.,  0 dB., OFF.
+8. Ist LO (MHz) & IVth LO (MHz) : 1210 MHz.,  70 MHz.  
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : 4+4 dB., 32 MHz., ON.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status : 16 MHz., 0 dB., ON.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 0 / 0 
+12. Channels : 0,127,1 
+13. Frequency Parameters (TPA) : 1280 1280 1210 1210 70 70
+
+14. Integration Time (Sec.) : 16 sec (16*8m)
+15. No of Antennas Working(Fringing/tracking): 23
+16. Name of Non-Working Antennas (with reason for each) :
+
+	C03  CP Work
+	C04  MCM 5 time out.
+	C06  MCM's time out.
+	E03  Low fringe @ 175 poln
+	E04  Low fringe @ 175 poln
+	E06  No fringe !!
+    W04  ABC T.O.
+	W05	 Az. brake problem.
+
+17. Starting and Ending time of Observations (IST) : 09:47
+	
+18. Comments (During Observations) :
+
+19. Data Backup files & Tape No. :

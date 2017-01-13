@@ -1,0 +1,77 @@
+		 GTAC Observation Log 
+
+1. Date : 28/4/2012
+2. Observation Sr. No. : 5908
+3. Observer : Nithyanandan Thyagrajan
+4. Observer's Email : t_nithyanandan@rri.res.in
+5. Project Name : FIRST Transients
+6. Project Code : 22_027
+7. Operator(s) : Rupsingh,
+	Sachin,
+	Santaji,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/22_027/obs1_2.5.cmd,
+	/odisk/gtac/cmd/22_027/obs1_3.3.cmd
+9. LTA File : /gsbifrdata/28apr/22_027_28apr2012.lta,
+	/gsbifrdata/28apr/22_027_28apr2012.lta.1
+10. LogFlag File : /odisk/online1/logflags/22_027.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 629 MHz ,RF2 : 253 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 680 MHz, ILO2 : 304 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+12 dB, 32 MHz,ON, IF-CH2 : 10+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 512 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 629 253 680 304 51 51.
+25. Integration Time : 8.053 Sec.
+26. No of Antennas Working(Fringing) :26
+
+27. Name of Non-Working Antennas (with reason for each) :
+C08 : Electrical Maintenance.
+C10 : Servo Maintenance (BLDC).
+W03,S06 : For painting.
+
+21:30 to 05:00 : Data affected due to scintillation.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 13:45 - 06:30
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+13:45 : Started settings.
+14:03 : Started scan on 3C147.
+14:14 : Stopped scan.
+14:17 : Started command file.
+14:45 : W03 started working.
+16:30 : C08 released for observation(175 pole no fringe).
+17:23 : W03 parked due to high wind.
+18:31 : W03 started working.
+19:30 : S06 released for observation.
+21:30 : Scintillation started.
+
+23:08 : Command file stopped.
+23:10 : Started scan on 3C286 for 10mins.
+23:23 : Started command file obs1_3.3.cmd
+04:30 : Scintillation stopped @ 610MHz.
+06:00 : Scintillation stopped @ 235MHz.
+06:15 : Command file stopped.
+06:19 : Started scan on 3C48 for 15mins.
+06:35 : Observation stopped.
+
+
+
+

@@ -1,0 +1,64 @@
+		 GTAC Observation Log 
+
+1. Date : 11/5/2011
+2. Observation Sr. No. : 5323
+3. Observer : Sandeep Sirothia
+4. Observer's Email : sirothia@ncra.tifr.res.in,ishwar@ncra.tifr.res.in
+5. Project Name : Extra Galactic Survey @ 150MHz using GMRT
+6. Project Code : 19_043
+7. Operator(s) : Navanath,
+	Nilesh,
+	
+8. Command File : /odisk/gtac/cmd/sirothia/19_043_20110511a.cmd,
+	/odisk/gtac/cmd/sirothia/19_043_20110511b.cmd
+9. LTA File : /gsbifrdata/11may/19_043_11may2011.lta,
+	/gsbifrdata/11may/19_043_11may2011.lta.1
+10. LogFlag File : /odisk/online1/logflags/19_043.FLAGS.91
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 218 MHz, ILO2 : 218 MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. Maximum Channels : 256 
+15. Final Bandwidth (MHz): OFF MHz; Step # 0
+16. IFBW (MHz) : LO5 (KHz) : 16:138000-167000
+17. Stokes : Full_Polar
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+
+20. Frequency Parameters (TPA) : 156 156 218 218 62 62.
+21. Integration Time : 16.106 Sec.
+22. No of Antennas Working(Fringing) :27
+
+23. Name of Non-Working Antennas (with reason for each) :
+W02 : No fringe.
+W04,W05 : Strong RFI(no fringe)
+
+24. Note for Backup :--
+
+25. Start and End Time of Obs.(IST): 20:20 - 07:00
+
+26. ONLINE Machine : Shivneri
+
+27. Comments (During Observations) :
+2s data file :- 
+/gsbifrdata1/11may/19_043_11may2011_2s.lta,
+/gsbifrdata1/11may/19_043_11may2011_2s.lta.1
+---------------------------------------------
+20:20 : Started setup for 19_043 project.
+20:40 : Started scan on 3C286 for 30min.
+21:26 : Started command file .
+        /odisk/gtac/cmd/sirothia/19_043_20110511a.cmd
+02:05 : Next command file started.
+        /odisk/gtac/cmd/sirothia/19_043_20110511b.cmd
+06:22 : Stopped the command file and scan started
+        on cal J0218+4232
+06:39 : Scan started on 3C48.
+07:00 : Stopped scan and observation session over.
+
+
+

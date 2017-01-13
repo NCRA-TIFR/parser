@@ -1,0 +1,69 @@
+		 GTAC Observation Log 
+
+1. Date : 30/05/2006
+2. Observation Sr. No. : 2631
+3. Observer : S. Sirothia
+4. Observer's Email : sirothia@ncra.tifr.res.in
+5. Project Name : elais
+6. Project Code : 10MDB01
+7. Operator(s) : Deepak,
+	Manish G.,
+	
+8. Command File : /btemp2/cmd/sirothia/elais.cmd
+9. LTA File :
+10. LogFlag File : /btemp2/logflags/10MDB01.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 325 MHz ,RF2 : 325 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 255 MHz, ILO2 : 255 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 325 325 255 255 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C05 : No fringe.
+W02 : Painting.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 19:10 - 06:00
+
+23. Comments (During Observations) :
+-----------------------------------------------
+******** ONLINE : Bhaskar           ********* 
+******** Corr Mode : IndianPolar    *********
+-----------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB : 
+   First ~40 channels - bad bandshape.
+2. Please Use 'CLASSIC NORM OFF' (Un-normalised) 
+   while using listscan/gvfits.
+-----------------------------------------------
+
+19:14 : Started scan on 3C286 for 20mins.
+19:37 : Started command file
+        /btemp2/cmd/sirothia/elais.cmd
+
+04:41 : Command file stopped.
+04:42 : Started scan on 1459+716.
+05:01 : Started scan on 1615+551.
+05:45 : Started scan on 3C48 for 10mins
+06:00 : Observation stoped.
+
+
+9. LTA File : /rawdata/30may/10mdb01_30may06.lta,
+	/rawdata1/30may/10mdb01_30may06.ltb,
+	/rawdata/30may/10mdb01_30may06.lta.1,
+	/rawdata1/30may/10mdb01_30may06.ltb.1,
+
+* Note: Data files not archived due to very low integration (~4s).

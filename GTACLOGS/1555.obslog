@@ -1,0 +1,62 @@
+		 GTAC Observation Log 
+
+1. Date : 18/07/2004
+2. Observation Sr. No. : 1555
+3. Observer : Dr. Ishwarachandra.
+4. Observer's Email : ishwar@ncra.tifr.res.in
+5. Project Name : GRB
+6. Project Code : 06DBA01
+7. Operator(s) : Mangesh,
+	Sachin,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/ishwar/dba.cmd
+9. LTA File : /rawdata/18jul/06dba01_18jul.lta,
+	/rawdata1/18jul/06dba01_18jul.ltb
+10. LogFlag File : /btemp2/logflags/06DBA01.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1280 MHz ,RF2 : 1280 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1210 MHz, ILO2 : 1210 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+10 dB, 32 MHz,OFF, IF-CH2 : 10+10 dB, 32 MHz,OFF
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, OFF
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1280 1280 1210 1210 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :22
+
+20. Name of Non-Working Antennas (with reason for each) :
+C04 : All MCM time outs.
+C09 : MCM-5 Time Out.
+W-arm : No power.
+
+21. Start and End Time of Obs.(IST): 15:30 - 20:47
+
+22. Comments (During Observations) :
+*** ONLINE: bhaskar ***
+*** IF attn: AUTHIF at 610 ***
+--------------------------------------
+
+15:30 : Started record 3c286.
+15:46 : Stopped record 3c286.
+        W-arm power resumed.
+15:53 : Started record on 3c286.
+16:00 : wind high, C12 getting parked.
+16:10 : Stopped record on 3c286.
+16:15 : Started record on 1125+261
+16:30 : C12 motor current high, stopped tracking.
+16:27 : Started reocrd on GRB030329
+17:11 : Started cmd file.
+20:30 : Stopped cmd file.
+20:32 : Started record on 3c286.
+20:47 : Stopped the scan, closed the observation.
+
+
+
+

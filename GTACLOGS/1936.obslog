@@ -1,0 +1,56 @@
+		 GTAC Observation Log 
+
+1. Date : 10/03/2005
+2. Observation Sr. No. : 1936
+3. Observer : Ishwara Chandra C H,
+4. Observer's Email : ishwar@gmrt.ncra.tifr.res.in
+5. Project Name : GRB
+6. Project Code : 07DBA01
+7. Operator(s) : Deepak,
+	Jayprakash,
+	Manish G.,
+	Manisha J.,
+	
+8. Command File : /btemp2/cmd/ishwar/dba.cmd
+9. LTA File : /rawdata/10mar/07dba01_10mar05.lta,
+	/rawdata1/10mar/07dba01_10mar05.ltb
+10. LogFlag File : /btemp2/logflags/07DBA01.FLAGS.9
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1280 MHz ,RF2 : 1280 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1210 MHz, ILO2 : 1210 MHz, IVLO1 : 70  MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 18+18 dB, 32 MHz,ON, IF-CH2 : 18+18 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1280 1280 1210 1210 70  70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+--
+
+21. Start and End Time of Obs.(IST): 19:30 - 02:20
+
+22. Comments (During Observations) :
+** ONLINE : BHASKAR **
+** CORR  power equalise **
+===============================
+
+19:53 Started scan on 3C147 for 20mins.
+20:35 command file started.
+23:40 : Stopped the command file.
+23:42 : Started scan on 3c286.
+24:00 : Stopped the scan.
+24:06 : Scan # 10 bad scan.
+24:07 : Restarted the scan on phase cal.
+24:13 : Stopped the scan.
+24:27 : Restarted the command file.
+26:20: Stopped command file & obs. session.
+
+

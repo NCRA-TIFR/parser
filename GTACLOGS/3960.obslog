@@ -1,0 +1,65 @@
+		 GTAC Observation Log 
+
+1. Date : 28/08/2008
+2. Observation Sr. No. : 3960
+3. Observer : Jayata Roy
+4. Observer's Email : jroy@ncra.tifr.res.in
+5. Project Name : PSR
+6. Project Code : 14WLA01
+7. Operator(s) : Deepak,
+	Jayprakash,
+	Rupsingh,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /rawdata/28aug/14wla01_28aug2008.lta
+10. LogFlag File : /btemp2/logflags/14WLA01.FLAGS.6
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+5 dB, 32 MHz,OFF, IF-CH2 : 20+5 dB, 32 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+E05 : For maintainence.
+W04 : Fringe fluctuation.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 07:12 - 11:20
+
+23. Comments (During Observations) :
+--------------------------------------------
+******** ONLINE Machine : Bhaskar   ******** 
+******** Corr Mode : IndianPolar    ***********
+--------------------------------------------
+07:12 : Started setting for 610MHz with ALC off.
+07:15 : Started power equilisation.
+07:23 : Power equilisation done.
+07:26 : Started phasing.
+07:53 : Phasing done.
+07:56 : Started scan on 0837-198.
+08:00 : Stopped scan.
+08:02 : Started scan on pulsar B0740-28.
+08:58 : Stopped scan.
+        Started setting for 235MHz with ALC off.
+09:10 : Started power equilisation.
+09:25 : Power equilisation done.
+09:31 : Started phasing.
+10:00 : Phasing done.
+        Started scan on 0837-198.
+10:04 : Stopped scan.
+10:06 : Started scan on pulsar B0740-28.      
+11:20 : Stopped scan & observing session over.
+
+
+

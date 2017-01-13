@@ -1,0 +1,66 @@
+		 GTAC Observation Log 
+
+1. Date : 21/02/2010
+2. Observation Sr. No. : 4786
+3. Observer : Sayan Chakraborti
+4. Observer's Email : sayan@tifr.res.in
+5. Project Name : ARP299
+6. Project Code : 10DT010
+7. Operator(s) : Deepak,
+	Jayprakash,
+	
+8. Command File : /odisk/gtac/cmd/sayan/too_arp299.cmd
+9. LTA File : /rawdata/21feb/10dt010_21feb2010.lta,
+	/rawdata1/21feb/10dt010_21feb2010.ltb,
+	/rawdata/21feb/10dt010_21feb2010.lta.1,
+	/rawdata1/21feb/10dt010_21feb2010.ltb.1,
+	
+10. LogFlag File : /odisk/online1/logflags/10DT010.FLAGS,
+	/odisk/online1/logflags/10DT010.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1401.7703 MHz ,RF2 : 1401.7703 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1335 MHz, ILO2 : 1335 MHz, IVLO1 : 66.7703 MHz, IVLO2 : 66.7703 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+10 dB, 16 MHz,ON, IF-CH2 : 4+10 dB, 16 MHz,ON
+14. BB BW(KHz) & BB ALC : 8000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1401.7703 1401.7703 1335 1335 66.7703 66.7703 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+S01-175 low fringe.
+C06,E02 - phase jumps only in hardware correlator.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 20:00 - 02:00
+
+23. ONLINE Machine : Lenyadri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+GSB data file:
+/gsbifrdata/21feb/10dt010_21feb2010_gsb.lta
+-------------------------------------------------
+20:15 : Started scan on 3C147 for 15mins.
+20:30 : C06 and E02 showing phase jumps in hardware correlator.
+        reconfigured hardware correlator.
+20:35 : Restarted scan on 3C147 for 15mins, in new lta files only for hardware correlator.
+
+20:50 : Started command file
+        /odisk/gtac/cmd/sayan/too_arp299.cmd
+21:10 : E02 servo problem.
+21:21 : E02 started working.
+00:14 : E02 elevation brakes prob.
+01:06 : C04 ABC Time out.
+01:40 : Stopped the command file.
+01:46 : Started scan on 3c286.
+02:00 : Stopped the scan & observation.
+

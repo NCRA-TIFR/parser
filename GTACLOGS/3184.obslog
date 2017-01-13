@@ -1,0 +1,75 @@
+		 GTAC Observation Log 
+
+1. Date : 04/06/2007
+2. Observation Sr. No. : 3184
+3. Observer : NEERAJ
+4. Observer's Email : neeraj@ncra.tifr.res.in
+5. Project Name : MG2
+6. Project Code : 12RSA01
+7. Operator(s) : Jayprakash,
+	Jitendra,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/neeraj/mg1058.cmd
+9. LTA File : /rawdata/4jun/12rsa01_4jun.lta,
+	/rawdata1/4jun/12rsa01_4jun.ltb
+10. LogFlag File : /btemp2/logflags/12RSA01.FLAGS.6
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 641.7144 MHz ,RF2 : 641.7144 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 570 MHz, ILO2 : 570 MHz, IVLO1 : 71.7144 MHz, IVLO2 : 71.7144 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 6 MHz,ON, IF-CH2 : 4+4 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 1000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 641.7144 641.7144 570 570 71.7144 71.7144 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C08 : Painting
+C14 : 175 MHz no fringe.
+W03 : servo Problem.
+S06 : ABC T.O.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 13:04 - 21:43
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+---------------------------------------------
+13:04 : 3C48 Started.
+13:20 : 3C48 Stopped,
+13:21 : Stated cmd file.
+16:18 : MSEB Power failed, scan & command file stopped.
+        E05 & S06 stopped communicating.
+        C13 : Run flag absent.
+16:44 : Started scan on 3c147 for 20min.
+17:04 : Stopped the scan.
+17:10 : Restarted the command file.
+17:56 : MSEB Power failed, command file & Scan stopped.
+        CSQ Antenna on GEN-SET.
+18:30 : Command file restarted with CSQ antenna.
+18:40 : MSEB Power restored.
+19:03 : Started scan on 3c286 for 10min.
+19:13 : Stopped the scan.
+19:16 : Restarted the command file.
+20:05 ~ Wind speed high S03,S04,C01 antenna applied brakes.
+21:27 : Stopped the command file.
+21:31 : Started scan on 3c286.
+21:43 : Stopped the scan & obs. session.
+

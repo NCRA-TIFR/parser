@@ -1,0 +1,101 @@
+		 GTAC Observation Log 
+
+1. Date : 23/09/2003
+2. Observation Sr. No. : 1154
+3. Observer : Jayaram Chengalur
+4. Observer's Email : chengalu@ncra.tifr.res.in
+5. Project Name : DLA
+6. Project Code : 04JNC02
+7. Operator(s) : Deepak,
+	Mangesh,
+	Manisha J.,
+	Jayprakash,
+	Jitendra,
+	
+8. Command File : /btemp2/cmd/chengalu/pks0336.cmd
+9. LTA File : /rawdata/23sep/04jnc02_0336.lta,
+	/rawdata/23sep/04jnc02_0336.lta.1,
+	/rawdata1/23sep/04jnc02_0336.ltb,
+	/rawdata1/23sep/04jnc02_0336.ltb.1
+10. LogFlag File : /btemp2/logflags/04JNC02.FLAGS.6
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 350.2 MHz ,RF2 : 350.2 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 279 MHz, ILO2 : 279 MHz, IVLO1 : 71.2 MHz, IVLO2 : 71.2 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 6 MHz,ON, IF-CH2 : 16+16 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 1000 KHz, 12 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 4
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 350.2 350.2 279 279 71.2 71.2 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+E06 -USB-130:- No fringe.
+S06 -LSB - Low fringe.
+w03 USB low finnge
+
+21. Start and End Time of Obs.(IST): 22:31 - 09:20
+
+22. Comments (During Observations) :
+******** ONLINE : BHASKAR *************
+	* AUTHIF @ 325 MHz *
+*************************************************
+22:31 : Started scan on 3C48 for 15min.
+
+22:47 : Scan stopped.
+22:48 : Source 0323+055 has not risen yet,source 
+        will rise around 22:55 Hrs.
+
+23:05 : started command file
+        /btemp2/cmd/chengalu/pks0336.cmd
+23:08 : C05-USB flat band shape.
+23:20 : Ran corr_config C05 recovered.
+23:51 : C05-USB flat band shape
+23:57 : After running  corr_config C05 recoverd.
+      : Accidenatally at the end of scan 2, record
+        for LSB got killed. So closed the file in
+        USB also and restarted the record for both
+        USB and LSB. New lta files are.
+          /rawdata/23sep/04jnc02_0336.lta.1
+          /rawdata1/23sep/04jnc02_0336.ltb.1
+00:05 : Restarted command file
+00:12 : C05-USB flat band shape.
+00:53 : Ran corr_config C05 recovered.
+01:55 : Command file stopped. And antennas moved to 3C48.
+02:07 : Started scan on 3C48 for 15mins.
+02:07 : W03 showing low fringe.
+02:32 : Restarted command file
+         /btemp2/cmd/chengalu/pks0336.cmd
+02:34 : C05-USB flat band shape
+02:47 : Ran corr_config C05 recovered.
+02:51 : S01-LSB flat band shape.
+03:23 : Ran corr_config to recover S01-LSB.
+05:06 : C05-USB flat band shape.
+05:11 : Command file stopped And ran corr_config.
+         C05-USB recovered.
+05:14 : Started scan on 3C48 for 15mins.
+05:16 : C05-USB flat band shape.
+05:29 : Ran corr_config C05 recovered.
+05:34 : Restarted command file
+       /btemp2/cmd/chengalu/pks0336.cmd
+06:25 : C05-LSB flat band shape.
+06:31 : Ran corr_config C05-LSB recovered.
+06:45 : MSEB Power failed.
+06:49 : Power came back.
+07:15 :	Restarted command file.
+07:55 : C05-USB started giving flat bandshape.
+08:17 : C06-USB started giving flat bandshape.
+08:47 : stopped das. Antennas moved to 3C147.
+	Reran corr_config.
+	Scan # 22 BAD.
+08:56 : Started scan on 3C147 ~ 15mins.
+	C05-USB & C06-USB recovered.
+09:20 : Stopped das and observation session.
+
+

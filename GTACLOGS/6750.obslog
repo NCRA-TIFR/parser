@@ -1,0 +1,65 @@
+		 GTAC Observation Log 
+
+1. Date : 26/10/2013
+2. Observation Sr. No. : 6750
+3. Observer : Ruta Kale,Julius MaxFerdinand Donnert,Tiziana Venturi,Daniele Dallacasa,Rossella Cassano,Gianfranco Brunetti
+4. Observer's Email : rkale@ira.inaf.it,donnert@ira.inaf.it,tventuri@ira.inaf.it,daniele.dallacasa@unibo.it,rcassano@ira.inaf.it,brunetti@ira.inaf.it
+5. Project Name : Constraining physics of particle acceleration in merging galaxy  clusters: the textbook case of `El Gordo'
+6. Project Code : 25_023
+7. Operator(s) : Deepak,Pramod,
+8. Command File : /odisk/gtac/cmd/ruta/25_023/25_023_elgordo.cmd
+9. LTA File : /gsbifrdata/26oct/25_023_26oct2013.lta,
+10. LogFlag File : /odisk/online1/logflags/25_023.FLAGS.1,
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : Realtime 
+15. GSB LTA : 8 
+16. GSB CTRL : ONLINE 
+17. GSB Fstop : ON 
+18. GAIN EQ : ON 
+19. Stokes : TotIntensity
+20. Beam - 1 : OFF
+21. Beam - 2 : OFF
+22. ACQ BW : 33.33 MHz
+23. Final BW : 33.333333 MHz; Step # 0
+24. Maximum Channels : 256 
+25. Channel Numbers : 0:255:1 
+26. LO5 -1  : 149.00 
+27. LO5 -2  : 156.00 
+
+28. Frequency Parameters (TPA) : 306 306 255 255 51 51.
+29. Integration Time : 16.106112 Sec.
+30. No of Antennas Working(Fringing) at the begining :30
+
+31. Name of Non-Working Antennas (with reason for each) :
+
+32. Note for Backup :
+
+33. Start and End Time of Obs.(IST): 21:05 - 02:00
+
+34. ONLINE Machine : Lenyadri
+
+35. No of Antennas Working(Fringing) at the end :30
+
+36. Comments (During Observations) :
+21:05 : Started set up.
+21:18 : Started scan on 3C48 for 15mins.
+21:47 : Started scan on 0116-208 for 5mins. On short baselines phase is
+        stable than on longer baselines, may be due to scintillation.
+21:54 : to check phase on 0120-153, recorded data for 5mins. Still phase is unstable.
+21:55 : Unstable phase and amplitude is  due to Scintillation.
+        Started command file with 0116-208 phase cal.
+
+22:33 : scintillation is stopped.
+01:19 : Stopped command file.
+01:27 : Started scan on 3147.
+02:00 : Stopped scan on 3C147 and observation session  is over.
+
+

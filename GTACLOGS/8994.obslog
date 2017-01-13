@@ -1,0 +1,64 @@
+		 GTAC Observation Log
+
+1. Date : 15/11/2016
+2. Observation Sr. No. : 8994
+3. Observer : YOGESH CHANDOLA, D.J. Saikia, Di Li
+4. Observer's Email : yogesh.chandola@gmail.com, djs@ncra.tifr.res.in, ithaca.li@gmail.com
+5. Project Name : HI absorption towards WISE late type Radio Loud AGNs 
+6. Project Code : 31_082
+7. Operator(s) : Navnath, Pramod, Shilpa
+8. Command File : /odisk/gtac/cmd/31_082/15nov16/obs_15nov.cmd
+9. LTA File : /gsbifrdata1/15nov/31_082_15nov2016.lta
+10. LogFlag File : /odisk/online1/logflags/31_082.FLAGS.11
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1247 MHz ,RF2 : 1247 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1185 MHz, ILO2 : 1185MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 16 MHz,ON, IF-CH2 : 4+14 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 0 MHz; Step # 0
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 138
+28. LO5 -2  : 167
+
+29. Frequency Parameters (TPA) : 1247 1247 1185 1185 62 62
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :29
+
+32. Name of Non-Working Antennas (with reason for each) :
+E05 : Low fringe
+E03 : Frequently applying ele brake
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 15 Nov 2016 06:00:00 - 15 Nov 2016 09:40:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :28
+
+37. Comments (During Observations) :
+06:00 : Started set up.
+06:10 : Started scan on 3C286.
+06:25 : Stopped scan and started command file.
+
+ /odisk/gtac/cmd/31_082/15nov16/obs_15nov.cmd
+
+09:21 :Started scan on 3c286.
+09:25 : W04 down for painting work.
+09:36 : Observation session over.
+----------------------------------------------------

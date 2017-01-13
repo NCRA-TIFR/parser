@@ -1,0 +1,50 @@
+		 GTAC Observation Log 
+
+1. Date : 15/08/2005
+2. Observation Sr. No. : 2192
+3. Observer : Gupta Y.G.
+4. Observer's Email : ygupta@ncra.tifr.res.in
+5. Project Name : TOO
+6. Project Code : 05DT029
+7. Operator(s) : Jitendra,
+	
+8. Command File : /atemp2/cmd/hold.cmd
+9. LTA File : /rawdata/15aug/05dt029_psr.lta,
+	/rawdata1/15aug/05dt029_psr.ltb
+10. LogFlag File : /atemp2/logflags/05DT029.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :15
+
+20. Name of Non-Working Antennas (with reason for each) :
+Only CSQ + S01 antenna used
+in phasing mode.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 23:31 - 02:12
+
+23. Comments (During Observations) :
+*** ONLINE: aditya
+*** Pulsar-Power equilized.
+------------------------------------------------
+23:31 : 1822-096 phasing scan#0,1
+23:41 : B1804-08 test monitoring scan.
+23:46 : G21.5-0.9 scan started for 150m.
+02:01 : B1859+01 scan for 5m.
+02:12 : Scan stopped, and project over.
+
+

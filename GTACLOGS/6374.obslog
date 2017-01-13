@@ -1,0 +1,65 @@
+		 GTAC Observation Log 
+
+1. Date : 12/2/2013
+2. Observation Sr. No. : 6374
+3. Observer : Dharam Vir Lal
+4. Observer's Email : dharam@ncra.tifr.res.in
+5. Project Name : Identifying Possible Steep-spectrum Radio Counterparts to Unidentified Fermi-LAT Gamma-ray Sources
+6. Project Code : 23_026
+7. Operator(s) : Deepak,
+	Nilesh,
+	Rupsingh,
+	
+8. Command File : /odisk/gtac/cmd/dharam/23_026_12feb13_1.cmd,
+	/odisk/gtac/cmd/dharam/23_026_12feb13_2.cmd
+9. LTA File : /gsbifrdata/12feb/23_026_12feb2013.lta
+10. LogFlag File : /odisk/online1/logflags/23_026.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 629 MHz ,RF2 : 253 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 680 MHz, ILO2 : 304 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 629 253 680 304 51 51.
+25. Integration Time : 8.053 Sec.
+26. No of Antennas Working(Fringing) :28
+
+27. Name of Non-Working Antennas (with reason for each) :
+C04 : Taken for Servo motor replacement.
+W01 : Taken for RFI test.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 02:00 - 09:00
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+02:09 : Started scan on 3C147.
+02:19 : Stopped scan.
+02:25 : Started command file
+        '/odisk/gtac/cmd/dharam/23_026_12feb13_1.cmd,
+05:00 : Stopped command file.
+05:08 : Started scan on 3C286.
+05:28 : Stopped scan.
+05:30 : Started command file
+          '/odisk/gtac/cmd/dharam/23_026_12feb13_2.cmd'
+
+08:42 : Stopped command file.
+08:42 : Started scan on 3c286 for ~18min.
+09:00 : Stopped scan and observation session over.
+
+

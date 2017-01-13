@@ -1,0 +1,52 @@
+		 GTAC Observation Log 
+
+1. Date : 29/02/2004
+2. Observation Sr. No. : 1367
+3. Observer : ISHWAR/A. P. Rao
+4. Observer's Email : ishwar@ncra.tifr.res.in,pramesh@ncra.tifr.res.in
+5. Project Name : 3C123
+6. Project Code : 04DT021
+7. Operator(s) : Mangesh,
+	Jayprakash,
+	Sanjay,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/ishwar/3c123.cmd
+9. LTA File : /rawdata/29feb/04dt021_3c123.lta,
+	/rawdata1/29feb/04dt021_3c123.ltb
+10. LogFlag File : /btemp2/logflags/04DT021.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 613 MHz ,RF2 : 243 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 67 MHz, IVLO2 : 67 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+10 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 613 243 680 310 67 67 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C02 : RFI test.(Ref. GCC)
+C06 : Painting.
+W01 : Painting - servo work.
+
+
+21. Start and End Time of Obs.(IST): 14:04 - 19:00
+
+22. Comments (During Observations) :
+*** ONLINE: bhaskar            ***
+*** AUTHIF: @ 610-235 MHz, ALC ON, Power equalise. ***
+----------------------------------
+
+14:04 Started cmd file.
+15:05 C02 releaded for observation.
+18:00 C03 showed acok flag absent.
+19:00 stopped the observation session.
+

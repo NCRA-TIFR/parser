@@ -1,0 +1,56 @@
+		 GTAC Observation Log 
+
+1. Date : 30/07/2007
+2. Observation Sr. No. : 3282
+3. Observer : Enno Middelberg
+4. Observer's Email : middelberg@astro.rub.de
+5. Project Name :  Spectral indices of 1000 ATLAS sources
+6. Project Code : 12EMA01
+7. Operator(s) : Jitendra,
+	Manisha,
+	Nilesh,
+	Sachin,
+	
+8. Command File : /btemp2/cmd/12ema01/eg.cmd
+9. LTA File : /rawdata/30jul/12ema01_30jul2007.lta,
+	/rawdata1/30jul/12ema01_30jul2007.ltb
+10. LogFlag File : /btemp2/logflags/12EMA01.FLAGS.8
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+10 dB, 32 MHz,ON, IF-CH2 : 12+10 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+E03 - USB X ( C13,C14,W-arm) bad baseline
+(C00,C01,C02,C03)X(E04,E05,E06,S01)
+High cross LSB.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 01:50 - 07:33
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+01:50 : Flux cal scan started for 10m
+02:18 : Command file eg.cmd started.
+07:14 : Command file stopped.
+07:17 : Started scan on 0022-423.
+17:18 : Stopped scan (src below horizon).
+07:23 : Started scan on 3C48 for 10m 
+17:33 : Stopped scan and observation session over.
+

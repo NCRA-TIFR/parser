@@ -1,0 +1,56 @@
+		 GTAC Observation Log 
+
+1. Date : 07/11/2009
+2. Observation Sr. No. : 4579
+3. Observer : Sandip Sirothia
+4. Observer's Email : sirothia@ncra.tifr.res.in
+5. Project Name : HD41004Bb
+6. Project Code : 17_066
+7. Operator(s) : Navanath,
+	
+8. Command File : /odisk/gtac/cmd/sirothia/17_066_06nov09.cmd
+9. LTA File : /rawdata/7nov/17_066_07nov2009_16s.lta,
+	/rawdata1/7nov/17_066_07nov2009_16s.ltb
+10. LogFlag File : /odisk/online1/logflags/17_066.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 218 MHz, ILO2 : 218 MHz, IVLO1 : 62 MHz, IVLO2 : 62 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 156 156 218 218 62 62 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+E05 : Strong RFI.
+E03 : Intermittent fringe problem.
+C13 : stopped tracking.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 00:30 - 05:10
+
+23. ONLINE Machine : Lenyadri
+
+24. Correlator Mode : UsbPolar
+
+25. Comments (During Observations) :
+00:30 : Started setup.
+00:42 : Stared scan on 3C48 for 15min.
+01:08 : Started scan on pol calibrator
+01:27 : Started command file.
+01:34 : command file stopped.
+       NOTE : scan no 3 is bad source was below horizon
+01:37 : Restarted command file on source.
+04:35 : Command file stopped.
+04:43 : Started  scan on J0218+4232
+05:05 : Started scan on 3C147
+05:10 : Observing session finished.
+

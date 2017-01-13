@@ -1,0 +1,54 @@
+		 GTAC Observation Log 
+
+1. Date : 03/03/2004
+2. Observation Sr. No. : 1375
+3. Observer : DJP
+4. Observer's Email : dj.pisano@csiro.au
+5. Project Name : HI IN GL
+6. Project Code : 05DJP01
+7. Operator(s) : Manisha J.,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/gtac/djp.cmd
+9. LTA File : /rawdata/3mar/05djp01_ms0440.lta,
+	/rawdata/3mar/05djp01_ms0440.lta.1,
+	/rawdata1/3mar/05djp01_ms0440.ltb.1
+10. LogFlag File : /btemp2/logflags/05DJP01.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 921 MHz ,RF2 : 921 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 855 MHz, ILO2 : 855 MHz, IVLO1 : 66.00 MHz, IVLO2 : 66.00 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 6 MHz,ON, IF-CH2 : 12+12 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 921 921 855 855 66.00 66.00 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C14 low fringe
+C06 painting
+
+21. Start and End Time of Obs.(IST): 18:00 - 23:50
+
+22. Comments (During Observations) :
+*** ONLINE: bhaskar    ***
+*** AUTHIF: @ 1420 MHz ***
+----------------------------
+18:35 started the scan on 3c48
+18:52 started the command file
+19:00 C06 released for observation.
+21:30 stopped the observation and changed the 
+      settings to 925 925 855 855 70 70
+	ifbw=16 MHz. bbbw=4 MHz.
+21:35 restarted the command file.
+22:41 scan # 2,3 and 4 are junk scans.
+from 21:45 to 22:55 C14 and C03 were given for RFI test.
+23:50  stopped observation.
+

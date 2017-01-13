@@ -1,0 +1,71 @@
+		 GTAC Observation Log 
+
+1. Date : 01/06/2013
+2. Observation Sr. No. : 6524
+3. Observer : Vishal Gajjar
+4. Observer's Email : gajjar@ncra.tifr.res.in
+5. Project Name : Pulsar Observation
+6. Project Code : 23_058
+7. Operator(s) : Manisha,
+	Navanath,
+	Sachin,
+	
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /gsbifrdata/01jun/23_058_01jun2013.lta
+10. LogFlag File : /odisk//online1/logflags/23_058.FLAGS.6
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : OFF 
+17. Stokes : Total_Intensity
+18. Beam - 1 : PA
+19. Beam - 2 : PA
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 512 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 306 306 255 255 51 51.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :27
+
+27. Name of Non-Working Antennas (with reason for each) :
+C05 : No fringe.
+E03 : BLDC work.
+W02 : Not releasing servo brakes.
+
+
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 14:00 - 23:00
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+14:04:36 : Started scan on 3C147 for ~ 0.805306 min.
+14:07:34 : Started scan on 3C147 for ~ 4.29496 min.
+14:25:09 : Started scan on 1143+221 for ~ 0.805306 min.
+14:26:20 : Started scan on 1143+221 for ~ 1.34218 min.
+14:27:56 : Started scan on 1143+221 for ~ 1.07374 min.
+14:42:43 : Started scan on B1133+16 for ~ 3.22122 min.
+14:46:13 : Started scan on B1133+16 for ~ 5.63714 min.
+14:56:27 : Started scan on B1133+16 for ~ 122.943 min.
+17:01:14 : Started scan on 1143+221 for ~ 1.07374 min.
+17:02:34 : Started scan on 1143+221 for ~ 4.83183 min.
+17:09:43 : Started scan on B1133+16 for ~ 72.2091 min.
+18:20 : Wind speed very high all ants parked.
+19:30 : restarting observation 
+19:37:48 : Started scan on 1143+221  phasing done.
+19:40:06 : Started scan on 1143+221 for ~ 1.07374 min.
+19:52:06 : Started scan on B1133+16 for ~ 188.173 min.
+23:00 :00 observing session over.
+
+

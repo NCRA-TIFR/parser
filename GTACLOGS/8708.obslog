@@ -1,0 +1,65 @@
+		 GTAC Observation Log
+
+1. Date : 03/07/2016
+2. Observation Sr. No. : 8708
+3. Observer : Ciro Pappalardo, Luca Bizzocchi, Jose Manuel Afonso, Israel Matute
+4. Observer's Email : ciro@oal.ul.pt, bizzocchi@oal.ul.pt, jafonso@oal.ul.pt, imatute@oal.ul.pt
+5. Project Name : Gas-scaling relations during the quenching phase
+6. Project Code : 30_021
+7. Operator(s) : Deepak, Rupsing, Sachin, Shilpa, Surender
+8. Command File : /odisk/gtac/cmd/30_021/03jul16/obs.cmd
+9. LTA File : /gsbifrdata/03jul/30_021_03jul2016.lta
+10. LogFlag File : /odisk/online1/logflags/30_021.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1293.3235 MHz ,RF2 : 1293.3235 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1235 MHz, ILO2 : 1235MHz , IVLO1 : 58.3235 MHz, IVLO2 : 58.3235 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 16 MHz,ON, IF-CH2 : 4+14 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 4 MHz; Step # 2
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 141.6765
+28. LO5 -2  : 163.3235
+
+29. Frequency Parameters (TPA) : 1293.3235 1293.3235 1235 1235 58.3235 58.3235
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :27
+
+32. Name of Non-Working Antennas (with reason for each) :
+C04 : Offset problem.
+C11 : BLDC work.
+C12 : BLDC work.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 03 Jul 2016 12:55:00 - 03 Jul 2016 17:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :27
+
+37. Comments (During Observations) :
+12:55 : Started settings.
+13:07 : Started scan on 3C147.
+13:22 : Stopped scan.
+
+13:28 : '/odisk/gtac/cmd/30_021/03jul16/obs.cmd' command file started.
+13:39 : C10 not releasing elevation brakes.
+14:14 : C10 started working.
+16:43 : Stopped command file.
+16:50 : Started scan on 3C286.
+17:00 : Stopped scan and observing session over.

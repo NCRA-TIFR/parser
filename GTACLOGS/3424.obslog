@@ -1,0 +1,58 @@
+		 GTAC Observation Log 
+
+1. Date : 03/11/2007
+2. Observation Sr. No. : 3424
+3. Observer : D. J. Saikia
+4. Observer's Email : djs@ncra.tifr.res.in
+5. Project Name : DLA
+6. Project Code : 13RSA01
+7. Operator(s) : Deepak,
+	
+8. Command File : /atemp2/cmd/djs/mg0742.cmd
+9. LTA File : /rawdata/3nov/13rsa01_03nov2007.lta,
+	/rawdata1/3nov/13rsa01_03nov2007.ltb
+10. LogFlag File : /atemp2/logflags/13RSA01.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 660.693 MHz ,RF2 : 660.693 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 590 MHz, ILO2 : 590 MHz, IVLO1 : 70.693 MHz, IVLO2 : 70.693 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 6 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 1000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 660.693 660.693 590 590 70.693 70.693 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :25
+
+20. Name of Non-Working Antennas (with reason for each) :
+C03 : servo problem.
+C11-175-USB - zero self
+W01 : LO problem 
+C13-LSB-130 : zero self. 
+C06,C14 - Delay jumps.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 00:00 - 09:00
+
+23. Comments (During Observations) :
+-------------------------------------------------
+******** ONLINE Machine : ADITYA   ********** 
+******** Corr Mode : IndianPolar    *********
+-------------------------------------------------
+00:12 : Started scan on 3C147.
+00:36 : Started command file
+        /atemp2/cmd/djs/mg0742.cmd
+00:40 : C06,C14 showed delay jumps.
+
+04:25 : Comamnd file stopped.
+04:29 : Started scan on 3C147 for 10mins.
+04:44 : Restarted command file.
+
+09:00 : observation session over.
+

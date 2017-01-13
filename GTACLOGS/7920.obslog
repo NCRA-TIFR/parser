@@ -1,0 +1,82 @@
+		 GTAC Observation Log
+
+1. Date : 16/07/2015
+2. Observation Sr. No. : 7920
+3. Observer : Jayaram Narayanan Chengalur, Igor Karachentsev
+4. Observer's Email : chengalur@ncra.tifr.res.in, ikar@sao.ru
+5. Project Name : HI in the most gas rich galaxies in the local volume
+6. Project Code : 28_056
+7. Operator(s) : Navnath, Rupsing
+8. Command File : /odisk/gtac/cmd/chengalu/vcc0169.cmd
+9. LTA File : /gsbifrdata1/16jul/28_056_16jul2015_8s.lta
+10. LogFlag File : /odisk/online1/logflags/28_056.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1399.5635 MHz ,RF2 : 1399.5635 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1340 MHz, ILO2 : 1340MHz , IVLO1 : 59.5635 MHz, IVLO2 : 59.5635 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+4 dB, 16 MHz,OFF, IF-CH2 : 12+12 dB, 16 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 4 MHz; Step # 2
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 140.4365
+28. LO5 -2  : 164.5635
+
+29. Frequency Parameters (TPA) : 1399.5635 1399.5635 1340 1340 59.5635 59.5635
+30. Integration Time : 8.053 Sec
+31. No of Antennas Working(Fringing) at the beginning :23
+
+32. Name of Non-Working Antennas (with reason for each) :
+C03 : ABC Time out
+C10 : AZ/El Brakes
+C13 : BLDC Work
+C14 : AZ/EL Brakes
+E05 : Servo problem
+S03 : Brakes Not Releasing.
+S06 : MCM 5 Timeout ( 1390 Mhz Sub band selected---Low fringe)
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 16 Jul 2015 17:00:00 - 16 Jul 2015 22:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :27
+
+37. Comments (During Observations) :
+16:00 : Started Feed rotation and Pointing.
+16:15 : S01 Released for observation Ref. Sandip Roy & Gourav.
+16:20 : Feed Calibration And Ration done at L Band.
+16:30 : 1390 Mhz pntg setup done. (Ant Counts :24)
+17:13 : C03 Released for observation -Ganesh Thorat.Ant Counts :25
+17:25 : C10 Released For observation - Amit Kumar (Ant Counts :26)
+17:30 : C14 Released for Observation - Amit Kumar (Ant Counts :27)
+--------------------------------------------------------------------
+17:30 : Started setup for pntg at 1390Mhz
+17:40 : Started PNTG Run file.
+18:25 : pntg done.
+--------------------------------------------------------------------
+18:31 : Started scan on 3C286 for 8 min.
+18:43 : Started cmd file.
+   
+   /odisk/gtac/cmd/chengalu/vcc0169.cmd
+
+22:23 : Started scan on 3C286 for 10min.
+22:35 : Observation session over
+------------------------------------------------------------------
+
+
+

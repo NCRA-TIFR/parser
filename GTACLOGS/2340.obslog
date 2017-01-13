@@ -1,0 +1,71 @@
+		 GTAC Observation Log 
+
+1. Date : 09/12/2005
+2. Observation Sr. No. : 2340
+3. Observer : Neeraj Gupta
+4. Observer's Email : djs@ncra.tifr.res.in,neeraj@ncra.tifr.res.in
+5. Project Name : 1247
+6. Project Code : 09DJS02
+7. Operator(s) : Jayprakash,
+	Jitendra,
+	Sanjay,
+	
+8. Command File : /atemp2/cmd/neeraj/1247.cmd,
+	/atemp2/cmd/neeraj/1816.cmd
+9. LTA File : /rawdata/9dec/09djs02_1247.lta,
+	/rawdata1/9dec/09djs02_1247.ltb,
+	/rawdata/9dec/09djs02_1816.lta,
+	/rawdata1/9dec/09djs02_1816.ltb
+10. LogFlag File : /atemp2/logflags/09DJS02.FLAGS.9
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1278.81 MHz ,RF2 : 1278.81 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1210 MHz, ILO2 : 1210 MHz, IVLO1 : 68.81 MHz, IVLO2 : 68.81 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 16 MHz,ON, IF-CH2 : 16+16 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1278.81 1278.81 1210 1210 68.81 68.81 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+--
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 07:12 - 18:40
+
+23. Comments (During Observations) :
+* ONLINE: aditya
+* AUTHIF: 1280 MHz
+* CORR  : IndianPolar
+---------------------------
+07:12 : 3C286 scan started for 20m
+07:44 : Command file '1247.cmd' started.
+09:25 : C09 - Painting
+10:00 : 3C286 scan for 10m
+12:25 : Command file stopped.
+12:30 : 3c286 scan for 10m
+12:40 : Scan stopped.
+----------------------------------------------------------
+12:45 : Das halted, and re-configured for
+        CLK_SEL 3
+        RF : 1170 MHz, ILO : 1070 MHz
+        IVLO : 70.8 MHz
+13:00 : TPA 1140.8 1140.8 1070 1070 70.8 70.8
+13:04 : 3C286 for 10m
+13:20 : command file '1816.cmd' started.
+16:28 : Stopped command file and took scan on 3c48 
+for 20 mins.
+16:56 : Restarted command file.
+18:32 : Stopped command file and took scan on 3C48 for 18 mins.
+18:40 : Closed project.
+
+
+

@@ -1,0 +1,62 @@
+		 GTAC Observation Log
+
+1. Date : 19/05/2015
+2. Observation Sr. No. : 7790
+3. Observer : Nissim Kanekar, Shiv Kumar Sethi, Dwarakanath K.S.
+4. Observer's Email : nkanekar@ncra.tifr.res.in, sethi@rri.res.in, dwaraka@rri.res.in
+5. Project Name : %latex%A GMRT search for HI-21cm emission from star-forming galaxies at $z \\approx 1.3$ 
+6. Project Code : 28_097
+7. Operator(s) : Deepak, Nilesh, Rupsing
+8. Command File : /odisk/gtac/cmd/nissim/deep2_1.cmd
+9. LTA File : /gsbifrdata/18may/28_097_18may2015.lta
+10. LogFlag File : /odisk/online1/logflags/28_097.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 591 591 540 540 51 51
+30. Integration Time : 8.053 Sec
+31. No of Antennas Working(Fringing) at the beginning :27
+
+32. Name of Non-Working Antennas (with reason for each) :
+C09 : CST painting.
+E04 : Servo problem.
+S04 : BLDC.
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 18 May 2015 20:00:00 - 19 May 2015 07:06:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :27
+
+37. Comments (During Observations) :
+20:09 : Started scan on 3C286.
+20:19 : Stopped scan.
+
+20:22 : Started command file.
+06:40 : Stopped command file.
+
+06:45 : Started scan on 3C48.
+07:06 : Stopped scan and observing session over.

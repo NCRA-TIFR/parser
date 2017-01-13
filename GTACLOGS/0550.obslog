@@ -1,0 +1,39 @@
+1. Date : 29/04/2002
+2. Observation Sr. No. : 550
+3. Observer & email : Dr. Jayram Chengalur. & chengalur@ncra.tifr.res.in.
+4. Project Name & Code :  0439-433/01JNC01
+5. Operator(s) :  Sanjay(1) , Santaji(1), Mangesh(2), Manish(2)
+6. Command File/Source  & Lta File : /temp2/data/cmd/chengalu/0439.cmd
+                                   : /rawdata/29apr/01jnc01_0439_29apr.lta
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 :  1280 MHz.,  0 dB., OFF.
+8. Ist LO (MHz) & IVth LO (MHz) : 1215 MHz.,  74.60 MHz.  
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : 2+2 dB., 16 MHz., ON.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status : 1 MHz., 12 dB., ON.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 4 / 4 
+12. Channels : 0,127,1 
+13. Frequency Parameters (TPA) :tpa 1289.6 1289.6 1215 1215 74.6 74.6 
+
+14. Integration Time (Sec.) : 32 sec (16*16m)
+15. No of Antennas Working(Fringing/tracking):  28
+16. Name of Non-Working Antennas (with reason for each) :
+
+	C03	 MCM 5 Time Out. 
+    E06  No fringe (FE problem.)
+
+17. Starting and Ending time of Observations (IST) : 11:30 - 17:37
+18. Comments (During Observations) :
+
+   	11:55 	started scan on 3c48 for 20 min 
+	12:30   strted command file /temp2/data/cmd/chengalu/0439.cmd
+    17:00   Stopped the scan and command file. Moved antennas to 3c147.
+    17:07   C04 started giving ABC T. O.
+    17:16   Started a scan on 3c147 for 20 minutes.
+    17:37   Stopped the scan closed the observation.
+
+19. Data Backup files & Tape No. :

@@ -1,0 +1,77 @@
+		 GTAC Observation Log 
+
+1. Date : 19/01/2006
+2. Observation Sr. No. : 2948
+3. Observer : SPAL
+4. Observer's Email : spal@ncra.tifr.res.in
+5. Project Name : 3C223
+6. Project Code : 11SPA01
+7. Operator(s) : Jayprakash,
+	Navanath,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/spal/19dec.cmd
+9. LTA File : /rawdata/19dec/11spa01_19dec06.lta,
+	/rawdata/19dec/11spa01_19dec06.lta.1,
+	/rawdata1/19dec/11spa01_19dec06.ltb,
+	/rawdata1/19dec/11spa01_19dec06.ltb.1
+10. LogFlag File : /btemp2/logflags/11SPA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 158 MHz ,RF2 : 158 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 220 MHz, ILO2 : 220 MHz, IVLO1 : 62 MHz, IVLO2 : 62 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 6+0 dB, 16 MHz,ON, IF-CH2 : 6+0 dB, 16 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 158 158 220 220 62 62 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+E06 - ABC Timeout proble
+C11 - No fringe.
+C01, C06 : Servo porblem
+S02,S03 usb bad band shape
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 22:30 - 09:05
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : USBHighRes mode    *********
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+---------------------------------------------
+
+22:30 Obsrvation session started.
+00:34 Phases on phase cal looks abnormal,
+      closed observation, restarted from scratch.
+00:44 MSEB power failed.
+01:47 Power resumed, restarted observation. New record started.
+       Fringe on S01, S02, S03, (S04 for some time), W05 shows no fringe,
+        W01 ABC T.O. Started.
+03:31 Power failed again.
+04:05 Power resumed, restarted observation.
+      C14 servo T.O. Started., W05 Servo problem started.
+
+08:48 : Command file stopped.
+08:52 : Started scan on 3C286 for 10mins.
+
+09:05 : Observation stopped.
+
+
+
+
+

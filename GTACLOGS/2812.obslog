@@ -1,0 +1,55 @@
+		 GTAC Observation Log 
+
+1. Date : 01/09/2006
+2. Observation Sr. No. : 2812
+3. Observer : R. A. Angiras 
+4. Observer's Email : ngk@ncra.tifr.res.in,rangiras@rri.res.in
+5. Project Name : HCG061
+6. Project Code : 10RAA01
+7. Operator(s) : Jitendra,
+	Navanath,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/rabbi/hcg061.cmd
+9. LTA File : /rawdata/1sep/10raa01_1sep06.lta,
+	/rawdata/1sep/10raa01_1sep06.lta
+10. LogFlag File : /btemp2/logflags/10RAA01.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1400.179 MHz ,RF2 : 1400.179 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1330 MHz, ILO2 : 1330 MHz, IVLO1 : 70.179 MHz, IVLO2 : 70.179 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+4 dB, 16 MHz,ON, IF-CH2 : 6+5 dB, 16 MHz,ON
+14. BB BW(KHz) & BB ALC : 4000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1400.179 1400.179 1330 1330 70.179 70.179 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+C12 : No fringe.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 09:00 - 17:17
+
+23. Comments (During Observations) :
+-------------------------------------------------
+-------------- ONLINE BHASKAR -------------------
+--------- INDIAN POLAR --------------------------
+-------------------------------------------------
+11:00 : started settings
+11:26 : Started scan of 3C147
+11:46 : Started command file.
+16:49 : Scan stopped.
+16:57 : phase cal scan started for 5m
+17:02 : Scan stopped.
+17:07 : 3C286  flux cal scan started.
+17:17 : Scan stopped and project over.
+
+* Note: Modified the project-code.

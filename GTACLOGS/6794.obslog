@@ -1,0 +1,76 @@
+		 GTAC Observation Log 
+
+1. Date : 21/11/2013
+2. Observation Sr. No. : 6794
+3. Observer : Bhaswati Bhattacharya,Jayanta Roy,Yashwant Gupta,Dipankar Bhattacharya,Elizabeth Ferrara
+4. Observer's Email : bhaswati@ncra.tifr.res.in,jroy@ncra.tifr.res.in,ygupta@ncra.tifr.res.in,dipankar@iucaa.ernet.in,elizabeth.c.ferrara@nasa.gov
+5. Project Name : Search for millisecond radio pulsations within the error boxes of Fermi LAT unassociated sources
+6. Project Code : 25_045
+7. Operator(s) : Navanath,Rupsingh,
+8. Command File : /odisk/gtac/cmd/jroy/25_045.21nov.1.cmd,/odisk/gtac/cmd/jroy/25_045.21nov.cmd,/odisk/gtac/cmd/jroy/25_045.21nov.2.cmd
+9. LTA File : /gsbifrdata/21nov/25_045_21nov2013.lta,/gsbifrdata/21nov/25_045_21nov2013.lta.1,
+10. LogFlag File : /odisk/online1/logflags/25_045.FLAGS.1,
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : Realtime 
+15. GSB LTA : 8 
+16. GSB CTRL : ONLINE 
+17. GSB Fstop : ON 
+18. GAIN EQ : OFF 
+19. Stokes : TotIntensity
+20. Beam - 1 : IA
+21. Beam - 2 : PA
+22. ACQ BW : 33.33 MHz
+23. Final BW : 33.333333 MHz; Step # 0
+24. Maximum Channels : 512 
+25. Channel Numbers : 0:511:1 
+26. LO5 -1  : 149.00 
+27. LO5 -2  : 156.00 
+
+28. Frequency Parameters (TPA) : 591 591 540 540 51 51.
+29. Integration Time :  Sec.
+30. No of Antennas Working(Fringing) at the begining :27
+
+31. Name of Non-Working Antennas (with reason for each) :
+C00 : Intrmediately tracking off source in az.
+C10 : NO fringe @ 610 mhz.
+E05 : Freq. getting ABC reset.
+
+32. Note for Backup :
+
+33. Start and End Time of Obs.(IST): 18:00 - 05:02
+
+34. ONLINE Machine : Lenyadri
+
+35. No of Antennas Working(Fringing) at the end :27
+
+36. Comments (During Observations) :
+18:00 : Started setup.
+18:20 : Power eq and phasing done @ 300 counts.
+18:25 : Started cmd file.
+ /odisk/gtac/cmd/jroy/25_045.21nov.cmd
+
+19:25 : started  second part settings.
+
+    /odisk/gtac/cmd/jroy/25_045.21nov.1.cmd
+
+21:27 : one of the src below horizon.
+21:30 : scan stopped and restarted second cmd file.
+ 
+           /odisk/gtac/cmd/jroy/25_045.21nov.2.cmd
+
+       : E05 removed from GAC.
+
+23:08 : C00 add in GAC.
+02:27 : C00 remove from GAC.
+
+05:02 : Stopped command file & observation session over.
+
+     

@@ -1,0 +1,56 @@
+		 GTAC Observation Log 
+
+1. Date : 05/5/2011
+2. Observation Sr. No. : 5312
+3. Observer : Sayan Chakraborty
+4. Observer's Email : sayan@tifr.res.in
+5. Project Name : NGC3278
+6. Project Code : 20_058
+7. Operator(s) : Navanath,
+	Nilesh,
+	
+8. Command File : /odisk/gtac/cmd/sayan/20_058_1280.cmd
+9. LTA File : /gsbifrdata/05may/20_058_05may2011.lta,
+	
+10. LogFlag File : /odisk/online1/logflags/20_058.FLAGS.5
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1261 MHz ,RF2 : 1261 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1210 MHz, ILO2 : 1210 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+12 dB, 32 MHz,ON, IF-CH2 : 10+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. Maximum Channels : 256 
+15. Final Bandwidth (MHz): OFF MHz; Step # 0
+16. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+
+20. Frequency Parameters (TPA) : 1261 1261 1210 1210 51 51.
+21. Integration Time : 16.106 Sec.
+22. No of Antennas Working(Fringing) :25
+
+23. Name of Non-Working Antennas (with reason for each) :
+E-arm - Optical Fibre cut.
+24. Note for Backup :--
+
+25. Start and End Time of Obs.(IST): 17:00 - 00:00
+
+26. ONLINE Machine : Lenyadri
+
+27. Comments (During Observations) :
+17:04 : Started scan on 3c147 ~15min.
+17:28 : Started command file.
+        '/odisk/gtac/cmd/sayan/20_058_1280.cmd'.
+23:21 : Started scan on 3C286 for 15min.
+23:40 : Started scan on GRB110328A
+00:00 : Observation session over.
+
+
+
+
+
+

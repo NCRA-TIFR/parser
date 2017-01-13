@@ -1,0 +1,42 @@
+1. Date : 28/06/2002
+2. Observation Sr. No. : 0662
+3. Observer & email : Jayaram Chengalur, chengalu@ncra.tifr.res.in
+4. Project Name & Code : GSM TX, 02GSM01
+5. Operator(s) : Manisha
+6. Command File/Source  & Lta File : /temp2/data/cmd/chengalu/f1725.cmd
+                                   : /rawdata/27jun/02gsm01_f1725.lta.1
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 : 1420 MHz , 0dB , OFF
+8. Ist LO (MHz) & IVth LO (MHz) : 905 MHz , 77.60 MHz
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : 12+12 dB , 16 MHz , ON
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status : 8 MHz , 3 dB , ON
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 1
+12. Channels : 0:127:1
+13. Frequency Parameters (TPA) : 982.6 982.6 905 905 77.6 77.6
+
+14. Integration Time (Sec.) : 32 Sec ( LTA : 16 X 16m)
+15. No of Antennas Working(Fringing) :  23 + 2*1/2
+16. Name of Non-Working Antennas (with reason for each) :
+
+	C10	: low fringe and self..
+	C04	: low fringe.
+	C14 : feed no in focus
+	E02 : no fringe?
+	E06 : 175 pol down
+	S01 : 175 pol down.
+	S06 : no fringe.?
+
+17. Starting and Ending time of Observations (IST) : 00:00 - 02:00
+18. Comments (During Observations) :
+
+	00:00  Started das scan on 3c286.
+	00:15  Stopped das scan on 3c286.
+	00:17  Started cmd file /temp2/data/cmd/chengalu/f1725.cmd
+	02:00  Stopped command file and observation session.
+	
+19. Data Backup files & Tape No. :

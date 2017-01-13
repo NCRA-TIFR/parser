@@ -1,0 +1,62 @@
+		 GTAC Observation Log
+
+1. Date : 28/06/2016
+2. Observation Sr. No. : 8693
+3. Observer : Vernesa Smolcic, Huib T Intema, Cathy Horellou, Nikola Baran, Somak Raychaudhury, Jacinta Claire Delhaize, Huub Rottgering, Mark Birkinshaw, Chiara Ferrari, Sean McGee, Malcolm Bremer, Marguerite Pierre, Cyril Tasse, Wendy Williams, Konstantinos Kolokythas, Ray Norris, P Ciliegi, M Bondi, Mladen Novak
+4. Observer's Email : vs@astro.uni-bonn.de, hintema@nrao.edu, Cathy.Horellou@chalmers.se, nbaran@phy.hr, somak@star.sr.bham.ac.uk, jacinta@phy.hr, rottgeri@strw.leidenuniv.nl, Mark.Birkinshaw@bristol.ac.uk, chiara.ferrari@oca.eu, mcgee@strw.leidenuniv.nl, M.Bremer@bristol.ac.uk, mpierre@discovery.saclay.cea.fr, cyril.tasse@obspm.fr, wwilliams@strw.leidenuniv.nl, kkolok@star.sr.bham.ac.uk, ray.norris@csiro.au, ciliegi@bo.astro.it, bondi@ira.cnr.it, mlnovak@phy.hr
+5. Project Name : XXL: The history of black hole growth and the nature of radio-mode AGN feedback: Final part
+6. Project Code : 30_005
+7. Operator(s) : Nilesh
+8. Command File : /odisk/gtac/cmd/30_005/28jun16/obs.cmd
+9. LTA File : /gsbifrdata1/28jun/30_005_28jun2016.lta
+10. LogFlag File : /odisk/online1/logflags/30_005.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 0 MHz; Step # 0
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 591 591 540 540 51 51
+30. Integration Time : 8.053 Sec
+31. No of Antennas Working(Fringing) at the beginning :25
+
+32. Name of Non-Working Antennas (with reason for each) :
+C09 : : Gear Box replacement.
+C10 : : MCM-10 time out.
+C11 : : BLDC installation.
+C12 : : BLDC installation.
+E03 : : Servo Problem.
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 28 Jun 2016 04:15:00 - 28 Jun 2016 09:51:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :25
+
+37. Comments (During Observations) :
+04:58 : Started scan on 3C48 for ~ 13 min.
+05:22 : Started command file.
+        /odisk/gtac/cmd/30_005/28jun16/obs.cmd
+09:32 : Stopped command file.
+09:37 : Started scan on 3C48.
+09:51 : Stopped scan and observing session over.

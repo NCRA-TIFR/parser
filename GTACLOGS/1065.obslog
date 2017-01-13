@@ -1,0 +1,59 @@
+		 GTAC Observation Log 
+
+1. Date : 23/07/2003
+2. Observation Sr. No. : 1065
+3. Observer : mamta
+4. Observer's Email : mamta@ncra.tifr.res.in
+5. Project Name : July23TO
+6. Project Code : 04PDA01
+7. Operator(s) : Jitendra,
+	
+8. Command File : /btemp2/cmd/mamta/jul23_1.cmd,
+	/btemp2/cmd/mamta/jul23_2.cmd
+9. LTA File : /rawdata/23jul/04pda01_grs1915.lta,
+	/rawdata1/23jul/04pda01_grs1915.ltb
+10. LogFlag File : /btemp2/logflags/04PDA01.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 325 MHz ,RF2 : 325 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 255 MHz, ILO2 : 255 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 325 325 255 255 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+S01: USB 130 no fringe.
+C05: USB Intermittant flat bandshape problem
+E04,E05,E06 Low fring.
+S04: 130 no fringe.
+
+21. Start and End Time of Obs.(IST): 00:57 - 16:00
+
+22. Comments (During Observations) :
+ONLINE : BHASKAR.
+IF ATTN : AUTHIF at 325 MHz.
+================================
+
+00:57 : Flux calibrator 3C48 started for 10m.
+03:41 : command file 'jul23_1.cmd' closed.
+03:51 : Command file 'jul23_2.cmd' started for
+        CYGX1 & CYGX3 Observation.
+06:25 : Command file stopped.
+06:35 : Flux cal scan started for 10m.
+
+       * W02 , C05,C06 Flat bandshape problem
+       * C03,W01 : Servo problem,antenna not tracking.
+06:51   : Flux cal scan restarted after running corr_config
+          to get the above three antennas
+
+07:01   : Scan stopped & Project over.
+

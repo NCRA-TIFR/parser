@@ -1,0 +1,53 @@
+		 GTAC Observation Log 
+
+1. Date : 25/02/2005
+2. Observation Sr. No. : 1910
+3. Observer : RBESWICK
+4. Observer's Email : rbeswick@jb.man.ac.uk,djs@ncra.tifr.res.in
+5. Project Name : SEYFERT
+6. Project Code : 07RBB01
+7. Operator(s) : Jayprakash,
+	Manish G.,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/rbeswick/f01475.cmd
+9. LTA File : /rawdata/25feb/07rbb01_f01475.lta,
+	/rawdata1/25feb/07rbb01_f1475.ltb
+10. LogFlag File : /btemp2/logflags/07RBB01.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1391.7694 MHz ,RF2 : 1391.7694 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1320 MHz, ILO2 : 1320 MHz, IVLO1 : 71.7694 MHz, IVLO2 : 71.7694 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 32 MHz,ON, IF-CH2 : 12+12 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1391.7694 1391.7694 1320 1320 71.7694 71.7694 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C12: Painting work.
+E02: No fringe.
+
+21. Start and End Time of Obs.(IST): 12:30 - 20:19
+
+22. Comments (During Observations) :
+ONLINE : bhaskar
+AUTHIF : 1390 MHz
+****************************
+
+12:30  Started scan on 3C48.
+12:50  Stopped the scan.
+16:00 : Stopped the command file.
+16:07 : Started the scan on 3c48 for 20min.
+16:27 : Stopped the scan.
+16:31 : Restarted the command file.
+20:19 : observation session over
+
+

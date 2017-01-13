@@ -1,0 +1,44 @@
+1. Date : 18/01/2002
+2. Observation Sr. No. : 31
+3. Observer & email : vku, vku@ncra.tifr.res.in
+4. Project Name & Code : 01AKA01
+5. Operator(s) : Jitendra(3)
+6. Command File/Source  & Lta File : /temp2/data/cmd/vku/0854.cmd
+                                   : /rawdata/18jan/01aka01_qso.lta.
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 : 610 MHz., 0 dB., OFF.
+8. Ist LO (MHz) & IVth LO (MHz) : 540 MHz., 70 MHz.
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : 10 + 10 dB., 32 MHz., ON.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status :16 MHz., 0 dB., ON.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 0 / 0
+12. Channels : 0,127,1
+13. Frequency Parameters (TPA) : 610 610 540 540 70 70
+
+14. Integration Time (Sec.) : ~17 sec (16*8m)
+15. No of Antennas Working(Fringing) : 26
+16. Name of Non-Working Antennas (with reason for each) :
+
+	C12		Mech.
+	E06		Mech.
+    W06     ABC time out.
+    C14     Azimuth brake problem.
+
+17. Starting and Ending time of Observations (IST) : 21:15
+
+18. Comments (During Observations) :
+	30:47	flux cal scan started 10 for 10 minutes
+    30:57   flux cal scan stopped.
+
+	11:13	W04 stopped working, (manual mode)
+			S06 Given for GSDA work.
+ 	12:00	C14 Started working.   
+	12:40	W04 Started tracking.
+	15:30	S06 back for obs.
+
+
+19. Data Backup files & Tape No. :

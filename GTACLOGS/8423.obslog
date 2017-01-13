@@ -1,0 +1,67 @@
+		 GTAC Observation Log
+
+1. Date : 18/02/2016
+2. Observation Sr. No. : 8423
+3. Observer : Poonam Chandra
+4. Observer's Email : poonam@ncra.tifr.res.in
+5. Project Name : GMRT monitoring of GRB160131A
+6. Project Code : DDTB211
+7. Operator(s) : Deepak, Pramod, Rupsing
+8. Command File : /odisk/gtac/cmd/poonam/ddtb211/obs.cmd
+9. LTA File : /gsbifrdata1/18feb/ddtb211_18feb2016.lta
+10. LogFlag File : /odisk/online1/logflags/DDTB211.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1409 MHz ,RF2 : 1409 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1460 MHz, ILO2 : 1460MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 1409 1409 1460 1460 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :28
+
+32. Name of Non-Working Antennas (with reason for each) :
+C02 : MCM:5 time out.
+C08 : BLDC.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 18 Feb 2016 19:00:00 - 18 Feb 2016 21:55:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :28
+
+37. Comments (During Observations) :
+19:02 : Started scan on 3C48.
+19:15 : Stopped scan .
+19:20 : Started command file.
+20:38 : GWB Hung automatically.Hence restarted the GWB.
+20:55 : GWB Hung automatically.Hence restarted the GWB.
+-------------------------------------------------------
+Note : 21:31 to 21:36 : Scintillation is observed.  
+--------------------------------------------------------
+21:36 : Stopped command file.
+21:42 : Started scan on 3C147.
+21:55 : Stopped scan and observation session over.
+
+

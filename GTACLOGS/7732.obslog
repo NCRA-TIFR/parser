@@ -1,0 +1,73 @@
+		 GTAC Observation Log
+
+1. Date : 24/04/2015
+2. Observation Sr. No. : 7732
+3. Observer : Ruta Kale ,Viral Parekh 
+
+4. Observer's Email : ruta.kale@gmail.com
+5. Project Name : Radio sources in the Massive and Distant Clusters of the WISE Survey\r\n\r\n
+6. Project Code : 28_028
+7. Operator(s) : Pramod, Rupsing
+8. Command File : /odisk/gtac/cmd/28_028/23apr15/obs_s4.cmd,,/odisk/gtac/cmd/28_028/23apr15/obs_s6.cmd
+9. LTA File : /gsbifrdata/23apr/28_028_23apr2015.lta.1,/gsbifrdata/23apr/28_028_23apr2015.lta
+10. LogFlag File : /odisk/online1/logflags/28_028.FLAGS.1,/odisk/online1/logflags/28_028.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1281 MHz ,RF2 : 1281 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1230 MHz, ILO2 : 1230MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 1281 1281 1230 1230 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :27
+
+32. Name of Non-Working Antennas (with reason for each) :
+W06 : Very low fringe.
+C00 : Electrical Problem
+C14 : Taken by mechanical people.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 23 Apr 2015 17:00:00 - 24 Apr 2015 01:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :28
+
+37. Comments (During Observations) :
+16:32 : Y-arm antennas released by electrical(MSEB).
+17:05 : Started pointing on 3C147.
+17:40 : Pointing done.
+15:41 : Started set up for 1280 MHz.
+17:55 : Started scan on 3C147.
+18:09 : Stopped scan.
+18:13 : Started command file
+        '/odisk/gtac/cmd/28_028/23apr15/obs_s4.cmd'
+20:00 : C00 problem solved and taken for observation. 
+20:32 : Scintillation appeared in the data. 
+20:50 : Stopped command file.
+20:52 : Started scan on 3C286.
+21:37 : Started new lta file.
+23:00 : 01:00 : data affected by Scintillation 
+01:00 : observing session over.
+-----------------------------------
+

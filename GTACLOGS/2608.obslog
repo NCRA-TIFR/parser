@@ -1,0 +1,60 @@
+		 GTAC Observation Log 
+
+1. Date : 16/05/2006
+2. Observation Sr. No. : 2608
+3. Observer : Neeraj
+4. Observer's Email : neeraj@ncra.tifr.res.in,anand@iucaa.ernet.in
+5. Project Name : MG2358
+6. Project Code : 10RSA01
+7. Operator(s) : Jitendra,
+	Manisha J.,
+	
+8. Command File : /btemp2/cmd/neeraj/mg2358.cmd
+9. LTA File : /rawdata/16may/10rsa01_2358.lta,
+	/rawdata1/16may/10rsa01_2358.ltb
+10. LogFlag File : /btemp2/logflags/10RSA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 652.95 MHz ,RF2 : 652.95 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 585 MHz, ILO2 : 585 MHz, IVLO1 : 67.95 MHz, IVLO2 : 67.95 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 16 MHz,ON, IF-CH2 : 16+16 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 2000 KHz, 9 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 652.95 652.95 585 585 67.95 67.95 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+130(LL) -corracqb corr- W06,E03,S02 - No fringe.
+
+S03- ABC T.O.
+W03 - Servo problem
+W02 - Painting.
+C06-LSB - High gain.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 07:36 - 00:00
+
+23. Comments (During Observations) :
+*** ONLINE : bhaskar ***
+*** High-Res Mode ***
+*** Nauth 610 MHz ****
+---------------------------------
+
+07:36 : Flux calibrator for 15m.
+08:07 : Command file started.
+09:00 : Power failed at S-arm.
+10:30 : command file stopped.
+10:41 : Band-pass calibrator for 15m.
+11:00 : S-arm power came. 
+        W03 - Servo problem solved, antenna fringing.
+
+11:04 : Command file started.
+

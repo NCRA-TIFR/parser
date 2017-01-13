@@ -1,0 +1,97 @@
+		 GTAC Observation Log 
+
+1. Date : 30/01/2007
+2. Observation Sr. No. : 3020
+3. Observer : Neeraj Gupta
+4. Observer's Email : neeraj@ncra.tifr.res.in
+5. Project Name : mg2
+6. Project Code : 11RSA01
+7. Operator(s) : Deepak,
+	Jayprakash,
+	Jitendra,
+	Navanath,
+	
+8. Command File : /btemp2/cmd/neeraj/mg0154.cmd,
+	/btemp2/cmd/neeraj/mg1145.cmd
+9. LTA File : /rawdata/30jan/11rsa01_30jan07.lta,
+	/rawdata1/30jan/11rsa01_30jan07.ltb,
+	/rawdata/30jan/11rsa01_1145_30jan2007.lta,
+	/rawdata1/30jan/11rsa01_1145_30jan2007.ltb
+10. LogFlag File : /btemp2/logflags/11RSA01.FLAGS.4,
+	/btemp2/logflags/11RSA01.FLAGS.6
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 651.051 MHz ,RF2 : 651.051 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 580 MHz, ILO2 : 580 MHz, IVLO1 : 71.051 MHz, IVLO2 : 71.051 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 6 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 1000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 651.051 651.051 580 580 71.051 71.051 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+E03 - Painting
+w02 - Bad band shape
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 14:00 - 08:57
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : Indian polar   ************
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+---------------------------------------------
+14:11 : Started scan on 3c48.
+14:33 : Stopped the scan.
+21:20 : Command file stopped.
+22:00 : Started scan on 3c147 for 15min.
+22:30 : Project 11RSA01 stopped.
+------------------------------------------------
+Settings Chage for project 11RSA01 :
+Band :610 MHz.
+Lo1  : 535 MHz.
+Lo4  : 70.7600 MHz.
+IFBBW: 6 MHz
+BBBw : 1 MHz.
+TPA  :605.7600 605.7600 535 535 70.7600 70.7600
+Corr :Indian polar Mode.
+-----------------------------------------------
+22:36 : Started scan on flux cal 3c147 for 20min.
+23:15 : Command file started.
+01:38 : MSEP power failure.
+
+02:10 : Started scan on 3C147 for 10mins.
+02:27 : Restarted command file.
+03:52 : MSEB power failure.
+04:00 : MSEB power resume.
+04:15 : Restarted command file.
+04:15 : W02 servo problem.
+05:07 : Command file stopped.
+05:14 : Started scan on 3C286 for 10mins.
+05:28 : Restarted command file.
+05:44 : MSEB power failure.
+05:53 : MSEB power resume.
+06:15 : Restarted command file.
+06:30 : MSEB power failure.
+06:38 : MSEB power resume.
+06:55 : Restarted command file.
+08:16 : Stopped the command file.
+08:17 : Started scan on phase cal.
+08:26 : Stopped the scan.
+08:29 : Started scan on 3c286.
+08:57 : Stopped the scan & project.
+

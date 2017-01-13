@@ -1,0 +1,55 @@
+		 GTAC Observation Log 
+
+1. Date : 27/08/2007
+2. Observation Sr. No. : 3347
+3. Observer : Mausami Das
+4. Observer's Email : mousami@rri.res.in
+5. Project Name : UGC4422
+6. Project Code : 12MDA02
+7. Operator(s) : Deepak,
+	Jayprakash,
+	Manisha,
+	
+8. Command File : /btemp2/cmd/12mda01/ugc4422.cmd
+9. LTA File : /rawdata/27aug/12mda02_27aug2007.lta,
+	/rawdata1/27aug/12mda02_27aug2007.ltb
+10. LogFlag File : /btemp2/logflags/12MDA02.FLAGS.5
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1280 MHz ,RF2 : 1280 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1210 MHz, ILO2 : 1210 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 6+16 dB, 32 MHz,ON, IF-CH2 : 6+0 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1280 1280 1210 1210 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+W02 : servo problem
+E02 : servo timeout.
+C05 : servo problem.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 06:30 - 11:14
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+06:31 : Started scan on 3C48 for 10mins.
+06:45 : Started command file
+        /btemp2/cmd/12mda01/ugc4422.cmd.
+08:05 : Changed the track & restarted the command file.
+11:05 : stopped command file.
+11:07 : started scan on 3c147 ~7mins.
+11:14 : stopped das & obsrevation session.
+

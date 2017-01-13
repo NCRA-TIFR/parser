@@ -1,0 +1,69 @@
+		 GTAC Observation Log
+
+1. Date : 14/06/2016
+2. Observation Sr. No. : 8656
+3. Observer : A.R. Rao, Santosh Vadawale, Sachindra Naik, Sudip Bhattacharyya, KP Singh, Gulab Chand Dewangan, Dipankar Bhattacharya, Ranjeev Misra, C.S. Stalin, Biswajit Paul, C.H. IshwaraChandra, Debdutta Paul
+4. Observer's Email : arrao@tifr.res.in, santoshv@prl.res.in, snaik.prl@gmail.com, sudip@tifr.res.in, singh@tifr.res.in, gulabd@iucaa.ernet.in, dipankar@iucaa.ernet.in, rmisra@iucaa.ernet.in, stalin@iiap.res.in, bpaul@rri.res.in, ishwar@ncra.tifr.res.in, dbdttpl@gmail.com
+5. Project Name : Jet triggering mechanism in GRS 1915\\+105
+6. Project Code : 30_053
+7. Operator(s) : Navnath, Pramod, Surender
+8. Command File : /odisk/gtac/cmd/30_053/obs.cmd
+9. LTA File : /gsbifrdata/14jun/30_053_14jun2016_610.lta, /gsbifrdata/14jun/30_053_14jun2016_1400.lta
+10. LogFlag File : /odisk/online1/logflags/30_053.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 0 MHz; Step # 0
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 591 591 540 540 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :29
+
+32. Name of Non-Working Antennas (with reason for each) :
+C02 : BLDC.
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 14 Jun 2016 00:00:00 - 14 Jun 2016 08:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :28
+
+37. Comments (During Observations) :
+Suba 4 (1400 MHz default) 
+C01,C03,C05,C08,C09,C10,C11,C13,E02,E04,S02,S04,W01,W03,W05 
+
+Suba 2 (610 MHz default)
+C00,C02,C04,C06,C12,C14,E03,E05,E06,S01,S03,S06,W02,W04,W06
+-------------------------------------------------------------
+00:15 : Pointing done.
+00:16 : Started set-up.
+00:22 : Started scan on 3C286 for 10mins.
+00:41 : Started command file.
+ '/odisk/gtac/cmd/30_053/obs.cmd'
+05:35 : W04 ABC time out.
+07:31 : Stopped command file.
+07:37 : Started scan on 3C48.
+07:51 : Stopped scan and observation session is over.
+
+

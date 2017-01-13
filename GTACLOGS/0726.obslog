@@ -1,0 +1,45 @@
+1. Date : 27/07/2002
+2. Observation Sr. No. : 0726
+3. Observer : Ananda Hota
+4. Observer's Email : hota@ncra.tifr.res.in
+5. Project Name : ngc1482
+6. Project Code : 02JAI01
+7. Operator(s) : Kamble J.R.,Umbarje M.S.,
+8. Command File : /temp2/data/cmd/hota/ngc3079.cmd
+9. LTA File : /rawdata/27jul/02jai01_ngc3079.lta
+
+ANTENNA SETTINGS :
+
+10. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+11. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+12. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 32 MHz,on, IF-CH2 : 12+12 dB, 32 MHz,on
+13. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, on
+
+CORREATOR SETTINGS :
+
+14. CLK_SEL/Samp_Freq : 0
+15. Channels : 0:127:1
+16. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+17. Integration Time : 128 STA ~ 16.908 Sec.
+18. No of Antennas Working(Fringing) :28
+
+19. Name of Non-Working Antennas (with reason for each) :
+C13 130 pole no fringe.
+E04 El brk problem.
+
+20. Start and End Time of Obs.(IST): 09:50 - 00:00
+
+21. Comments (During Observations) :
+09:50	Started scan on 3c147.
+10:02   Stopped the scan on 3c147. Moved antennas
+        to 0834+555.
+
+10:15   Started the command file 
+           /temp2/data/cmd/hota/ngc3079.cmd
+11:18   E04 started tracking the source.
+12:44   Command file stopped.
+12:49   Started scan on 3c286 for 10min.
+12:59   Observation stopped.
+
+

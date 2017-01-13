@@ -1,0 +1,69 @@
+		 GTAC Observation Log 
+
+1. Date : 22/05/2010
+2. Observation Sr. No. : 4878
+3. Observer : Marek,Sumana
+4. Observer's Email : jamrozy@oa.uj.edu.pl,eddie@oa.uj.edu.pl,machalsk@oa.uj.edu.pl,szola@oa.uj.edu.pl,cygnus@oa.uj.edu.pl,djs@ncra.tifr.res.in,sumana1981@gmail.com
+5. Project Name : J1159+5820
+6. Project Code : 18_026
+7. Operator(s) : Deepak,
+	Rupsingh,
+	
+8. Command File : /odisk/gtac/cmd/marek/18_026marek1.cmd,
+	/odisk/gtac/cmd/marek/18_026marek2.cmd
+9. LTA File : /rawdata/22may/18_026_22may2010.lta,
+	/rawdata1/22may/18_026_22may2010.ltb
+10. GSB File : /gsbifrdata/22may/18_026_22may2010_gsb.lta,
+	
+11. LogFlag File : /odisk/online1/logflags/18_026.FLAGS.1
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+15. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+C01 : Off
+C14 : SSI work
+C08 : Fringe fluctuations in hardware correlator.
+E04 : Painting.
+21. Note for Backup :--
+
+22. Start and End Time of Obs.(IST): 15:00 - 00:00
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+2S data file
+/rawdata/22may/18_026_22may2010_2s.lta,
+/rawdata1/22may/18_026_22may2010_2s.ltb,
+/gsbifrdata1/22may/18_026_22may2010_2s_gsb.lta,
+
+------------------------------------------------
+
+15:04 : Started scan on 3C48.
+15:25 : Stopped scan.
+15:28 : Started scan on 3C147.
+15:48 : Stopped scan.
+15:53 : Started command file
+        '/odisk/gtac/cmd/marek/18_026marek1.cmd'
+17:13 : Stopped command file.
+17:15 : Started command file
+        '/odisk/gtac/cmd/marek/18_026marek2.cmd'
+18:03 : E04 released for observation. 
+23:45 : stopped the command file and scan strted on 
+        3c286.
+00:00 : observation session over.
+

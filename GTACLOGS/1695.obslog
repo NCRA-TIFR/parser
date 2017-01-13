@@ -1,0 +1,52 @@
+		 GTAC Observation Log 
+
+1. Date : 02/09/2004
+2. Observation Sr. No. : 1695
+3. Observer : J.Braine
+4. Observer's Email : braine@obs.u-bordeaux1.fr
+5. Project Name : JONATHAN
+6. Project Code : 05JBB01
+7. Operator(s) : Sachin,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/braine/braine.cmd
+9. LTA File : /rawdata/2oct/05jbb01_2oct.lta
+10. LogFlag File : /btemp2/logflags/04DT056.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1121.3 MHz ,RF2 : 1121.3 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1055 MHz, ILO2 : 1055 MHz, IVLO1 : 66.3 MHz, IVLO2 : 66.3 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 14+14 dB, 6 MHz,ON, IF-CH2 : 14+14 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1121.3 1121.3 1055 1055 66.3 66.3 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+E05 :MCM 14 time out.
+E04 :showing mcm 0 T.O.
+C00 :mcm 2,3,9 shown T.O.
+
+21. Start and End Time of Obs.(IST): 22:11 - 07:15
+
+22. Comments (During Observations) :
+******ONLINE BHASKAR**********
+******AUTHIF @ 1170MHz.********
+--------------------------------
+22:11 : Taken 18mins scan on 3C48.
+22:40 : C03, brake problem, stopped tracking.
+22:48 : Started the command file.
+23:20 : C00 started working.
+23:48 : C03 started working.
+06:55 : Started scan on 3c147 for 20min.
+07:15 : Stopped the scan & observation session.
+
+
+

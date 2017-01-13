@@ -1,0 +1,64 @@
+		 GTAC Observation Log
+
+1. Date : 21/09/2015
+2. Observation Sr. No. : 8081
+3. Observer : Jian Li, Manjari Bagchi, Diego F. Torres, Shuang-Nan Zhang, Xian Hou, Martin
+4. Observer's Email : jian@ieec.uab.es, manjari.bagchi@gmail.com, dtorres@ieec.uab.es, zhangsn@ihep.ac.cn, xhou@ynao.ac.cn, jonatanmrtn@gmail.com
+5. Project Name : Searching for radio counterpart of diffuse gamma-ray emission around PSR J1632-4818
+6. Project Code : 28_062
+7. Operator(s) : Pramod, Surender
+8. Command File : /odisk/gtac/cmd/28_062/21sep2015/obs_21sep.cmd
+9. LTA File : /gsbifrdata/21sep/28_062_21sep2015.lta
+10. LogFlag File : /odisk/online1/logflags/28_062.FLAGS.10
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,OFF, IF-CH2 : 4+14 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 306 306 255 255 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :27
+
+32. Name of Non-Working Antennas (with reason for each) :
+S02 : Taken for BLDC
+W04 : MCM5 time out.
+C05 : Feed Jammed
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 21 Sep 2015 17:00:00 - 21 Sep 2015 19:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :27
+
+37. Comments (During Observations) :
+17:00 : Started set up.
+17:20 : Power equalized at 200 counts on 3C286.
+17:24 : Started scan on 3C286 for 10 min.
+17:34 : Started command file.
+  '/odisk/gtac/cmd/28_062/21sep2015/obs_21sep.cmd'
+18:45 : Stopped command file.
+18:54 : Started scan on 3C286.
+19:14 : Stopped scan and observation session is over.
+

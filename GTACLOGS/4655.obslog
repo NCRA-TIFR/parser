@@ -1,0 +1,57 @@
+		 GTAC Observation Log 
+
+1. Date : 16/12/2009
+2. Observation Sr. No. : 4655
+3. Observer : Ujjwal Kumar
+4. Observer's Email : ujjwal@ncra.tifr.res.in
+5. Project Name : Pulsar observation
+6. Project Code : 17_065
+7. Operator(s) : Navanath,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /rawdata/16dec/17_065_suba4.lta,
+	/rawdata1/16dec/17_065_suba4.ltb,
+	/rawdata/16dec/17_065_suba2.lta,
+	/rawdata1/16dec/17_065_suba2.ltb
+10. LogFlag File : /odisk/online1/logflags/SUBA4.FLAGS.11,
+	/odisk/online1/logflags/SUBA2.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+4 dB, 32 MHz,OFF, IF-CH2 : 16+4 dB, 32 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+--
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 23:00 - 02:30
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+*FREQ : 325MHz ( 9 ants )
+
+# sub 2 # C01 C02 C03 C05 C11 C13 W01 E02 S01
+
+*FREQ:610MHz  (21 ants )
+
+# sub 4 # C00 C04 C06 C08 C09 C10 C12 C14 W02 W03 W04 W05 W06 E03 E04 E05 E06 S02 S03 S04 S06
+
+
+
+

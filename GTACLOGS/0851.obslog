@@ -1,0 +1,45 @@
+1. Date : 15/11/2002
+2. Observation Sr. No. : 0851
+3. Observer : Ayesha, J N Chengalur
+4. Observer's Email : ayesha@ncra.tifr.res.in,chegnalu@ncra.tifr.res.in
+5. Project Name : F00235
+6. Project Code : 02JNC02
+7. Operator(s) : Jangam M.S.,
+	Kodilkar J.P.,
+	
+8. Command File : /temp2/data/cmd/chengalu/f00235.cmd
+9. LTA File : /rawdata/15nov/02jnc02_f00235.lta
+
+ANTENNA SETTINGS :
+
+10. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1054 MHz ,RF2 : 1054 MHz, SA1 : 0 dB, SA2 : 0 dB
+11. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 990 MHz, ILO2 : 990 MHz, IVLO1 : 64 MHz, IVLO2 : 64 MHz
+12. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 6+6 dB, 16 MHz,ON, IF-CH2 : 6+6 dB, 16 MHz,ON
+13. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+14. CLK_SEL/Samp_Freq : 1
+15. Channels : 0:127:1
+16. Frequency Parameters (TPA) : 1054 1054 990 990 64 64 
+
+17. Integration Time : 256 STA ~ 33.817 Sec.
+18. No of Antennas Working(Fringing) :27
+
+19. Name of Non-Working Antennas (with reason for each) :
+C14 : Painting.
+S01 : sys test.
+W05 : No fringe.
+S04-130 : low fringe.
+
+20. Start and End Time of Obs.(IST): 17:03 - 20:40
+
+21. Comments (During Observations) :
+17:03	started scan on 3C468.1 for 5mins.
+17:20	started command file.
+18:15	stopped command file.
+18:25	started scan on 3c48 for ~15 mins.
+18:38	restarted command file.
+20:15 	stopped command file.
+20:30	started scan on 3c48 ~ 10mins.
+

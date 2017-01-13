@@ -1,0 +1,51 @@
+		 GTAC Observation Log 
+
+1. Date : 03/12/2004
+2. Observation Sr. No. : 1733
+3. Observer : Ramana Athreya.
+4. Observer's Email : rathreya@ncra.tifr.res.in
+5. Project Name : VIRMOS
+6. Project Code : 06MBA01
+7. Operator(s) : Manish G.,
+	Sachin,
+	
+8. Command File : /btemp2/cmd/mbondi/virmos_ao6.cmd
+9. LTA File : /rawdata/3dec/virmos_610.lta,
+	/rawdata1/3dec/virmos_610.ltb
+10. LogFlag File : /btemp2/logflags/06MBA01.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+-
+
+21. Start and End Time of Obs.(IST): 20:45 - 01:27
+
+22. Comments (During Observations) :
+* ONLINE: bhaskar
+* AUTHIF: 610 MHz
+*
+#############################
+20:30 :Completed all the settings for the 610MHz. Default
+settings.
+20:45 :Started scan on 3c48 for 10 mins.
+21:11 :Started command file /btemp2/cmd/mbondi/virmos_ao6.cmd
+22:25 :W05 applied breaks,released in 2-3mins.
+25:08 :Stopped the command file.
+25:17 :Started scan on 3C147.
+25:27 :Stopped the scan. Stopped the observation.
+

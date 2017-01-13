@@ -1,0 +1,61 @@
+		 GTAC Observation Log 
+
+1. Date : 24/5/2013
+2. Observation Sr. No. : 6513
+3. Observer : R. Gobat
+4. Observer's Email : raphael.gobat@cea.fr
+5. Project Name : A deep 325 Mhz search for IC ghosts in the distant cluster CL1449+0856
+6. Project Code : 23_068
+7. Operator(s) : Navanath,
+	Pramod,
+	Surender
+8. Command File : /odisk/gtac/cmd/23_068/obs.cmd
+9. LTA File : /gsbifrdata1/24may/23_068_24may2013_2s.lta,
+	/gsbifrdata/24may/23_068_24may2013.lta
+10. LogFlag File : /odisk/online1/logflags/23_068.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 306 306 255 255 51 51.
+25. Integration Time : 2.013 Sec.
+26. No of Antennas Working(Fringing) :28
+
+27. Name of Non-Working Antennas (with reason for each) :
+E03 : BLDC work.
+W02 : servo problem.
+
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 19:10 - 18:44
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+19:10 : Started set up.
+19:19 : Started scan on 3C286 for ~ 15.3008 min.
+19:37 : Started command file.
+02:49 : Started  scan on 3C298 for ~5min
+02:55 : scan stopped.
+03:01 : Started scan on 3C468.1 started.
+03:06 : scan stopped observing session over.
+-----------------------------------------------------------------
+
+
+

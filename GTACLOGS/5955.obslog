@@ -1,0 +1,76 @@
+		 GTAC Observation Log 
+
+1. Date : 26/5/2012
+2. Observation Sr. No. : 5955
+3. Observer : Ujjwal Kumar
+4. Observer's Email : ujjwal@ncra.tifr.res.in
+5. Project Name : Pulsar Observation
+6. Project Code : 22_046
+7. Operator(s) : Rupsingh,
+	
+8. Command File : 
+9. LTA File : /gsbifrdata/26may/22_046_325_26may2012.lta,
+	/gsbifrdata/26may/22_046_610_26may2012.lta
+10. LogFlag File : /odisk/online1/logflags/SUBA2.FLAGS.371,
+	/odisk/online1/logflags/SUBA4.FLAGS.336
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+10 dB, 32 MHz,OFF, IF-CH2 : 20+10 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : OFF 
+17. Stokes : Total_Intensity
+18. Beam - 1 : PA
+19. Beam - 2 : PA
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 512 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 591 591 540 540 51 51.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :27
+
+27. Name of Non-Working Antennas (with reason for each) :
+C10: Upgradation BLDC.
+S01,S06 - Taken for painting work.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 18:30 - 02:00
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+      # Sub 2 # RF-323MHz
+ C01 C02 C03 C05 C10 C12 C13 W01 E02 S01 
+-------------------------------------------
+# Sub 4 # RF-610MHz
+  C00 C04 C06 C08 C09 C11 C14 W02 W03 W04
+  W05 W06 E03 E04 E05 E06 S02 S03 S04 S06
+-------------------------------------------
+18:35:00 : Power eq. & phasing on 1419+064.
+
+18:37:37 : Started scan on 1419+064 for ~ 4.5634 min.
+18:44:13 : Started scan on 1419+064 for ~ 7.24775 min.
+18:56:16 : Started scan on J1022+1001 for ~ 2.95279 min.
+18:59:51 : Started scan on J1022+1001 for ~ 38.9231 min.
+19:44:56 : Started scan on B1540-06 for ~ 31.6754 min.
+
+19:30:00 : S01 & S06 released for observation
+
+20:20:40 : Started scan on 1419+064 for ~ 1.61061 min.
+20:22:31 : Started scan on 1419+064 for ~ 1.61061 min.
+20:27:10 : Started scan on B1642-03 for ~ 28.4541 min.
+20:57:56 : Started scan on J1713+0747 for ~ 37.8494 min.
+21:37:34 : Started scan on J1643-1224 for ~ 20.1326 min.
+
+02:00 : Observation stopped.
+
+
+

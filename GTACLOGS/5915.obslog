@@ -1,0 +1,75 @@
+		 GTAC Observation Log 
+
+1. Date : 04/5/2012
+2. Observation Sr. No. : 5915
+3. Observer : Jayanta  Roy
+4. Observer's Email : jroy@ncra.tifr.res.in
+5. Project Name : Pulsar observation
+6. Project Code : TST0694
+7. Operator(s) : Rupsingh,
+	
+8. Command File : /odisk/gtac/cmd/jroy/22_012.4may.610.cmd,
+	/odisk/gtac/cmd/jroy/22_012.4may.610.1.cmd,
+	/odisk/gtac/cmd/jroy/22_012.5may.325.cmd,
+	/odisk/gtac/cmd/jroy/22_012.5may.325.1.cmd
+9. LTA File : /gsbifrdata/04may/22_012_04may2012.lta,
+	/gsbifrdata/04may/22_012_04may2012.lta.1
+10. LogFlag File : /odisk/online1/logflags/22_012.FLAGS.8,
+	/odisk/online1/logflags/22_012.FLAGS.9
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : OFF 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 512 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 591 591 540 540 51 51.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :27
+
+27. Name of Non-Working Antennas (with reason for each) :
+C10 : BLDC(upgradation).
+C11 : No fringe(CSIRO feed).
+E04 : 130  pol no fringe.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 19:20 - 04:20
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+19:20 : Started power eq & phasing on 0837-198.
+19:26 : Power eq. & phasing done.
+19:29 : Command file started
+        '/odisk/gtac/cmd/jroy/22_012.4may.610.cmd'
+20:42 : Stooped command file.
+20:52 : Started phsasing on 0837-198.
+21:00 : Phasing done.
+21:03 : Started next command file
+       '/odisk/gtac/cmd/jroy/22_012.4may.610.1.cmd'
+
+21:12 : Scan#no:12 is bad.
+21:13 : Scan#no:13 is bad.
+21:40 : W06 servo problem.
+21:49 : W06 started working.
+22:33 : Stopped command file.
+
+22:45 : Rotated feeds at 325 MHz.
+23:30 : Pointing is done.
+23:45 : Completed setup and started observation session.
+Started command file.
+04:20 : Stopped command file and observation session.
+

@@ -1,0 +1,108 @@
+		 GTAC Observation Log
+
+1. Date : 12/07/2016
+2. Observation Sr. No. : 8732
+3. Observer : Aditya JNHS, Nissim Kanekar
+4. Observer's Email : aditya@ncra.tifr.res.in, nkanekar@ncra.tifr.res.in
+5. Project Name : Cold gas in compact sources at high redshifts
+6. Project Code : 30_078
+7. Operator(s) : Navnath, Nilesh, Sachin
+8. Command File : /odisk/gtac/cmd/aditya/12jul/2356\+385_cmd,, /odisk/gtac/cmd/aditya/12jul/0319\+121_cmd,, /odisk/gtac/cmd/aditya/12jul/0420-388_cmd
+9. LTA File : /gsbifrdata/12jul/30_078_12jul2016.lta.2, /gsbifrdata/12jul/30_078_12jul2016.lta.1, /gsbifrdata/12jul/30_078_12jul2016.lta
+10. LogFlag File : /odisk/online1/logflags/30_078.FLAGS.8, /odisk/online1/logflags/30_078.FLAGS.7, /odisk/online1/logflags/30_078.FLAGS.6
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 392.5 MHz ,RF2 : 392.5 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 455 MHz, ILO2 : 455MHz , IVLO1 : 62.5 MHz, IVLO2 : 62.5 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 0 MHz; Step # 0
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 137.5
+28. LO5 -2  : 167.5
+
+29. Frequency Parameters (TPA) : 392.5 392.5 455 455 62.5 62.5
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :26
+
+32. Name of Non-Working Antennas (with reason for each) :
+C10 : Servo problem.
+C12 : BLDC.
+C11 : ABC time-out.
+C08 : Servo problem.
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 12 Jul 2016 01:00:00 - 12 Jul 2016 09:00:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :26
+
+37. Comments (During Observations) :
+Completed first set up.
+   RF Band     : [100-1500]
+   IF BW       : 18 MHz
+   Baseband BW : 16.7 MHz
+   LO(1)       : 455
+   LO(5)       : 137.5
+   LO(4)       : 62.5
+   Step        : 0
+
+   Channels    : 512
+   lta         : 8m
+00:18 : Started command file.
+05:35 : Stopped command file.
+
+Done second setup.
+   RF Band     : [100-1500]
+   IF BW       : 18 MHz
+   Baseband BW : 16.7 MHz
+   LO(1)       : 460
+   LO(5)       : 137.5
+   LO(4)       : 62.5
+   Step        : 0
+
+   Channels    : 512
+   lta         : 8m
+
+05:57 Started command file.
+07:10 : Started scan on 3C48.
+------------------------------------------------------
+07:20 : Started setup.
+3. Target: 0420-388
+Line frequency : 345.59 MHz
+ RF Band     : 325 [295-365]
+   IF BW       : 18 MHz
+   Baseband BW : 16.7 MHz
+   LO(1)       : 415
+   LO(5)       : 139
+   LO(4)       : 61
+   Step        : 0
+
+   Channels    : 512
+   lta         : 8m
+
+TPA 354 354 415 415 61 61
+
+07:25 : Started cmd file
+10:00: Started scan on 3c48 for 10min
+10:10: Observation session over.
+-------------------------------------
+
+         
+
+

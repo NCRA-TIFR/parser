@@ -1,0 +1,67 @@
+		 GTAC Observation Log 
+
+1. Date : 14/07/2003
+2. Observation Sr. No. : 1052
+3. Observer : A Pramesh Rao
+4. Observer's Email : pramesh@ncra.tifr.res.in
+5. Project Name : Galsurvey
+6. Project Code : 04APR01
+7. Operator(s) : Mangesh,
+	Jayprakash,
+	Jitendra,
+	
+8. Command File : /btemp2/cmd/pramesh/galsurvey/g038pm4.cmd
+9. LTA File : /rawdata1/14jul/04apr01_g038pm4.ltb
+10. LogFlag File : /btemp2/logflags/04APR01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 233 MHz ,RF2 : 233 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 307 MHz, ILO2 : 307 MHz, IVLO1 : 74 MHz, IVLO2 : 74 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 18+18 dB, 6 MHz,ON, IF-CH2 : 18+18 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:63:1
+17. Frequency Parameters (TPA) : 233 233 307 307 74 74 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :24
+
+20. Name of Non-Working Antennas (with reason for each) :
+LSB. :
+C03,C14 & S01 Phase ramp.
+S04,E04-130 No fringe
+
+
+21. Start and End Time of Obs.(IST): 19:22 - 04:19
+
+22. Comments (During Observations) :
+ONLINE : BHASKAR
+******************
+IF ATTN. FROM AUTHIF FILE @ 233 MHz.
+------------------------------------
+19:22 :	Started scan on 3C286. (for ~15min)
+
+** Both IF & BB ALCs are turned OFF **
+19:36 : Started command file,
+        /temp2/data/cmd/pramesh/galsurvey/g038pm4_3m.cmd.
+        ** C08 not tracking the source.
+19:53 : C08 started tracking the source.
+20:02 : Stopped command file.
+
+** Both IF & BB ALCs are turned ON **
+20:06 : Started command file,
+        /temp2/data/cmd/pramesh/galsurvey/g038pm4.cmd.
+
+22:46 : C00 ABC Reset.
+23:07 : C08 ABC T.O.
+03:54 : Stopped the command file as sources are
+        setting. Moved antennas to 3c48.
+04:04 : Started a scan on 3c48.
+04:19 : Stopped the scan on 3c48. Closed the 
+        observation.
+
+

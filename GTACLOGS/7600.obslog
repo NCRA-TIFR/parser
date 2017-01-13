@@ -1,0 +1,90 @@
+		 GTAC Observation Log
+
+1. Date : 09/02/2015
+2. Observation Sr. No. : 7600
+3. Observer : Ramesh Bhat, Poonam Chandra, Evan Keane
+4. Observer's Email : ramesh.bhat@curtin.edu.au, poonam@ncra.tifr.res.in, evan.keane@gmail.com
+5. Project Name : Shadowing the Parkes high time resolution survey with GMRT
+6. Project Code : 27_062
+7. Operator(s) : Nilesh, Sachin, Shilpa, Surender
+8. Command File : /odisk/gtac/cmd/
+9. LTA File : /gsbifrdata/09feb/27_062_09feb2015.lta
+10. LogFlag File : /odisk/online1/logflags/27_062.FLAGS.12
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 317 MHz ,RF2 : 317 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 16.666666 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 138
+28. LO5 -2  : 167
+
+29. Frequency Parameters (TPA) : 317 317 255 255 62 62
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :27
+
+32. Name of Non-Working Antennas (with reason for each) :
+C03 : Gear box replacement.
+W06 : 130 pole no fringe.
+W04 : Strong RFI.
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 09 Feb 2015 04:00:00 - 09 Feb 2015 11:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :27
+
+37. Comments (During Observations) :
+04:00 : Started set-up.
+04:50 : Power eq done on 3c286.
+05:00 : Re Started  GSB in High Time Visibility Mode.
+04:45:41 : Started scan on 3C286 for ~ 13.7572 min.
+05:15:48 : Started scan on 1640+123 for ~ 3.52318 min.
+05:20:27 : Started scan on G030.5+26.9 for ~ 12.0124 min.
+05:33:20 : Started scan on G030.5+26.9 for ~ 5.53643 min.
+05:39:12 : Started scan on G030.6+26.7 for ~ 9.59648 min.
+05:49:31 : Started scan on G031.6+25.5 for ~ 9.32805 min.
+06:00:23 : Started scan on G031.5+25.7 for ~ 8.42209 min.
+06:09:18 : Started scan on G031.6+25.7 for ~ 9.09317 min.
+06:19:09 : Started scan on G031.8+25.5 for ~ 10.6367 min.
+06:30:39 : Started scan on 1640+123 for ~ 6.03974 min.
+06:37:46 : Started scan on G032.2+22.7 for ~ 6.14041 min.
+06:44:32 : Started scan on G031.6+21.2 for ~ 8.9254 min.
+06:55:17 : Started scan on G041.0+00.2 for ~ 9.39516 min.
+07:04:58 : Started scan on G041.1-00.0 for ~ 9.42871 min.
+07:15:44 : Started scan on G040.9-01.6 for ~ 8.75763 min.
+07:25:59 : Started scan on 1822-096 for ~ 8.15365 min.
+07:35:37 : Started scan on G041.8-02.9 for ~ 8.69052 min.
+07:45:14 : Started scan on G041.7-02.7 for ~ 8.9254 min.
+07:54:30 : Started scan on G041.9-02.7 for ~ 9.3616 min.
+08:04:10 : Started scan on G042.1-02.9 for ~ 9.39516 min.
+08:13:51 : Started scan on G042.9-03.9 for ~ 9.3616 min.
+08:23:51 : Started scan on G043.0-04.1 for ~ 9.3616 min.
+08:33:33 : Started scan on G043.1-03.9 for ~ 9.42871 min.
+08:43:17 : Started scan on G043.2-04.1 for ~ 9.46227 min.
+08:52  : E05 taken for painting.
+08:54:51 : Started scan on 2011-067 for ~ 7.44902 min.
+09:04:19 : Started scan on G045.3-11.6 for ~ 9.46227 min.
+09:14:28 : Started scan on G040.7-17.4 for ~ 9.46227 min.
+09:24:14 : Started scan on G041.5-18.5 for ~ 9.63004 min.
+
+-------------------------------------------------------------
+11:02 : W04 taken for maintenance.
+11:21 : Stopped scan and observing session over.

@@ -1,0 +1,66 @@
+		 GTAC Observation Log
+
+1. Date : 11/12/2015
+2. Observation Sr. No. : 8244
+3. Observer : Yashwant Gupta, Kishalay De
+4. Observer's Email : ygupta@ncra.tifr.res.in, ugkishalayde@ug.iisc.in
+5. Project Name : Probing `microstructure` emission in millisecond pulsars :  A pilot study
+6. Project Code : 29_072
+7. Operator(s) : Rupsing
+8. Command File :   
+9. LTA File : /gsbifrdata/11dec/29_072_11dec2015.lta
+10. LogFlag File : /odisk/online1/logflags/29_072.FLAGS.3, /odisk/online1/logflags/29_072.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : Volt
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 591 591 540 540 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :27
+
+32. Name of Non-Working Antennas (with reason for each) :
+C05 : ABC time out.
+C13 : Feed cage painting.
+W01 : BLDC.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 11 Dec 2015 17:00:00 - 11 Dec 2015 19:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :27
+
+37. Comments (During Observations) :
+17:10 : Power eq. on 3C48.
+17:20 : Phasing on 1822-096.
+--------------------------------------------------------------------------
+17:31:22 : Started scan on 1822-096 for ~ 3.75809 min.
+17:35:29 : Started scan on 1822-096 for ~ 0.268435 min.(phasing)
+17:40:49 : Started scan on B1937+21 for ~ 34.8966 min.
+18:19:23 : Started scan on 2225-049 for ~ 0.805306 min.(phasing)
+18:20:38 : Started scan on 2225-049 for ~ 3.75809 min.
+18:26:08 : Started scan on J2145-0750 for ~ 31.9438 min.
+19:00:00 : Stopped scan and observation closed.
+

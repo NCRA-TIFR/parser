@@ -1,0 +1,55 @@
+		 GTAC Observation Log 
+
+1. Date : 07/09/2003
+2. Observation Sr. No. : 1127
+3. Observer : Dr. Bagchi
+4. Observer's Email : joydeep@iucaa.ernet.in
+5. Project Name : zwcl2343
+6. Project Code : 04TCA01
+7. Operator(s) : Deepak,
+	Mangesh,
+	Manish G.,
+	
+8. Command File : /btemp2/cmd/bagchi/zwcl2343.cmd
+9. LTA File : /rawdata/7sep/04tca01_zwcl2343.lta,
+	/rawdata1/7sep/04tca01_zwcl2343.ltb
+10. LogFlag File : /btemp2/logflags/04TCA01.FLAGS.5
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 613 MHz ,RF2 : 241 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 308 MHz, IVLO1 : 67 MHz, IVLO2 : 67 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 613 241 680 308 67 67 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C08-USB-175 (235) : No fringe
+C12-USB-175 (235) : No
+fringe
+
+21. Start and End Time of Obs.(IST): 22:17 - 04:52
+
+22. Comments (During Observations) :
+**** ONLINE running on bhaskar ****
+**** IF power equilsed with ALCs on ***
+
+22:17  Started a scan on 3c48 for 20 minutes.
+22:54  Started command file  /temp2/data/cmd/bagchi/zwcl2343.cmd
+23:04  S02-LSB flat band shape.
+26:07  Stopped the command file.
+26:15  Started scan on 3C48, for 15 mins.
+26:40  Re-started the command file.
+28:26  Stopped the command file.
+28:27  Started scan on 3C446, for 4 mins.
+28:38  Started scan on 3C147, for 15 mins.
+28:52  Stopped the scan and Project.
+

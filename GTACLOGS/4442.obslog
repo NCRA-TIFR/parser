@@ -1,0 +1,81 @@
+		 GTAC Observation Log 
+
+1. Date : 01/08/2009
+2. Observation Sr. No. : 4442
+3. Observer : Dr. Amitesh Omar
+4. Observer's Email : aomar@aries.res.in
+5. Project Name : HI-Observation
+6. Project Code : 16_281
+7. Operator(s) : Manisha,
+	Sachin,
+	Santaji,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/aomar/1aug.cmd,
+	/odisk/gtac/cmd/aomar/1aug_1.cmd
+9. LTA File : /rawdata/1aug/16_281_01aug2009.lta,
+	/rawdata1/1aug/16_281_01aug2009.ltb,
+	/rawdata/1aug/16_281_01aug2009.lta.1,
+	/rawdata1/1aug/16_281_01aug2009.ltb.1
+10. LogFlag File : /odisk/online1/logflags/16_281.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1408.77 MHz ,RF2 : 1408.77 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1335 MHz, ILO2 : 1335 MHz, IVLO1 : 73.77 MHz, IVLO2 : 73.77 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 8000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:255:1
+17. Frequency Parameters (TPA) : 1408.77 1408.77 1335 1335 73.77 73.77 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+E04 - servo problem.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 00:00 - 16:00
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : UsbHighRes
+
+25. Comments (During Observations) :
+** GSB data file "mithunc:/data/pulsar/gsbdata/1aug/16_281_01aug2009.lta"
+00:00 : Setup started.
+00:24 : Scan started on 3C48.
+00:52 : Command file started.
+07:15 : Stopped command file.
+07:18 : Started scan on phase cal 0059+001.
+07:24 : Stopped scan.
+07:27 : Started scan on 3C48.
+07:38 : Stopped scan.
+
+        Changed the settings.
+        tpa 1409.10 1409.10 1340 1340 69.10 69.10.
+
+        Changed the recording files.
+        /rawdata/1aug/16_281_01aug2009.lta.1,
+        /rawdata1/1aug/16_281_01aug2009.ltb.1.
+
+        Also changed gsb recording file.
+        /data/pulsar/gsbdata/1aug/16_281_01aug2009.lta.1.
+ 
+07:45 : Started scan on 3C48.
+        E02 : Low fringe.
+07:57 : Stopped scan.
+
+08:02 : '/odisk/gtac/cmd/aomar/1aug_1.cmd' command file started.
+09:26 : E02 taken for maintenance.  
+10:00 : E03 taken for maintenance.
+10:58 : E04 started working.
+13:08 : E03 released for observation.
+        E02 released for observation but low fringe. 
+
+16:00 : Command file stopped, Observation stopped.
+
+

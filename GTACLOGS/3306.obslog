@@ -1,0 +1,58 @@
+		 GTAC Observation Log 
+
+1. Date : 10/08/2007
+2. Observation Sr. No. : 3306
+3. Observer : RUTA
+4. Observer's Email : ruta@rri.res.in
+5. Project Name : Unknown halos
+6. Project Code : 12RKA02
+7. Operator(s) : Deepak,
+	Jayprakash,
+	Nilesh,
+	Santaji,
+	
+8. Command File : /btemp2/obs/12rka02/rk_10aug.cmd,
+	/btemp2/obs/12rka02/rk_10aug_1.cmd
+9. LTA File : /rawdata/10aug/12rka02_10aug2007.lta,
+	/rawdata1/10aug/12rka02_10aug2007.ltb
+10. LogFlag File : /btemp2/logflags/12RKA02.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 157 MHz ,RF2 : 157 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 223 MHz, ILO2 : 223 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+4 dB, 6 MHz,ON, IF-CH2 : 10+4 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 8000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 157 157 223 223 66 66 
+
+18. Integration Time : 64 LTA ~ 8.454 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+Bad base lines.
+USB
+C00:C01:C02:C03 
+v/s 
+S02:S03:S04:S06
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 15:00 - 20:55
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : UsbHighRes  **************
+--------------------------------------------
+15:02 : scan started on 3c286.
+15:27 : command file started.
+19:27 : new command file started.
+20:40 : scan started on 3c286.
+20:55 : observation session over.
+
+  
+

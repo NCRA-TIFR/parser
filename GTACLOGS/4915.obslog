@@ -1,0 +1,69 @@
+		 GTAC Observation Log 
+
+1. Date : 15/06/2010
+2. Observation Sr. No. : 4915
+3. Observer : Sandeep Sirothia,Nimisha
+4. Observer's Email : sirothia@ncra.tifr.res.in,ngk@ncra.tifr.res.in
+5. Project Name : Extra Galactic survey @ 150MHz
+6. Project Code : 18_031
+7. Operator(s) : Nilesh,
+	Rupsingh,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/sirothia/18_031_20100615a.cmd,
+	/odisk/gtac/cmd/sirothia/18_031_20100615b.cmd
+9. LTA File : /rawdata/15jun/18_031_15jun2010.lta,
+	/rawdata1/15jun/18_031_15jun2010.ltb,
+	
+10. GSB File : /gsbifrdata/15jun/18_031_15jun2010_gsb.lta,
+	
+11. LogFlag File : /odisk/online1/logflags/18_031.FLAGS.46
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 218 MHz, ILO2 : 218 MHz, IVLO1 : 62 MHz, IVLO2 : 62 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+12 dB, 16 MHz,ON, IF-CH2 : 10+12 dB, 16 MHz,ON
+15. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 156 156 218 218 62 62 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C03 :No fringe (both GSB and GHB).
+C05,C08: fringe fluctuations in hardware corr.
+21. Note for Backup :--
+
+22. Start and End Time of Obs.(IST): 17:30 - 07:10
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : UsbPolar
+
+25. Comments (During Observations) :
+2s data files : 
+/rawdata/15jun/18_031_15jun2010_2s.lta
+/rawdata1/15jun/18_031_15jun2010_2s.ltb
+/gsbifrdata/15jun/18_031_15jun2010_gsb_2s.lta
+--------------------------------------------------
+17:30 : Started setup.
+17:51 : Started scan on 3C286.
+18:10 : Started command file.
+        '/odisk/gtac/cmd/sirothia/18_031_20100615a.cmd'.
+21:43 : S-arm Power failure.
+00:22 : Stopped command file.
+00:27 : Started command file
+        '/odisk/gtac/cmd/sirothia/18_031_20100615b.cmd'.
+06:28 : Stopped command file.
+06:35 : Started scan J0218+4232
+06:46 : Stopped scan.
+06:47 : Started scan on 3C48 for 15min.
+07:10 : Observing session over.
+
+
+

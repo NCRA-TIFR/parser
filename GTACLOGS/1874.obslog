@@ -1,0 +1,69 @@
+		 GTAC Observation Log 
+
+1. Date : 10/02/2005
+2. Observation Sr. No. : 1874
+3. Observer : Ramana Athreya
+4. Observer's Email : rathreya@ncra.tifr.res.in
+5. Project Name : RED QSO
+6. Project Code : 07SCA01
+7. Operator(s) : Jayprakash,
+	Manisha J.,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/rathreya/redqso1.cmd,
+	/btemp2/cmd/rathreya/redqso2.cmd
+9. LTA File : /rawdata/10feb/07sca01_1107-187.lta,
+	/rawdata/10feb/07sca01_1355+441.lta,
+	/rawdata/10feb/07sca01_1355+441.lta.1
+10. LogFlag File : /btemp2/logflags/07SCA01.FLAGS.1,
+	/btemp2/logflags/07SCA01.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1109.83 MHz ,RF2 : 1109.83 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1045 MHz, ILO2 : 1045 MHz, IVLO1 : 64.83 MHz, IVLO2 : 64.83 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 16 MHz,ON, IF-CH2 : 12+12 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1109.83 1109.83 1045 1045 64.83 64.83 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+C03- Servo time out.
+
+21. Start and End Time of Obs.(IST): 23:17 - 10:35
+
+22. Comments (During Observations) :
+******ONLINE:BHASKAR********
+****** AUTHIF @ 1060 MHz ******
+****************************
+
+23:17	command file started.
+00:20	C03 stared working.
+01:20	command file stopped.
+01:33	started scan on 3c286 ~10mins.
+
+	Freq changed :
+	ILO : 945 MHz, IVLO : 64.53 MHz
+	tpa 1009.53 1009.53 945 945 64.53 64.53
+
+01:46	started command file 
+	/btemp2/cmd/rathreya/redqso2.cmd
+	ltafile : /rawdata/10feb/07sca01_1355+441.lta
+	
+	C04 : amplitude very low and not stable.
+08:00   online 'scctask' socket got open
+	restarted the online.
+08:30   restarted the observation session.
+	C12 parked for painting.
+
+10:35 	observatin session over.
+
+
+

@@ -1,0 +1,90 @@
+		 GTAC Observation Log 
+
+1. Date : 21/02/2007
+2. Observation Sr. No. : 3059
+3. Observer : Pen
+4. Observer's Email : pen@cita.utoronto.ca
+5. Project Name : npol
+6. Project Code : 11SSB01
+7. Operator(s) : Jayprakash,
+	Jitendra,
+	Sachin,
+	
+8. Command File : /btemp2/cmd/tchang/eor1.cmd,
+	/btemp2/cmd/11ssb01/q628.cmd,
+	/btemp2/cmd/11ssb01/deep2-1.cmd
+9. LTA File : /rawdata/21feb/11ssb01_eor1_21feb07.lta,
+	/rawdata1/21feb/11ssb01_eor1_21feb07.ltb,
+	/rawdata/21feb/11ssb01_eor1_21feb07.lta.1,
+	/rawdata1/21feb/11ssb01_eor1_21feb07.ltb.1,
+	/rawdata/21feb/11ssb01_q628_21feb07.lta,
+	/rawdata1/21feb/11ssb01_q628_21feb07.ltb,
+	/rawdata/22feb/11ssb01_22feb07.lta,
+	/rawdata1/22feb/11ssb01_22feb07.ltb,
+	
+10. LogFlag File : /btemp2/logflags/11SSB01.FLAGS.6,
+	/btemp2/logflags/11SSB01.FLAGS.7,
+	/btemp2/logflags/11SSB01.FLAGS.8,
+	/btemp2/logflags/11SSB01.FLAGS.9
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 218 MHz, ILO2 : 218 MHz, IVLO1 : 62 MHz, IVLO2 : 62 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 156 156 218 218 62 62 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+W05 - Maint. Work
+C02 - LSB Fringing.
+W02 - USB Not fringing.
+
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 19:01 - 10:10
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode :Indian polar    *********
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+-----------------------------------------------------------------
+      ** ONLY 16SEC DATA IS BACKEDUP FOR OBSERVATORY **
+** 2SEC DATA RELTAED TO 16SEC & THEN BACKEDUP FOR OBSERVATORY **
+-----------------------------------------------------------------
+19:01 : Flux cal scan on 3C147 for 10m.
+19:15 : command file started.
+23:35 : Fstop program was giving problem so
+we stopped project and restared.
+23:45 : Started command file.
+05:20 : Stopped command file.
+*******************************************
+05:30 : Rotated all the feeds at 610MHz.
+Settings are Default 610 MHz settings with
+both the ALCs are ON and correlator in 
+INDIANPOLAR Mode.
+RF = 610 MHz.
+LO1 = 540 MHz.
+LO4 = 70 MHz.
+BaseBand BW=16 MHz.
+IF BW =32 MHz.
+*******************************************
+05:48 : Started scan on 3C286 for 10 mins.
+06:00 : Started command file deep2-1.cmd.
+

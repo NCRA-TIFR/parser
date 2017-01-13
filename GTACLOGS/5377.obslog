@@ -1,0 +1,59 @@
+		 GTAC Observation Log 
+
+1. Date : 10/6/2011
+2. Observation Sr. No. : 5377
+3. Observer : Ilse DeLooze
+4. Observer's Email : ilse.delooze@ugent.be
+5. Project Name : Formation mechanisms of low luminosity transition-type S0's: ram-pressure stripping or starvation?
+6. Project Code : 20_023
+7. Operator(s) : Deepak,
+	Navanath,
+	Rupsingh,
+	
+8. Command File : /odisk/gtac/cmd/20_023/run3/vcc710.cmd
+9. LTA File : /gsbifrdata/10jun/20_023_10jun2011.lta.1
+10. LogFlag File : /odisk/online1/logflags/20_023.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1404.5 MHz ,RF2 : 1404.5 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1345 MHz, ILO2 : 1345 MHz , IVLO1 : 59.5 MHz, IVLO2 : 59.5 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 2+22 dB, 16 MHz,ON, IF-CH2 : 4+22 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 16 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 16:138000-167000
+23. Final Bandwidth (MHz): 4 MHz; Step # 2
+
+24. Frequency Parameters (TPA) : 1404.5 1404.5 1345 1345 59.5 59.5.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :26
+
+27. Name of Non-Working Antennas (with reason for each) :
+C03 : Maintenance.
+W06 : MCM 5 timeout.
+C09 : 130pol low fringe.
+W05 : Low fringe.
+
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 17:00 - 01:00
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+17:16 : Started scan on 3C147.
+17:32 : Stopped scan.
+17:39 : Started command file.
+00:36 : Started scan on 3C286 for 20min.
+01:00 : Observing session over.
+ 
+

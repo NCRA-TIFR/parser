@@ -1,0 +1,60 @@
+		 GTAC Observation Log 
+
+1. Date : 01/08/2005
+2. Observation Sr. No. : 2159
+3. Observer : Olivia Johnson
+4. Observer's Email : cocj@roe.ac.uk
+5. Project Name : CL1054
+6. Project Code : 08OJA01
+7. Operator(s) : Deepak,
+	Manish G.,
+	Sachin,
+	Santaji,
+	
+8. Command File : /atemp2/cmd/best/best01aug.cmd
+9. LTA File : /rawdata/1aug/08oja01_cl1054.lta,
+	/rawdata1/1aug/08oja01_cl1054.ltb
+10. LogFlag File : /atemp2/logflags/08OJA01.FLAGS.5
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1280 MHz ,RF2 : 1280 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1210 MHz, ILO2 : 1210 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+10 dB, 32 MHz,ON, IF-CH2 : 10+10 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1280 1280 1210 1210 70 70 
+
+18. Integration Time : 64 STA ~ 8.454 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+C13 - Servo problem.
+C14 - Feed not focussed.
+      (mcm 14 timeout)
+W03 - ABC T.O.(FE-prob)
+S03 - Servo problem.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 10:00 - 19:08
+
+23. Comments (During Observations) :
+***** ONLINE ADITYA *******
+***** NAUTH@1280 MHz ****
+---------------------------
+10:00 setup started.
+
+10:12 scan started on 3c48
+
+10:45 S03 problem solved & started rotating.
+
+10:52 Stopped record on 3C48.
+
+11:07 Started command file.
+19:08 Stopped the command file. Stopped the observation.
+

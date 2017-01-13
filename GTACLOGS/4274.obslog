@@ -1,0 +1,67 @@
+		 GTAC Observation Log 
+
+1. Date : 07/05/2009
+2. Observation Sr. No. : 4274
+3. Observer : Ramana Athreya
+4. Observer's Email : rathreya@ncra.tifr.res.in
+5. Project Name : A1835
+6. Project Code : 16_051
+7. Operator(s) : Jayprakash,
+	Navanath,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/rathreya/16s051a.cmd,
+	/odisk/gtac/cmd/rathreya/16s051b.cmd
+9. LTA File : /rawdata/7may/16_051_7may2009_16s.lta,
+	/rawdata1/7may/16_051_7may2009_16s.ltb
+10. LogFlag File : /odisk/online1/logflags/16_051.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C05 : No fringe.
+E04 : Servo problem.
+E06 : abc timeout.
+
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 18:10 - 07:00
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+18:10 : Started settings.
+18:41 : Started scan on 3C286.
+19:06 : Stopped scan.
+19:21 : '/odisk/gtac/cmd/rathreya/16s051a.cmd' command file started.
+19:51 : Stopped command file.
+19:53 : '/odisk/gtac/cmd/rathreya/16s051b.cmd' command file started.
+
+20:42 : S03,S04 automatically parked because of high wind.
+
+21:20 : S03 started working.
+
+21:40 : Changed the recording files. 
+        /rawdata/7may/16_051_7may2009_2s.lta.1,
+        /rawdata1/7may/16_051_7may2009_2s.ltb.1
+05:33 : Stopped the command file.
+05:50 : Started the scan on 3c48 for 30min.
+06:20 : Stopped the scan.
+
+

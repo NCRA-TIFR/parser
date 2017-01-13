@@ -1,0 +1,34 @@
+1. Date : 26/05/2002
+2. Observation Sr. No. : 596
+3. Observer & email : Dr. Ishwar Chandra & ishwar@ncra.tifr.res.in
+4. Project Name & Code : Beamshape Expt. & BSHAPE
+5. Operator(s) : Jayprakash(1).
+6. Command File/Source  & Lta File : /temp2/data/cmd/ngk/beam610el.cmd
+								   : /rawdata/26may/3c147_Bshape_el610.lta.
+								   : /rawdata/26may/3c147_Bshape_az610.lta.
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 : 610 MHz., 0 dB., ON.
+8. Ist LO (MHz) & IVth LO (MHz) : 540 MHz., 70 MHz. 
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : Power Equalised, 32 MHz., ON.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status :16 MHz., 0 dB., ON.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq :  0 / 0 
+12. Channels :0,127,1
+13. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+14. Integration Time (Sec.) : 16 sec
+15. No of Antennas Working(Fringing) : 30
+16. Name of Non-Working Antennas (with reason for each) :
+
+17. Starting and Ending time of Observations (IST) : 11:25 - 
+18. Comments (During Observations) :
+
+	11:25	Started cmd file /temp2/data/cmd/ngk/beam610el.cmd.
+	12:02	Started cmd file /temp2/data/cmd/ngk/beam610az.cmd.
+	
+19. Data Backup files & Tape No. :
+

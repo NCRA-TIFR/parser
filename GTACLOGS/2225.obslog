@@ -1,0 +1,58 @@
+		 GTAC Observation Log 
+
+1. Date : 03/09/2005
+2. Observation Sr. No. : 2225
+3. Observer : Ananda Hota
+4. Observer's Email : hota@ncra.tifr.res.in
+5. Project Name : A1367
+6. Project Code : 08AHA01
+7. Operator(s) : Jayprakash,
+	Manisha J.,
+	Sanjay,
+	
+8. Command File : /atemp2/cmd/hota/a1367s.cmd
+9. LTA File : /rawdata/3sep/08aha01_a1367s.lta,
+	/rawdata1/3sep/08aha01_a1367s.ltb
+10. LogFlag File : /atemp2/logflags/08AHA01.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, OFF
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+C01 - Az. brake prob.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 08:16 - 16:50
+
+23. Comments (During Observations) :
+ONLINE : ADITYA ****
+AUTH IF @ 610-235 MHz. **
+============================================
+
+08:16 : Started 3c147
+08:32 : Stopped 3c147.
+
+08:37 : Started cmd file a1367s.cmd
+15:04 : Started the scan on 3c286 for 10min.
+15:08 : C01 started working.
+15:14 : Stopped the scan.
+15:18 : Restarted the command file.
+16:35 : Stopped the command file.
+16:40 : Started scan on 3c286 for 10min.
+16:50 : Stopped th scan & observation.
+

@@ -1,0 +1,59 @@
+		 GTAC Observation Log 
+
+1. Date : 27/08/2006
+2. Observation Sr. No. : 2802
+3. Observer : SG/TV
+4. Observer's Email : sgiaci_s@ira.inaf.it,tventuri@ira.inaf.it,visitor2@gmrt.ncra.tifr.res.in
+5. Project Name : GALAXY GROUPS
+6. Project Code : 10SGA01
+7. Operator(s) : Deepak,
+	Manish G.,
+	Manisha J.,
+	Navnath,
+	Sachin,
+	
+8. Command File : /btemp2/cmd/sga/10sga01_27aug06_6.cmd,
+9. LTA File : /rawdata/27aug/10sga01_27aug06.lta,
+	/rawdata1/27aug/10sga01_27aug06.ltb,
+	
+10. LogFlag File : /btemp2/logflags/10SGA01.FLAGS.14
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 0+6 dB, 32 MHz,ON, IF-CH2 : 0+6 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+C00 : Low fringe.
+S03 : Low fringe with CSQ antennas in USB.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 00:15 - 09:45
+
+23. Comments (During Observations) :
+---------------------------------------------
+******** ONLINE Machine : bhaskar   ********* 
+******** Corr Mode : indian polar  **********
+---------------------------------------------
+
+00:15  Observed 3C48 for 15 mins.
+00:45  Started command file:
+          /btemp2/cmd/sga/10sga01_27aug06_6.cmd
+09:03  Stopped command file.
+09:05  Started scan on phase cal.
+09:11  Stopped scan on phase cal.
+09:15  Started scan on 3C147.
+09:45  Stopped scan on 3C147.
+

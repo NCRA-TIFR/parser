@@ -1,0 +1,60 @@
+		 GTAC Observation Log
+
+1. Date : 26/08/2015
+2. Observation Sr. No. : 8021
+3. Observer : Ruta Kale, Viral Parekh
+4. Observer's Email : ruta@ncra.tifr.res.in, viral.iucaa@gmail.com
+5. Project Name : Radio sources in the Massive and Distant Clusters of the WISE Survey
+6. Project Code : 28_028
+7. Operator(s) : Nilesh, Sachin
+8. Command File : /odisk/gtac/cmd/28_028/25aug15_ist23h.cmd
+9. LTA File : /gsbifrdata1/25aug/28_028_25aug2015.lta
+10. LogFlag File : /odisk/online1/logflags/28_028.FLAGS.9
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 591 591 540 540 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :30
+
+32. Name of Non-Working Antennas (with reason for each) :
+S04 : Servo problem.
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 25 Aug 2015 23:00:00 - 26 Aug 2015 07:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :29
+
+37. Comments (During Observations) :
+23:12 : Started scan on 3C48.
+23:23 : Stopped scan on 3C48.
+23:38 : Started command file.
+03:38 : S04 started giving servo problem.
+06:48 : Stopped command file.
+
+06:50 : Started scan on 3c48 for ~ 15min.
+07:08 : Stopped scan and observation closed.

@@ -1,0 +1,46 @@
+1. Date : 21/04/2002
+2. Observation Sr. No. : 539
+3. Observer & email :  Zwaan, mzwaan@physics.unimelb.edu.au
+4. Project Name & Code : conc /  01MZA01 
+5. Operator(s) :  Santaji(2)
+6. Command File/Source  & Lta File : /temp2/data/cmd/zwaan/cnoc.cmd. 
+								   : /rawdata/21apr/01mza01_cnoc.lta
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 :  1170 MHz.,  0 dB., ON.
+8. Ist LO (MHz) & IVth LO (MHz) : 1075 MHz.,  71 MHz.  
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : 2+2 dB., 32 MHz., ON.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status : 16 MHz., 0 dB., ON.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 0 / 0 
+12. Channels : 0,127,1 
+13. Frequency Parameters (TPA) : 1146 1146 1075 1075 71 71
+
+14. Integration Time (Sec.) : 32 sec (16*16m)
+15. No of Antennas Working(Fringing):  25
+16. Name of Non-Working Antennas (with reason for each) :
+
+	C06		MCM 9 Time Out.			 		 
+	E06     NO Fringe.
+	W04     PAINTIING & MCM 5 Time Out. 
+	S02     NO Fringe. (All MCMs Time Out)
+	W05     High cross counts.
+
+17. Starting and Ending time of Observations (IST) : 15:00 - 01:50 
+	
+18. Comments (During Observations) :
+
+	15:06 	started scan on 3c286.
+	15:35   started the command file.
+	18:40   antenna W04 released for observation.
+	01:13	Stopped command file.
+	01:16	Started das scan on 3c286.
+	01:50	Stopped das scan on 3c286 & project.
+
+19. Data Backup files & Tape No. :
+
+
+

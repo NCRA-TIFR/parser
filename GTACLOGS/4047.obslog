@@ -1,0 +1,104 @@
+		 GTAC Observation Log 
+
+1. Date : 18/11/2008
+2. Observation Sr. No. : 4047
+3. Observer : Nissim
+4. Observer's Email : nkanekar@aoc.nrao.edu
+5. Project Name : 0035+413
+6. Project Code : 15NKA01
+7. Operator(s) : Jayprakash,
+	Nilesh,
+	Rupsingh,
+	Sachin,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/nissim/0035+413.cmd,
+	/odisk/gtac/cmd/nissim/0340+36.cmd,
+	/odisk/gtac/cmd/nissim/0707+476.cmd,
+	/odisk/gtac/cmd/nissim/0600+442.cmd,
+	/odisk/gtac/cmd/nissim/0805+410.cmd,
+	/odisk/gtac/cmd/nissim/0804+499.cmd,
+	/odisk/gtac/cmd/nissim/0917+624.cmd,
+	/odisk/gtac/cmd/nissim/1030+611.cmd,
+	/odisk/gtac/cmd/nissim/0859+470.cmd
+9. LTA File : /rawdata/18nov/15nka01_18nov2008.lta,
+	/rawdata1/18nov/15nka01_18nov2008.ltb
+10. LogFlag File : /btemp2/logflags/15NKA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 600 MHz ,RF2 : 600 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 530 MHz, ILO2 : 530 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 8000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:255:1
+17. Frequency Parameters (TPA) : 600 600 530 530 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+S01 - MCM 0 time out.
+E03 - Low fringe.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 20:30 - 09:30
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : USBHighRes  *********
+--------------------------------------------
+20:44 : Started scan on 3C48.
+20:56 : Started command file.
+22:08 : Stopped command file.
+--------------------------------------------
+Changed frequency setup
+tpa 567.3 567.3 500 500 67.3 67.3
+22:14 : Started scan on 3C48 for 8 mins.
+22:25 : Started command file 0340+36.cmd.
+23:50 : Stopped command file.
+--------------------------------------------
+Changed frequency setup
+tpa 615  615 545 545 70 70
+23:56 : Started command file.
+01:12 : Stopped command file.
+--------------------------------------------
+Changed frequency setup
+tpa 660.98 660.98 595 595 65.98 65.98
+01:17 : Started command file.
+02:17 : Stopped command file.
+--------------------------------------------
+Changed frequency setup
+tpa 583.3 583.3 510 510 73.3 73.3
+02:21 : Started scan on 3c147 for 8min.
+02:34 : Started command file.
+04:37 : Stopped command file.
+--------------------------------------------
+Changed frequency setup
+tpa 579 579 515 515 64 64
+04:40 : Started command file.
+05:49 : Stopped command file.
+--------------------------------------------
+Changed frequency setup
+tpa 576.7 576.7 510 510 66.7 66.7
+05:52 : Started command file.
+07:01 : Stopped Command file.
+--------------------------------------------
+Changed frequency setup
+tpa 587.8 587.8 515 515 72.8 72.8
+07:07 : started command file.
+08:20 : stopped command file.
+
+--------------------------------------------
+Changed frequency setup
+tpa 571 571 505 505 66 66
+08:22 : started command file.
+09:30 : stopped the command file.
+      : observation session over.
+

@@ -1,0 +1,67 @@
+		 GTAC Observation Log 
+
+1. Date : 24/09/2006
+2. Observation Sr. No. : 2846
+3. Observer : BCJ
+4. Observer's Email : bcj@ncra.tifr.res.in
+5. Project Name : PSROBSN
+6. Project Code : 10BCJ02
+7. Operator(s) : Jitendra,
+	Manish G.,
+	Manisha J.,
+	Sachin,
+	
+8. Command File : /btemp2/cmd/hold.cmd
+9. LTA File : /rawdata1/24sep/10bcj02_24sep06.ltb
+10. LogFlag File : /btemp2/logflags/10BCJ02.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 237 MHz ,RF2 : 237 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 310 MHz, ILO2 : 310 MHz, IVLO1 : 73 MHz, IVLO2 : 73 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 6+0 dB, 6 MHz,OFF, IF-CH2 : 6+0 dB, 6 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 237 237 310 310 73 73 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C00 ,C02 - ch#130 No fringe
+C04 - Ch#175 fluctuating
+E02 Servo down
+W02 Feed not focussed.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 02:39 - 07:30
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+---------------------------------------------
+
+6 MHz band shifted to LSB, no USB recording.
+
+02:45 : Phasing scan #1,2
+03:40 : Calibrator scan #3 3C48
+                        #4 2350+646
+                        #5 3C147
+
+04:02 : Phasing scan#6,7 on 3C147 
+04:40 : B0740-28 test plsar
+04:51 : J0737-3039A Started.
+07:30 : Stopped the observation.
+

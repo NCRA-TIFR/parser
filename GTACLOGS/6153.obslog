@@ -1,0 +1,65 @@
+		 GTAC Observation Log 
+
+1. Date : 10/9/2012
+2. Observation Sr. No. : 6153
+3. Observer : Giulia Macario
+4. Observer's Email : giulia.macario@oca.eu,hintema@nrao.edu
+5. Project Name :  Searching for Radio Halos in the MACS-Planck X-ray luminous cluster sample
+6. Project Code : 22_021
+7. Operator(s) : Manisha,
+	Santaji,
+	Surender
+8. Command File : /odisk/gtac/cmd/22_021/augsep/10sept12.cmd
+9. LTA File : /gsbifrdata/10sep/22_021_10sep2012.lta
+10. LogFlag File : /odisk/online1/logflags/22_021.FLAGS.7
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+12 dB, 32 MHz,ON, IF-CH2 : 10+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 306 306 255 255 51 51.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :27
+
+27. Name of Non-Working Antennas (with reason for each) :
+C01 : 175 pol no fringe.
+C03 : Under maintenance.
+S06 : Fibre optic cable cut.
+
+
+
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 23:30 - 09:00
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+23:00 : Started setup.
+23:38 : Started scan on 3c48.
+00:08 : Stopped scan.
+00:12 : Started scan on MACSJ0257.
+01:10 : Stopped scan.
+01:11 : Started command file.
+08:20 : stopped command file.
+08:25 : started scan on phase cal.
+08:30 : stopped das & moved to 3c147
+08:34 : started scan on 3C147.
+09:01 : stopped das & observation session.
+
+

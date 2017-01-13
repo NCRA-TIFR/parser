@@ -1,0 +1,50 @@
+		 GTAC Observation Log 
+
+1. Date : 09/03/2008
+2. Observation Sr. No. : 3663
+3. Observer : Marek
+4. Observer's Email : jamrozy@oa.uj.edu.pl
+5. Project Name : DDRG
+6. Project Code : 13JMA01
+7. Operator(s) : Deepak,
+	Navanath,
+	Nilesh,
+	
+8. Command File : /atemp2/cmd/marek/j1548_610.cmd
+9. LTA File : /rawdata/9mar/13jma01_09mar2008.lta,
+	/rawdata1/9mar/13jma01_09mar2008.ltb
+10. LogFlag File : /atemp2/logflags/13JMA01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+4 dB, 32 MHz,ON, IF-CH2 : 20+4 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+LSB :175 chan. no fringe.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 03:00 - 00:00
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Aditya   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+02:50 : started setting for 13JMA01 prj.
+03:00 : started scan on 3c286 for 10min.
+07:04 : Command file stopped.
+07:09 : Started scan o 3c286.
+07:25 : Stopped scan and observation closed.
+

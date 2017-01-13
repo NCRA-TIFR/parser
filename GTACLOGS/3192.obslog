@@ -1,0 +1,52 @@
+		 GTAC Observation Log 
+
+1. Date : 09/06/2007
+2. Observation Sr. No. : 3192
+3. Observer : Kota Imai
+4. Observer's Email : quarter@pparc.geophys.tohoku.ac.jp
+5. Project Name : Jupiter
+6. Project Code : 12HMA01
+7. Operator(s) : Sachin,
+	
+8. Command File : /btemp2/cmd/misawa/misawa08jun2.cmd
+9. LTA File : /rawdata/9jun/12hma01_9jun2007.lta,
+	/rawdata1/9jun/12hma01_9jun2007.ltb
+10. LogFlag File : /btemp2/logflags/12HMA01.FLAGS.6
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+4 dB, 32 MHz,OFF, IF-CH2 : 16+4 dB, 6 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+E02 : Power off.
+W02 : Bad Bandshape.
+C14 : 175 pol no fringe.
+W03 : Servo Time Out.
+E04 : Bad Bandshape in USB.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 01:56 - 04:26
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : UsbHighRes    **********
+--------------------------------------------
+01:57 : Started scan on 3C286 for 15 mins.
+02:20 : Started command file.
+04:09 : Stopped command file.
+04:18 : Started scam on 3C48.
+04:26 : Stopped scan on 3C48 and stopped project.
+

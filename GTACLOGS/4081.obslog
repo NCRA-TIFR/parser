@@ -1,0 +1,58 @@
+		 GTAC Observation Log 
+
+1. Date : 09/12/2008
+2. Observation Sr. No. : 4081
+3. Observer : N N Jetha
+4. Observer's Email : nazirah.jetha@cea.fr
+5. Project Name : The radio halo-merger-cooling connection in galaxy groups at z~0.5 
+6. Project Code : 14NJA01
+7. Operator(s) : Sachin,
+	Santaji,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/14nja01/obs_9dec.cmd
+9. LTA File : /rawdata/9dec/14nja01_09dec2008.lta,
+	/rawdata1/9dec/14nja01_09dec2008.ltb
+10. LogFlag File : /btemp2/logflags/14NJA01.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C04 : For painting and   servo problem.
+C05 : For painting.
+W03 : ABC time out.
+
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 15:35 - 00:16
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar   *********
+--------------------------------------------
+15:35 : Started setting.
+15:56 : Started scan on 3C48.
+16:13 : Stopped scan.
+16:15 : /odisk/gtac/cmd/14nja01/obs_9dec.cmd command file started.
+18:00 : C05 started working.
+23:52 : Stopped command file and started scan on 
+phase cal for 5 mins.
+NOTE : Please do not consider scan no. 22 for analysis.
+00:06 : Started scan on 3C48 for 10 mins.
+00:16 : Stopped scan and observation session.
+

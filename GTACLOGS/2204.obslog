@@ -1,0 +1,57 @@
+		 GTAC Observation Log 
+
+1. Date : 21/08/2005
+2. Observation Sr. No. : 2204
+3. Observer : S. Roy
+4. Observer's Email : roy@ncra.tifr.res.in,roy@astron.nl
+5. Project Name : galactic centre @ 150 MHz
+6. Project Code : 08SRC02
+7. Operator(s) : Deepak,
+	Jitendra,
+	Sanjay,
+	
+8. Command File : /atemp2/cmd/roy/roy.saga150.cmd
+9. LTA File : /rawdata/21aug/08sra02_sgra_150.lta
+10. LogFlag File : /atemp2/logflags/08SRA02.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 157 MHz ,RF2 : 157 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 223 MHz, ILO2 : 223 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+24 dB, 6 MHz,OFF, IF-CH2 : 24+24 dB, 6 MHz,OFF
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, OFF
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 157 157 223 223 66 66 
+
+18. Integration Time : 8 STA ~ 1.057 Sec.
+19. No of Antennas Working(Fringing) :25
+
+20. Name of Non-Working Antennas (with reason for each) :
+C09 - IF problem.
+E05 - phase unstable.
+E03 - phase unstable.
+S01 - MCM 5 time out.
+S02 - weak fringe.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 16:00 - 00:28
+
+23. Comments (During Observations) :
+-----------------------------
+--- ONLINE ADITYA -----------
+-----------------------------
+
+16:39 : Started scan on 3C286 for 5mins.
+   Setting changed Both ALC made OFF And power equalised.
+17:10 : Started command file roy.saga150.cmd
+18:30 : Command file stopped. And swapped W04&S02.
+18:45 : Restored swap status.
+18:46 : Restarted command file.
+00:28 : Stopped observation.
+
+

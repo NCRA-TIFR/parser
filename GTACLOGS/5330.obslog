@@ -1,0 +1,79 @@
+		 GTAC Observation Log 
+
+1. Date : 16/5/2011
+2. Observation Sr. No. : 5330
+3. Observer : susanta
+4. Observer's Email : susanta@prl.res.in,jerry@prl.res.in
+5. Project Name : Solar Observations
+6. Project Code : 20_003
+7. Operator(s) : Navanath,
+	Nilesh,
+	Rupsingh,
+	
+8. Command File : /odisk/gtac/cmd/jerry/16may11/20_003_16may11.cmd
+9. LTA File : /gsbifrdata/16may/20_003_16may2011.lta
+10. LogFlag File : /odisk/online1/logflags/20_003.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 218 MHz, ILO2 : 218 MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,OFF, IF-CH2 : 4+12 dB, 16 MHz,OFF
+
+GSB SETTINGS :
+
+14. Maximum Channels : 256 
+15. Final Bandwidth (MHz): OFF MHz; Step # 0
+16. IFBW (MHz) : LO5 (KHz) : 16:138000-167000
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+
+20. Frequency Parameters (TPA) : 156 156 218 218 62 62.
+21. Integration Time : 16.106 Sec.
+22. No of Antennas Working(Fringing) :29
+
+23. Name of Non-Working Antennas (with reason for each) :
+C09 :-No fringe.
+
+24. Note for Backup :--
+
+25. Start and End Time of Obs.(IST): 09:00 - 17:55
+
+26. ONLINE Machine : Lenyadri
+
+27. Comments (During Observations) :
+2s data file :-
+/gsbifrdata1/16may/20_003_16may2011_2s.lta
+---------------------------------------------
+09:00 ; Started setup for solar obs
+09:10 : power eq on 3C48 @ 300counts 
+09:20 : Started scan on 3C48 for 10min.
+09:37 : Started scan on SUN0002 (09:45)
+10:01 : E-arm power failure.
+10:15 : E-arm power resumed.
+10:32:59 : Started scan on SUN00026 for ~ 31.1385 min.
+11:09:17 : Started scan on 3C48 for ~ 4.83183 min.
+11:23:01 : Started scan on SUN00031 for ~ 31.4069 min.
+12:00:00 : Started scan on 3C48 for ~ 4.83183 min.
+12:15:02 : Started scan on SUN00034 for ~ 9.66367 min.
+12:33:56 : Started scan on 3C48 for ~ 4.5634 min.
+         : Strong line in band taken for debug 
+         : Warm and s-arm down
+13:12:43 : Started scan on SUN00038 for ~ 25.7698 min.
+13:56:09 : Started scan on 3C48 for ~ 4.83183 min.
+14:06:01 : Started scan on SUN00043 for ~ 31.4069 min.
+14:44:21 : Started scan on 3C48 for ~ 4.5634 min.
+14:54:04 : Started scan on SUN00048 for ~ 31.1385 min.
+15:32:28 : Started scan on 3C48 for ~ 4.5634 min.
+15:42:01 : Started scan on SUN00052 for ~ 31.1385 min.
+16:18:17 : Started scan on 0237+288 for ~ 4.83183 min.
+16:27:02 : Started scan on SUN00056 for ~ 30.87 min.
+17:04:56 : Started scan on 3C147 for ~ 4.83183 min.
+17:14:27 : Started scan on SUN00059 for ~ 23.8907 min.
+17:43:13 : Started scan on 3C147 for ~ 9.9321 min.
+17:54:00 : Stopped scan & observation session over.
+
+
+
+

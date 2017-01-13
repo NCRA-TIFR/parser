@@ -1,0 +1,82 @@
+		 GTAC Observation Log
+
+1. Date : 07/02/2016
+2. Observation Sr. No. : 8392
+3. Observer : BHAL CHANDRA JOSHI, Gopakumar Achamveedu, Yogesh Maan, ARUN KUMAR NAIDU, Periasamy K. Manoharan
+4. Observer's Email : bcj@ncra.tifr.res.in, gopu.tifr@gmail.com, ymaan@ncra.tifr.res.in, arun@ncra.tifr.res.in, mano@ncra.tifr.res.in
+5. Project Name : A Pilot proposal for an Indian Pulsar Timing Array (IndPTA)
+6. Project Code : 29_064
+7. Operator(s) : Pramod
+8. Command File : /odisk/gtac/cmd
+9. LTA File : /gsbifrdata1/07feb/29_064_07feb2016_2s.lta
+10. LogFlag File : /odisk/online1/logflags/29_064.FLAGS.10
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1292 MHz ,RF2 : 1292 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1230 MHz, ILO2 : 1230MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 16 MHz,OFF, IF-CH2 : 24+4 dB, 16 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : Volt
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 16.666666 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 138
+28. LO5 -2  : 167
+
+29. Frequency Parameters (TPA) : 1292 1292 1230 1230 62 62
+30. Integration Time : 2.0132 Sec
+31. No of Antennas Working(Fringing) at the beginning :28
+
+32. Name of Non-Working Antennas (with reason for each) :
+C04 : Taken for Maintenance.
+E04 : Taken for CST painting.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 07 Feb 2016 10:00:00 - 07 Feb 2016 13:00:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :27
+
+37. Comments (During Observations) :
+09:45 : Started set up.
+10:17 : Power equalized and phasing done on 1822-096.
+Antennas selected in GAC
+
+Central square (Except C04)+W01+W02+S01+S02+E02+E03 =19 antennas
+
+10:30:30 : Started scan on J1600-3053 for ~ 11.2407 min.
+10:43:18 : Started scan on J1643-1224 for ~ 9.83144 min.
+10:54:51 : Started scan on J1713+0747 for ~ 21.1728 min.
+11:17:53 : Started scan on B1855+09 for ~ 15.737 min.
+11:35 : Phasing done on 1830-360.
+
+11:35 : Note : The fringe of C01 vanished in between observation and it is notice on phase cal. 1822-096 during phasing (time : 11:35 ). Hence, because of low fringe of C01 antenna,it is removed from GAC. 
+
+
+11:36:35 : Started scan on 1822-096 for ~ 2.34881 min.
+11:45:48 : Started scan on J1909-3744 for ~ 25.0316 min.
+12:14:50 : Started scan on B1937+21 for ~ 5.53648 min.
+12:24:43 : Started scan on J2124-3358 for ~ 9.42879 min.
+12:36:33 : Started scan on J2145-0750 for ~ 10.6703 min.
+12:50:26 : Started scan on J2317+1439 for ~ 15.0324 min.
+13:07:43 : Started scan on 3C48 for ~ 1.44284 min.
+13:11:04 : Started scan on 3C48 for ~ 2.81857 min.
+13:13 : Stopped scan and observation session is over.
+-----------------------------------------------------------------------
+
+
+

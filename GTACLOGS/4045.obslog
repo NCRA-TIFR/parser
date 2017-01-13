@@ -1,0 +1,71 @@
+		 GTAC Observation Log 
+
+1. Date : 18/11/2008
+2. Observation Sr. No. : 4045
+3. Observer : T. Martinsson
+4. Observer's Email : martinsson@astro.rug.nl,
+5. Project Name : Disk Mass Survey
+6. Project Code : 15MVA01
+7. Operator(s) : Jayprakash,
+	Nilesh,
+	Rupsingh,
+	Sachin,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/15mva01/obs_18nov08_a.cmd
+9. LTA File : /rawdata/18nov/15mva01_18nov2008.lta,
+	/rawdata1/18nov/15mva01_18nov2008.ltb,
+	/rawdata/18nov/15mva01_18nov2008.lta.1,
+	/rawdata1/18nov/15mva01_18nov2008.ltb.1
+10. LogFlag File : /btemp2/logflags/15MVA01.FLAGS.5
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1409.848 MHz ,RF2 : 1409.848 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1345 MHz, ILO2 : 1345 MHz, IVLO1 : 64.848 MHz, IVLO2 : 64.848 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 8000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:255:1
+17. Frequency Parameters (TPA) : 1409.848 1409.848 1345 1345 64.848 64.848 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+S06 : Low fringe.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 22:00 - 10:47
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : USBHIGHRES   *********
+--------------------------------------------
+22:06 : Started scan on 3c48.
+22:21 : Stopped the scan.
+22:33 : Started the command file.
+22:40 : East arm power failed.
+23:05 : East arm started working.
+02:01 : Antenna W06 power resets.
+02:16 : W06 started working.
+02:28 : Stopped command file.
+02:31 : Started scan on 3c48 for 10 min.
+02:42 : Stopped scan and changed settings.
+        tpa 1407.4460 1407.4460 1340 1340 67.4460 67.4460
+02:49 : Started scan on 3c48 for 10 min.
+03:08 : Started command file.
+        '/odisk/gtac/cmd/15mva01/obs_18nov08_b.cmd'
+09:15 : C05 Taken for painting.
+09:30 : C04 Taken for painting.
+10:40 : Stopped command file.
+10:41 : Started scan on 3C286.
+10:47 : Stopped scan and observation over.
+
+
+

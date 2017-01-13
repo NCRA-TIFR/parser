@@ -1,0 +1,59 @@
+		 GTAC Observation Log 
+
+1. Date : 25/06/2007
+2. Observation Sr. No. : 3222
+3. Observer : Kota Imai
+4. Observer's Email : quarter@pparc.geophys.tohoku.ac.jp
+5. Project Name : Jupiter
+6. Project Code : 12HMA01
+7. Operator(s) : Jitendra,
+	
+8. Command File : /btemp2/cmd/misawa/misawa24jun2.cmd
+9. LTA File : /rawdata/25jun/12hma01_25jun2007.lta,
+	/rawdata1/25jun/12hma01_25jun2007.ltb
+10. LogFlag File : /btemp2/logflags/12HMA01.FLAGS.11
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+4 dB, 32 MHz,OFF, IF-CH2 : 16+4 dB, 6 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C11 - Feed Not focused.
+C14 - not fringing..
+S06 - ABC T.O. (OPF Cut).                   
+E03 - USB Bad-baselines
+W02 - Strong RFI Line at 610 MHz, Channel ~ 15                   Broad Band RFI at 235 MHz.
+
+
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 09:30 - 03:40
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : Indian Polar Mode *********
+--------------------------------------------
+24:25 : 12HMA01 Project. Default Dual Frequencies
+        with ALCs off, Fringe status checked.
+~25:00 : Correlator Power equalized at 1822-096.
+25:01  : Command file started.
+03:14 : Command file stopped.
+03:25 : Flux cal scan started on 3C48 source.
+03:40 : Scan stopped project over.
+
+
+

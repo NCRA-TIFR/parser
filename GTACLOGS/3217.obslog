@@ -1,0 +1,50 @@
+		 GTAC Observation Log 
+
+1. Date : 22/06/2007
+2. Observation Sr. No. : 3217
+3. Observer : S Pal
+4. Observer's Email : spal@ncra.tifr.res.in
+5. Project Name : SNR
+6. Project Code : 12SRA01
+7. Operator(s) : Deepak,
+	Sachin,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/spal/snr-3.cmd
+9. LTA File : /rawdata/22jun/12sra01_22jun2007.lta,
+	/rawdata1/22jun/12sra01_22jun2007.ltb
+10. LogFlag File : /btemp2/logflags/12SRA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+4 dB, 32 MHz,OFF, IF-CH2 : 16+4 dB, 32 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+C04 : No fringe.
+C11 : Feed not focused.
+S06 : OFC cut.
+W06 : Servo disabled.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 22:05 - 01:40
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : Indian Polar Mode *********
+--------------------------------------------
+22:05 : Command file started.
+01:40 : observation session over.
+

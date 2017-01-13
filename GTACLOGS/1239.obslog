@@ -1,0 +1,92 @@
+		 GTAC Observation Log 
+
+1. Date : 20/12/2003
+2. Observation Sr. No. : 1239
+3. Observer : Dharam Vir Lal
+4. Observer's Email : dharam@ncra.tifr.res.in
+5. Project Name : X-Shape sources
+6. Project Code : 05DVL01
+7. Operator(s) : Mangesh,
+	Manish G.,
+	Jayprakash,
+	Jitendra,
+	
+8. Command File : /btemp2/cmd/dharam/4c12_03.cmd,
+	/btemp2/cmd/dharam/3c223_1.cmd,
+	/btemp2/cmd/dharam/4c48_29.cmd
+9. LTA File : /rawdata/21dec/05dvl01_4c48.29.lta,
+	/rawdata1/21dec/05dvl01_4c48.29.ltb
+10. LogFlag File : /btemp2/logflags/05DVL01.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 241 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 307 MHz, IVLO1 : 66.00 MHz, IVLO2 : 66.00 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 32 MHz,ON, IF-CH2 : 18+18 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 241 680 307 66.00 66.00 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+W05 : Elevation brake problem.
+E04 : USB bad-band shape
+
+
+21. Start and End Time of Obs.(IST): 22:46 - 00:00
+
+22. Comments (During Observations) :
+**** ONLINE:bhaskar ****
+**** AUTHIF @ 610-235 MHz ****
+-------------------------------
+22:46	Started a scan on 3C48.
+23:07   Stopped the scan. Antennas moved to 0834+555.
+        Started command file  /temp2/data/cmd/dharam/4c48_29.cmd
+01:55   Power failure. Stopped the scan on command file.
+03:10   Power resumed.
+        In between 01:55 to 03:10 total 4 power failures.
+03:30   Started command file.
+        * Problems:
+          C14 : Not tracking (aovl flag in Az.)
+          W05 : Not tracking (El brakes not releasing)
+06:30   Power failure.
+06:40   Power resumed. Started setting up antennas.
+07:02   Started command file.
+        * Problems:
+          C13 : No fringe (MCM-5 not switching ON)
+          W05 : Not tracking (El brakes not releasing)
+
+07:33   C00 got ABC reset , restored for observation after
+        antenna settings.
+07:47   Power failed, command file stopped.
+08:15   Command file started.
+        * E05,W01,W03,W05,W06 MCM time out.
+          Except W01 other antenna recovered after
+          mcm reset.
+08:24   Command file modified for 8-20 minute cycle
+         of src & calibrator.
+     
+08:42  W01 & E05 mcm resetted & antenna settings done
+       successfully.
+
+08:43  Power failed !!.
+09:01  Restarted command file.( Only C-square antennas are tracking.)
+09:25  C02,C00,C05,C06,C08,C09 & C12 ABC reset.
+09:53  Antenna mentioned above for time stamp 09:25
+       giving ABC T.O.
+
+10:07  Observing session closed as per Dr. Dharams
+       instruction.
+
+
+
+
+
+
+

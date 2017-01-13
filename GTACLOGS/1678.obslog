@@ -1,0 +1,70 @@
+		 GTAC Observation Log 
+
+1. Date : 24/09/2004
+2. Observation Sr. No. : 1678
+3. Observer : ANAND HOTA
+4. Observer's Email : hota@ncra.tifr.res.in
+5. Project Name : LIRGHI
+6. Project Code : 06AHA01
+7. Operator(s) : Jayprakash,
+	Sachin,
+	Sanjay,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/hota/ngc4303.cmd,
+	/btemp2/cmd/hota/ngc4501.cmd,
+	/btemp2/cmd/hota/ngc7771.cmd
+9. LTA File : /rawdata/24sep/06aha01_ngc4303HI.lta,
+	/rawdata1/24sep/06aha01_ngc4303HI.ltb,
+	/rawdata/24sep/06aha01_ngc4501HI.lta,
+	/rawdata1/24sep/06aha01_ngc4501HI.ltb,
+	/rawdata/24sep/06aha01_ngc7771HI.lta,
+	/rawdata1/24sep/06aha01_ngc7771HI.ltb
+10. LogFlag File : /btemp2/logflags/06AHA01.FLAGS.15
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1408.88 MHz ,RF2 : 1408.88 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1345 MHz, ILO2 : 1345 MHz, IVLO1 : 63.88 MHz, IVLO2 : 63.88 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+4 dB, 16 MHz,ON, IF-CH2 : 4+4 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1408.88 1408.88 1345 1345 63.88 63.88 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C01 : servo problem.
+W05 : servo problem.
+
+21. Start and End Time of Obs.(IST): 08:05 - 23:18
+
+22. Comments (During Observations) :
+********  ONLINE BHASKAR  ***********
+********  AUTH IF AT 1390 MHz. ******
+-------------------------------------
+08:05 started the setup
+08:23 started the scan on 3c147.
+09:06 command file started.
+10:15 E03 released for maintance.
+12:25 started the new record files 
+	and changed the settings to 
+	1405.54 1405.54 1340 1340 65.54 65.54
+	scan started on 3c286.
+13:02 command file started.
+14:40 W05 started working.
+15:42 C01 released for observation.
+16:44 E03 released for observation.
+18:10 Stopped observation.
+18:18 New record file started and
+      changed the settings to
+      1396.390 1396.390 1330 1330 66.390 66.390
+      scan started on 3c286.
+19:08 command file started.
+23:18 Stopped the command file. Stopped the observation.
+

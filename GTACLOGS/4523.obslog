@@ -1,0 +1,58 @@
+		 GTAC Observation Log 
+
+1. Date : 09/09/2009
+2. Observation Sr. No. : 4523
+3. Observer : Sirothia
+4. Observer's Email : sirothia@ncra.tifr.res.in
+5. Project Name : HD209458
+6. Project Code : 16_116
+7. Operator(s) : Navanath,
+	Nilesh,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/sirothia/16_116_09sep09.cmd
+9. LTA File : /rawdata/9sep/16_116_09sep2009.lta,
+	/rawdata1/9sep/16_116_09sep2009.ltb
+10. LogFlag File : /odisk/online1/logflags/16_116.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 218 MHz, ILO2 : 218 MHz, IVLO1 : 62 MHz, IVLO2 : 62 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:255:1
+17. Frequency Parameters (TPA) : 156 156 218 218 62 62 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+E05 : MCM 10 time-out
+E06 : Servo Problem,
+W05 : Servo Problem,
+W06 : Feed Jam.
+C08 : LSB-130=> No fringe.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 18:30 - 05:20
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : UsbHighRes
+
+25. Comments (During Observations) :
+18:37 : Started scan on 3c286.
+19:07 : Started command file.
+23:21 ; track changed restarted command file.
+04:28 : command file stopped.
+04:30 : started scan on phase cal. 
+04:57 : started scan on 3C48 for 15min.
+05:20 : Observing session over.
+
+
+

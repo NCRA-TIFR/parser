@@ -1,0 +1,52 @@
+1. Date : 30/11/2002
+2. Observation Sr. No. : 0880
+3. Observer : Sarita
+4. Observer's Email : visitor3@gmrt.ncra.tifr.res.in
+5. Project Name : ORION_2
+6. Project Code : 03SVA01
+7. Operator(s) : Manish G.,
+	
+8. Command File : /temp2/data/cmd/sarita/orion.cmd
+9. LTA File : /rawdata/30nov/03sva01_orion_2.lta
+
+ANTENNA SETTINGS :
+
+10. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1063 MHz ,RF2 : 1063 MHz, SA1 : 0 dB, SA2 : 0 dB
+11. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 995 MHz, ILO2 : 995 MHz, IVLO1 : 68 MHz, IVLO2 : 68 MHz
+12. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 6+6 dB, 6 MHz,ON, IF-CH2 : 6+6 dB, 6 MHz,ON
+13. BB BW(KHz), BB Gain(dB) & BB ALC : 4000 KHz, 6 dB, ON
+
+CORREATOR SETTINGS :
+
+14. CLK_SEL/Samp_Freq : 2
+15. Channels : 0:127:1
+16. Frequency Parameters (TPA) : 1063 1063 995 995 68 68 
+
+17. Integration Time : 128 STA ~ 16.908 Sec.
+18. No of Antennas Working(Fringing) :28
+
+19. Name of Non-Working Antennas (with reason for each) :
+C00 : Low fringe.
+S03 : Low fringe.
+
+20. Start and End Time of Obs.(IST): 23:31 - 00:00
+
+21. Comments (During Observations) :
+23:31  Started Flux calibrator scan on 3C48.
+23:47  Stopped the scan. Antennas moved to source 0607-085.
+23:55  Started command file  /temp2/data/cmd/sarita/orion.cmd
+24:33  Stopped the command file.
+
+*** COMMAND FILE PROBLEM (MID-NIGHT CROSSING).
+Scan on calibrator '0607-085' was suppossed to stop at 24:07.
+But it did not stop, just continued. Observed around 24:30 Hrs.
+Stopped the command file, and restarted with source 'ORION'.
+
+* W03 intermittent elevation brakes problem.
+
+24:35  Started the command file again.
+28:42  C13 got ABC reset.
+28:48  Stopped the command file. Antennas moved to source 3C147.
+28:53  Started scan on 3C147.
+29:04  Stopped the scan. Observation over.
+

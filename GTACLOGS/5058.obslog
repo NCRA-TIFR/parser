@@ -1,0 +1,78 @@
+		 GTAC Observation Log 
+
+1. Date : 11/10/2010
+2. Observation Sr. No. : 5058
+3. Observer : Sandeep Sirothia, Ishwar Chandra
+4. Observer's Email : sirothia@ncra.tifr.res.in,ishwar@ncra.tifr.res.in
+5. Project Name : Extra Galactic Survey @ 150 MHz Using GMRT
+6. Project Code : 19_043
+7. Operator(s) : Deepak,
+	Nilesh,
+	Rupsingh,
+	
+8. Command File : /odisk/gtac/cmd/sirothia/19_043_20101011a.cmd,
+	/odisk/gtac/cmd/sirothia/19_043_20101011b.cmd
+9. LTA File : /rawdata1/11oct/19_043_11oct2010.ltb,
+	/rawdata/11oct/19_043_11oct2010.lta,
+10. GSB File :/gsbifrdata/11oct/19_043_11oct2010_16s_gsb.lta,
+	/gsbifrdata1/11oct/19_043_11oct2010_2s_gsb.lta
+11. LogFlag File : /odisk/online1/logflags/19_043.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 218 MHz, ILO2 : 218 MHz, IVLO1 : 62 MHz, IVLO2 : 62 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+GHB Settings :
+15. GHB Channels : 0:127:1
+16. Correlator Mode : UsbPolar
+17. Frequency Parameters (TPA) : 156 156 218 218 62 62 
+
+GSB Settings :
+18. Maximum Channels : 256 
+19. Final Bandwidth (MHz): OFF MHz; Steps : 0
+20. IFBW : LO5(MHz) : 16:138-167 MHz
+21. Stokes : Full_Polar
+22. Beam - 1 : OFF
+23. Beam - 2 : OFF
+
+24. Integration Time : 128 LTA ~ 16.908 Sec.
+25. No of Antennas Working(Fringing) :29
+
+26. Name of Non-Working Antennas (with reason for each) :
+C03 : Painting.
+27. Note for Backup :--
+
+28. Start and End Time of Obs.(IST): 17:15 - 03:02
+
+29. ONLINE Machine : Lenyadri
+30. Comments (During Observations) :
+    2S data file
+ /rawdata/11oct/19_043_11oct2010_2s.lta,
+  /rawdata1/11oct/19_043_11oct2010_2s.ltb
+
+
+17:10 : Started setup @ 150MHz.
+17:36 : Started scan on 3c286.
+17:55 : C03 released for observation.
+18:05 : Stopped scan on 3C286.
+18:22 : Started command file.
+       '/odisk/gtac/cmd/sirothia/19_043_20101011a.cmd'.
+20:04 : Stopped command file.
+20:06 : Started command file
+         '/odisk/gtac/cmd/sirothia/19_043_20101011b.cmd'
+20:43 : Stopped command file.
+20:44 : Started scan on J0218+4232.
+20:55 : Stopped scan.
+20:56 : Started scan on 3C48.
+21:07 : Stopped scan.
+21:09 : Restarted command file.
+03:02 : stopped the command file and observation.
+
+
+
+

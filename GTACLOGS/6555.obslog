@@ -1,0 +1,71 @@
+		 GTAC Observation Log 
+
+1. Date : 18/6/2013
+2. Observation Sr. No. : 6555
+3. Observer : Chiranib Konar
+4. Observer's Email : chiranjib@asiaa.sinica.edu.tw,chiranjib.konar@gmail.com
+5. Project Name : SED type FERMI sources.
+6. Project Code : 24_002
+7. Operator(s) : Sachin,
+	
+8. Command File : /odisk/gtac/cmd/anli/macs-j1824_2.cmd
+9. LTA File : /gsbifrdata/18jun/24_002_18jun2013.lta
+10. LogFlag File : /odisk/online1/logflags/24_002.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 218 MHz, ILO2 : 218 MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 16 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 16:138000-167000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 156 156 218 218 62 62.
+25. Integration Time : 8.053 Sec.
+26. No of Antennas Working(Fringing) :28
+
+27. Name of Non-Working Antennas (with reason for each) :
+W05 : Servo time out.
+W06 : ABC time out.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 00:00 - 06:10
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+00:23:57 - 00:33:12 Recorded data on 3C286
+00:38:19 - 00:43:08 Recorded data on 1924+334
+00:46:54 - 01:06:46 Recorded data on J1824+4309
+01:08:47 - 01:13:36 Recorded data on 1924+334
+01:17:06 - 01:36:50 Recorded data on J1824+4309
+01:38:58 - 01:43:40 Recorded data on 1924+334
+01:46:54 - 02:06:45 Recorded data on J1824+4309
+02:08:30 - 02:13:12 Recorded data on 1924+334
+02:16:33 - 02:36:25 Recorded data on J1824+4309
+02:37:54 - 02:42:36 Recorded data on 1924+334
+02:45:57 - 03:05:41 Recorded data on J1824+4309
+03:07:09 - 03:11:59 Recorded data on 1924+334
+03:15:13 - 03:35:04 Recorded data on J1824+4309
+03:36:41 - 03:41:23 Recorded data on 1924+334
+03:44:44 - 04:04:28 Recorded data on J1824+4309
+04:05:57 - 04:10:46 Recorded data on 1924+334
+04:14:16 - 04:34:08 Recorded data on J1824+4309
+04:35:36 - 04:40:18 Recorded data on 1924+334
+04:43:48 - 05:03:56 Recorded data on J1824+4309
+05:05:16 - 05:10:06 Recorded data on 1924+334
+05:13:19 - 05:33:11 Recorded data on J1824+4309
+05:34:32 - 05:39:13 Recorded data on 1924+334
+05:51:10 - 06:08:13 Recorded data on 3C48
+

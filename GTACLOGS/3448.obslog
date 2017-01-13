@@ -1,0 +1,55 @@
+		 GTAC Observation Log 
+
+1. Date : 16/11/2007
+2. Observation Sr. No. : 3448
+3. Observer : Uday Kumar G.
+4. Observer's Email : uday@iiap.res.in
+5. Project Name : sn2005kd
+6. Project Code : 13GUK01
+7. Operator(s) : Jayprakash,
+	Manisha,
+	Nilesh,
+	Santaji,
+	
+8. Command File : /atemp2/cmd/13guk01/sn2005kd.cmd
+9. LTA File : /rawdata/16nov/13guk01_16nov2007.lta,
+	/rawdata1/16nov/13guk01_16nov2007.ltb
+10. LogFlag File : /atemp2/logflags/13GUK01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1400 MHz ,RF2 : 1400 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1330 MHz, ILO2 : 1330 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 6+0 dB, 32 MHz,ON, IF-CH2 : 6+0 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1400 1400 1330 1330 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C12: low fringe.
+E04: no fringe.
+W02: no fringe.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 18:00 - 07:02
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+18:00 : setup started.
+18:24 : scan started on 3c48.
+18:47 : command file started.
+06:40 : Stopped the command file.
+06:41 : Startedscan on 3c147.
+07:02 : Stopped scan and observation session over.
+
+

@@ -1,0 +1,97 @@
+		 GTAC Observation Log 
+
+1. Date : 30/4/2014
+2. Observation Sr. No. : 7074
+3. Observer : Dipanjan Mitra,Krzysztof Maciesiak,Rahul Basu,Anna Maria Skrzypczak,Janusz Gil
+4. Observer's Email : dmitra@ncra.tifr.res.in,jezyk@astro.ia.uz.zgora.pl,rbasu@ncra.tifr.res.in,ania.skrzypczak@hotmail.com,jag@astro.ia.uz.zgora.pl
+5. Project Name : %latex% A Metrewavelength Survey of Pulsar Emission: ( -50  $<$ Dec $<$ 25 )
+6. Project Code : 25_038
+7. Operator(s) : Nilesh,Sachin,Shilpa,
+8. Command File : 
+9. LTA File : /gsbifrdata/30apr/25_038_30apr2014_16s.lta,/gsbifrdata1/30apr/25_038_30apr2014_2s.lta,
+10. LogFlag File : /odisk/online1/logflags/25_038.FLAGS.35,
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 602 MHz ,RF2 : 602 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540 MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 16 MHz,OFF, IF-CH2 : 24+4 dB, 16 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : Realtime 
+15. GSB LTA : 8 
+16. GSB CTRL : ONLINE 
+17. GSB Fstop : ON 
+18. GAIN EQ : OFF, 
+19. Stokes : FullStokes
+20. Beam - 1 : IA
+21. Beam - 2 : PA
+22. ACQ BW : 16.67 MHz
+23. Final BW : 16.666666 MHz; Step # 0
+24. Maximum Channels : 256 
+25. Channel Numbers : 0:255:1 
+26. LO5 -1  : 138.00 
+27. LO5 -2  : 167.00 
+
+28. Frequency Parameters (TPA) : 602 602 540 540 62 62.
+29. Integration Time : 16.106112 Sec.
+30. No of Antennas Working(Fringing) at the begining :27
+
+31. Name of Non-Working Antennas (with reason for each) :
+S06 : BLDC work.
+S04 : Painting.
+C12 : Servo time out
+32. Note for Backup :
+
+33. Start and End Time of Obs.(IST): 01:50 - 09:37
+
+34. ONLINE Machine : Shivneri
+
+35. No of Antennas Working(Fringing) at the end :26
+
+36. Comments (During Observations) :
+01:50 : Started settings for observation.
+        Power eq @ 150 counts on 3C286 and phasing.
+02:15 : Started observation.
+
+02:17:13 : Started scan on 3C286 for ~ 6.30823 min.
+02:26:59 : Started scan on 1311-222 for ~ 2.24814 min.
+02:29:27 : Started scan on 1311-222 for ~ 1.57706 min.
+02:32:44 : Started scan on J1418-3921 for ~ 39.3593 min.
+03:13:34 : Started scan on 1311-222 for ~ 1.04019 min.
+03:19:08 : Started scan on 1822-096 for ~ 2.95279 min.
+03:22:13 : Started scan on 1822-096 for ~ 1.24151 min.
+03:25:43 : Started scan on B1929+10 for ~ 10.3012 min.
+03:38:23 : Started scan on B1818-04 for ~ 21.4077 min.
+04:00:23 : Started scan on J1823-0154 for ~ 27.2462 min.
+04:28:17 : Started scan on 1822-096 for ~ 1.27507 min.
+04:32:26 : Started scan on 1510-057 for ~ 1.14085 min.
+04:33:46 : Started scan on 1510-057 for ~ 1.14085 min.
+04:36:02 : Started scan on J1537+1155 for ~ 6.64377 min.
+04:43:58 : Started scan on B1604-00 for ~ 15.4686 min.
+05:00:36 : Started scan on 1510-057 for ~ 1.34218 min.
+05:03:43 : Started scan on 1625-311 for ~ 1.14085 min.
+05:05:04 : Started scan on 1625-311 for ~ 1.1744 min.
+05:06:50 : Started scan on J1603-2531 for ~ 18.9247 min.
+05:27:00 : Started scan on J1750-3503 for ~ 27.0784 min.
+05:55:07 : Started scan on 1625-311 for ~ 1.1744 min.
+05:58:42 : Started scan on 1822-096 for ~ 1.20796 min.
+06:00:02 : Started scan on 1822-096 for ~ 1.07374 min.
+06:54:47 : Started scan on 1822-096 for ~ 0.83886 min.
+06:55:45 : Started scan on 1822-096 for ~ 0.805306 min.
+06:58:18 : Started scan on J1919+0134 for ~ 58.7873 min.
+07:58:47 : Started scan on 1822-096 for ~ 1.07374 min.
+----------------------------------------------------------------------
+08:00 : E03 taken for painting.
+----------------------------------------------------------------------
+08:04:38 : Started scan on 1924+334 for ~ 1.61061 min.
+08:06:54 : Started scan on 1924+334 for ~ 1.61061 min.
+08:10:07 : Started scan on B1944+17 for ~ 16.1061 min.
+08:28:33 : Started scan on B1919+21 for ~ 49.1236 min.
+09:19:14 : Started scan on 1924+334 for ~ 1.07374 min.
+09:25:50 : Started scan on 3C48 for ~ 11.2743 min.
+
+09:37 : Stopped scan and observing session over.
+
+

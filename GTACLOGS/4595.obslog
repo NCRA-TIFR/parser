@@ -1,0 +1,91 @@
+		 GTAC Observation Log 
+
+1. Date : 14/11/2009
+2. Observation Sr. No. : 4595
+3. Observer : Chandreyee Sengupta
+4. Observer's Email : sengupta@ncra.tifr.res.in
+5. Project Name : UGC01547
+6. Project Code : 17_064
+7. Operator(s) : Deepak,
+	Rupsingh,
+	Santaji,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/csg/amiga-ugc1547.cmd,
+	/odisk/gtac/cmd/csg/amiga-ugc9088.cmd
+9. LTA File : /rawdata/14nov/17_064_14nov2009.lta,
+	/rawdata1/14nov/17_064_14nov2009.ltb,
+	/rawdata/15nov/17_064_15nov2009.lta,
+	/rawdata1/15nov/17_064_15nov2009.ltb
+10. LogFlag File : /odisk/online1/logflags/17_064.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1404.0151 MHz ,RF2 : 1404.0151 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1335 MHz, ILO2 : 1335 MHz, IVLO1 : 69.0151 MHz, IVLO2 : 69.0151 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+16 dB, 32 MHz,ON, IF-CH2 : 4+16 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 8000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1404.0151 1404.0151 1335 1335 69.0151 69.0151 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+C04 - Servo problem.
+E03 - MCM 5 time out.
+C01 - LO1 unlock.
+S06-175 - Strong RFI.
+W05 - intermittent fringe.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 18:00 - 16:00
+
+23. ONLINE Machine : Lenyadri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+18:00 : setup started.
+18:17 : scan started on 3c48.
+18:30 : command file started.
+
+22:41 : Command file stopped.
+22:44 : Started scan on 3C48 for 10mins.
+22:56 : Restarted command file.
+04:12 : Stopped command file.
+04:13 : Started scan on 0237+288 for 10min.
+04:24 : Stopped scan
+04:27 : Started scan on 3C147.
+04:41 : Stopped scan.
+05:00 : Setup change
+        RF:1390MHz
+TPA 1387.5132 1387.5132 1320 1320 67.5132 67.5132
+05:32 : Started scan on 3C147 for 10min.
+05:42 : Stopped scan
+05:47 : Started command file
+       '/odisk/gtac/cmd/csg/amiga-ugc9088.cmd'
+08:30 : E05 taken for painting.
+10:47 : Stopped command file.
+10:50 : W05 taken for maintenance.
+10:52 : Started scan on 3C286.
+11:07 : Stopped scan.
+11:11 : Restarted command file.
+        /odisk/gtac/cmd/csg/amiga-ugc9088.cmd.
+11:15 : W05 released.
+12:00 : C08 frequently applying brakes.
+14:00 : Stopped command file due to MSEB power glitch.
+
+        Scan no. 23 is bad.
+14:24 : Restarted command file.
+        /odisk/gtac/cmd/csg/amiga-ugc9088.cmd.
+15:46 : scan#28 is bad.
+15:49 : Command file stopped.
+15:51 : Started scan on 3C468.1 for 10mins.
+16:00 : Observation stopped.
+
+
+

@@ -1,0 +1,70 @@
+		 GTAC Observation Log
+
+1. Date : 19/12/2015
+2. Observation Sr. No. : 8262
+3. Observer : Tracy Clarke, Scott W Randall, Reinout Johannes vanWeeren, Giacintucci Simona, Tony Mroczkowski, Huib T Intema
+4. Observer's Email : tracy.clarke@nrl.navy.mil, srandall@cfa.harvard.edu, rvanweeren@cfa.harvard.edu, simona@astro.umd.edu, tony.mroczkowski@gmail.com, hintema@nrao.edu
+5. Project Name : Deciphering the Nature of Fossil Particle Populations in Clusters
+6. Project Code : 29_049
+7. Operator(s) : Navnath, Rupsing, Surender
+8. Command File : /odisk/gtac/cmd/29_049/18_19dec15/obs_start.cmd, /odisk/gtac/cmd/29_049/18_19dec15/obs_end.cmd, /odisk/gtac/cmd/29_049/18_19dec15/loop.cmd
+9. LTA File : /gsbifrdata/18dec/29_049_18dec2015_8s.lta
+10. LogFlag File : /odisk/online1/logflags/29_049.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_lenyadri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 306 306 255 255 51 51
+30. Integration Time : 8.053 Sec
+31. No of Antennas Working(Fringing) at the beginning :27
+
+32. Name of Non-Working Antennas (with reason for each) :
+C13 : : CST Painting
+W01 : : BLDC Work
+W06 : : 175 low fringe
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 18 Dec 2015 19:00:00 - 19 Dec 2015 05:00:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :27
+
+37. Comments (During Observations) :
+18:40 : Started setup.
+18:45 : Started scan on 3c48.
+19:00 : Started cmd file.
+ 
+         /odisk/gtac/cmd/29_049/18_19dec15/obs_start.cmd
+
+20:03 : Started cmd file.
+
+          /odisk/gtac/cmd/29_049/18_19dec15/loop.cmd
+
+03:45 : Started cmd file.
+
+          /odisk/gtac/cmd/29_049/18_19dec15/obs_end.cmd
+04:40 : Stopped command file.
+04:41 : Started scan on 3C147.
+05:00 : Sopped scan and observing session is over.

@@ -1,0 +1,47 @@
+1. Date : 22/06/2002
+2. Observation Sr. No. : 648
+3. Observer & email : Nadeem
+4. Project Name & Code : MRC sources / 02CRS01
+5. Operator(s) :Jitendra(2),Manisha(2)
+6. Command File/Source  & Lta File : /temp2/data/cmd/mrc/mrc_1jy22ajun.cmd
+                                   : /temp2/data/cmd/mrc/mrc_1jy22bjun.cmd
+	                               : /temp2/data/cmd/mrc/mrc_1jy22tmp.cmd
+                                   : /temp2/data/cmd/mrc/mrc_1jy22cjun.cmd
+                                   : /temp2/data/cmd/mrc/mrc_1jy22djun.cmd
+								   : /rawdata/22jun/02crs01_mrc22a.lta
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 : 1280 MHz., 0 dB., OFF.
+8. Ist LO (MHz) & IVth LO (MHz) : 1210 MHz., 70 MHz.
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : 4+4 dB.,32 MHz., ON.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status : 16 MHz., 0 dB., ON.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 0 / 0 
+12. Channels : 0,127,1
+13. Frequency Parameters (TPA) : 1280 1280 1210 1210 70 70 
+
+14. Integration Time (Sec.) : 16 sec (16*8m).
+15. No of Antennas Working(Fringing) :   29 + 1/2
+16. Name of Non-Working Antennas (with reason for each) :
+
+	W03 Pole 130 low.
+
+17. Starting and Ending time of Observations (IST) : 
+18. Comments (During Observations) :
+
+
+	20:20	Started command file.
+	22:00	Stopped command file.
+	22:02	Started scan on 4U1547.
+	22:32	Stopped scan.
+	22:35 	Started command file /temp2/data/cmd/mrc/mrc_1jy22bjun.cmd.
+	01:30   Started command file /temp2/data/cmd/mrc/mrc_1jy22tmp.cmd
+	02:42   Started command file /temp2/data/cmd/mrc/mrc_1jy22cjun.cmd
+	04:01   Started command file /temp2/data/cmd/mrc/mrc_1jy22djun.cmd
+
+19. Data Backup files & Tape No. :
+
+

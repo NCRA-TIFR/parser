@@ -1,0 +1,89 @@
+		 GTAC Observation Log 
+
+1. Date : 28/06/2005
+2. Observation Sr. No. : 2091
+3. Observer : Prof. D. J. Saikia
+4. Observer's Email : djs@ncra.tifr.res.in
+5. Project Name : STEPHANSQ
+6. Project Code : 08PTA01
+7. Operator(s) : Manish G.,
+	Manisha J.,
+	Sanjay,
+	Santaji,
+	Jitendra,
+	Sachin
+	
+8. Command File : /atemp2/cmd/djs/stephansq.cmd
+9. LTA File : /rawdata/28jun/08pta01_stephansq.lta,
+	/rawdata1/28jun/08pta01_stephansq.ltb
+10. LogFlag File : /atemp2/logflags/08PTA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 325 MHz ,RF2 : 325 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 255 MHz, ILO2 : 255 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 18+18 dB, 32 MHz,ON, IF-CH2 : 18+18 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 325 325 255 255 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+
+S03 : Phase and amplitude
+jumps seen in both
+LSB/USB data on 3C286scan
+S06 : ABC/Servo T.O.
+C00-130: Very low fringe.
+E02-175: Very low fringe.
+E03-130: Cross ~ 1/2.
+W03-130: Cross ~ 1/2.
+21. Note for Backup :
+-
+
+22. Start and End Time of Obs.(IST): 22:00 - 00:00
+
+23. Comments (During Observations) :
+**************************************************
+ONLINE : Aditya
+AUTHIF : 325 MHz.
+**************************************************
+22:00 : started scan on 3c286.
+23:35 : Stopped the scan. Antennas moved to 2251+188.
+23:50 : Started command file:
+         /atemp2/cmd/djs/stephansq.cmd
+04:05 : Stopped the command file.
+04:09 : Started scan on 2251+188.
+04:22 : Stopped the scan.
+04:25 : Started scan on STEPHANSQ.
+05:02 : Stopped the scan. Antennas moved to 2251+188.
+05:28 : Started command file.
+05:34 : Antennas not tracking properly.
+        Stopped the command file.
+*** SCAN NO. 16 BAD (ANTENNAS ARE NOT TRACKING PROPERLY).
+05:41 : All antennas moved to 2251+188. Started scan.
+05:49 : Stopped the scan.
+05:53 : Started scan on STEPHANSQ.
+06:24 : Stopped the scan.
+06:25 : Re-started the command file.
+06:50 : Power glitch.C00,C01,C02,C03,C05,C06,C08,C09,C12,E02 were antennae for which power 
+glitch came.
+07:08 : Due to high wind C05 got parked.
+07:14 : Stopped the scan & command file due to high wind.
+07:14 : C02 is not releasing stow i.e. elevation problem.
+07:49 : Restarted command file.
+08:23 : Scan stopped due to high wind.
+09:00 : wind speed is normal, restarted the observations.
+09:40 : Due to high wind S04 got parked.
+09:49 : S01 got ABC time-out.
+09:49 : Stopped command file & scan.
+09:54 : Started scan on 3C48 for 20 mins.
+10:14 : Stopped scan & closed project.
+
+

@@ -1,0 +1,66 @@
+		 GTAC Observation Log 
+
+1. Date : 28/09/2003
+2. Observation Sr. No. : 1160
+3. Observer : AYESHA/JNC
+4. Observer's Email : chengalu@ncra.tifr.res.in,nissim@ncra.tifr.res.in
+5. Project Name : 0201+113
+6. Project Code : 04JNC02
+7. Operator(s) : Manish G.,
+	Jayprakash,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/chengalu/0201.cmd
+9. LTA File : /rawdata/28sep/04jnc02_0201.lta,
+        /rawdata1/28sep/04jnc02_0201.ltb
+10. LogFlag File : /btemp2/logflags/04JNC02.FLAGS.9
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 324.2 MHz ,RF2 : 324.2 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 253 MHz, ILO2 : 253 MHz, IVLO1 : 71.2 MHz, IVLO2 : 71.2 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 6 MHz,ON, IF-CH2 : 16+16 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 1000 KHz, 12 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 4
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 324.2 324.2 253 253 71.2 71.2 
+
+18. Integration Time : 128(8m) STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C00 : Ist LO UNLOCK.
+W05 : Power OFF.
+W02 : LSB high power, bad bandshape.
+
+21. Start and End Time of Obs.(IST): 22:27 - 07:19
+
+22. Comments (During Observations) :
+ONLINE: bhaskar
+AUTHIF @ 325 MHz RF.
+---------------------
+LTA Files: /analysis/observer/28sep/04jnc02_0201.lta
+          /rawdata1/28sep/04jnc02_0201.ltb
+22:27  Started scan on 3C48, for 17 mins.
+22:44  Stopped the scan, antennas moved to 0204+152.
+23:03  Started command file  /temp2/data/cmd/chengalu/0201.cmd
+01:31  Stopped cmd
+01:37  Started record on 3c48.
+01:50  Stopped record on 3c48.
+01:57  Restarted cmd file.
+04:30  Stopped cmd file, for 3c48.
+04:37  Started record on 3c48
+04:50  Stopped record on 3c48
+04:51  Restarted cmd file.
+07:04  Stopped command file.
+07:09  Started scan on 3c147 for 10min.
+07:19  Observation over.
+
+*** Note : File
+          /analysis/observer/28sep/04jnc02_0201.lta
+       has been moved to
+          /rawdata/28sep/04jnc02_0201.lta
+                     ... Mangesh(05-10-2003)

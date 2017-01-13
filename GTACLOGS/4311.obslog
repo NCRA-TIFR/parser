@@ -1,0 +1,63 @@
+		 GTAC Observation Log 
+
+1. Date : 26/05/2009
+2. Observation Sr. No. : 4311
+3. Observer : Sandeep Sirothia
+4. Observer's Email : sirothia@ncra.tifr.res.in
+5. Project Name : HD189733
+6. Project Code : 09DT018
+7. Operator(s) : Jayprakash,
+	Manisha,
+	Navanath,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/sirothia/ddtal_26may09.set
+9. LTA File : /rawdata/26may/09dt018_26may09_16s.lta,
+	/rawdata1/26may/09dt018_26may09_16s.ltb
+	
+10. LogFlag File : /odisk/online1/logflags/09DT018.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 325 MHz ,RF2 : 325 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 255 MHz, ILO2 : 255 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:255:1
+17. Frequency Parameters (TPA) : 325 325 255 255 70 70 
+
+18. Integration Time : 16 LTA ~ 2.114 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C05 : Feed jam. 
+E05 : Servo timeout.
+
+S04X(C00,C01),S06X(C00,C01,C02,C03),W01X(C09,C10,C11,C12) bad baselines in USB.
+
+C08 : 175 Low self(USB & LSB) and no fringe.
+
+
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 23:05 - 09:30
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+23:10 : Started setup.
+23:26 : Started scan on 3C286 for 10min.
+23:48 : Started  command file.
+
+     /odisk/gtac/cmd/sirothia/ddtal_26may09.cmd
+
+09:10 : Stopped command file.
+09:15 : Started scan on 3C147.
+09:30 : Stopped scan and observing session over.
+

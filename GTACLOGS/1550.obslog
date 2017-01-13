@@ -1,0 +1,57 @@
+		 GTAC Observation Log 
+
+1. Date : 14/07/2004
+2. Observation Sr. No. : 1550
+3. Observer : Dr. B. C. Joshi
+4. Observer's Email : bcj@ncra.tifr.res.in
+5. Project Name : PSR
+6. Project Code : 06BCJ02
+7. Operator(s) : Mangesh,
+	Manisha J.,
+	Sachin,
+	
+8. Command File : /btemp2/cmd/pulsar/virgoa.cmd
+9. LTA File : /rawdata/14jul/06bcj02_virgo_onoff.lta,
+	/rawdata/14jul/06bcj02_phsarr.lta,
+	/rawdata1/14jul/06bcj02_phsarr.ltb
+10. LogFlag File : /btemp2/logflags/06BCJ02.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1400 MHz ,RF2 : 1400 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1330 MHz, ILO2 : 1330 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+10 dB, 32 MHz,ON, IF-CH2 : 10+10 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1400 1400 1330 1330 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C04 : No fringe.
+C12 : No fringe.
+W03 : No fringe.
+
+21. Start and End Time of Obs.(IST): 20:12 - 00:00
+
+22. Comments (During Observations) :
+*** ONLINE: bhaskar ***
+*** IF attn Power equlised with ALCs off ***
+*** using pulsar prog. ***
+-----------------------------
+
+20:15  Started virgoa off-on-off recording.
+       Record files is
+           /rawdata/14jul/06bcj02_virgoa_onoff.lta
+
+22:15  Started  recording on 3c286.
+       Record files are
+          /rawdata/14jul/06bcj02_phsarr.lta
+          /rawdata1/14jul/06bcj02_phsarr.ltb
+
+

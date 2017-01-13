@@ -1,0 +1,108 @@
+		 GTAC Observation Log 
+
+1. Date : 03/09/2009
+2. Observation Sr. No. : 4512
+3. Observer : Jayaram N Chengalur
+4. Observer's Email : chengalu@ncra.tifr.res.in
+5. Project Name : GGDP
+6. Project Code : 16_273
+7. Operator(s) : Deepak,
+	Jayprakash,
+	Rupsingh,
+	Sachin,
+	Santaji,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/philiplah/a370.cmd,
+	/odisk/gtac/cmd/philiplah/zcosmos.cmd,
+	/odisk/gtac/cmd/philiplah/vvds14.cmd
+9. LTA File : /rawdata/3sep/16_273_03sep2009.lta,
+	/rawdata1/3sep/16_273_03sep2009.ltb,
+	/rawdata/3sep/16_273_03sep2009.lta.1,
+	/rawdata1/3sep/16_273_03sep2009.ltb.1,
+	/rawdata/4sep/16_273_04sep2009.lta,
+	/rawdata1/4sep/16_273_04sep2009.ltb,
+	/rawdata/4sep/16_273_04sep2009.lta.1,
+	/rawdata1/4sep/16_273_04sep2009.ltb.1
+10. LogFlag File : /odisk/online1/logflags/16_273.FLAGS.19,
+	/odisk/online1/logflags/16_273.FLAGS.20
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1040 MHz ,RF2 : 1040 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1110 MHz, ILO2 : 1110 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1040 1040 1110 1110 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+W01 : OFF
+E04 : Servo problem.
+W03 : No fringe.
+S06 : 130 pol no fringe.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 23:30 - 20:28
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+23:30 : Setup started.
+23:35 : Started scan on 3C48.
+23:55 : Stopped scan.
+
+00:00 : '/odisk/gtac/cmd/philiplah/a370.cmd' command file started.
+00:53 : "oper2" machine loged out automatically.
+      : loged in and restarted the observation.
+
+05:30 : E04 - started working.
+07:15 : Stopped command file.
+
+        Started new recording files.
+        /rawdata/4sep/16_273_04sep2009.lta,
+        /rawdata1/4sep/16_273_04sep2009.ltb.
+
+07:20 : Started scan on 3C48.
+07:33 : Stopped scan.
+
+        Closed old recording files.
+
+07:41 : '/odisk/gtac/cmd/philiplah/zcosmos.cmd' command file started.
+10:30 : W03 taken for maintenance.
+
+10:48 : E-arm power fail.
+11:16 : E02,E03,E04,E06 started working.
+        W03 started working.
+        E05 : No fringe.
+        
+11:15 : S06 taken for maintenance.
+12:10 : W01 and S06 started working.
+15:49 : Stopped command file.
+15:54 : Started scan on 3C286.
+16:04 : Stopped scan.
+
+16:05 : Changed tpa 1076 1145 69 & record file.
+16:08 : Started scan on 3C286 for 10m.
+16:18 : Stopped scan .
+16:23 : Started command file
+       '/odisk/gtac/cmd/philiplah/vvds14.cmd'.
+16:24 : W01 no fringe in usb-175.
+16:25 : S03 no fringe in lsb-175.
+20:10 : Stopped command file.
+20:11 : Started scan on 1347+122.
+20:16 : Stopped scan.
+20:18 : Started scan on 3C286 for 10m.
+20:28 : Stopped scan and observation session.
+
+
+

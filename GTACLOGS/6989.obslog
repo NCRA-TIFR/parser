@@ -1,0 +1,62 @@
+		 GTAC Observation Log 
+
+1. Date : 6/3/2014
+2. Observation Sr. No. : 6989
+3. Observer : Jayanta Roy,Bhaswati Bhattacharyya,Paul Ray
+4. Observer's Email : jroy@ncra.tifr.res.in,bhaswati@ncra.tifr.res.in,paul.ray@nrl.navy.mil
+5. Project Name : Probing dispersion measure and eclipse transition of the LMXB/MSP system, XSS J12270-4859
+6. Project Code : ddtB119
+7. Operator(s) : Rupsingh,
+8. Command File : 
+9. LTA File : /gsbifrdata/06mar//ddtb119_06mar2014_325.lta,/gsbifrdata/06mar//ddtb119_06mar2014_610.lta,
+10. LogFlag File : /odisk/online1/logflags/DDTB119.FLAGS.639,
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : Realtime 
+15. GSB LTA : 8 
+16. GSB CTRL : ONLINE 
+17. GSB Fstop : ON 
+18. GAIN EQ : OFF 
+19. Stokes : TotIntensity
+20. Beam - 1 : PA
+21. Beam - 2 : PA
+22. ACQ BW : 33.33 MHz
+23. Final BW : 33.333333 MHz; Step # 0
+24. Maximum Channels : 256 
+25. Channel Numbers : 0:511:1 
+26. LO5 -1  : 149.00 
+27. LO5 -2  : 156.00 
+
+28. Frequency Parameters (TPA) : 306 306 255 255 51 51.
+29. Integration Time :  Sec.
+30. No of Antennas Working(Fringing) at the begining :28
+
+31. Name of Non-Working Antennas (with reason for each) :
+C14 : MCM=2,3 frequently time out. 
+E06 : No fringe.
+32. Note for Backup :
+
+33. Start and End Time of Obs.(IST): 01:30 - 03:00
+
+34. ONLINE Machine : Lenyadri
+
+35. No of Antennas Working(Fringing) at the end :28
+
+36. Comments (During Observations) :
+# sub 2 # 610MHz # C00 C05 C08 C09 C10 C11 C12 C13 W01 W02 W03 W04 
+                   W05 W06 E03 E04 E05 E06 S01 S02 S03 S04 S06
+------------------------------------------------------------------
+# sub 4 # 325MHz # C01 C02 C03 C04 C06 C14 E02
+------------------------------------------------------------------
+01:30 : Power eq. and phasing on 1154-350.
+01:44 : Stated scan on J1227-4859
+02:14 : Stopped scan.
+02:15 : Restarted scan on J1227-4859.
+03:00 : Stopped scan and observation session over.

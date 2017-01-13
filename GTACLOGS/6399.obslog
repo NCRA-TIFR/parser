@@ -1,0 +1,71 @@
+		 GTAC Observation Log 
+
+1. Date : 27/2/2013
+2. Observation Sr. No. : 6399
+3. Observer : Sandip Sirothia
+4. Observer's Email : sirothia@ncra.tifr.res.in
+5. Project Name : GMRT Deap Search for Radio-emission from Exoplanets
+6. Project Code : 23_059
+7. Operator(s) : Navanath,
+	Nilesh,
+	Pramod,
+	Rupsingh,
+	
+8. Command File : /odisk/gtac/cmd/sirothia/23_059_20130227.cmd
+9. LTA File : /gsbifrdata/27feb/23_059_27feb2013_16s.lta
+10. LogFlag File : /odisk/online1/logflags/23_059.FLAGS.7
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 218 MHz, ILO2 : 218 MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+12 dB, 16 MHz,ON, IF-CH2 : 10+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : IA
+19. Beam - 2 : PA
+20. ACQ BW : 16 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 16:138000-167000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 156 156 218 218 62 62.
+25. Integration Time : 8.053 Sec.
+26. No of Antennas Working(Fringing) :27
+
+27. Name of Non-Working Antennas (with reason for each) :
+C04 : Servo motor changing and counter weight rectification.
+W02 : BLDC work.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 18:00 - 05:00
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+2s files :-
+   /gsbifrdata1/27feb/23_059_27feb2013_2s.lta
+-------------------------------------------------------------------
+18:00 : Started set-up.
+18:15 : Phasing done.
+18:17 : Started scan on 3c286 for ~5min.
+18:24 : Started phasing on 3c286.
+18:26 : Started scan on 3c286 for ~15min.
+
+18:42 : Started command file.
+04:17 : Source set, stopped command file.
+
+04:20 : Started scan on 0834+555 for ~5min.
+04:25 : Started phasing on 0834+555.
+04:27 : Started scan on 0834+55 for ~1min.
+04:35 : Started scan on 3c286 for ~5min.
+04:41 : Started phasing on 3c286.
+04:44 : Started scan on 3c286 for ~15min.
+05:00 : Stopped observation session.
+
+

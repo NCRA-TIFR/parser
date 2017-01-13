@@ -1,0 +1,77 @@
+		 GTAC Observation Log 
+
+1. Date : 26/11/2012
+2. Observation Sr. No. : 6242
+3. Observer : Mamta Pomier, Sandeep Sirothia
+4. Observer's Email : mamtapan@gmail.com,sirothia@ncra.tifr.res.in
+5. Project Name : Galaxy cluster
+6. Project Code : 23_035
+7. Operator(s) : Deepak,
+	Nilesh,
+	Sachin,
+	
+8. Command File : /odisk/gtac/cmd/23_035/26nov2012_1.cmd
+9. LTA File : /gsbifrdata/26nov/23_035_26nov2012.lta
+10. LogFlag File : /odisk/online1/logflags/23_035.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 629 MHz ,RF2 : 253 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 680 MHz, ILO2 : 304 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 512 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 629 253 680 304 51 51.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :25
+
+27. Name of Non-Working Antennas (with reason for each) :
+W05 : Mech Work (Mesh removed Parked)/ Painting.
+C10 : 175 Pol will not fringe because of cone dipole feed.
+C11 : Taken for test.
+E02 : 175 Pol no fringe.
+W04 : 130 Pol no fringe.
+
+
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 02:30 - 09:03
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+2 second file
+/gsbifrdata1/26nov/23_035_26nov2012_2s.lta
+--------------------------------------------------------------------
+02:34:48 - 02:51:26 Recorded data on 3C147
+03:02:43 - 03:09:09 Recorded data on 1123+055 => Started command file.
+03:10:30 - 03:23:39 Recorded data on MACS1115
+03:24 : Stopped command file and corrected phase cal name in command file
+and restarted command file.
+03:24:59 - 03:31:26 Recorded data on 1119-030
+03:32:59 - 04:24:15 Recorded data on MACS1115
+04:25:09 - 04:32:08 Recorded data on 1119-030
+04:33:00 - 05:24:19 Recorded data on MACS1115
+05:25:23 - 05:32:24 Recorded data on 1119-030
+05:33:26 - 06:24:40 Recorded data on MACS1115
+06:25:47 - 06:32:46 Recorded data on 1119-030
+06:33:44 - 07:25:02 Recorded data on MACS1115
+07:26:01 - 07:32:59 Recorded data on 1119-030
+07:34:12 - 08:25:32 Recorded data on MACS1115
+08:26:55 - 08:33:54 Recorded data on 1119-030
+08:42:59 - 09:02:03 Recorded data on 3C286
+
+09:03 : Stopped observation session.
+

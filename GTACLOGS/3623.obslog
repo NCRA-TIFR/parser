@@ -1,0 +1,58 @@
+		 GTAC Observation Log 
+
+1. Date : 15/02/2008
+2. Observation Sr. No. : 3623
+3. Observer : George Hallinan
+4. Observer's Email : gregg@it.nuigalway.ie
+5. Project Name : Exoplanet Search
+6. Project Code : 13GHA01
+7. Operator(s) : Deepak,
+	Sachin,
+	
+8. Command File : /atemp2/cmd/13gha01/gh.cmd
+9. LTA File : /rawdata/15feb/13gha01_feterm.lta,
+	/rawdata/15feb/13gha01_15feb2008.lta
+10. LogFlag File : /atemp2/logflags/13GHA01.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 157 MHz ,RF2 : 157 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 223 MHz, ILO2 : 223 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 6 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 8000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 157 157 223 223 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+W02 : 130 : No fringe.
+
+
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 22:00 - 08:00
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Aditya   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+22:13 : Started recording with frontend termination
+and power equalised for 5 mins.
+23:34 : Started command file.
+04:10 : Command file stopped.
+04:12 : Both ALC turned OFF, frontend teminated
+04:28 : started record for 5mins.
+04:33 : Both ALC turned ON. 
+04:37 : started scan on 3C286 for 15mins.
+04:56 : Restarted command file.
+08:00 : Observation session over.
+
+

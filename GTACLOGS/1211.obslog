@@ -1,0 +1,46 @@
+		 GTAC Observation Log 
+
+1. Date : 05/12/2003
+2. Observation Sr. No. : 1211
+3. Observer : Y Gupta.
+4. Observer's Email : ygupta@ncra.tifr.res.in
+5. Project Name : PSROBS@325
+6. Project Code : 03DT004
+7. Operator(s) : Jitendra,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/hold.cmd
+9. LTA File : /rawdata/5dec/03dt004_phsarr.lta.1,
+	/rawdata1/5dec/03dt004_phsarr.ltb.1
+10. LogFlag File : /btemp2/logflags/03DT004.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 325 MHz ,RF2 : 325 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 255 MHz, ILO2 : 255 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,OFF, IF-CH2 : 16+16 dB, 32 MHz,OFF
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 325 325 255 255 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :23
+
+20. Name of Non-Working Antennas (with reason for each) :
+C02: Lo unlock
+E02: High self.
+S02: MCM 5 T.O.
+S04: RF switch operated.
+W03: ?
+W05: ABC T.O.
+W06: MCM 14 T.O.
+
+21. Start and End Time of Obs.(IST): 19:00 - 04:20
+
+22. Comments (During Observations) :
+-
+

@@ -1,0 +1,94 @@
+		 GTAC Observation Log 
+
+1. Date : 27/04/2010
+2. Observation Sr. No. : 4838
+3. Observer : Rahul
+4. Observer's Email : rbasu@ncra.tifr.res.in,rathreya@iiserpune.ac.in,dmitra@ncra.tifr.res.in
+5. Project Name : B0834F
+6. Project Code : 18_051
+7. Operator(s) : Manisha,
+	Nilesh,
+	Rupsingh,
+	Sachin,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /rawdata/27apr/18_051_27apr2010.lta,
+	/rawdata1/27apr/18_051_27apr2010.ltb,
+	/rawdata/27apr/18_051_27apr2010.lta.1,
+	/rawdata1/27apr/18_051_27apr2010.ltb.1
+10. GSB File : /odisk/gtac/cmd/hold.cmd
+11. LogFlag File : /odisk/online1/logflags/18_051.FLAGS.1
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 325 MHz ,RF2 : 325 MHz, SA1 : 0 dB, SA2 : 0 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 255 MHz, ILO2 : 255 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+4 dB, 32 MHz,OFF, IF-CH2 : 20+4 dB, 32 MHz,OFF
+15. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 325 325 255 255 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C01 :OFF
+W03 : All MCM time out.
+C03 : Painting.
+E04 : Painting.
+
+21. Note for Backup :--
+
+22. Start and End Time of Obs.(IST): 13:00 - 21:00
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+2S data file
+    /rawdata/27apr/18_051_27apr2010_2s.lta,
+    /rawdata1/27apr/18_051_27apr2010_2s.ltb,
+    /rawdata/27apr/18_051_27apr2010_2s.lta.1,
+    /rawdata1/27apr/18_051_27apr2010_2s.ltb.1
+--------------------------------------------
+128ms data file
+  /rawdata/27apr/18_051_27apr2010_128ms.lta,
+ /rawdata1/27apr/18_051_27apr2010_128ms.ltb,
+/rawdata/27apr/18_051_27apr2010_128ms.lta.1,
+ /rawdata1/27apr/18_051_27apr2010_128ms.ltb.1
+-------------------------------------------
+13:00 : Started power eq. @ IF-250 & BB-300
+13:10 : Started scan on 3C48.
+13:20 : Stopped scan.
+13:47 : Started scan on 0744-064.
+13:50 : W03 started working.
+13:59 : Stopped scan.
+14:00 : Started scan on B0834F for 35min.
+
+14:36 : started scan on 0744-064
+14:43 : started scan on B0834F
+15:17 : started scan on 0744-064
+15:25 : started scan on B0834F
+15:56 : started scan on 0744-064
+16:07 : started scan on 3C147
+16:22 : started scan on 0837-198
+16:29 : started scan on B0834F
+17:01 : started scan on 0837-198
+17:09 : started scan on B0834F
+17:42 : started scan on 0837-198
+17:50 : started scan on B0834F
+18:23 : started scan on 0837-198
+18:31 : started scan on B0834F
+19:32 : started scan on 0837-198
+19:39 : started scan on B0834F
+20:14 : started scan on 0837-198
+20:21 : started scan on B0834F
+20:44 : started scan on 0837-198
+20:54 : started scan on 3C147
+21:04 : stopped scan and closed observation.
+

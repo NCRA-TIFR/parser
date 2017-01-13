@@ -1,0 +1,60 @@
+		 GTAC Observation Log 
+
+1. Date : 26/8/2011
+2. Observation Sr. No. : 5536
+3. Observer : Marek Jamrozy
+4. Observer's Email : jamrozy@oa.uj.edu.pl,mio@oa.uj.edu.pl,stawarz@astro.isas.jaxa.jp
+5. Project Name :  	Low-frequency radio observations of a newly discovered TeV-emitting BL Lac object
+6. Project Code : 20_043
+7. Operator(s) : Deepak,
+	
+8. Command File : /odisk/gtac/cmd/marek/20_043_200.cmd
+9. LTA File : /gsbifrdata/26aug/20_043_26aug2011_8s.lta
+10. LogFlag File : /odisk/online1/logflags/20_043.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 218 MHz, ILO2 : 218 MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 16 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 16:138000-167000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 156 156 218 218 62 62.
+25. Integration Time : 8.053 Sec.
+26. No of Antennas Working(Fringing) :30
+
+27. Name of Non-Working Antennas (with reason for each) :
+
+From 00:10 to 03:30 scintillation noticed.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 23:50 - 06:00
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+# 2s files
+/gsbifrdata1/26aug/20_043_26aug2011_2s.lta
+------------------------------------------------
+23:50 : Started scan on 3C48 for 15mins.
+00:10 : Scintillation started.
+00:10 : Started command file
+        /odisk/gtac/cmd/marek/20_043_200.cmd
+03:30 : scintillation stopped.
+05:38 : Command file stopped.
+05:43 : Started scan on 3C48 for 15mins.
+06:00 : Observation stopped.
+
+

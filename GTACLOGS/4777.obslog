@@ -1,0 +1,56 @@
+		 GTAC Observation Log 
+
+1. Date : 17/02/2010
+2. Observation Sr. No. : 4777
+3. Observer : Sayan
+4. Observer's Email : sayan@tifr.res.in,akr@tifr.res.in
+5. Project Name : M82
+6. Project Code : 17_044
+7. Operator(s) : Navanath,
+	
+8. Command File : /odisk/gtac/cmd/sayan/obs17/obs44_610.cmd
+9. LTA File : /rawdata/17feb/17_044_17feb2010.lta,
+	/rawdata1/17feb/17_044_17feb2010.ltb
+10. LogFlag File : /odisk/online1/logflags/17_044.FLAGS.6
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 611.1429 MHz ,RF2 : 611.1429 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 545 MHz, ILO2 : 545 MHz, IVLO1 : 66.1429 MHz, IVLO2 : 66.1429 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+14. BB BW(KHz) & BB ALC : 4000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 611.1429 611.1429 545 545 66.1429 66.1429 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+S06 : Temp high ABC timeout.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 01:30 - 07:08
+
+23. ONLINE Machine : Lenyadri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+GSB data file.
+/gsbifrdata/17feb/17_044_17feb2010_gsb.lta
+----------------------------------------------
+01:30 : Started setup.
+01:44 : Started scan on 3C48 for ~15min.
+01:59 : Scan stopped.
+02:07 : Started command file.
+06:41 : Command file stopped and started scan on phase cal.
+06:51 : Started scan on 3C286 for 15min.
+07:08 : Stopped scan and observing session over.
+
+
+

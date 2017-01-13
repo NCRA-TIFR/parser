@@ -1,0 +1,36 @@
+1. Date : 22/07/2002
+2. Observation Sr. No. : 0716
+3. Observer : Ishwar
+4. Observer's Email : ishwar@ncra.tifr.res.in
+5. Project Name : TOI
+6. Project Code : 02TOI01
+7. Operator(s) : Katore S.N.,Kudale S.S.,
+8. Command File : /temp2/data/cmd/ishwar/toi1.cmd
+9. LTA File : /rawdata/22jul/02toi01_610_235.lta
+
+ANTENNA SETTINGS :
+
+10. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 242 MHz, SA1 : 0 dB, SA2 : 14 dB
+11. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+12. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 6 MHz,on, IF-CH2 : 18+18 dB, 6 MHz,on
+13. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, on
+
+CORREATOR SETTINGS :
+
+14. CLK_SEL/Samp_Freq : 0
+15. Channels : 0:63:1
+16. Frequency Parameters (TPA) : 614 242 680 310 66 66 
+
+17. Integration Time : 128 STA ~ 16.67 Sec.
+18. No of Antennas Working(Fringing) : 28
+19. Name of Non-Working Antennas (with reason for each) : C04 mcm 5 time out.<br>
+C05 not fringing @ 610.
+20. Start and End Time of Obs.(IST): 19:30 - 00:00
+21. Comments (During Observations) :20:00	started scan on 3c286.<br>
+20:24   started the command file<br>
+	/temp2/data/cmd/ishwar/toi2.cmd<br>
+	/temp2/data/cmd/ishwar/toi2.cmd<br>
+22:47   started scan on 3c286.<br>
+
+22. Data Backup files & Tape No. :
+

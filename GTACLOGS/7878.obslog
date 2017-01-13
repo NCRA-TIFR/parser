@@ -1,0 +1,91 @@
+		 GTAC Observation Log
+
+1. Date : 29/06/2015
+2. Observation Sr. No. : 7878
+3. Observer : Joaquin Noyola, Suman Satyal, Zdzislaw E Musielak, JITENDRA PRALHAD KODILKAR, Marialis Rosario
+4. Observer's Email : joaquin.noyola@mavs.uta.edu, ssatyal@uta.edu, zmusielak@uta.edu, jkodilkar@gmail.com, marialis.rosario@mavs.uta.edu
+5. Project Name : Search for Extra-Solar Moons in 9 Nearby Star Systems
+6. Project Code : 28_036
+7. Operator(s) : Nilesh, Sachin, Surender
+8. Command File : /odisk/gtac/cmd/28_036/gl10_s3.cmd,/odisk/gtac/cmd/28_036/g4epseri_s1.cmd,/odisk/gtac/cmd/28_036/g8gr34_s2.cmd
+9. LTA File : /gsbifrdata/28jun/28_036_28jun2015.lta.2,/gsbifrdata/28jun/28_036_28jun2015.lta
+10. LogFlag File : /odisk/online1/logflags/28_036.FLAGS.1,/odisk/online1/logflags/28_036.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : PA
+22. Beam - 2 : PA
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 306 306 255 255 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :28
+
+32. Name of Non-Working Antennas (with reason for each) :
+C13 : : Taken for BLDC.
+E02 : Phase and amplitude jump.
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 28 Jun 2015 23:00:00 - 29 Jun 2015 09:40:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :28
+
+37. Comments (During Observations) :
+ - E06, W05, W06  -- RFI
+ - C13 Bad
+
+W05,W06 - Strong RFI Lines @ channel - 38, 103, 157, 225
+E04 - RFI Channel-15
+
+23:00 : Started set-up.
+23:13:33 : Started scan on 3C286 for ~ 10.469 min.
+23:40:29 : Started scan on 1830-360 for ~ 4.02653 min.
+23:44:48 : Started scan on 1830-360 for ~ 1.34218 min.
+--------------------------------------------------------
+# GSB PA Backend Das-console problem resolving.
+
+00:00 : Restarted GSB.
+00:00 : Phasing done on 1830-360.
+00:01 : Started command file.
+01:59 : GL10GLI Observing program stopped. 
+........................................................
+02:00 : Phasing on 0029+349 - Phase cal is weak, hence phase-cal changed to 3c48 source (Raised at 02:18). Phasing done on 3C48 source.
+
+02:23 : G8Gr34 observing program file started.
+E06 Applying brake in Azimuth axis.
+02:31 : E06 problem resolved.
+04:54 : Stopped obs.program file.
+04:55 : 3C48 scan started
+05:05 : 3C48 scan stopped.
+-------<G4EPSERI>------------------------------------------------
+05:18 : Phasing on 0240-23 scan 21, 22
+05:22 : g4epseri_s1.cmd observing program started.
+05:37 : S04 applied brake due to high wind.
+09:00 -- Central Square Broad_Band RFI Problem started.
+09:13 RFI For E02, S02 E03, E04 antenna. RFI On Phase Calibrato
+09:20 : Scan # 36 RFI Problem
+09:25 : Observing program file stopped.
+09:30 : Flux cal scan on 3c48 for 10m
+09:40 : Observation over.
+
+

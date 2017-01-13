@@ -1,0 +1,92 @@
+		 GTAC Observation Log 
+
+1. Date : 07/6/2011
+2. Observation Sr. No. : 5372
+3. Observer : Jayanta Roy
+4. Observer's Email : jroy@ncra.tifr.res.in
+5. Project Name : Pular Observation
+6. Project Code : 20_064
+7. Operator(s) : Manisha,
+	Navanath,
+	Nilesh,
+	Rupsingh,
+	Sachin,
+	Santaji,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /gsbifrdata/07jun/20_081_07jun2011.lta,
+	/gsbifrdata/07jun/20_081_07jun2011.lta.1
+10. LogFlag File : /odisk/online1/logflags/20_081.FLAGS.9
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+10 dB, 32 MHz,OFF, IF-CH2 : 18+10 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : OFF 
+17. Stokes : Total_Intensity
+18. Beam - 1 : IA
+19. Beam - 2 : PA
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 512 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 306 306 255 255 51 51.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :27
+
+27. Name of Non-Working Antennas (with reason for each) :
+C06 : 175 no fringe.
+W01 : Servo problem.
+S02 : No fringe.
+C14 : Freq. applying az brakes.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 21:00 - 09:32
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+21:00 : Observation not started due to rfi in all over band.
+22:00 : Started power eq. & phasing on 3C286.
+22:14:38 : Started scan on J1016+3548 for ~ 45.3655 min.
+23:05:40 : Started scan on P72Y2529 for ~ 30.3332 min.
+23:41:09 : Started scan on 24M2314 for ~ 30.6016 min.
+00:17:28 : Started scan on 1427-421 for ~ 2.68435 min.
+00:20:29 : Started scan on 1427-421 for ~ 1.07374 min.
+00:23:57 : Started scan on 24M1815 for ~ 3.22122 min.
+00:27:41 : Started scan on J1511-2253 for ~ 30.6016 min.
+01:01:17 : Started scan on J1628-2419 for ~ 30.6016 min.
+01:33:46 : Started scan on J1725-0509 for ~ 1.61061 min.
+01:35:34 : Started scan on J1725-0509 for ~ 60.1295 min.
+02:37:11 : Started scan on J1726-0724 for ~ 60.6664 min.
+03:44:20 : Started scan on 2225-049 for ~ 2.14748 min.
+
+03:45 : RFI
+
+03:46:47 : Started scan on 2225-049 for ~ 0 min.
+03:49:31 : Started scan on 24M2591 for ~ 31.6754 min.
+04:23:36 : Started scan on J2120-1259 for ~ 30.3332 min.
+04:55:26 : Started scan on J2103-1127 for ~ 30.6016 min.
+05:28:44 : Started scan on J2251-4928 for ~ 42.9496 min.
+06:13:10 : Started scan on 0010-418 for ~ 0.268435 min.
+06:14:03 : Started scan on 18M4913 for ~ 31.1385 min.
+06:49:27 : Started scan on J0022-1850 for ~ 12.0796 min.
+07:01:41 : Started scan on J0022-1850 for ~ 17.9852 min.
+07:22:09 : Started scan on 24M0045 for ~ 29.7963 min.
+07:53:19 : Started scan on J0110-4023 for ~ 29.7963 min.
+08:30:35 : Started scan on 3C48 for ~ 0 min.
+
+08:33 : C06 servo problem.
+
+08:42:30 : Started scan on P72Y3677 for ~ 31.6754 min.
+09:16:10 : Started scan on J2212+0654 for ~ 15.8377 min.
+
+09:32 : Stopped scan and observing session over.
+

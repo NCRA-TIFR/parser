@@ -1,0 +1,53 @@
+		 GTAC Observation Log 
+
+1. Date : 30/5/2011
+2. Observation Sr. No. : 5358
+3. Observer : Ilse DeLooze
+4. Observer's Email : ilse.delooze@ugent.be
+5. Project Name : TIDAL DWARF GALAXIES: DO THEY CONTAIN DARK MATTER?
+6. Project Code : 20_021
+7. Operator(s) : Deepak,
+	Nilesh,
+	Rupsingh,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/20_021/ngc4676n.cmd
+9. LTA File : /gsbifrdata/30may/20_021_30may2011.lta,
+	
+10. LogFlag File : /odisk/online1/logflags/20_021.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1383.1 MHz ,RF2 : 1383.1 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1320 MHz, ILO2 : 1320 MHz , IVLO1 : 63.1 MHz, IVLO2 : 63.1 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. Maximum Channels : 256 
+15. Final Bandwidth (MHz): 4 MHz; Step # 1
+16. IFBW (MHz) : LO5 (KHz) : Custom :- 6 : 136.9 - 168.1
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+
+20. Frequency Parameters (TPA) : 1383.1 1383.1 1320 1320 63.1 63.1.
+21. Integration Time : 16.106 Sec.
+22. No of Antennas Working(Fringing) :29
+
+23. Name of Non-Working Antennas (with reason for each) :
+C09 : 130 pol Low fringe.
+24. Note for Backup :--
+
+25. Start and End Time of Obs.(IST): 17:00 - 03:00
+
+26. ONLINE Machine : Shivneri
+
+27. Comments (During Observations) :
+17:00 : Started frequency settings for project.
+17:26 : Started scan on 3c286 for ~10min.
+17:40 : Started command file.
+02:08 : Stopped command file.
+02:11 : Started scan on 3C286.
+02:26 : Stopped scan & observation session over.
+

@@ -1,0 +1,63 @@
+		 GTAC Observation Log 
+
+1. Date : 3/12/2013
+2. Observation Sr. No. : 6823
+3. Observer : Mamta Pandey-Pommier,Francoise Combes,Johan Richard,Harald Ebeling,Alastair Edge,Melanie Johnston-Hollitt,Dwarakanath K.S.,Bruno Guiderdoni,D NARASIMHA
+4. Observer's Email : mamtapan@gmail.com,francoise.combes@obspm.fr,johan.richard@univ-lyon1.fr,ebeling@ifa.hawaii.edu,alastair.edge@durham.ac.uk,Melanie.Johnston-Hollitt@vuw.ac.nz,dwaraka@rri.res.in,bruno.guiderdoni@univ-lyon1.fr,dna@tifr.res.in
+5. Project Name : Low frequency study of Massive X-ray luminous cluster sample (0.3 < z < 0.6)
+6. Project Code : 25_013
+7. Operator(s) : Navanath,Rupsingh,Sachin,Shilpa,
+8. Command File : /odisk/gtac/cmd/mamta/25_013/s2.cmd
+9. LTA File : /gsbifrdata1/03dec/25_013_03dec2013.lta,
+10. LogFlag File : /odisk/online1/logflags/25_013.FLAGS.3,
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 629 MHz ,RF2 : 253 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 680 MHz, ILO2 : 304 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : Realtime 
+15. GSB LTA : 8 
+16. GSB CTRL : ONLINE 
+17. GSB Fstop : ON 
+18. GAIN EQ : ON 
+19. Stokes : TotIntensity
+20. Beam - 1 : OFF
+21. Beam - 2 : OFF
+22. ACQ BW : 33.33 MHz
+23. Final BW : 33.333333 MHz; Step # 0
+24. Maximum Channels : 512 
+25. Channel Numbers : 0:511:1 
+26. LO5 -1  : 149.00 
+27. LO5 -2  : 156.00 
+
+28. Frequency Parameters (TPA) : 629 253 680 304 51 51.
+29. Integration Time : 16.106112 Sec.
+30. No of Antennas Working(Fringing) at the begining :27
+
+31. Name of Non-Working Antennas (with reason for each) :
+C10 : 175pol no fringe(no feed @ 235 MHz).
+E02 : Very low fringe @ 235MHz(235MHz).
+C06 : Frequently getting abc timeout.
+32. Note for Backup :
+
+33. Start and End Time of Obs.(IST): 22:00 - 04:18
+
+34. ONLINE Machine : Lenyadri
+
+35. No of Antennas Working(Fringing) at the end :26
+
+36. Comments (During Observations) :
+22;00 : Started setup.
+22:12 : Started scan on 3C147 for 10 min.
+22:36 : Started command file.
+        /odisk/gtac/cmd/mamta/25_013/s2.cmd
+
+03:06 : E06 servo problem (Not tracking properly).
+04:05 : Stopped command file.
+
+04:05 : Started scan on 3C147.
+04:18 : Stopped scan and observing session over.

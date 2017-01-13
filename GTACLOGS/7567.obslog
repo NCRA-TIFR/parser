@@ -1,0 +1,70 @@
+		 GTAC Observation Log
+
+1. Date : 24/01/2015
+2. Observation Sr. No. : 7567
+3. Observer : Jayanta Roy, Maura Ann McLaughlin, Scott M. Ransom, Bhaswati Bhattacharyya, Duncan Ross Lorimer, Lina Levin
+4. Observer's Email : mpsurnis@ncra.tifr.res.in, bcj@ncra.tifr.res.in, maura.mclaughlin@mail.wvu.edu, mano@ncra.tifr.res.in, kkma@ncra.tifr.res.in
+5. Project Name : Simultaneous Multi-frequency Follow-up of Four Pulsars Discovered with the GMRT
+6. Project Code : 27_008
+7. Operator(s) : Deepak, Navnath, Nilesh
+8. Command File : /odisk/gtac/cmd/mpsurnis/27_008.cmd
+9. LTA File : /gsbifrdata/24jan/1839\\+15.27_008_24jan2015.lta
+10. LogFlag File : /odisk/online1/logflags/27_008.FLAGS.5,/odisk/online1/logflags/27_008.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1151 MHz ,RF2 : 1151 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1100 MHz, ILO2 : 1100MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+10 dB, 32 MHz,OFF, IF-CH2 : 24+10 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : IA
+22. Beam - 2 : PA
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 1151 1151 1100 1100 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :27
+
+32. Name of Non-Working Antennas (with reason for each) :
+E04 : : cable tray installation(mechanical).
+W04 : : P3 work(mechanical).
+C06 : : +afl flag in AZ Axis(servo).
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 24 Jan 2015 14:00:00 - 24 Jan 2015 17:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :26
+
+37. Comments (During Observations) :
+Pulsar data:- Node33 and Node34
+  /mnt/pulsar/gsbuser/27_008_24jan2015/*
+--------------------------------------------------------------------
+
+14:00 : Started settings.
+        1170 MHz, Default ALC off.
+        Power eq @ 250 counts, and phasing done on 1859+129.
+14:38 : Started command file.
+
+Note : RFI observed between channel ranges
+          (i)140 - 170 and (ii) 300 - 500.
+       Thus, phase solutions were bad for above two cases.
+17:03 : observing session over.
+----------------------------------------------------------------------
+

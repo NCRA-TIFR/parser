@@ -1,0 +1,55 @@
+		 GTAC Observation Log 
+
+1. Date : 25/01/2005
+2. Observation Sr. No. : 1844
+3. Observer : SAK
+4. Observer's Email : ananth@ncra.tifr.res.in,kundu@astro.umd.edu
+5. Project Name : Solar obs.
+6. Project Code : 07MRK01
+7. Operator(s) : Deepak,
+	Manish G.,
+	Manisha J.,
+	Jitendra,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/hold.cmd
+9. LTA File : /rawdata/25jan/07mrk01_sun25jan05.lta,
+	/rawdata/25jan/goes-xray250105.ps
+10. LogFlag File : /btemp2/logflags/07MRK01.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 244 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 310 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 6 MHz,ON, IF-CH2 : 16+16 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 244 244 310 310 66 66 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+C12- Painting.
+
+21. Start and End Time of Obs.(IST): 10:00 - 17:23
+
+22. Comments (During Observations) :
+******************************
+ONLINE: bhaskar
+AuthIF @235 MHz
+******************************
+
+10:02 Started scan on 3C286 for 15mins.
+10:50 S-arm power failed.
+
+14:00 S-arm power came back
+16:57 Sun58 Set , command file stopped.
+17:07 : scan#23 bad stopped at 17:08.
+17:13 : 3c48 scan started.
+17:23 : scan stopped and project over.
+

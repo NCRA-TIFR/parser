@@ -1,0 +1,71 @@
+		 GTAC Observation Log 
+
+1. Date : 08/06/2008
+2. Observation Sr. No. : 3907
+3. Observer : Rekhesh Mohan
+4. Observer's Email : reks@iiap.res.in
+5. Project Name : TXPSC
+6. Project Code : 14NKR01
+7. Operator(s) : Deepak,
+	Navanath,
+	Nilesh,
+	Sachin,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/14nkr01/reks_txpsc.cmd
+9. LTA File : /rawdata/8jun/14nkr01_08jun2008.lta.1,
+	/rawdata1/8jun/14nkr01_08jun2008.ltb.1
+10. LogFlag File : /btemp2/logflags/14NKR01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1424.9918 MHz ,RF2 : 1424.9918 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1355 MHz, ILO2 : 1355 MHz, IVLO1 : 69.9918 MHz, IVLO2 : 69.9918 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 6 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 1000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1424.9918 1424.9918 1355 1355 69.9918 69.9918 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :23
+
+20. Name of Non-Working Antennas (with reason for each) :
+C05 : servo problem.
+W01 : Mcm 5 time out.
+S06 : FE problem
+W04,W05,W06 : NO power.
+C03 : Servo problem.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 03:50 - 18:27
+
+23. Comments (During Observations) :
+--------------------------------------------
+******** ONLINE Machine : Bhaskar   ******** 
+******** Corr Mode : UsbHighRes Mode *******
+--------------------------------------------
+03:50 : setup started.
+04:18 : started the command file.
+09:30 : track changed.
+09:45 : S06 taken for cherry picker work....srvlnk dissabled.
+10:00 : C03 antenna take
+11:54 : command file stopped.
+11:57 : started scan 3c48 for 5 min.
+12:30 : started settings for New command file .
+      : LO4 has changed.
+
+12:35 : Started scan on 3c48 with New tpa
+
+   tpa :1424.7838 1424.7838 1355 1355 69.7838 69.7838
+12:56 : Started command file.
+14:25 : command file stopped.
+15:47 : Started scan on 3c286.
+16:20 : Started command file.
+18:05 : command file stopped.
+18:08 : Started scan on 3c286.
+18:27 : Stopped scan and observation closed.
+

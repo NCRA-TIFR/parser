@@ -1,0 +1,66 @@
+		 GTAC Observation Log 
+
+1. Date : 04/5/2014
+2. Observation Sr. No. : 7081
+3. Observer : Dmitry Makarov,Jayaram Narayanan Chengalur,Roman Uklein,Sambit Roychowdhury
+4. Observer's Email : dim@sao.ru,chengalur@ncra.tifr.res.in,uklein.r@gmail.com,sambit@ncra.tifr.res.in
+5. Project Name : Multiple dwarfs with a sign of interaction
+6. Project Code : 25_078
+7. Operator(s) : Nilesh,Pramod,Rupsingh,Surender
+8. Command File : /odisk/gtac/cmd/chengalu/u4722.cmd
+9. LTA File : /gsbifrdata/04may/25_078_04may2014.lta,
+10. LogFlag File : /odisk/online1/logflags/25_078.FLAGS.4,
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1401.4635 MHz ,RF2 : 1401.4635 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1340 MHz, ILO2 : 1340 MHz , IVLO1 : 61.4635 MHz, IVLO2 : 61.4635 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : Realtime 
+15. GSB LTA : 8 
+16. GSB CTRL : ONLINE 
+17. GSB Fstop : ON 
+18. GAIN EQ : OFF, 
+19. Stokes : FullStokes
+20. Beam - 1 : IA
+21. Beam - 2 : PA
+22. ACQ BW : 16.67 MHz
+23. Final BW : 16.666666 MHz; Step # 0
+24. Maximum Channels : 256 
+25. Channel Numbers : 0:255:1 
+26. LO5 -1  : 138.00 
+27. LO5 -2  : 167.00 
+
+28. Frequency Parameters (TPA) : 1401.4635 1401.4635 1340 1340 61.4635 61.4635.
+29. Integration Time : 8.053056 Sec.
+30. No of Antennas Working(Fringing) at the begining :27
+
+31. Name of Non-Working Antennas (with reason for each) :
+S04 : FPS Work.
+S06 : BLDC work.
+E03 : Painting.
+
+
+
+32. Note for Backup :
+
+33. Start and End Time of Obs.(IST): 13:00 - 23:26
+
+34. ONLINE Machine : Shivneri
+
+35. No of Antennas Working(Fringing) at the end :28
+
+36. Comments (During Observations) :
+13:00 : Started set up.
+14:11 : Started scan on 3C48.
+14:26 : Stopped scan and started command file.
+        '/odisk/gtac/cmd/chengalu/u4722.cmd'
+------------------------------------------------------------------------
+17:55 : E03 released for observation.
+------------------------------------------------------------------------ 
+23:06 : Stopped command file.
+23:11 : Started scan on 3C286.
+23:26 : Stopped scan and observing session is over.

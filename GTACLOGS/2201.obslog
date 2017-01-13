@@ -1,0 +1,62 @@
+		 GTAC Observation Log 
+
+1. Date : 20/08/2005
+2. Observation Sr. No. : 2201
+3. Observer : NGK
+4. Observer's Email : ngk@ncra.tifr.res.in
+5. Project Name : LSB1300
+6. Project Code : 08MDA02
+7. Operator(s) : Deepak,
+	Jayprakash,
+	Jitendra,
+	
+8. Command File : /atemp2/cmd/ngk/1300+0144.cmd
+9. LTA File : /rawdata/20aug/08mda02_1300.lta,
+	/rawdata1/20aug/08mda02_1300.ltb
+10. LogFlag File : /atemp2/logflags/08MDA02.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1360.488 MHz ,RF2 : 1360.488 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1295 MHz, ILO2 : 1295 MHz, IVLO1 : 65.488 MHz, IVLO2 : 65.488 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 32 MHz,ON, IF-CH2 : 12+12 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1360.488 1360.488 1295 1295 65.488 65.488 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :25
+
+20. Name of Non-Working Antennas (with reason for each) :
+C09 - IF problem.
+E05 - phase unstable.
+E03 - phase unstable.
+S01 - MCM 5 time out.
+C06 - LSB corr problem.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 10:20 - 20:35
+
+23. Comments (During Observations) :
+----------------------------------------------------
+--- ONLINE ADITYA -------
+--- AUTH IF @ 1390 MHz.--
+---------------------------------------------------
+10:20 : Started the scan on 3c147 for 20min.
+11:21 : C04 taken for cherry picker work.
+11:36 : Scan# 3 bad scan.
+       ** Tracking prob. 
+11:48 : Started the command file.
+15:15 : command file stopped.
+15:20 : Started scan on 3C286 for 20mins.
+15:45 : Restarted command file.
+
+20:13 : Command file stopped.
+20:18 : Started scan on 3C286 for 20mins.
+20:35 : Observation stopped.
+

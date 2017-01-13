@@ -1,0 +1,63 @@
+		 GTAC Observation Log 
+
+1. Date : 04/2/2013
+2. Observation Sr. No. : 6361
+3. Observer : Ujjwal Kumar
+4. Observer's Email : ujjwal@ncra.tifr.res.in
+5. Project Name : Pulsar Observation
+6. Project Code : 23_065
+7. Operator(s) : Deepak,
+	Nilesh,
+	Sachin,
+	
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /gsbifrdata/04feb/23_065_04feb2013.lta
+10. LogFlag File : /odisk/online1/logflags/23_065.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 317 MHz ,RF2 : 317 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255 MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 16 MHz,OFF, IF-CH2 : 24+4 dB, 16 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : OFF 
+17. Stokes : Full_Polar
+18. Beam - 1 : IA
+19. Beam - 2 : PA
+20. ACQ BW : 16 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 16:138000-167000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 317 317 255 255 62 62.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :30
+
+27. Name of Non-Working Antennas (with reason for each) :
+--
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 06:00 - 09:06
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+06:01 : GPS pulse received.
+06:19:38 - 06:20:26 Recorded data on 1419+064 ##### Phasing + Power equalise
+06:20:58 - 06:23:07 Recorded data on 1419+064 ##### Phasing + Power equalise done.
+06:28:13 - 06:48:21 Recorded data on B1642-03
+
+06:51:02 - 07:11:10 Recorded data on B1540-06
+07:14:55 - 07:17:53 Recorded data on 1822-096
+07:18:41 - 07:19:13 Recorded data on 1822-096
+07:20:34 - 07:41:14 Recorded data on 1822-096
+07:42:34 - 08:02:42 Recorded data on B1818-04
+08:04:19 - 08:31:58 Recorded data on B1907+00
+08:33:51 - 08:38:24 Recorded data on B1929+10
+08:40:33 - 09:06:03 Recorded data on J2043+2740
+
+

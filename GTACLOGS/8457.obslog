@@ -1,0 +1,67 @@
+		 GTAC Observation Log
+
+1. Date : 06/03/2016
+2. Observation Sr. No. : 8457
+3. Observer : Gulab Chand Dewangan, A.R. Rao, KP Singh, C.H. IshwaraChandra, Ian McHardy, Dipankar Bhattacharya, Ranjeev Misra, Biswajit Paul, C.S. Stalin, Santosh Vadawale, Sachindra Naik, Labani Mallick
+4. Observer's Email : gulabd@iucaa.ernet.in, arrao@tifr.res.in, singh@tifr.res.in, ishwar@ncra.tifr.res.in, imh@astro.soton.ac.uk, dipankar@iucaa.ernet.in, rmisra@iucaa.ernet.in, bpaul@rri.res.in, stalin@iiap.res.in, santoshv@prl.res.in, snaik.prl@gmail.com, labani@iucaa.ernet.in
+5. Project Name : Disk-Jet connection in NGC 4395
+6. Project Code : 29_063
+7. Operator(s) : Deepak, Navnath, Rupsing
+8. Command File : /odisk/gtac/cmd/29_063/obs_sub2.cmd,, /odisk/gtac/cmd/29_063/obs_sub4.cmd,
+9. LTA File : /gsbifrdata/05mar/29_063_05mar2016_610D.lta, /gsbifrdata/05mar/29_063_05mar2016_1390.lta
+10. LogFlag File : /odisk/gtac/logflags/
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1371 MHz ,RF2 : 1371 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1320 MHz, ILO2 : 1320MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 1371 1371 1320 1320 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :26
+
+32. Name of Non-Working Antennas (with reason for each) :
+C08 : BLDC
+C03 : Feed jam
+W02 : No fringe
+S06 : CST painting.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 05 Mar 2016 22:30:00 - 06 Mar 2016 06:00:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :26
+
+37. Comments (During Observations) :
+22:30 : setup started
+        subar 2 - default dual frequency 
+        subar 4 - default 1390MHz.
+23:00 : Started command files
+        /odisk/gtac/cmd/29_063/obs_sub2.cmd,
+        /odisk/gtac/cmd/29_063/obs_sub4.cmd,
+
+05:50 : Command file stopped.
+05:51 : Started scan on 3C286 for 10mins.
+06:01 : Observation stopped.
+

@@ -1,0 +1,64 @@
+		 GTAC Observation Log
+
+1. Date : 15/12/2014
+2. Observation Sr. No. : 7491
+3. Observer : Vernesa Smolcic, Huib Intema, Jacinta Claire Delhaize, Somak Raychaudhury, Huub Rottgering, Cathy Horellou, Mark Birkinshaw, Chiara Ferrari, Sean McGee, Malcolm Bremer, Marguerite Pierre, Cyril Tasse, Wendy Williams, Konstantinos Kolokythas, Ray Norris, P Ciliegi, M Bondi, Mladen Novak, Nikola Baran
+4. Observer's Email : somak.presidency@gmail.com, vs@phy.hr
+5. Project Name : XXL: The history of black hole growth and the nature of radio-mode AGN feedback: Part III
+6. Project Code : 27_009
+7. Operator(s) : Deepak, Pramod
+8. Command File : /odisk/gtac/cmd/27_009/14dec14.cmd
+9. LTA File : /gsbifrdata/14dec/27_009_14dec2014.lta
+10. LogFlag File : /odisk/online1/logflags/27_009.FLAGS.9
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 512
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 591 591 540 540 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :26
+
+32. Name of Non-Working Antennas (with reason for each) :
+C10 : Low fringe.
+E04 : Taken for BLDC work.
+W06 : ABC time out
+S06 : Applied brakes
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 14 Dec 2014 17:00:00 - 15 Dec 2014 00:55:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :26
+
+37. Comments (During Observations) :
+17:00 : Started set up.
+17:13 : Started scan on 3C48.
+17:25 : Stopped scan.
+17:35 : Started command file.
+       '/odisk/gtac/cmd/27_009/14dec14.cmd'
+00:30 : Command file stopped.
+00:40 : Started scan on 3C147.
+00:55 : Observation stopped.

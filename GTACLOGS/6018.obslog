@@ -1,0 +1,62 @@
+		 GTAC Observation Log 
+
+1. Date : 03/07/2012
+2. Observation Sr. No. : 6018
+3. Observer : Neeraj Gupta,Raghunathan Srianand
+4. Observer's Email : jprakash@gmrt.ncra.tifr.res.in
+5. Project Name : HI observations of quasar-galaxy pairs at z sim 0.3
+6. Project Code : 22_036
+7. Operator(s) : Manisha,
+	Nilesh,
+	
+8. Command File : /odisk/gtac/cmd/srianand/22_036/qgp0849.cmd,
+	
+9. LTA File : /gsbifrdata/03jul/22_036_03jul2012.lta
+10. LogFlag File : /odisk/online1/logflags/22_036.FLAGS.5
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1089 MHz ,RF2 : 1089 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1150 MHz, ILO2 : 1150 MHz , IVLO1 : 61 MHz, IVLO2 : 61 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 16 MHz
+21. Maximum Channels : 512 
+22. IFBW (MHz) : LO5 (KHz) : 16:138000-167000
+23. Final Bandwidth (MHz): 4 MHz; Step # 1
+
+24. Frequency Parameters (TPA) : 1089 1089 1150 1150 61 61.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :30
+
+27. Name of Non-Working Antennas (with reason for each) :
+W03,E03 - Painting.
+W02 : 130 pol Low fringe.
+S01 : low fringe.
+
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 09:00 - 15:00
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+09:00 : Started settings.
+09:16 : Started scan on 3c147.
+09:40 : Started command file.
+09:50 : E03 and W03 taken for painting.
+
+14:36 : Stopped command file.
+14:37 : Started scan on 0834+555
+14:47 : Started scan on 3c147.
+15:00 : Stopped observation session.
+
+

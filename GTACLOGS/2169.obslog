@@ -1,0 +1,49 @@
+		 GTAC Observation Log 
+
+1. Date : 05/08/2005
+2. Observation Sr. No. : 2169
+3. Observer : NEERAJ
+4. Observer's Email : neeraj@ncra.tifr.res.in
+5. Project Name : COMPAT GROUPS
+6. Project Code : 08PFA01
+7. Operator(s) : Sanjay,
+	
+8. Command File : /atemp2/cmd/neeraj/cg220.cmd
+9. LTA File : /rawdata/5aug/08pfa01_cg220.lta,
+	/rawdata1/5aug/08pfa01_cg220.ltb
+10. LogFlag File : /atemp2/logflags/08PFA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1396 MHz ,RF2 : 1396 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1325 MHz, ILO2 : 1325 MHz, IVLO1 : 71 MHz, IVLO2 : 71 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 32 MHz,ON, IF-CH2 : 12+12 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, OFF
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1396 1396 1325 1325 71 71 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+W03 - ABC T.O.(FE-prob)
+S01 - FE problem.
+S06 - Phase & Amp unstable.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 17:53 - 23:23
+
+23. Comments (During Observations) :
+*******ONLINE ADITYA *******
+*****AUTHIF @ 1390 MHz *****
+****************************
+17:53 : Record started on 3c286.
+18:10 : 3c286 stopped.
+18:11 : cmd file cg220.cmd started.
+23:23 : Stopped the scan & observation session.
+

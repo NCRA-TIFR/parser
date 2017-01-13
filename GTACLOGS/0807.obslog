@@ -1,0 +1,57 @@
+1. Date : 16/09/2002
+2. Observation Sr. No. : 0807
+3. Observer : Prof. A. P. Rao
+4. Observer's Email : pramesh@ncra.tifr.res.in
+5. Project Name : GALSURVEY
+6. Project Code : 02APR01
+7. Operator(s) : Galande M.M.,Katore S.N.,Kodilkar J.P.,Kudale S.S.,Umbarje M.S.,
+8. Command File : /temp2/data/cmd/pramesh/galsurvey/g040pm4.cmd
+9. LTA File : /rawdata/16sep/02apr01_g040pm4.lta
+
+ANTENNA SETTINGS :
+
+10. RF Freq(MHz) & Solar Attn(dB)- RF1 : 244 MHz ,RF2 : 244 MHz, SA1 : 14 dB, SA2 : 14 dB
+11. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 310 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+12. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+20 dB, 6 MHz,ON, IF-CH2 : 20+20 dB, 6 MHz,ON
+13. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+14. CLK_SEL/Samp_Freq : 0
+15. Channels : 0:63:1
+16. Frequency Parameters (TPA) : 244 244 310 310 66 66 
+
+17. Integration Time : 128 STA ~ 16.908 Sec.
+18. No of Antennas Working(Fringing) :27
+
+19. Name of Non-Working Antennas (with reason for each) :
+C12 : power supply problem .
+S04 : 130 pol dead.
+W02 : 130 Pol dead.
+
+
+20. Start and End Time of Obs.(IST): 14:58 - 04:00
+
+21. Comments (During Observations) :
+14:55 : IF power eq done on 3c286 and added 2+4 db 
+      : in each antenna after that
+14:58 : Started record for BP and flux cal (3c286)
+15:19 : Stopped the scan on 3c286. Moved antennas to
+        1822-096. Switched off all ALCs.
+        Delay out of range for Card 23 (W06).
+
+15:37 : Started the command file.
+
+           /temp2/data/cmd/pramesh/galsurvey/3m.cmd
+
+24:16 : Phase cal set 
+        scan 51 , 52 bad.
+24:25 : scan 53 started on GS040+00
+24:32 : scan stopped.
+00:44 : flux cal scan started on 3c48 source.
+        W01 positioning on 3c48 source.
+25:24 : antenna stopped tracking after 1hr, because of
+        sndsacsrc(1,1h) command.Scan 54 :bad after 25:24 Hr.
+27:30 : tracking & scan restarted.
+28:00 : scan stopped and project over.
+

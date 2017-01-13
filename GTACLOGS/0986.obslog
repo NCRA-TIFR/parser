@@ -1,0 +1,53 @@
+		 GTAC Observation Log 
+
+1. Date : 18/02/2003
+2. Observation Sr. No. : 0986
+3. Observer : Venturi, A P Rao
+4. Observer's Email : tventuri@ira.cnr.it,pramesh@ncra.tifr.res.in,gtac008@ncra.tifr.res.in
+5. Project Name : A3562
+6. Project Code : 03TVA01
+7. Operator(s) : Deepak,
+	Manish G.,
+	Manisha J.,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/pramesh/venturi.cmd
+9. LTA File : /rawdata/18feb/03tva01_a3562.lta
+10. LogFlag File : /btemp2/logflags/03TVA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 330 MHz ,RF2 : 330 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 260 MHz, ILO2 : 260 MHz, IVLO1 : 70.0 MHz, IVLO2 : 70.0 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 330 330 260 260 70.0 70.0 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+
+
+
+21. Start and End Time of Obs.(IST): 23:45 - 09:20
+
+22. Comments (During Observations) :
+23:50 started the scan on 3c286 
+00:00 flat band shape for c04 antenna(recoverd after running corr_config.)
+00:52 started the command file.
+01:10 flat band spape for c05 antenna.
+02:32 flat band shape for c05 antenna.
+02:32 antenna W04 got parked due to high wind
+      speed.
+03:02 C05 and W04 recoverd.
+07:39	stopped command file.
+07:43	started scan on 3C286.
+09:20	stopped scan on 3c286, stopped project.
+
+

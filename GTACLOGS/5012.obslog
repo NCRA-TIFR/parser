@@ -1,0 +1,67 @@
+		 GTAC Observation Log 
+
+1. Date : 13/08/2010
+2. Observation Sr. No. : 5012
+3. Observer : Sandeep Sirothia
+4. Observer's Email : sirothia@ncra.tifr.res.in,ishwar@ncra.tifr.res.in,ngk@ncra.tifr.res.in
+5. Project Name : The GMRT extra-galactic sky survey at 150 MHz.
+6. Project Code : 18_031
+7. Operator(s) : Amruta,
+	Deepak,
+	Manisha,
+	Rupsingh,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/sirothia/18_031_20100813.loop1.cmd,
+	/odisk/gtac/cmd/sirothia/18_031_20100813.loop2to5.cmd
+9. LTA File : /rawdata/13aug/18_031_13aug2010.lta,
+	/rawdata1/13aug/18_031_13aug2010.ltb
+10. GSB File : /gsbifrdata/13aug/18_031_13aug2010_gsb.lta
+11. LogFlag File : /odisk/online1/logflags/18_031.FLAGS.81
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 218 MHz, ILO2 : 218 MHz, IVLO1 : 62 MHz, IVLO2 : 62 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+12 dB, 16 MHz,ON, IF-CH2 : 10+12 dB, 16 MHz,ON
+15. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 156 156 218 218 62 62 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+E03 : No Fringe.
+C10 : Maintenance.
+C04 : ABC time out.
+21. Note for Backup :--
+
+22. Start and End Time of Obs.(IST): 18:45 - 08:00
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : UsbPolar
+
+25. Comments (During Observations) :
+------* 2S data file *---------------------- 
+/rawdata/13aug/18_031_13aug2010_2s.lta,
+/rawdata1/13aug/18_031_13aug2010_2s.ltb,
+/gsbifrdata/13aug/18_031_13aug2010_gsb_2s.lta
+--------------------------------------------
+18:58 : Started scan on 3C286.
+19:16 : Stopped scan.
+19:19 : Started command file
+      /odisk/gtac/cmd/sirothia/18_031_20100813.loop1.cmd
+22:02 : Stopped command file.
+22:03 : W04 servo problem.
+22:04 : Started next command file
+       /odisk/gtac/cmd/sirothia/18_031_20100813.loop2to5.cmd 
+07:43 :Stopped command file.
+07:47 :Started scan on J0218+4232 for 10 minutes.
+07:57 :Stopped scan.
+07:59 :Started scan on 3C48 for 15 minutes.
+08:15 :Stopped scan and observation session over.
+

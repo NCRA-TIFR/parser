@@ -1,0 +1,72 @@
+		 GTAC Observation Log 
+
+1. Date : 03/07/2006
+2. Observation Sr. No. : 2694
+3. Observer : RAJUBR
+4. Observer's Email : rajubr@rri.res.in
+5. Project Name : GC 1830-211
+6. Project Code : 10RRB01
+7. Operator(s) : Deepak,
+	Manish G.,
+	
+8. Command File : /btemp2/cmd/rajubr/gc.cmd
+9. LTA File : /rawdata/3jul/10rrb01_03jul06.lta,
+	/rawdata1/3jul/10rrb01_03jul06.ltb
+10. LogFlag File : /btemp2/logflags/10RRB01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 612.4107 MHz ,RF2 : 612.4107 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 545 MHz, ILO2 : 545 MHz, IVLO1 : 67.4107 MHz, IVLO2 : 67.4107 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 16 MHz,ON, IF-CH2 : 16+16 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 2000 KHz, 9 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 3
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 612.4107 612.4107 545 545 67.4107 67.4107 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C09 - servo problem
+S01 - Phase not stable, high self/cross.
+W02 - No fringe.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 18:00 - 06:00
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode :IndianPolar     *********
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+---------------------------------------------
+
+18:03  Observed 3C286 for 3 mins.
+18:07  Power failure.
+18:12  Power resumed. Re-done the antenna settings.
+18:47  Started scan on VIRGOA.
+20:00  Stopped the scan. Started command file:
+          /btemp2/cmd/rajubr/gc.cmd
+21:05  Changed the phase-calibrator in the command file.
+
+00:20  Power glitch.
+00:55  Restarted command file.
+00:55  E03 servo time out.
+03:18  Command file stopped.
+03:35  Started scan on 3C48 for 10mins.
+03:51  Started scan on 3C444.
+05:50  Observation Stopped.
+
+
+

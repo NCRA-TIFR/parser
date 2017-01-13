@@ -1,0 +1,96 @@
+		 GTAC Observation Log 
+
+1. Date : 08/03/2004
+2. Observation Sr. No. : 1390
+3. Observer : Neeraj Gupta
+4. Observer's Email : neeraj@ncra.tifr.res.in,tventuri@ira.cnr.it,ddallaca@ira.cnr.it
+5. Project Name : COMPACT GRP
+6. Project Code : 05PFA01
+7. Operator(s) : Mangesh,
+	Manish G.,
+	Jayprakash,
+	Jitendra,
+	
+8. Command File : /btemp2/cmd/neeraj/ngc1134.cmd,
+	/btemp2/cmd/neeraj/ngcugc.cmd,
+	/btemp2/cmd/neeraj/ngc6310.cmd
+9. LTA File : /rawdata/8mar/05pfa01_ngc1134.lta,
+	/rawdata1/8mar/05pfa01_ngc1134.ltb,
+	/rawdata/8mar/05pfa01_2523_4593.lta,
+	/rawdata1/8mar/05pfa01_2523_4593.ltb,
+	/rawdata/9mar/05pfa01_ngc6310.lta,
+	/rawdata1/9mar/05pfa01_ngc6310.ltb
+10. LogFlag File : /btemp2/logflags/05PFA01.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1399.9 MHz ,RF2 : 1399.9 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1330 MHz, ILO2 : 1330 MHz, IVLO1 : 69.9 MHz, IVLO2 : 69.9 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+10 dB, 16 MHz,ON, IF-CH2 : 10+10 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1399.9 1399.9 1330 1330 69.9 69.9 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+W05 : OFC cut
+W06 : OFC cut
+W04 : MCM 5 time out.
+C06 : Painting.
+W01 : Painting.
+
+
+21. Start and End Time of Obs.(IST): 12:50 - 07:35
+
+22. Comments (During Observations) :
+*** ONLINE: bhaskar    ***
+*** AUTHIF: @ 1390 MHz ***
+--------------------------
+
+12:50 : Started scan on 3c48 for 15min.
+13:29 : Started command file /btemp2/cmd/neeraj/ngc1134.cmd.
+17:19 : W01 released back for observation.
+17:24 : Closed the command file. Moved antennas to
+        3c147.
+        Started following record files in addition
+        to previous ones.
+         /rawdata/8mar/05pfa01_2523_4593.lta
+         /rawdata1/8mar/05pfa01_2523_4593.ltb
+17:32 : Started a scan on 3c147 for 15 minutes.
+17:47 : Stopped the scan on 3c147.
+        Closed the files.
+         /rawdata/8mar/05pfa01_ngc1134.lta
+         /rawdata1/8mar/05pfa01_ngc1134.ltb
+17:50 : Started the command file.
+         /btemp2/cmd/neeraj/ngcugc.cmd.
+19:05 : C06 released back for observation.
+22:15 : Started a scan on 3c286.
+         Also scintillation started.
+22:24 : Stopped the scan on 3c286.
+22:29 : Restarted the command file.
+         /btemp2/cmd/neeraj/ngcugc.cmd.
+02:38 : stopped the command file
+	started the scan on 3c286 for 15 min.
+	started new record files
+	/rawdata/9mar/05pfa01_ngc6310.lta
+	/rawdata1/9mar/05pfa01_ngc6310.ltb
+02:57 : started the command file 	
+	/btemp2/cmd/neeraj/ngc6310.cmd
+04:33 : MSEB power failed .
+	stopped the scan and command file.
+04:48 : MSEB power resumed.
+05:15 : restarted the command file.
+	C08 servo time out
+06:05 : W03 lelf and cross 0 in USB.
+07:13 : Stopped scan & command file.	
+07:14 : Started scan on phase cal. for 7min.
+07:25 : Stared scan on 3c286 for 10min.
+07:35 : Stopped the scan & observation session.
+
+

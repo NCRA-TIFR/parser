@@ -1,0 +1,74 @@
+		 GTAC Observation Log
+
+1. Date : 23/10/2016
+2. Observation Sr. No. : 8935
+3. Observer : Mayuresh Surnis
+
+4. Observer's Email : msurnis@gmail.com,mpsurnis@ncra.tifr.res.in
+5. Project Name : Deep Low Frequency Observations to Investigate Spectral Turnovers in Pulsars Discovered with the GMRT \r\n
+6. Project Code : 31_077
+7. Operator(s) : Pramod, Sachin
+8. Command File : /odisk/gtac/cmd
+9. LTA File : /gsbifrdata1/22oct/u31_077_22oct2016.lta
+10. LogFlag File : /odisk/online1/logflags/31_077.FLAGS.2, /odisk/online1/logflags/31_077.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 218 MHz, ILO2 : 218MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 16 MHz,ON, IF-CH2 : 4+14 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : PA
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 0 MHz; Step # 0
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 138
+28. LO5 -2  : 167
+
+29. Frequency Parameters (TPA) : 156 156 218 218 62 62
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :30
+
+32. Name of Non-Working Antennas (with reason for each) :
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 22 Oct 2016 18:00:00 - 23 Oct 2016 00:00:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :30
+
+37. Comments (During Observations) :
+Antennas selected in GAC : Cent. square +1 arm antennas = 17
+18:00 : Started set up.
+18:20 : Power equalized on 1830-360.
+Halt the GSB and restarted with gain ON.
+---------------------------------------------------------
+18:23 : Phasing done on 1830-360.
+18:25:07 : Started scan on 1822-096 for ~ 5.3687 min.
+18:40:49 : Started scan on J1838+1523 for ~ 60.1295 min.
+19:43:49 : Started scan on 1822-096 for ~ 4.83183 min.
+19:54:47 : Started scan on 3C468.1 for ~ 0.53687 min.
+19:55:54 : Started scan on 3C468.1 for ~ 4.83183 min.
+20:02:21 : Started scan on J2208+5500 for ~ 59.861 min.
+21:03:42 : Started scan on 3C468.1 for ~ 0.805306 min.
+21:04:40 : Started scan on 3C468.1 for ~ 4.83183 min.
+21:10:42 : Started scan on J2217+5733 for ~ 59.5926 min.
+22:11:51 : Started scan on 3C468.1 for ~ 0.805306 min.
+22:12:59 : Started scan on 3C468.1 for ~ 4.83183 min.
+22:19:10 : Started scan on J0026+6320 for ~ 59.861 min.
+23:20:10 : Started scan on 3C468.1 for ~ 4.83183 min.
+23:27:18 : Started scan on 3C48 for ~ 12.8849 min.
+23:45 : Stopped observation session.

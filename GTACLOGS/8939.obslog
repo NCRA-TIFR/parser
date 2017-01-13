@@ -1,0 +1,88 @@
+		 GTAC Observation Log
+
+1. Date : 23/10/2016
+2. Observation Sr. No. : 8939
+3. Observer : Prof. Y. Gupta
+4. Observer's Email : ygupta@ncra.tifr.res.in
+5. Project Name : pulsar observation
+6. Project Code : 31_057
+7. Operator(s) : Deepak, Surender
+8. Command File : /odisk/gtac/cmd
+9. LTA File : /gsbifrdata/23oct/31_057_23oct2016_325.lta, /gwbifrdata1/23oct/31_057_23oct2016_500.lta, /gwbifrdata1/23oct/31_057_23oct2016_1460.lta
+10. LogFlag File : /odisk/online1/logflags/SUBA2.FLAGS.1014, /odisk/online1/logflags/31_057.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,OFF, IF-CH2 : 4+14 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : Volt
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 0 MHz; Step # 0
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 306 306 255 255 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :28
+
+32. Name of Non-Working Antennas (with reason for each) :
+W04 : painting
+C06 : frequently applying brakes
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 23 Oct 2016 14:00:00 - 23 Oct 2016 18:01:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :28
+
+37. Comments (During Observations) :
+GAC selection.
+GWB Beam1 GAC :C01 C02 C03-175 pol, C05-175 pol, C12 
+GWB Beam2 GAC :C00 C04 C08 C09 C10 C14 E02 S01 S02 W02 W03
+-------------------------------------------------------------------
+GSB CD pipeline GAC : C01 C02 C03 C05 C06 C11 C12 C13 E03 W01 
+--------------------------------------------------------------------
+14:14:00 : Power eq and Phasing done on 3C286.
+14:23:00 : Phasing done.
+14:27:17 : Started scan on J1455-3330 for ~ 21.8775 min.
+14:51:32 : Started scan on 1822-096 for ~ 2.81857 min.
+14:54:38 : Started scan on 1822-096 for ~ 0.805306 min.
+14:58:17 : Started scan on J1614-2230 for ~ 21.8775 min.
+15:24:56 : Started scan on 1609+266 for ~ 6.44244 min.
+15:31:43 : Started scan on 1609+266 for ~ 2.68435 min.
+15:34:47 : Started scan on 1609+266 for ~ 1.34218 min.
+15:36:23 : Started scan on 1609+266 for ~ 0.671088 min.
+15:38:23 : Started scan on J1640+2224 for ~ 24.025 min.
+16:07:26 : Started scan on 1822-096 for ~ 1.47639 min.
+16:09:22 : Started scan on 1822-096 for ~ 2.41592 min.
+16:11:59 : Started scan on 1822-096 for ~ 3.35544 min.
+16:17:51 : Started scan on J1713+0747 for ~ 23.0854 min.
+16:43:33 : Started scan on 1822-096 for ~ 3.087 min.
+16:47:01 : Started scan on 1822-096 for ~ 2.2817 min.
+16:49:30 : Started scan on 1822-096 for ~ 0.268435 min.
+16:50:57 : Started scan on J1730-2304 for ~ 21.8775 min.
+17:14:24 : Started scan on 1822-096 for ~ 2.55013 min.
+17:17:10 : Started scan on 1822-096 for ~ 2.01326 min.
+17:17:10 : W02 removed from gac due to antennas got abc reset.
+17:20:56 : Started scan on J1738+0333 for ~ 4.16075 min.
+17:20:56 : Started scan on J1738+0333 for ~ 22.9512 min.
+17:45:33 : Started scan on 1822-096 for ~ 2.2817 min.
+17:48:03 : Started scan on 1822-096 for ~ 0.53687 min.
+17:49:54 : Started scan on J1857+0943 for ~ 9.39523 min.
+18:00:00 : Stopped scan and observing session over.

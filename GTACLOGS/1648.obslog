@@ -1,0 +1,106 @@
+		 GTAC Observation Log 
+
+1. Date : 03/09/2004
+2. Observation Sr. No. : 1648
+3. Observer : Dr. D. Mitra
+4. Observer's Email : dmitra@ncra.tifr.res.in,ygupta@ncra.tifr.res.in
+5. Project Name : Pulsar Obs.
+6. Project Code : 06RSA01
+7. Operator(s) : Mangesh,
+	Manish G.,
+	Jayprakash,
+	Sachin,
+	Sanjay,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/hold.cmd
+9. LTA File : /rawdata/3sep/06rsa01_phsarr_4.lta,
+	/rawdata/3sep/06rsa01_phsarr_3.lta,
+	/rawdata/3sep/06rsa01_phsarr_2.lta,
+	/rawdata/3sep/06rsa01_phsarr_2.lta.1,
+	/rawdata/3sep/06rsa01_phsarr_3.lta.1,
+	/rawdata/3sep/06rsa01_phsarr_4.lta.1,
+	/rawdata/3sep/06rsa01_phsarr_3.lta.2,
+	/rawdata/3sep/06rsa01_phsarr_4.lta.2,
+	/rawdata/3sep/06rsa01_phsarr_2.lta.2,
+	/rawdata1/3sep/06rsa01_phsarr_4.ltb,
+	/rawdata1/3sep/06rsa01_phsarr_3.ltb,
+	/rawdata1/3sep/06rsa01_phsarr_2.ltb,
+	/rawdata1/3sep/06rsa01_phsarr_2.ltb.1,
+	/rawdata1/3sep/06rsa01_phsarr_3.ltb.1,
+	/rawdata1/3sep/06rsa01_phsarr_4.ltb.1,
+	/rawdata1/3sep/06rsa01_phsarr_2.ltb.2,
+	/rawdata1/3sep/06rsa01_phsarr_3.ltb.2,
+	/rawdata1/3sep/06rsa01_phsarr_4.ltb.2
+10. LogFlag File : /btemp2/logflags/06RSAB1.FLAGS,
+	/btemp2/logflags/06RSAA1.FLAGS,
+	/btemp2/logflags/06RSA01.FLAGS,
+	/btemp2/logflags/06RSA01.FLAGS.1,
+	/btemp2/logflags/06RSA01B.FLAGS,
+	/btemp2/logflags/06RSA01A.FLAGS,
+	/btemp2/logflags/06RSA0B.FLAGS,
+	/btemp2/logflags/06RSA0A.FLAGS,
+	/btemp2/logflags/06RSA01.FLAGS.2,
+	/btemp2/logflags/06RSA0B.FLAGS.1,
+	/btemp2/logflags/06RSA0A.FLAGS.1,
+	/btemp2/logflags/06RSA01.FLAGS.3,
+	/btemp2/logflags/06RSA0B.FLAGS.2,
+	/btemp2/logflags/06RSA0A.FLAGS.2,
+	/btemp2/logflags/06RSA01.FLAGS.4,
+	/btemp2/logflags/06RSA0A.FLAGS.3,
+	/btemp2/logflags/06RSA0B.FLAGS.3,
+	/btemp2/logflags/06RSA01.FLAGS.5
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 607 MHz ,RF2 : 607 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 67 MHz, IVLO2 : 67 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 607 607 540 540 67 67 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+W05 : No fringe.
+S04 : Unstable fringe.
+
+
+21. Start and End Time of Obs.(IST): 18:23 - 08:32
+
+22. Comments (During Observations) :
+ONLINE running on bhaskar 
+IF attn : Power equilised with ALCS off.
+------------------------------------------
+
+|DATE: 2004sep4     TIME:  5:19: 3      LST: 03:39:01.5     PACKET: 647672
+ USR4 643220    user4.5: ABC SET TIME04:53:00,04-09-2004   
+|quit                                                                                    
+m---------------------------------------------------------------------------------------j
+l---------------------------------------------------------------------------------------k
+|  DAS STATUS  state=1    msg_id=15   file=/temp2/data/init.hdr   antmask=7ffffffe bandm|
+|C00=C01 C02 C03 C04 C05 C06 C08 C09 C10 C11 C12 C13 C14 E02                            |
+|E03 E04 E05 E06 W01 W02 W03 W04 W05 W06 S01 S02 S03 S04 S06                            |
+|SUBARRAY 2  PROJ=06RSA0A USR=DMITRA/RS ANTMASK=a0b8e TITLE=MULITFREQ PS                |
+|  Status=1    Source=B0031-07       Freq=607 607 540 540 67 67                         |
+|C00 C03 C04 C05 C11 C12 C13 E02 W01                                                    |
+|SUBARRAY 3  PROJ=06RSA0B USR=DMITRA/RS ANTMASK=1001470 TITLE=MULITFREQ PS              |
+|  Status=1    Source=B0031-07       Freq=243 243 310 310 67 67                         |
+|C01 C02 C08 C09 C10 C14                                                                |
+|SUBARRAY 4  PROJ=06RSA01 USR=DMITRA/RS ANTMASK=7ef5e000 TITLE=MULITFREQ PS             |
+|  Status=1    Source=B0031-07       Freq=1167 1167 1100 1100 67 67                     |
+|C06 E03 E04 E05 E06 W02 W03 W04 W05 W06 S01 S02 S03 S04 S06                            |
+|                                                                                       |
+|                                                                                       |
+|                                                                                       |
+|                                                                                       |
+
+
+08:32  Observation stopped.
+

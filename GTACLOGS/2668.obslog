@@ -1,0 +1,69 @@
+		 GTAC Observation Log 
+
+1. Date : 19/06/2006
+2. Observation Sr. No. : 2668
+3. Observer : DJS
+4. Observer's Email : djs@ncra.tifr.res.in
+5. Project Name : OXGES
+6. Project Code : 10KBA01
+7. Operator(s) : Deepak,
+	Manish G.,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/neeraj/mg2358.cmd
+9. LTA File : /rawdata/20jun/10kba01_20jun06.lta,
+	/rawdata1/20jun/10kba01_20jun06.ltb
+10. LogFlag File : /btemp2/logflags/10RSA01.FLAGS.7
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+E02 : Unstable fringe. 
+W02 : Painting.
+C01 : Servo Problem.
+W04 : Servo Work.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 12:15 - 23:37
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : USBHighRes   *********
+******** IF Attn : AUTHIF @ 610 MHz *********
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+---------------------------------------------
+
+12:15 : Started observation
+13:09 : Started cmd file.
+13:30 : Wind high, stopped obs.
+13:45 : wind slowed down, started observation.
+14:10 : Again wind high, stopped obs,
+14:40 : restarted observation.
+
+21:00 : W04 restored for observing session.
+23:20 : Stopped the command file. Obseved 3C286 for 15 mins.
+23:37 : Stopped the observation.
+

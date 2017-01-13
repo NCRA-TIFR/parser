@@ -1,0 +1,47 @@
+1. Date : 19/01/2002
+2. Observation Sr. No. : 439
+3. Observer & email :V.K. Kulkarni & vasant@ncra.tifr.res.in. 
+4. Project Name & Code : 01AKA01
+5. Operator(s) :Jayprakash(3)
+6. Command File/Source  & Lta File : /temp2/data/cmd/akk/akk1.cmd
+                                   : /rawdata/19jan/01aka01_qso.lta
+                                   : /rawdata/19jan/01aka01_qso.lta.1
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 : 610 MHz., 0 dB., OFF.
+8. Ist LO (MHz) & IVth LO (MHz) : 540 MHz., 70 MHz.
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : 10 + 10 dB., 32 MHz., ON.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status :16 MHz., 0 dB., ON.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 0 / 0
+12. Channels : 0,127,1
+13. Frequency Parameters (TPA) : 610 610 540 540 70 70
+
+14. Integration Time (Sec.) : ~17 sec (16*8m)
+15. No of Antennas Working(Fringing) : 27
+16. Name of Non-Working Antennas (with reason for each) :
+
+	E06		Mech.
+    W06     ABC time out.
+    W04     +afl flag in AZ. Axis.
+
+17. Starting and Ending time of Observations (IST) : 06:05 -
+
+18. Comments (During Observations) :
+	06:05	started command file.
+	11:31	W05 MSEB Power shut down (Ref. GCC)
+ 	11:32	Source 1420-0009 setting, stopped das ( scan # 14) 
+	11:48	Source 1434-0028 setting, stopped das ( scan # 15)
+	12:07	Power failed on W-arm.
+	12:15	Stopped data file, record in new file.
+
+	12:45	Power resumed on W-arm, 
+			RF set. Fringes to be confirmed on next calibrator.
+			W05 Brake problem(not tracking). W06 moving to source.
+	12:55	W06 reached to source & started tracking.
+	15:00	W05 brake problem solved, antenna started tracking.
+
+19. Data Backup files & Tape No. :

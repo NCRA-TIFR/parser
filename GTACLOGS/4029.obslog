@@ -1,0 +1,72 @@
+		 GTAC Observation Log 
+
+1. Date : 10/11/2008
+2. Observation Sr. No. : 4029
+3. Observer : Vishal Gajjar
+4. Observer's Email : gajjar@ncra.tifr.res.in
+5. Project Name : Pulsar Observation.
+6. Project Code : 15VRG01
+7. Operator(s) : Deepak,
+	Navanath,
+	Nilesh,
+	Rupsingh,
+	Sachin,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /rawdata/10nov/15vrg01_10nov2008.lta,
+	/rawdata1/10nov/15vrg01_10nov2008.ltb
+10. LogFlag File : /btemp2/logflags/15VRG01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 325 MHz ,RF2 : 325 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 255 MHz, ILO2 : 255 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+4 dB, 32 MHz,OFF, IF-CH2 : 16+4 dB, 32 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 325 325 255 255 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C00 - No fringe.
+W01 - Fringe fluctuations.
+S02 - Servo Problem.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 06:30 - 17:32
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+---------------------------------------------
+06:20 : Started project 15VRG01.
+06:30 : Started phasing on 3C286.
+07:10 : Started phasing on 0837-198.
+07:31 : Started scan on pulsar.
+08:28 : Started phasing on 0837-198.
+08:40 : Started scan on pulsar.
+11:09 : Started phasing on 1822-096.
+11:15 : Started scan on pulsar.
+11:33 : Started phasing on 1822-096.
+12:00 : Started scan on pulsar.
+13:32 : Started phasing on 1822-096.
+13:43 : Started phasing on 1830-360.
+13:49 : Started scan on pulsar.
+15:19 : Stopped scan.
+15:23 : Started phasing on 1830-360.
+15:27 : Stopped scan.
+15:30 : Started scan on pulsar.
+17:06 : Stopped scan.
+17:28 : Started scan on 3C48.
+17:32 : Stopped scan and observation over.
+
+ 
+

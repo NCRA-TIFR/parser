@@ -1,0 +1,99 @@
+		 GTAC Observation Log
+
+1. Date : 23/01/2015
+2. Observation Sr. No. : 7564
+3. Observer : Ramesh Bhat, Poonam Chandra, Evan Keane
+4. Observer's Email : ramesh.bhat@curtin.edu.au, poonam@ncra.tifr.res.in, evan.keane@gmail.com
+5. Project Name : Shadowing the Parkes high time resolution survey with GMRT
+6. Project Code : 27_062
+7. Operator(s) : Manisha, Pramod
+8. Command File : /odisk/gtac/cmd/
+9. LTA File :  
+10. LogFlag File : /odisk/online1/logflags/27_062.FLAGS.8
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 317 MHz ,RF2 : 317 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+4 dB, 16 MHz,OFF, IF-CH2 : 24+4 dB, 16 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 4
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 16.666666 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 138
+28. LO5 -2  : 167
+
+29. Frequency Parameters (TPA) : 317 317 255 255 62 62
+30. Integration Time : 2.0132 Sec
+31. No of Antennas Working(Fringing) at the beginning :25
+
+32. Name of Non-Working Antennas (with reason for each) :
+C06 : ABC time out.
+C12 : ABC time out.
+C11 : Servo problem
+E04 : Taken for BLDC work.
+W04 : Taken for mechanical work.
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 23 Jan 2015 04:00:00 - 23 Jan 2015 10:15:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :25
+
+37. Comments (During Observations) :
+gsbuser@gsbm2:/mnt/gsbifrdata2/gsbuser/23Jan15/27_062_23jan2015_2s.lta
+/mnt/gsbifrdata2/gsbuser/23Jan15/27_062_23jan2015_125ms.lta
+/mnt/gsbifrdata2/gsbuser/23Jan15/27_062_23jan2015_125ms.lta.1
+/mnt/gsbifrdata2/gsbuser/23Jan15/27_062_23jan2015_125ms.lta.2
+/mnt/gsbifrdata2/gsbuser/23Jan15/27_062_23jan2015_125ms.lta.3
+/mnt/gsbifrdata2/gsbuser/23Jan15/27_062_23jan2015_125ms.fixid.lta.3
+
+-------------------------------------------------------------------
+05:02 : Started scan on 3C286 for 4 min.
+05:20 : Started scan on 1445+099 for 5 min.
+05:28 : Started scan on B1541+09 for 5 min.
+05:35 : Started scan on G022.4+39.4 for 9 min.
+05:45 : Started scan on G022.2+39.5 for 9 min.
+05:56 : Started scan on G023.3+37.3 for 9 min.
+06:06 : Started scan on G023.3+38.3 for 9 min.
+06:16 : Started scan on G024.2+37.1 for 9 min.
+06:29 : Started scan on G036.3+15.6 for 7 min.
+06:38 : Started scan on 1737+063 for 7 min.
+06:46 : Started scan on G036.5+15.6 for 9 min.
+06:56 : Started scan on G036.7+15.4 for 9 min.
+07:07:02 : Started scan on G037.8+14.2 for ~ 9.26094 min.
+07:16:59 : Started scan on G037.7+14.4 for ~ 8.95895 min.
+07:26:21 : Started scan on G038.6+13.2 for ~ 9.46227 min.
+07:37:10 : Started scan on 1745+173 for ~ 7.24769 min.
+07:45:38 : Started scan on G040.2+11.7 for ~ 9.39516 min.
+07:55:44 : Started scan on G040.1+11.9 for ~ 9.02606 min.
+08:05:13 : Started scan on G039.9+11.7 for ~ 9.39516 min.
+08:15:20 : Started scan on G039.7+10.1 for ~ 9.52937 min.
+08:26:20 : Started scan on G044.6+00.8 for ~ 9.19383 min.
+08:37:28 : Started scan on 1925+211 for ~ 8.1201 min.
+08:46:51 : Started scan on G045.6-00.4 for ~ 0.268433 min.
+08:49:32 : Started scan on G045.5-00.2 for ~ 6.14041 min.
+08:56:47 : Started scan on G045.6-00.4 for ~ 9.3616 min.
+09:07:09 : Started scan on G048.8-09.9 for ~ 8.99251 min.
+09:16:29 : Started scan on G048.9-10.2 for ~ 9.39516 min.
+09:26:15 : Started scan on G047.9-08.9 for ~ 9.39516 min.
+09:35:58 : Started scan on G047.8-08.7 for ~ 9.19383 min.
+09:46:28 : Started scan on G048.3-24.7 for ~ 9.96558 min.
+09:59:00 : Started scan on 2130+050 for ~ 3.52318 min.
+10:06:14 : Started scan on J2145-0750 for ~ 7.18058 min.
+10:15    : Observing session over.
+-----------------------------------------------------------------
+

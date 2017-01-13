@@ -1,0 +1,113 @@
+		 GTAC Observation Log 
+
+1. Date : 11/07/2004
+2. Observation Sr. No. : 1545
+3. Observer : AYESHA
+4. Observer's Email : ayesha@ncra.tifr.res.in,chengalu@ncra.tifr.res.in,ikar@luna.sao.ru,sme@sao.ru
+5. Project Name : DWARFS.
+6. Project Code : 06ABA01
+7. Operator(s) : Mangesh,
+	Jitendra,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/ash/kk246.cmd,
+	/btemp2/cmd/ash/kk144.cmd,
+	/btemp2/cmd/ash/ddo167.cmd,
+	/btemp2/cmd/ash/kkh6.cmd
+9. LTA File : /rawdata/11jul/06aba01_kkh34.lta,
+	/rawdata1/11jul/06aba01_kkh34.ltb,
+	/rawdata/11jul/06aba01_kk144.lta,
+	/rawdata1/11jul/06aba01_kk144.ltb,
+	/rawdata/11jul/06aba01_ddo167.lta,
+	/rawdata1/11jul/06aba01_ddo167.ltb,
+	/rawdata/12jul/06aba01_kkh6.lta,
+	/rawdata1/12jul/06aba01_kkh6.ltb,
+	/rawdata/12jul/06aba01_kk41.lta,
+	/rawdata1/12jul/06aba01_kk41.ltb
+10. LogFlag File : /btemp2/logflags/06ABA01.FLAGS.5
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1420.4 MHz ,RF2 : 1420.4 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1350 MHz, ILO2 : 1350 MHz, IVLO1 : 70.4 MHz, IVLO2 : 70.4 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+10 dB, 16 MHz,ON, IF-CH2 : 10+10 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 1000 KHz, 12 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 4
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1420.4 1420.4 1350 1350 70.4 70.4 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :23
+
+20. Name of Non-Working Antennas (with reason for each) :
+S04 : ABC Time Out.
+E02 : No fringe.
+W02 : Servo T. O.
+W03 : OF work.
+
+21. Start and End Time of Obs.(IST): 07:03 - 11:45
+
+22. Comments (During Observations) :
+*** ONLINE: bhaskar ***
+*** AUTHIF @ 1390 MHz. ***
+-----------------------------
+
+07:03  Started a scan on 3c48 for 10 minutes.
+07:15  Started the command file
+         /btemp2/cmd/ash/kkh34.cmd
+08:48  East arm MSEB power failed.
+09:32  East arm power came back, set the 
+       antennas put it. Put it on tracking.
+10:50  W02 came back.
+16:46  C09, started ABC T.O.
+18:51  Power glitch, C02, S03 got reset.
+19:01  S03 recoverd, C02 down, MCM 1 T.O.
+19:09  Stopped cmd file.
+19:12  Started record on 3c286.
+19:19  Stopped recrod on 3c286, stopped lta/ltb files.
+---------------------------------------
+	Setting changed as below:
+	LO4 = 70 MHz.
+	TPA 1420 1420 1350 1350 70 70 
+------------
+19:21  Started lta/ltb record
+	/rawdata/11jul/06aba01_ddo167.lta,
+	/rawdata1/11jul/06aba01_ddo167.ltb
+	Started record on 3c286.
+19:31   Stopped record on 3c286.
+19:32   Started cmd file ddo167.cmd
+21:40   S-arm power failed.
+21:57   S-arm power resumed, started working.
+22:28   S-arm power failed again.
+22:55   S-arm resumed, started working.
+	C09 - resumed, started working.
+23:10 : Stopped the scan.
+23:11 : Started scan on 3c286 for 10min.
+23:21 : Stopped the scan.
+23:23 : Started scan on DD0167.
+23:58 : Stopped the scan.
+23:59 : Started scan on 3c286.
+00:07 : Stopped the scan & closed the obs.
+------------------------------
+00:56 : STarted next obs.
+        TPA 1420.8 1420.8 1350 1350 70.8 70.8
+        Started scan on 2202+422.
+01:10 : Started command file /btemp2/cmd/ash/kkh6.cmd.
+03:37 : Stopped the command file.
+03:40 : Started scan on 3c48 for 10min.
+03:50 : Stopped the scan & restarted command file.
+06:41 : Stopped the command file.
+06:50 : Started scan on 0010-418.
+07:04 : scan stopped & record file closed.
+----------------------------------------------
+07:06 : Started scan on 0010-418
+07:20 : scan stopped.
+07:32 : flux cal scan on 3c147 src.
+07:42 : scan stopped.
+07:44 : command file started.
+11:45 : scan stopped & project over.
+
+

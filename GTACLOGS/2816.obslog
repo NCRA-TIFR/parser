@@ -1,0 +1,67 @@
+		 GTAC Observation Log 
+
+1. Date : 03/09/2006
+2. Observation Sr. No. : 2816
+3. Observer : Nissim
+4. Observer's Email : nissim@ncra.tifr.res.in
+5. Project Name : 2004-`349
+6. Project Code : 10NKA03
+7. Operator(s) : Jayprakash,
+	Sachin,
+	
+8. Command File : /btemp2/cmd/nissim/2004-1349.cmd
+9. LTA File : /rawdata/3sep/10nka03_3sep06_2004.lta,
+	/rawdata1/3sep/10nka03_3sep06_2004.ltb
+10. LogFlag File : /btemp2/logflags/10NKA03.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1230 MHz ,RF2 : 1230 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1160 MHz, ILO2 : 1160 MHz, IVLO1 : 70.0000 MHz, IVLO2 : 70.0000 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 6+0 dB, 32 MHz,ON, IF-CH2 : 6+0 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1230 1230 1160 1160 70.0000 70.0000 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C12 - 175 No fringe.
+C11,S06 - low fringe.
+W05,W06 -USB Noisy band-shapes.
+Bad Baselines : E02,E03 w.r.t. W03,W04,W05,W06 
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 17:53 - 01:46
+
+23. Comments (During Observations) :
+--------------------------------------------
+******** ONLINE Machine : Bhaskar  ********* 
+******** Corr Mode : UsbHiRes mode *********
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+---------------------------------------------
+17:53 : Started scan on 3c286 for 7min.
+18:01 : Stopped the scan.
+18:09 : Started the command file.
+20:38 : Stopped the command file.
+Changed the settings.
+TPA 1230 1230 1160 1160 70 70
+20:44 : Restarted the command file.
+23:16 : Stopped command file.
+Changed settings.
+TPA 1170 1170 1100 1100 70 70
+23:18 : Started command file.
+01:46 : Stopped command file and stopped project.
+

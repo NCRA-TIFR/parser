@@ -1,0 +1,75 @@
+		 GTAC Observation Log
+
+1. Date : 01/11/2015
+2. Observation Sr. No. : 8131
+3. Observer : Ramesh Bhat, Shivani Bhandari, Poonam Chandra, Evan Keane
+4. Observer's Email : ramesh.bhat@curtin.edu.au, shivanibhandari58@gmail.com, poonam@ncra.tifr.res.in, evan.keane@gmail.com
+5. Project Name : Shadowing the Parkes high time resolution survey with GMRT
+6. Project Code : 29_082
+7. Operator(s) : Deepak
+8. Command File : /odisk/gtac/cmd
+9. LTA File : /gsbifrdata/31oct/29_082_31oct2015_2s.lta
+10. LogFlag File : /odisk/online1/logflags/29_082.FLAGS.2, /odisk/online1/logflags/29_082.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 317 MHz ,RF2 : 317 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 4
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 16.666666 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 138
+28. LO5 -2  : 167
+
+29. Frequency Parameters (TPA) : 317 317 255 255 62 62
+30. Integration Time : 2.0132 Sec
+31. No of Antennas Working(Fringing) at the beginning :29
+
+32. Name of Non-Working Antennas (with reason for each) :
+C02 : MCM 5 time out
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 31 Oct 2015 20:00:00 - 31 Oct 2015 23:00:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :29
+
+37. Comments (During Observations) :
+20:11:02 : Started scan on 2219-279 for ~ 3.89228 min.
+20:19:32 : Started scan on G015.6-67.0 for ~ 7.98588 min.
+20:27:53 : Started scan on G015.0-68.2 for ~ 9.49582 min.
+20:38:25 : Started scan on G008.9-70.6 for ~ 9.19383 min.
+20:48:06 : Started scan on G009.8-69.4 for ~ 9.16028 min.
+20:57:47 : Started scan on G008.0-71.9 for ~ 9.19383 min.
+21:07:38 : Started scan on G011.6-69.0 for ~ 9.16028 min.
+21:17:51 : Started scan on G347.5-84.1 for ~ 2.18102 min.
+21:22:05 : Started scan on 0025-260 for ~ 3.08698 min.
+21:25:28 : Started scan on G339.8-84.5 for ~ 4.42915 min.
+21:31:04 : Started scan on G356.9-84.5 for ~ 9.09317 min.
+21:40:35 : Started scan on G330.8-84.9 for ~ 9.26094 min.
+21:50:13 : Started scan on G300.2-85.3 for ~ 9.93202 min.
+22:00:33 : Started scan on G312.3-84.9 for ~ 9.42871 min.
+22:10:20 : Started scan on G322.6-84.5 for ~ 9.52937 min.
+22:20:52 : Started scan on 0116-208 for ~ 3.52318 min.
+22:25:28 : Started scan on G299.7-84.1 for ~ 4.8318 min.
+22:30:44 : Started scan on G283.7-84.1 for ~ 9.3616 min.
+22:40:39 : Started scan on G294.6-83.7 for ~ 6.30818 min.
+22:48:22 : Started scan on G228.7-67.8 for ~ 8.1201 min.
+22:58:02 : Started scan on 0116-208 for ~ 3.15409 min.
+

@@ -1,0 +1,69 @@
+		 GTAC Observation Log
+
+1. Date : 08/11/2015
+2. Observation Sr. No. : 8153
+3. Observer : Manojendu Choudhury, A.R. Rao, KP Singh, Biswajit Paul, C.S. Stalin, C.H. IshwaraChandra, Sachindra Naik, Santosh Vadawale, Ranjeev Misra
+4. Observer's Email : manojendu@cbs.ac.in, arrao@tifr.res.in, singh@tifr.res.in, bpaul@rri.res.in, stalin@iiap.res.in, ishwar@ncra.tifr.res.in, snaik.prl@gmail.com, santoshv@prl.res.in, rmisra@iucaa.ernet.in
+5. Project Name : Coordinated Simultaneous Observation of X-ray Binary Cygnus X-3 in radio, infra-red and X-rays
+6. Project Code : 29_039
+7. Operator(s) : Navnath, Rupsing, Surender
+8. Command File : /odisk/gtac/cmd/29_039/obs08nov.cmd
+9. LTA File : /gsbifrdata/08nov/29_039_dual_08nov2015.lta, /gsbifrdata/08nov/29_039_1390_08nov2015.lta
+10. LogFlag File : /odisk/online1/logflags/29_039.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1371 MHz ,RF2 : 1371 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1320 MHz, ILO2 : 1320MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 1371 1371 1320 1320 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :27
+
+32. Name of Non-Working Antennas (with reason for each) :
+W03 : : BLDC.
+W01 : and E02 : Painting.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 08 Nov 2015 12:00:00 - 08 Nov 2015 21:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :29
+
+37. Comments (During Observations) :
+--------------------------------------------------------------------------
+# Suba2 # Dual #
+C01 C03 C05 C08 C11 C13 W02 W04 W06 E02 E04 E06 S01 S03 S06
+--------------------------------------------------------------------------
+# Suba4 # 1390MHz # 
+C00 C02 C04 C06 C09 C10 C12 C14 W01 W03 W05 E03 E05 S02 S04
+--------------------------------------------------------------------------
+12:10 : Started scan on 3C286.
+12:40 : Stopped scan.
+12:49 : Started command file.
+18:00 : W01 and  E02 released for observation.
+20:54 : Started scan on 3C48 for 15min.
+21:10 : observation session over.
+---------------------------------------------------
+

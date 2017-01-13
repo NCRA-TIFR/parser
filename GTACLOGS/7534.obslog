@@ -1,0 +1,67 @@
+		 GTAC Observation Log
+
+1. Date : 03/01/2015
+2. Observation Sr. No. : 7534
+3. Observer : Bhaswati Bhattacharyya, Jayanta Roy, Ben Stappers, Maura Ann McLaughlin, Duncan Ross Lorimer, Paul Ray, Scott M. Ransom, Jayaram Narayanan Chengalur, Michael Keith, Sally Cooper, Mateusz Malenta
+4. Observer's Email : bhaswati.bhattacharyya@manchester.ac.uk, jayanta.roy@manchester.ac.uk, Ben.Stappers@manchester.ac.uk, maura.mclaughlin@mail.wvu.edu, Duncan.Lorimer@mail.wvu.edu, paul.ray@nrl.navy.mil, sransom@nrao.edu, chengalur@ncra.tifr.res.in, mkeith@pulsarastronomy.net, sally.cooper@postgrad.manchester.ac.uk, mateusz.malenta@student.manchester.ac.uk
+5. Project Name : GMRT High Resolution Southern Sky (GHRSS) survey for millisecond pulsars and transients : A SKA precursor survey
+6. Project Code : 27_044
+7. Operator(s) : Deepak, Navnath, Pramod, Surender
+8. Command File : /odisk/gtac/cmd/jroy/27_044_2jan.2.cmd,,
+9. LTA File : /gsbifrdata1/02jan/27_044_02jan2014_2s.lta.2,/gsbifrdata1/02jan/27_044_02jan2014_2s.lta.1,/gsbifrdata1/02jan/27_044_02jan2014_2s.lta
+10. LogFlag File : /odisk/online1/logflags/27_044.FLAGS.6,/odisk/online1/logflags/27_044.FLAGS.5
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : IA
+22. Beam - 2 : PA
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 306 306 255 255 51 51
+30. Integration Time : 2.0132 Sec
+31. No of Antennas Working(Fringing) at the beginning :27
+
+32. Name of Non-Working Antennas (with reason for each) :
+E04 : Taken for BLDC
+W04 : Taken for Maintenance.
+W06 RFI
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 02 Jan 2015 19:00:00 - 03 Jan 2015 03:00:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :27
+
+37. Comments (During Observations) :
+17:45 : Started set up.
+18:24 : Power equalized and phasing done on 3C48.
+18:26 : Started command file.
+         '/odisk/gtac/cmd/jroy/27_044_2jan.2.cmd'
+18:56 : Stopped command file and halt the GSB.
+   GSB is rest
+19:03 : Started command file.
+00:04 : Stopped command file and halt the GSB.
+changed BW 16MHz and 4th LO 62.
+01:44 : Started command file.
+03:00 : Stopped command file and observing session is over.
+
+

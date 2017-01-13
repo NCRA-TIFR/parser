@@ -1,0 +1,64 @@
+		 GTAC Observation Log 
+
+1. Date : 06/09/2003
+2. Observation Sr. No. : 1124
+3. Observer : Dr.Joydeep Bagchi.
+4. Observer's Email : joydeep@iucaa.ernet.in
+5. Project Name : ZWCL2343
+6. Project Code : 04TCA01
+7. Operator(s) : Deepak,
+	Mangesh,
+	Manish G.,
+	
+8. Command File : /btemp2/cmd/bagchi/zwcl2343.cmd
+9. LTA File : /rawdata/6sep/04tca01_zwcl2343.lta,
+	/rawdata1/6sep/04tca01_zwcl2343.ltb,
+	
+10. LogFlag File : /btemp2/logflags/04TCA01.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 613 MHz ,RF2 : 241 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 308 MHz, IVLO1 : 67 MHz, IVLO2 : 67 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 613 241 680 308 67 67 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C04 no fringe @130 poln.
+C12 no fringe @175 poln.
+
+21. Start and End Time of Obs.(IST): 22:26 - 05:00
+
+22. Comments (During Observations) :
+*********** ONLINE: Bhaskar *********
+IF ATTN= power equalised
+------------------------------------------------
+22:26 : Started scan  3C48 for 25mins
+23:05 : Scan 1 is bad
+23:18 : Started command file 
+        /btemp2/cmd/bagchi/zwcl2343.cmd
+        C11, C12, C13, C14 and W01 shows BAD BAND SHAPE.
+23:35 : Above antennas started showing normal band shape.
+24:00 : C05-USB flat band shape.
+        Ran corr_config.
+24:02 : Started command file.
+        C11, C12, C13, C14, W01 started showing BAD BAND SHAPE.
+24:15 : C06-USB flat band shape.
+24:30 : Above antennas became OK.
+25:32 : Stopped command file. Antennas moved to 3C48.
+25:42 : Started scan for 15 mins.
+26:05 : Started command file.
+28:00 : C05-USB flat band shape.
+28:30 : Stopped command file. Started scan on 3C446 for 4 mins.
+28:44 : Started scan on 3C147, for 15 mins.
+29:00 : Stopped the scan. Stopped the observation.
+

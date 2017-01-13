@@ -1,0 +1,72 @@
+		 GTAC Observation Log
+
+1. Date : 15/11/2015
+2. Observation Sr. No. : 8174
+3. Observer : KP Singh, A.R. Rao, Sudip Bhattacharyya, Santosh Vadawale, Sachindra Naik, Debdutta Paul, Gulab Chand Dewangan, Dipankar Bhattacharya, Ranjeev Misra, C.H. IshwaraChandra, C.S. Stalin, Biswajit Paul
+4. Observer's Email : singh@tifr.res.in, arrao@tifr.res.in, sudip@tifr.res.in, santoshv@prl.res.in, snaik.prl@gmail.com, dbdttpl@gmail.com, gulabd@iucaa.ernet.in, dipankar@iucaa.ernet.in, rmisra@iucaa.ernet.in, ishwar@ncra.tifr.res.in, stalin@iiap.res.in, bpaul@rri.res.in
+5. Project Name : Time resolved Spectral Energy Distribution of Cygnus X-1
+6. Project Code : 29_083
+7. Operator(s) : Navnath, Pramod, Rupsing
+8. Command File : /odisk/gtac/cmd/29_083/obs15nov.cmd
+9. LTA File : /gsbifrdata/15nov/29_083_1390_15nov2015.lta, /gsbifrdata1/15nov/29_083_dual_15nov2015.lta
+10. LogFlag File : /odisk/online1/logflags/29_083.FLAGS.1, /odisk/online1/logflags/29_083.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1371 MHz ,RF2 : 1371 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1320 MHz, ILO2 : 1320MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 1371 1371 1320 1320 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :26
+
+32. Name of Non-Working Antennas (with reason for each) :
+E02 : Painting.
+W01 : Painting.
+W03 : BLDC.
+C10 : No feed of 235 MHz.
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 15 Nov 2015 13:20:00 - 15 Nov 2015 22:00:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :28
+
+37. Comments (During Observations) :
+L-BAND (1400 MHz default) 
+C00, C02, C04, C06, C09, C11, C12, E03, E05, S02, S04, W01, W03, W05 
+--------------------------------------------------------------------------
+Dual - 610/235 MHz (default)
+C01, C03, C05, C08, C10(No feed @235MHz), C13, E02(No feed @235MHz), E04, E06, S01, S03, S06, W02, W04, W06
+--------------------------------------------------------------------------
+13:26 : Started scan on 3C286.
+13:44 : Stopped scan.
+13:50 : Started command file.
+ '/odisk/gtac/cmd/29_083/obs15nov.cmd'
+16:20 : E02 released for observation but it is not fringing at 235MHz.(No feed of 235MHz(175 pole))
+17:40 : W01 released for observation.
+21:42 : Stopped command file.
+21:54 : Started scan on 3C48.
+22:05 : Stopped scan and observation session is over.
+
+

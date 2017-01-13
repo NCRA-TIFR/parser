@@ -1,0 +1,75 @@
+		 System Test Observation Log 
+
+1. Date : 10/01/2011
+2. Observation Sr. No. : 5189
+3. Observer : Nissim Kanekar, Jayaram Chegalur
+4. Observer's Email : nkanekar@ncra.tifr.res.in,changalu@ncra.tifr.res.in
+5. Project Name : 1555+1106
+6. Project Code : 19_066
+7. Operator(s) : Manisha,
+	Navanath,
+	
+8. Command File : /odisk/gtac/cmd/nissim/1555+1106.cmd
+9. LTA File : /rawdata/10jan/19_066_10jan2011.lta,
+	/rawdata1/10jan/19_066_10jan2011.ltb
+10. GSB File : /gsbifrdata/10jan/19_066_10jan2011_gsb.lta.1
+11. LogFlag File : /odisk/online1/logflags/19_066.FLAGS.17
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 602.6 MHz ,RF2 : 602.6 MHz, SA1 : 0 dB, SA2 : 0 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 530 MHz, ILO2 : 530 MHz, IVLO1 : 72.6 MHz, IVLO2 : 72.6 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+12 dB, 16 MHz,ON, IF-CH2 : 10+12 dB, 16 MHz,ON
+15. BB BW(KHz) & BB ALC : 2000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+GHB Settings :
+16. GHB Channels : 0:127:1
+17. Correlator Mode : UsbHighRes
+18. Frequency Parameters (TPA) : 602.6 602.6 530 530 72.6 72.6 
+
+GSB Settings :
+19. Maximum Channels : 512 
+20. Final Bandwidth (MHz): 4 MHz; Step # 2
+21. IFBW (MHz) : LO5 (KHz) : Custom :- 16 : 137000 - 168000
+22. Stokes : Total_Intensity
+23. Beam - 1 : OFF
+24. Beam - 2 : OFF
+
+25. Integration Time : 128 LTA ~ 16.908 Sec.
+26. No of Antennas Working(Fringing) :27
+
+27. Name of Non-Working Antennas (with reason for each) :
+C03 : painting.
+C01 : L01 Unlock
+C13 : brakes in az.
+
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 08:30 - 14:15
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+08:30 : Started setup 19_066
+08:30:54 : Started scan on 3C286 for ~ 32.7778min.
+09:10 : Started cmd file.
+  
+          /odisk/gtac/cmd/nissim/1555+1106.cmd
+
+09:11:47 : Started scan on 1640+123 for ~ 7.22222min.
+09:22:38 : Started scan on J1555+1106 for ~ 46.6667min.
+10:11:33 : Started scan on 1640+123 for ~ 7.22222min.
+10:22:28 : Started scan on J1555+1106 for ~ 46.6667min.
+11:10:44 : Started scan on 1640+123 for ~ 7.5min.
+11:21:53 : Started scan on J1555+1106 for ~ 46.3889min.
+12:09:56 : Started scan on 1640+123 for ~ 7.5min.
+12:20:54 : Started scan on J1555+1106 for ~ 44.4444min.
+13:06:52 : Started scan on 1640+123 for ~ 7.22222min.
+13:17:44 : Started scan on J1555+1106 for ~ 33.6111min.
+13:53:14 : Started scan on 1640+123 for ~ 6.11111min.
+14:07:06 : Started scan on 3C48 for ~ 13.3333min.
+14:15;00 : Observing session over.
+
+

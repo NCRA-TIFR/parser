@@ -1,0 +1,55 @@
+1. Date : 21/07/2002
+2. Observation Sr. No. : 0715
+3. Observer : Prof. A. P. Rao.
+4. Observer's Email : pramesh@ncra.tifr.res.in
+5. Project Name : galsurvey
+6. Project Code : 02APR01
+7. Operator(s) : Katore S.N.,Umbarje M.S.,
+8. Command File : /temp2/data/cmd/pramesh/galsurvey/g010pm4.cmd
+9. LTA File : /rawdata/21jul/02apr01_g010pm4.lta
+
+ANTENNA SETTINGS :
+
+10. RF Freq(MHz) & Solar Attn(dB)- RF1 : 242 MHz ,RF2 : 242 MHz, SA1 : 14 dB, SA2 : 14 dB
+11. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 308 MHz, ILO2 : 308 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+12. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 18+18 dB, 6 MHz,on, IF-CH2 : 18+18 dB, 6 MHz,on
+13. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, on
+
+CORREATOR SETTINGS :
+
+14. CLK_SEL/Samp_Freq : 0
+15. Channels : 0:63:1
+16. Frequency Parameters (TPA) : 242 242 308 308 66 66 
+
+17. Integration Time : 128 STA ~ 16.67 Sec.
+18. No of Antennas Working(Fringing) : 27
+19. Name of Non-Working Antennas (with reason for each) : C04:MCM 5 time out.<br>
+E06:antenna down.<br>
+S04:LO1 UNLOCK.<br>
+
+20. Start and End Time of Obs.(IST): 18:00 - 03:37
+21. Comments (During Observations) :Power equlised on 3C286 and added 6 dB. IF anttn.<br>
+18:17<br>
+scan # 0 on 3c286 for 15 min (ALC ON).<br>
+scan # 1 on 3c286 for 5 min (ALC OFF).<br>
+Delay out of range for W06.<br>
+scan # 2-7 on each source in command file <br>
+       for 2 min (ALC OFF)<br>
+19:30<br>
+scan # 8 and onwards started the command file<br>
+       /temp2/data/cmd/pramesh/galsurvey/g010pm4.cmd.<br>
+	with (ALC ON).<br>
+23:05 MSEB power failed. Stopped the scan and cmdfile.<br>
+<br>
+23:12  MSEB power resumed. Did the settings again.<br>
+23:40  Retarted the command file<br>
+         /temp2/data/cmd/pramesh/galsurvey/g010pm4.cmd <br>
+23:40  S01 servo azimuth brakes not getting released<br>
+       So S01 not tracking the source.<br>
+02:57  As sources had set, stopped the command file<br>
+       Moved the antennas to 3c48.<br>
+03:07  Started a scan on 3c48.<br>
+03:37  Stopped the scan on 3c48. Closed the observation<br>
+
+22. Data Backup files & Tape No. :
+

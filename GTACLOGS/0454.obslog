@@ -1,0 +1,41 @@
+1. Date : 27/01/2002
+2. Observation Sr. No. : 454
+3. Observer & email : Prof. Rao/pramesh@ncra.tifr.res.in
+4. Project Name & Code : 610 243 band pass observation on  3c147 / TEST
+5. Operator(s) : Mangesh(2), Katore(2)
+6. Command File/Source  & Lta File : /temp2/data/cmd/610_243.cmd
+                                     /rawdata/27jan/3c147_610_243.lta
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 : 610 MHz. & 235 MHz., 0 dB., OFF.
+8. Ist LO (MHz) & IVth LO (MHz) :540 MHz. & 313 MHz., 70 MHz., 
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : 10+10 dB. & 18+18 dB., 32 MHz., ON.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status : 16 MHz., 0 dB., ON.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 0 / 0
+12. Channels : 0,127,1
+13. Frequency Parameters (TPA) : 610 610 540 540 70 70 & 243 243 313 313 70 70
+
+14. Integration Time (Sec.) : 16 sec (16*8m)
+15. No of Antennas Working(Fringing) :  29 at 610; 26 at 243
+16. Name of Non-Working Antennas (with reason for each) :
+    
+     C06 - Servo off mode. (610+243)
+	 C12 - No fring (243)
+	 C14 - MCM 5 Time Out no fring (243)
+	 W04 - No fring at (243)
+	 
+
+17. Starting and Ending time of Observations (IST) : 18:15- 22:32
+18. Comments (During Observations) :
+ 
+    18:15  Started the command file /temp2/data/cmd/610_243.cmd
+	
+	
+	21:10 	Scan 4 is bad , command file didn't work properly.
+			stopped commad file and started again.
+
+19. Data Backup files & Tape No. :

@@ -1,0 +1,66 @@
+		 GTAC Observation Log 
+
+1. Date : 29/01/2010
+2. Observation Sr. No. : 4743
+3. Observer : Karen Lee-waddell
+4. Observer's Email : karen.lee-waddell@rmc.ca
+5. Project Name : NGC3166
+6. Project Code : 17_004
+7. Operator(s) : Deepak,
+	Navanath,
+	Nilesh,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/17_004/c1.cmd,
+	/odisk/gtac/cmd/17_004/c2.cmd
+9. LTA File : /rawdata/29jan/17_004_29jan2010.lta
+10. LogFlag File : /odisk/online1/logflags/17_004.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1412.6 MHz ,RF2 : 1412.6 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1350 MHz, ILO2 : 1350 MHz, IVLO1 : 62.6 MHz, IVLO2 : 62.6 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+14. BB BW(KHz) & BB ALC : 4000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1412.6 1412.6 1350 1350 62.6 62.6 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+S06 : MCM 5 timeout.
+S01 : 175pol low fringe.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 21:00 - 07:00
+
+23. ONLINE Machine : Lenyadri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+****************************************
+GSB record file 
+/gsbifrdata/29jan/17_004_29jan2010.lta
+****************************************
+20:30 : Started setup.
+20:51 : Started scan on 3C147 for 15min.
+21:19 : Started command file.
+        /odisk/gtac/cmd/17_004/c1.cmd.
+22:00 : S06 Started working.
+04:18 : Stopped command file.
+04:23 : '/odisk/gtac/cmd/17_004/c2.cmd' command file started.
+06:30 : Stopped command file.
+06:31 : Started scan on phase cal 1007-021.
+06:40 : Stopped scan.
+06:44 : Started scan on 3C286.
+07:00 : Stopped scan and observing session over.
+
+
+
+
+

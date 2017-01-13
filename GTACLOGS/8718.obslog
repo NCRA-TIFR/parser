@@ -1,0 +1,84 @@
+		 GTAC Observation Log
+
+1. Date : 08/07/2016
+2. Observation Sr. No. : 8718
+3. Observer : Aditya JNHS, Nissim Kanekar
+4. Observer's Email : aditya@ncra.tifr.res.in, nkanekar@ncra.tifr.res.in
+5. Project Name : Cold gas in compact sources at high redshifts
+6. Project Code : 30_078
+7. Operator(s) : Pramod, Sachin, Surender
+8. Command File : /odisk/gtac/cmd/aditya/7jul/1143-245_cmd,, /odisk/gtac/cmd/aditya/1755\+578.cmd
+9. LTA File : /gsbifrdata/07jul/30_078_07jul2016.lta.1, /gsbifrdata/07jul/30_078_07jul2016.lta
+10. LogFlag File : /odisk/online1/logflags/30_078.FLAGS.1, /odisk/online1/logflags/30_078.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 492 MHz ,RF2 : 492 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 555 MHz, ILO2 : 555MHz , IVLO1 : 63 MHz, IVLO2 : 63 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 16 MHz,ON, IF-CH2 : 4+14 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 0 MHz; Step # 0
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 137
+28. LO5 -2  : 168
+
+29. Frequency Parameters (TPA) : 492 492 555 555 63 63
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :29
+
+32. Name of Non-Working Antennas (with reason for each) :
+C12 : Taken for BLDC
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 07 Jul 2016 18:00:00 - 08 Jul 2016 00:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :29
+
+37. Comments (During Observations) :
+GWB lta file : 
+
+/data2/gpuuser/07jul/30_078_510LO_07jul2016.lta
+
+-----------------------------------------------------
+17:45 : Started set up.
+18:18 : Started command file.
+ '/odisk/gtac/cmd/aditya/7jul/1143-245_cmd'
+20:35 : Stopped command file and halt the GSB.
+
+
+Started new set up as follow.
+
+ RF Band     : 100-1500
+   IF BW       : 18 MHz
+   Baseband BW : 16.7 MHz
+   LO(1)       : 525
+   LO(5)       : 139
+   LO(4)       : 61
+   Step        : 0
+
+   Channels    : 512
+   lta         : 8m
+
+GWB Lta file : /data2/gpuuser/07jul/30_078_510LO_07jul2016.lta.1 
+
+20:46 : Started command file.
+ '/odisk/gtac/cmd/aditya/1755+578.cmd'
+23:45 : Stopped command file after phase cal.
+23:51 : Started scan on 3C286 for 7 mins.
+00:00 : Stopped scan on 3C286 and closed observation session.

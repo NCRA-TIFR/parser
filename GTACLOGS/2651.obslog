@@ -1,0 +1,59 @@
+		 GTAC Observation Log 
+
+1. Date : 13/06/2006
+2. Observation Sr. No. : 2651
+3. Observer : S. Pal, S Roy
+4. Observer's Email : spal@gmrt.ncra.tifr.res.in.roy@ncra.tifr.res.in
+5. Project Name : Pol
+6. Project Code : 10SRA02
+7. Operator(s) : Jayprakash,
+	
+8. Command File : /btemp2/cmd/roy/m31.surr.unpol.cmd
+9. LTA File : /rawdata/13jun/10sra01_13jun06.lta,
+	/rawdata1/13jun/10sra01_13jun06.ltb
+10. LogFlag File : /btemp2/logflags/10SRA01.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1400 MHz ,RF2 : 1400 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1330 MHz, ILO2 : 1330 MHz, IVLO1 : 70.0000 MHz, IVLO2 : 70.0000 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1400 1400 1330 1330 70.0000 70.0000 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C08 : OFF
+C13 : Elevation brake prob.
+C14 : phase unstable.
+E06 : ABC Time Out.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 02:25 - 14:26
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+******** IF Attn : AUTHIF @ 1390 MHz *********
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+---------------------------------------------
+02:25 : Started the command file.
+13:35 : Noticed, 'fstop' failed @12:13 Hrs, data after
+        12:13 Hrs is bad till 13:37.
+14:26 : Stopped observation.
+

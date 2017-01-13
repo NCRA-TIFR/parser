@@ -1,0 +1,61 @@
+		 GTAC Observation Log 
+
+1. Date : 17/06/2005
+2. Observation Sr. No. : 2070
+3. Observer : Dharam 
+4. Observer's Email : dharam@ncra.tifr.res.in
+5. Project Name : Radio Galaxies.
+6. Project Code : 08MHA01
+7. Operator(s) : Sachin,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/dharam/martin_day1.cmd
+9. LTA File : /rawdata/17jun/08mha01_17jun05.lta,
+	/rawdata1/17jun/08mha01_17jun05.ltb
+10. LogFlag File : /atemp2/logflags/08MHA01.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 32 MHz,ON, IF-CH2 : 18+18 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+C14 - ABC time out.
+S03 - Servo problem.
+S04 - No fringe USB:175 (235 MHz.)
+C10 - No fringe LSB:130 (610 MHz.)
+
+
+
+21. Start and End Time of Obs.(IST): 02:00 - 15:11
+
+22. Comments (During Observations) :
+*** ONLINE RUNNING ON ADITYA ***
+--------------------------------
+02:00 setup started.
+03:17 command file started.
+/temp2/data/cmd/dharam/martin_day1.cmd
+06:40 MSEB power failed for E-arm antennas.
+07:25 : C10 parked for painting.
+
+09:10 : E-arm power came back
+11:45 : Power failed.
+11:50 : Power came back.
+12:23 : Antennas set, restarted command file.
+12:45 : C10 started tracking.
+14:50 : S01 started working.
+14:56 : Started scan on 3C147 for 15mins.
+15:11 : Observation stopped.
+
+

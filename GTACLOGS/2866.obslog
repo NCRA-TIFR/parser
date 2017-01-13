@@ -1,0 +1,60 @@
+		 GTAC Observation Log 
+
+1. Date : 04/10/2006
+2. Observation Sr. No. : 2866
+3. Observer : NISSIM
+4. Observer's Email : nkanekar@aoc.nrao.edu
+5. Project Name : 1430-178
+6. Project Code : 10NKA01
+7. Operator(s) : Jayprakash,
+	Jitendra,
+	Manisha J.,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/nissim/1430-178.cmd
+9. LTA File : /rawdata/4oct/10nka01_1430-178.lta,
+	/rawdata1/4oct/10nka01_1430-178.ltb
+10. LogFlag File : /btemp2/logflags/10NKA01.FLAGS.5
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 620 MHz ,RF2 : 620 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 550 MHz, ILO2 : 550 MHz, IVLO1 : 70  MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+0 dB, 6 MHz,ON, IF-CH2 : 12+0 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 1000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:255:1
+17. Frequency Parameters (TPA) : 620 620 550 550 70  70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+E04 : Servo time out.
+W02 : Feed not focused.
+E06 : ABC Time Out.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 12:45 - 18:16
+
+23. Comments (During Observations) :
+--------------------------------------------
+******** ONLINE Machine : Bhaskar   ******** 
+******** Corr Mode : UsbHighRes     ********
+******** 610  MHz. RF band *****************
+--------------------------------------------
+
+12:45 : Started BP cal 3c286.
+13:02 : Started cmd file.
+17:53 : Command file stopped.
+18:02 : Phase cal scan for 7m
+18:04 : Flux cal scan started on 3C286
+18:16 : Scan stopped and observing project over.
+
+
+
+

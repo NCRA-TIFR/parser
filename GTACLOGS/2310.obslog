@@ -1,0 +1,55 @@
+		 GTAC Observation Log 
+
+1. Date : 26/11/2005
+2. Observation Sr. No. : 2310
+3. Observer : Ayesha Begum
+4. Observer's Email : ayesha@ncra.tifr.res.in,chengalu@ncra.tifr.res.in
+5. Project Name : 0924
+6. Project Code : 04CCA01
+7. Operator(s) : Deepak,
+	Manisha J.,
+	Sanjay,
+	
+8. Command File : /atemp2/cmd/ksd/0924.cmd
+9. LTA File : /rawdata/26nov/04cca01_0924.lta,
+	/rawdata1/26nov/04cca01_0924.ltb
+10. LogFlag File : /atemp2/logflags/04CCA01.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 229.52 MHz ,RF2 : 229.52 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 299 MHz, ILO2 : 299 MHz, IVLO1 : 69.48 MHz, IVLO2 : 69.48 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 6 MHz,ON, IF-CH2 : 12+12 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 1000 KHz, 12 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 4
+16. Channels : 0:255:1
+17. Frequency Parameters (TPA) : 229.52 229.52 299 299 69.48 69.48 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+C09 : ABC Time Out.
+C11 : Servo off mode.
+S03 : Az. brake prob.
+C04-175 : no fringe.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 06:24 - 09:15
+
+23. Comments (During Observations) :
+***********************************************
+******* ONLINE: ADITYA   ***********************
+******* AUTHIF @ 235 MHz. ******************
+******* CORR  : New CORR with UsbHighRes mode **
+*********************************************
+06:24 : started scan on 3C48 ~15mins.
+
+08:55 : Command file stopped.
+09:01 : Started scan on 3C286 for 15mins.
+09:15 : Obseravtion stopped.
+

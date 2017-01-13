@@ -1,0 +1,63 @@
+		 GTAC Observation Log 
+
+1. Date : 24/10/2009
+2. Observation Sr. No. : 4553
+3. Observer : Sayan
+4. Observer's Email : sayan1984@gmail.com,sayan@tifr.res.in
+5. Project Name : NGC5584
+6. Project Code : 17_032
+7. Operator(s) : Deepak,
+	Nilesh,
+	Sachin,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/sayan/obs17/obs32_610.cmd
+9. LTA File : /rawdata/24oct/17_032_24oct2009.lta,
+	/rawdata1/24oct/17_032_24oct2009.ltb
+10. LogFlag File : /odisk/online1/logflags/17_032.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :22
+
+20. Name of Non-Working Antennas (with reason for each) :
+C02: MCM's time-out.
+S03.S04,S06: No electrical power.
+W04:130 pol no fringe.
+C10 : Servo Problem.
+C13,E05 : Painting.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 11:57 - 18:00
+
+23. ONLINE Machine : Lenyadri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+GSB data file:
+/gsbifrdata/24oct/17_032_24oct2009.lta
+
+11:57 : Power Glitch.
+12:17 : Started scan on 3c286.
+12:35 : Stopped scan.
+12:40 : Started command file.
+16:30 : S-arm started working.
+17:25 : Source set, stopped command file.
+17:29 : Started scan on phase cal for 5 mins.
+17:38 : Started scan on 3C295.
+18:00 : Stopped scan and observation session.
+
+

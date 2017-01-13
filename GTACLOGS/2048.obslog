@@ -1,0 +1,63 @@
+		 GTAC Observation Log 
+
+1. Date : 03/02/2005
+2. Observation Sr. No. : 2048
+3. Observer : Dharam & Huib
+4. Observer's Email : dharam@ncra.tifr.res.in,intema@strw.leidenunib.nl
+5. Project Name : Bootes & A225
+6. Project Code : 08HRA01
+7. Operator(s) : Sachin,
+	Sanjay,
+	
+8. Command File : /atemp2/cmd/dharam/bootes.cmd
+9. LTA File : /rawdata/3jun/08hra01_bootes.lta
+10. LogFlag File : /atemp2/logflags/08HRA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 157 MHz ,RF2 : 157 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 223 MHz, ILO2 : 223 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 6 MHz,ON, IF-CH2 : 16+16 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 157 157 223 223 66 66 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C00: No fringe.
+C02: No fringe.
+C08: No fringe.
+
+21. Start and End Time of Obs.(IST): 17:35 - 04:40
+
+22. Comments (During Observations) :
+*** ONLINE: aditya
+*** AUTHIF: 150 MHz
+--------------------------
+
+18:50 : Done power equilise on 3C147 with both ALCs off.
+18:53 : MSEB power failed.
+19:15 : MSEB power resumed.
+19:30 : Initialised all antennae.
+19:30 : C00, C02, C08 kept in subarray for fixing the fringe problem.
+19:35 : Done power equlise on 3C286 with both ALCs off.
+19:45 : ONed both ALCs.
+20:01 : Started command file.
+20:04 : C01 applied elevation brakes.
+21:30 : E02 got ABC reset & C01 started working.
+22:00 : Due to large distance between source & calibrator 
+changed the slewing time between source & calibrator.
+22:30 : Started doing observation manually.
+23:05 : Started command file.
+02:30 : Stopped cmd file, continued record on 'BOOTES'
+03:35 : Stopped recording.
+04:00 : Started flux cal, 3c48.
+04:20 : Stopped, flux cal, closed observation.
+
+

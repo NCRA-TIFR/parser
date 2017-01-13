@@ -1,0 +1,55 @@
+		 GTAC Observation Log 
+
+1. Date : 12/09/2009
+2. Observation Sr. No. : 4528
+3. Observer : Nazirah, Habib
+4. Observer's Email : nnj0001@uah.edu,habib@ipm.ir
+5. Project Name : ESO3060
+6. Project Code : 16_261
+7. Operator(s) : Sachin,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/16_261/eso3060.cmd
+9. LTA File : /rawdata/12sep/16_261_12sep2009.lta,
+	/rawdata1/12sep/16_261_12sep2009.ltb
+10. LogFlag File : /odisk/online1/logflags/16_261.FLAGS.13
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1280 MHz ,RF2 : 1280 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1210 MHz, ILO2 : 1210 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1280 1280 1210 1210 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+E06 : For maintenance.
+
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 04:00 - 09:00
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+04:12 : Started scan on 3C48 for 15 mins.
+04:12 : Once again RF settings done for W05.
+04:28 : Stopped scan on 3C48.
+04:34 : Started command file.
+08:42 : Stopped command file.
+
+        Scan no. 15 bad.
+
+08:50 : Started scan on 3C147.
+09:00 : Stopped scan and observing session over.
+

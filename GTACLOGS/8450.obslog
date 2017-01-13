@@ -1,0 +1,65 @@
+		 GTAC Observation Log
+
+1. Date : 02/03/2016
+2. Observation Sr. No. : 8450
+3. Observer : Kelley Hess, Karen Masters, Kevin Schawinski, O.Ivy Wong, Kyle Willett, Chris Lintott, E. Athanassoula
+4. Observer's Email : hess@astro.rug.nl, karen.masters@port.ac.uk, kevin.schawinski@phys.ethz.ch, ivy.wong@uwa.edu.au, willett@physics.umn.edu, cjl@astro.ox.ac.uk, lia@lam.fr
+5. Project Name : Gas Morphology and Dynamics in Strongly Barred Galaxies
+6. Project Code : 29_031
+7. Operator(s) : Deepak, Nilesh, Sachin, Shilpa
+8. Command File : /odisk/gtac/cmd/29_031/obs.cmd
+9. LTA File : /gsbifrdata1/02mar/29_031_02mar2016.lta
+10. LogFlag File : /odisk/online1/logflags/29_031.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1369.0426 MHz ,RF2 : 1369.0426 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1310 MHz, ILO2 : 1310MHz , IVLO1 : 59.0426 MHz, IVLO2 : 59.0426 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 16 MHz,ON, IF-CH2 : 4+14 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_lenyadri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 4 MHz; Step # 8
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 140.9574
+28. LO5 -2  : 164.0426
+
+29. Frequency Parameters (TPA) : 1369.0426 1369.0426 1310 1310 59.0426 59.0426
+30. Integration Time : 4.0265 Sec
+31. No of Antennas Working(Fringing) at the beginning :26
+
+32. Name of Non-Working Antennas (with reason for each) :
+C08 : BLDC
+E05 : CST painting
+C02 : 175 pol RFI
+E06 : Low fringe
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 02 Mar 2016 00:01:00 - 02 Mar 2016 09:11:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :26
+
+37. Comments (During Observations) :
+00:11 : Started scan on 3C286 for 15mins.
+
+00:28 : Started command file.
+08:19 : Stopped command file.
+
+08:20 : Started scan on 3C286 for 15mins.
+08:37 : Restarted command file.
+09:11 : Stopped command file and observing session over.
+

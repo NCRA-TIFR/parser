@@ -1,0 +1,78 @@
+		 GTAC Observation Log 
+
+1. Date : 16/01/2010
+2. Observation Sr. No. : 4716
+3. Observer : D A Green, J S Farnes
+4. Observer's Email : jsf31@mrao.cam.ac.uk,dag@mrao.cam.ac.uk
+5. Project Name : Polarisation Observations of G1.9+0.3
+6. Project Code : 17_051
+7. Operator(s) : Rupsingh,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/jamie/17_051/obs.cmd
+9. LTA File : /rawdata/16jan/17_051_16jan2010.lta,
+	/rawdata1/16jan/17_051_16jan2010.ltb
+10. LogFlag File : /odisk/online1/logflags/17_051.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 325 MHz ,RF2 : 325 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 255 MHz, ILO2 : 255 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 325 325 255 255 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+--
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 07:00 - 14:52
+
+23. ONLINE Machine : Lenyadri
+
+24. Correlator Mode : UsbPolar
+
+25. Comments (During Observations) :
+07:00 : Started settings.
+07:28 : Started scan on 3C286.
+07:46 : Stopped scan.
+07:55 : Started scan on phase cal.
+08:02 : Stopped scan.
+08:07 : Started command file.
+        /odisk/gtac/cmd/jamie/17_051/obs.cmd
+08:25 : E05 taken for painting.
+
+09:45 : C01 taken for painting.
+10:15 : C13 taken for maintenance.
+
+10:38 : Stopped command file.
+
+        Changed the settings.
+        tpa 325 325 263 263 62 62.
+        IF BW : 16MHz.
+        BB BW : 16MHz.
+       
+       Started GSB.
+**************************************************
+GSB DATA FILES :
+ /gsbifrdata/16jan/17_051_16jan2010.lta
+**************************************************
+10:47 : Started scan on 3C286.
+11:01 : Stopped scan.
+
+11:05 : Started scan on 3C303.
+11:16 : Stopped scan.
+11:22 : Restarted command file.
+
+12:59 : C13 started working.
+14:32 : Stopped command file.
+14:40 : Started scan on 3C48.
+14:52 : Stopped scan and observing session over.
+

@@ -1,0 +1,61 @@
+		 GTAC Observation Log 
+
+1. Date : 26/04/2005
+2. Observation Sr. No. : 2036
+3. Observer : Dr. Ishwara Chandra
+4. Observer's Email : ishwar@ncra.tifr.res.in,dipankar@rri.res.in,atish@rri.res.in
+5. Project Name : GRB
+6. Project Code : 05DT014
+7. Operator(s) : Manisha J.,
+	Sachin,
+	Sanjay,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/ishwar/too26.cmd
+9. LTA File : /rawdata/26apr/05dt014_grb050416A.lta,
+	/rawdata1/26apr/05dt014_grb050416A.ltb
+10. LogFlag File : /btemp2/logflags/05DT014.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1280 MHz ,RF2 : 1280 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1210 MHz, ILO2 : 1210 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+10 dB, 32 MHz,ON, IF-CH2 : 10+10 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1280 1280 1210 1210 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+C02: no fringe
+LSB: C14 with C05 and S03 are two bad baselines (RR ONLY) 
+
+21. Start and End Time of Obs.(IST): 21:00 - 04:10
+
+22. Comments (During Observations) :
+**** ONLINE: bhaskar      ***
+**** IF ATTN:AUTHIF@1280  ***
+----------------------------------------
+21:18 scan started on 3c286.
+21:42 command file started 
+	/temp2/data/cmd/ishwar/too26.cmd
+22:18 Stopped command file.
+22:40 Stopped record on source & moved on phase cal.
+22:42 Started scan on phase cal for 6 mins.
+22:48 stopped scan, antennas moved to GRB in outer trak.
+23:00 started scan on GRB ~ 25mins.
+23:30 started scan on phase cal ~ 6 mins.
+23:42 command file started.
+
+03:53:23 command file stopped, antennas moved to 3c286.
+03:54:18 started scan on 3C286 ~ 15mins.
+04:10	stopped scan and observation session.
+
+
+

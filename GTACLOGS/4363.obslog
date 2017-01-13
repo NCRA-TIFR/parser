@@ -1,0 +1,68 @@
+		 GTAC Observation Log 
+
+1. Date : 21/06/2009
+2. Observation Sr. No. : 4363
+3. Observer : S P S Eyres, Nimisha Kantharia
+4. Observer's Email : spseyres@uclan.ac.uk,ngk@ncra.tifr.res.in
+5. Project Name : Classical Novae
+6. Project Code : 16_072
+7. Operator(s) : Deepak,
+	Manisha,
+	Nilesh,
+	
+8. Command File : /odisk/gtac/cmd/seyres/21jun09_16_072.cmd,
+	/odisk/gtac/cmd/seyres/23june2009_16_072.cmd
+9. LTA File : /rawdata/21jun/16_072_21jun2009.lta,
+	/rawdata1/21jun/16_072_21jun2009.ltb
+10. LogFlag File : /odisk/online1/logflags/16_072.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+S03 : Low @614MHz(130 pol)
+C05,E05,S03 : No fringe @244MHz(175 pol)
+W01 - 235MHz not available.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 21:00 - 09:00
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+***************************************************
+GSB Data file on mithunc :
+/data/pulsar/gsbdata/21jun09/16_072_gsb_21jun09.lta
+/data/pulsar/gsbdata/21jun09/16_072_gsb_21jun09.lta.1
+***************************************************
+21:16 : Started scan on 3c286 for 15 min.
+21:36 : Started command file.
+22:20 : C11 stopped working.
+23:30 : W01 @ 610 working.
+00:00 : Restarted GSB.
+04:07 : S03 started working.
+
+07:00 : stopped scan & stopped command file.
+07:05 : started command file 23june2009_16_072.cmd.
+08:30 : stopped command file.
+08:32 : started scan on phase cal ~ 5mins.
+08:45 : started scan on flux cal 3C48 ~ 15mins.
+09:00 : stopped das & observation session.
+
+

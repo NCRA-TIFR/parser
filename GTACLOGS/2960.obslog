@@ -1,0 +1,61 @@
+		 GTAC Observation Log 
+
+1. Date : 29/12/2006
+2. Observation Sr. No. : 2960
+3. Observer : BCJ
+4. Observer's Email : bcj@ncra.tifr.res.in
+5. Project Name : psr@1422
+6. Project Code : 06DT046
+7. Operator(s) : Jitendra,
+	Navanath,
+	
+8. Command File : /btemp2/cmd/hold.cmd
+9. LTA File : /rawdata/29dec/06dt046_29dec06.lta,
+	/rawdata/29dec/06dt046_29dec06.lta.1,
+	/rawdata/29dec/06dt046_29dec06.lta.2,
+	/rawdata1/29dec/06dt046_29dec06.ltb,
+	/rawdata1/29dec/06dt046_29dec06.ltb.1,
+	/rawdata1/29dec/06dt046_29dec06.ltb.2
+10. LogFlag File : /btemp2/logflags/06DT046.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1422 MHz ,RF2 : 1422 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1350 MHz, ILO2 : 1350 MHz, IVLO1 : 72 MHz, IVLO2 : 72 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 6+0 dB, 32 MHz,OFF, IF-CH2 : 6+0 dB, 32 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1422 1422 1350 1350 72 72 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :23
+
+20. Name of Non-Working Antennas (with reason for each) :
+E06 : ABC time out.
+E02 : USB no fringe.
+S-arm : corr problem.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 10:00 - 14:00
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+******** RF band 1390 MHz.          *********
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+---------------------------------------------
+10:00 Started settings.
+
+14:00 Observing session over.
+

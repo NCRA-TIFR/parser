@@ -1,0 +1,75 @@
+		 GTAC Observation Log 
+
+1. Date : 10/10/2003
+2. Observation Sr. No. : 1173
+3. Observer : Dr. J. Franko, Peter
+4. Observer's Email : visitor3@gmrt.ncra.tifr.res.in,ggentile@astro.uni-bonn.de,pieter.buyle@rug.ac.be
+5. Project Name : Black Hole.
+6. Project Code : 04GGA01
+7. Operator(s) : Manish G.,
+	Manisha J.,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/gga/ugc2679.cmd,
+	/btemp2/cmd/gga/ugc6376.cmd
+9. LTA File : /rawdata1/10oct/04gga01_ugc2679.ltb,
+	/rawdata1/10oct/04gga01_ugc6376.ltb
+10. LogFlag File : /btemp2/logflags/04GGA01.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1387.6 MHz ,RF2 : 1387.6 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1460 MHz, ILO2 : 1460 MHz, IVLO1 : 72.4 MHz, IVLO2 : 72.4 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+4 dB, 16 MHz,ON, IF-CH2 : 4+4 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 4000 KHz, 6 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 2
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1387.6 1387.6 1460 1460 72.4 72.4 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+W06: All MCM TimeOut.
+
+
+21. Start and End Time of Obs.(IST): 23:38 - 15:16
+
+22. Comments (During Observations) :
+*****************************
+ONLINE: bhaskar
+AUTHIF: 1390 MHz.
+*****************************
+23:38  Started scan on 3C147, for 10 mins.
+23:48  Stopped the scan. Antennas moved to 0323+055.
+00:02  Started command file  /temp2/data/cmd/gga/ugc2679.cmd
+07:15  W06, gave MCM reset, started working.
+07:29  cmd file stopped.
+07:32  Started record on 3c147.
+07:42  Stopped record on 3c147.
+
+Setting changed as follows:
+       LO1=1470 MHz
+       LO4=71.4
+       TPA 1398.6 1398.6 1470 1470 71.4 71.4
+=================================================
+07:46  Started record on 3c147.
+       record started in file 04gga01_ugc6376.ltb
+       C02 & S06 LO unlock, not working.
+07:57  Stopped record on 3c147
+08:14  Started cmd file ugc6376.cmd
+08:48  C03 parked (for painting).
+10:28  scan# 7 bad, source  transiting.
+       stopped cmd file,
+10:31  Started das record on 3c286.
+10:42  Stopped das record on 3c286.
+10:55  Restarted cmd file with outer track.
+12:20  C02 started working.
+14:58  Command file stopped.
+15:00  Started scan on 1111+199 for 5mins.
+15:06 started scan on 3C286 for 10mins.
+15:16 Observation stopped.
+

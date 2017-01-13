@@ -1,0 +1,59 @@
+1. Date :  01/01/2002
+2. Observation Sr. No. : 409
+3. Observer & email : Prasad Subramanian & S Ananthkrishnan.
+4. Project Name & Code : 02SUN01
+5. Operator(s) : Manisha, Sanjay(2)
+6. Command File/Source  & Lta File : /raid/data/1jan/sun_jan02_243.lta
+                                   : /raid/data/1jan/sun_jan02_243.lta.1
+                                   : /raid/data/1jan/sun_jan02_243.lta.2
+                                   : /raid/data/1jan/sun_jan02_243.lta.3
+                                   : /raid/data/1jan/sun_jan02_243.lta.4
+                                   : /raid/data/1jan/cyga_10d_decoff.set
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 : 235 MHz.,0 dB.,OFF.
+8. Ist LO (MHz) & IVth LO (MHz) :313  MHz.,70 MHz.
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status :18+18 dB., 16 MHz.,ON.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status :8 MHz., 3 dB., ON.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 1 / 1
+12. Channels : 0,127,1
+13. Frequency Parameters (TPA) : 243 243 313 313 70 70
+
+14. Integration Time (Sec.) : 16 sec (16*8m) & 2sec.
+15. No of Antennas Working(Fringing) : 25.5
+16. Name of Non-Working Antennas (with reason for each) :
+
+	C12		no fringe.
+	C13		Testing. (ref. tlv)
+	W01     antenna down for mechanical PM.
+	W04     MCM 5 Time Out.
+	W06     Pole 130 bad
+
+17. Starting and Ending time of Observations (IST) : 12:48
+18. Comments (During Observations) :
+
+
+	SCAN #		Source		Comment.
+	0			1830-36		phase cal (default settings)
+	
+		Antenna put 10d off to 1830-36, made IF & BB ALC's OFF.
+		Power equalised.	
+
+	1			1830-36		EHal ON, 14 dB Solar Attn.
+	2			Cyga		Cygnus, Noise off, 14 dB Solar Attn.
+	3			Cyga		Cygnus, Noise off, 30 dB Solar Attn.
+	4			SUN		 	30 dB solar Attn.	
+
+		Made ALC ON and started command file.
+		started new record file with 2 sec integration.
+		record file : /raid/data/1jan/sun_jan02_243.lta.1
+
+    15:45   file /raid/data/1jan/sun_jan02_610.lta.3 has only cal 1822-09
+            needs to be 'cat'ed to other lta file /raid/data/1jan/sun_jan02_610.lta.4
+    16:55   C11 brakes problem, stopped tracking.
+
+19. Data Backup files & Tape No. :

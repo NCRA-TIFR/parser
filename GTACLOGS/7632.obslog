@@ -1,0 +1,86 @@
+		 GTAC Observation Log
+
+1. Date : 24/02/2015
+2. Observation Sr. No. : 7632
+3. Observer : Wojciech Lewandowski, Jim Cordes, Jaroslaw Kijak, Shami Chatterjee, Bhaswati Bhattacharyya, Jayanta Roy, Karolina Rozko
+4. Observer's Email : boe@astro.ia.uz.zgora.pl, cordes@astro.cornell.edu, jkijak@astro.ia.uz.zgora.pl, shami@astro.cornell.edu, bhaswati.bhattacharyya@manchester.ac.uk, jroy@ncra.tifr.res.in, krozko@gmail.com
+5. Project Name :  Multi-frequency scattering of pulsars with known distances
+6. Project Code : 27_038
+7. Operator(s) : Deepak, Nilesh, Sachin
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /gsbifrdata/24feb/27_038_24feb15.lta
+10. LogFlag File : /odisk/online1/logflags/27_038.FLAGS.11
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 242 MHz ,RF2 : 242 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 304 MHz, ILO2 : 304MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+14 dB, 32 MHz,OFF, IF-CH2 : 20+14 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : PA
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 16.666666 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 138
+28. LO5 -2  : 167
+
+29. Frequency Parameters (TPA) : 242 242 304 304 62 62
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :28
+
+32. Name of Non-Working Antennas (with reason for each) :
+C00 : : No Fringe.
+W05 : : Maintenance.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 24 Feb 2015 07:00:00 - 24 Feb 2015 12:00:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :28
+
+37. Comments (During Observations) :
+06:30 : Started settings.
+06:40 : Started power eq on 3c286.
+06:57 : Started phasing on 3c286.
+07:12 : Started scan on B1541+09 for ~ 11 min.
+07:55 : Started phasing on 1714-252.
+08:02 : Started phasing on 1830-360.
+08:09 : Started scan on B1737-30 for ~ 30 min.
+
+08:18 - 08:40 : S01 antenna ABC time-out.
+
+08:41 : Started scan on B1742-30 for ~ 10 min.
+08:53 : Started phasing on 1822-096.
+08:56 : Started scan on B1758-03 for ~ 10 min.
+
+08:58 : W02 Servo Problem, removed from GAC after Scan.
+
+09:08 : Started scan on B1829-08 for ~ 40 min.
+09:13 : W02 started working, added to GAC 4 min into the scan.
+09:46 : E-arm power failure, removed from GAC.
+
+10:30 : Started scan on B1907+10 for ~ 10 min.
+10:44 : Started phasing on 1822-096.
+10:48 : Started scan on B1915+13 for ~ 10 min.
+11:00 : Started scan on B1920+21 for ~ 10 min.
+
+11:17 : Started phasing on 2225-049.
+11:30 : Started scan on B2053+36 for ~ 10 min.
+11:43 : Started scan on B2154+40 for ~ 10 min.
+12:00 : Observation session over.
+------------------------------------------------
+
+

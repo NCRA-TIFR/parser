@@ -1,0 +1,61 @@
+		 GTAC Observation Log 
+
+1. Date : 01/05/2004
+2. Observation Sr. No. : 1489
+3. Observer : KB 
+4. Observer's Email : kmb@astro.ox.ac.uk
+5. Project Name : 05kba01 
+6. Project Code : 04KBA01
+7. Operator(s) : Jitendra,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/kba/ss433.cmd
+9. LTA File : /rawdata/1may/05kba01_1may.lta,
+	/rawdata1/1may/05kba01_1may.ltb
+10. LogFlag File : /btemp2/logflags/05KBA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C06,C02,W05 - No fringe
+
+
+21. Start and End Time of Obs.(IST): 03:35 - 11:15
+
+22. Comments (During Observations) :
+ONLINE : bhaskar
+IFATTN : AUTHIF ATTN : 610-235
+------------------------------------------
+03:35 : Flux cal scan started for 20m.
+03:56 : scan stopped.
+04:00 : command file started.
+04:06 : scan started on ss433,w03 delayed in tracking
+        will track the phase centre around 04:12 Hrs.
+06:02 : Power failed.
+07:30 : Data bad tilll 07:30
+07:30 : After power resumption, record started.
+        antennas not working. C02-LO problem,
+        S02-ABC T.O., W06-MCM 5. T.O. C06-Feed?
+
+07:42 : Stopped 3c48.
+07:50 : S02 recovered.
+07:53 : Restarted cmd file.
+10:33 : Stopped cmd file.
+10:38 : Started das record on 3c48.
+11:15 : stopped das record on 3c48, closed project.
+
+

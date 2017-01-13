@@ -1,0 +1,61 @@
+		 GTAC Observation Log 
+
+1. Date : 18/01/2003
+2. Observation Sr. No. : 0947
+3. Observer : Ayesha Begum.
+4. Observer's Email : ayesha@ncra.tifr.res.in
+5. Project Name : 3c68.1
+6. Project Code : 03JNC01
+7. Operator(s) : Deepak,
+	Manish G.,
+	Jayprakash,
+	Jitendra,
+	Sanjay,
+	Santaji,
+	
+8. Command File : /temp2/data/cmd/chengalu/3c68.1.cmd
+9. LTA File : /rawdata/18jan/03jnc01_3c68.1.lta
+10. LogFlag File : /temp2/data/logflags/03JNC01.FLAGS.9
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 637.94 MHz ,RF2 : 637.94 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 565 MHz, ILO2 : 565 MHz, IVLO1 : 72.94 MHz, IVLO2 : 72.94 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 16 MHz,ON, IF-CH2 : 12+12 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 1000 KHz, 12 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 4
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 637.94 637.94 565 565 72.94 72.94 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C11 : Both self low.
+W01 : All MCMs T.O.
+
+21. Start and End Time of Obs.(IST): 13:21 - 00:00
+
+22. Comments (During Observations) :
+13:21 : Started scan on 3c48 for 10min.
+13:37 : Started scan on 3c68.1.
+14:05 : Started command file
+        /temp2/data/cmd/chengalu/3c68.1.cmd.
+15:50 : W03 fringe vanished, (it's recovring automatically sometime)
+15:54 : E03,E04,E05,E06 and S01 ABC T.O.
+16:05 : ABC timeout problem recover automatically for all
+        for the all antenna mentioned above.
+
+17:04 : E02, S02, S03, S04, S06 ABC T.O. 
+	Recoved on it's own after some some time, no data loss.
+
+18:22 : Stopped  cmd file,
+18:50 : command file started.
+19:15 : E02 ,E03,E04 ,S04,S06 ABC TIME OUT
+19:22 : Problem of ABC T.O.recovered.
+00:55 : stopped the observation session.
+
+

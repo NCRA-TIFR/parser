@@ -1,0 +1,78 @@
+		 GTAC Observation Log 
+
+1. Date : 10/7/2012
+2. Observation Sr. No. : 6031
+3. Observer : Hans Nguyen, Ue Li Pen,Yu-Wei Victor Liao
+4. Observer's Email : skyjadel@gmail.com,ywliao@asiaa.sinica.edu.tw,hans.nguyen369@gmail.com
+5. Project Name : The GMRT-EoR Project: Global Sky Model and Earth Occultation mapping for PSR B0823+26
+6. Project Code : 22_045
+7. Operator(s) : Manisha,
+	Navanath,
+	Nilesh,
+	Rupsingh,
+	Santaji,
+	
+8. Command File : 
+9. LTA File : 
+10. LogFlag File : 
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 218 MHz, ILO2 : 218 MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 16 MHz,OFF, IF-CH2 : 24+4 dB, 16 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : OFF 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 16 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 16:138000-167000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 156 156 218 218 62 62.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :27
+
+27. Name of Non-Working Antennas (with reason for each) :
+C14 : BLDC work.
+C04 -175 no fringe.
+C05 : No Fringe.
+
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 07:00 - 16:10
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+07:05 : Started Feed Rotation @ 150MHz.
+07:18 : Started settings for EoR project.
+        RF = 156MHz, IF BW = 16MHz,
+        Baseband BW : 16MHz,
+        LO1 = 218MHz, LO4 = 62 MHz,
+        LO5 = 16:138-167MHz,
+        IF ALC's = OFF, GSB GAINEQ = OFF,
+        Noise source LOW cal.
+
+07:30 : Started Power Eq @ 300 counts on 3c48.
+08:00 : Power Eq done.
+        Noise source LOW cal ON with 25% duty cycle.
+        antennas W04,W04,W06,E02,E04,E06,S01,S03,S06 set to track pulsar 'B0450+55'
+        remaining antennas positioned at :
+          AZ angle = +180 degrees
+          EL angle = 55:43:41 +19 = 74:43:41 degrees
+
+08:04 : Started recording servo encoder files.
+08:08 : Started EoR observation.
+15:20 : S06 Servo problem.
+16:10 : Observing session over.
+---------------------------------------------------------
+
+
+

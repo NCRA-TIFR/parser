@@ -1,0 +1,90 @@
+		 GTAC Observation Log 
+
+1. Date : 20/02/2004
+2. Observation Sr. No. : 1351
+3. Observer : GK
+4. Observer's Email : krishna@ncra.tifr.res.in
+5. Project Name : BLAZAR
+6. Project Code : 05GKA01
+7. Operator(s) : Mangesh,
+	Manish G.,
+	Jitendra,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/gk/mkn421.cmd,
+	/btemp2/cmd/gk/scox-1.cmd
+9. LTA File : /rawdata/20feb/05gka01_mkn421.lta,
+	/rawdata1/20feb/05gka01_mkn421.ltb,
+	/rawdata/21feb/05gka01_scox-1.lta,
+	/rawdata1/21feb/05gka01_scox-1.ltb
+10. LogFlag File : /btemp2/logflags/05GKA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1280 MHz ,RF2 : 1280 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1210 MHz, ILO2 : 1210 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+10 dB, 32 MHz,ON, IF-CH2 : 10+10 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1280 1280 1210 1210 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+--
+
+21. Start and End Time of Obs.(IST): 20:10 - 11:31
+
+22. Comments (During Observations) :
+*** ONLINE: bhaskar  ***
+*** AUTHIF: 1210 MHz ***
+=================================================
+
+20:10  Started the observation 05GKA01.
+       Started scan on 3C147, for 20 mins
+20:30  Stopped the scan. Antennas moved to MKN421.
+20:35  Started the command file  /temp2/data/cmd/gk/mkn421.cmd
+21:25  Stopped the command file.
+       Started scan on MKN421.
+21:45  Stopped the scan. Re-started the command file.
+00:13  C03 not tracking , servo problem.
+01:23  C03 problem seems to be automatically solved.
+03:04  W06 got ABC reset.
+03:14  W06 ABC getting frequent reset , telemetry problem.
+05:57  W06 antenna setting restored.
+
+06:08  Command file stopped. 
+       (Taking only one phase cal-1227+365 in loop.)
+
+06:09  scan started manually on src mkn421.
+06:30  scan stopped.
+06:35  phase cal scan started on 1227+365
+06:45  scan stopped.
+
+* Another lta/ltb
+  file started for SCOX-1 observation.
+
+06:48  flux cal scan started on 3c286 for 10m
+07:02  flux cal scan stopped.
+
+* mkn421 observation over , lta/ltb file closed.
+ 
+===========================================
+** Observation  of 'scox-1' belongs to GTAC code "05GKA02"
+===========================================
+07:04  Started cmd file scox-1.cmd
+08:30  W05 made down for painting.
+09:58  Changed the phase cal from 1557-000
+       to 1626-298 and restarted the command file.
+10:06  C01 given for painting.
+10:08  W06 ABC got reset.
+10:33  S06 bad band-shape beyonf channel 100.
+11:23  Started a fluxcal scan on 3c48 for 10 minutes.
+11:31  Stopped the scan closed the observation.
+
+

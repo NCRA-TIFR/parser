@@ -1,0 +1,88 @@
+		 GTAC Observation Log
+
+1. Date : 05/06/2016
+2. Observation Sr. No. : 8631
+3. Observer : Krishnakumar MA, BHAL CHANDRA JOSHI, Periasamy K. Manoharan
+4. Observer's Email : kkma@ncra.tifr.res.in, bcj@ncra.tifr.res.in, mano@ncra.tifr.res.in
+5. Project Name : A pilot project for scatter broadening measurements with the new L-band wide-band
+6. Project Code : 30_055
+7. Operator(s) : Sachin
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /gsbifrdata1/05jun/30_055_05jun2016_1420.lta
+10. LogFlag File : /odisk/online1/logflags/U30_055.FLAGS, /odisk/online1/logflags/30_055.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1409 MHz ,RF2 : 1409 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1460 MHz, ILO2 : 1460MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : PA
+22. Beam - 2 : PA
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 0 MHz; Step # 0
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 1409 1409 1460 1460 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :28
+
+32. Name of Non-Working Antennas (with reason for each) :
+C02 : BLDC work.
+S01 : No fringe.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 05 Jun 2016 00:00:00 - 05 Jun 2016 06:48:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :27
+
+37. Comments (During Observations) :
+Tried various combinations of GWB connections.(Changed connections 5 times.)
+00:52 : E-arm power failed.
+01:05 : E-arm power restored. Also found phasing problem.
+Restarted whole chain once again.
+C08 and W01 were down in power equalisation therefore changed their
+OF attenuations manually started observation session.
+
+Also learned that record file for pulsar not getting killed after 
+completion of file. File's process was running in next record also.
+So every time killed pulsar record processes.
+
+Antennas in GAC - All central square antennas except C02
+W01, W02 and S02 antennas.
+
+01:57:08 : Started scan on 1822-096 for ~ 4.29496 min.
+02:02:18 : Started scan on 1822-096 for ~ 0.402653 min.
+02:05:28 : Started scan on B1749-28 for ~ 14.7639 min.
+02:21:07 : Started scan on J1721-3532 for ~ 44.5602 min.
+03:07:44 : Started scan on 1822-096 for ~ 0.671088 min.
+03:10:03 : Started scan on J1812-1733 for ~ 42.2785 min.
+03:53:24 : Started scan on 1822-096 for ~ 1.61061 min.
+03:55:13 : Started scan on 1822-096 for ~ 0.939523 min.
+03:57:20 : Started scan on J1818-1422 for ~ 13.1533 min.
+04:10 : W-arm power failed. Removed W-arm antennas from GAC.
+04:13:18 : Started scan on J1818-1422 for ~ 30.7358 min.
+04:45 : W-arm restored, W01 added in GAC, could not add W02 because
+of MCM probelm.
+04:46:01 : Started scan on J1828-1101 for ~ 44.6945 min.
+05:32:06 : Started scan on 1822-096 for ~ 2.01326 min.
+05:34:17 : Started scan on 1822-096 for ~ 0.268435 min.
+05:35:59 : Started scan on J1852+0031 for ~ 55.2977 min.
+06:38:31 : Started scan on 3C48 for ~ 1.61061 min.
+06:41:27 : Started scan on 3C48 for ~ 2.01326 min.
+06:48 : Closed observation session.

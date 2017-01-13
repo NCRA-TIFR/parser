@@ -1,0 +1,74 @@
+		 GTAC Observation Log 
+
+1. Date : 17/2/2013
+2. Observation Sr. No. : 6382
+3. Observer : Vishal Gajjar
+4. Observer's Email : gajjar@ncra.tifr.res.in
+5. Project Name : Pulsar Observation
+6. Project Code : 23_058
+7. Operator(s) : Rupsingh,
+	Sachin,
+	Surender
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /gsbifrdata/17feb/23_058_17feb2013.lta
+10. LogFlag File : /odisk/online1/logflags/23_058.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : OFF 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : PA
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 512 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 306 306 255 255 51 51.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :27
+
+27. Name of Non-Working Antennas (with reason for each) :
+C02 - No fringe.
+C04 - Taken for maintenance.
+W02 - Taken for BLDC work.
+
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 07:00 - 16:05
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+07:39:18 - 07:43:04 Recorded data on 3C286
+07:52:12 - 07:52:44 Recorded data on 1941-154
+07:53:32 - 07:54:20 Recorded data on 1941-154
+07:54:53 - 07:54:53 Recorded data on 1941-154
+07:56:45 - 08:01:35 Recorded data on B2045-16
+08:03:44 - 09:07:53 Recorded data on B2045-16
+09:10:18 - 09:10:51 Recorded data on 1941-154
+09:10 - C09 taken for painting.
+09:11:39 - 09:11:55 Recorded data on 1941-154
+09:13:48 - 11:13:47 Recorded data on B2045-16
+11:18:21 - 11:19:09 Recorded data on 1941-154
+11:19:42 - 11:20:30 Recorded data on 1941-154
+11:21:18 - 11:22:07 Recorded data on 1941-154
+11:22:39 - 11:23:11 Recorded data on 1941-154
+11:29:21 - 13:34:43 Recorded data on B2045-16
+12:47 : C03 started giving servo problem.
+13:37:40 - 13:38:45 Recorded data on 1941-154
+13:39:33 - 13:41:42 Recorded data on 1941-154
+13:42:14 - 13:43:02 Recorded data on 1941-154
+13:47:36 - 15:52:21 Recorded data on 1941-154
+15:58:21 - 16:05:20 Recorded data on 3C48.
+16:05:20 - Stopped observation.
+
+

@@ -1,0 +1,93 @@
+		 GTAC Observation Log
+
+1. Date : 22/11/2014
+2. Observation Sr. No. : 7441
+3. Observer : Rajeshwari Dutta, Raghunathan Srianand, Neeraj Gupta, Patrick Petitjean, Pasquier Noterdaeme, hadi Rahmani
+4. Observer's Email : rdutta@iucaa.ernet.in, anand@iucaa.ernet.in, nrjgupta@gmail.com, ppetitje@iap.fr, noterdaeme@iap.fr, hadi@iucaa.ernet.in
+5. Project Name : CHITALS: Cold HI 21-cm Absorption Line Survey 
+6. Project Code : 27_015
+7. Operator(s) : Navnath, Pramod, Sachin
+8. Command File : /odisk/gtac/cmd/rdutta/qgpj1243p16.cmd,,/odisk/gtac/cmd/rdutta/qgpj1551p07.cmd,
+9. LTA File : /gsbifrdata/22nov/27_015_22nov2014.lta.1,/gsbifrdata/22nov/27_015_22nov2014.lta
+10. LogFlag File : /odisk/online1/logflags/27_015.FLAGS.11,/odisk/online1/logflags/27_015.FLAGS.10
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1406.2662 MHz ,RF2 : 1406.2662 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1345 MHz, ILO2 : 1345MHz , IVLO1 : 61.2662 MHz, IVLO2 : 61.2662 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 16 MHz,ON, IF-CH2 : 4+14 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 4 MHz; Step # 2
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 138.7338
+28. LO5 -2  : 166.2662
+
+29. Frequency Parameters (TPA) : 1406.2662 1406.2662 1345 1345 61.2662 61.2662
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :26
+
+32. Name of Non-Working Antennas (with reason for each) :
+C01 : Feed cage painting.
+E04 : MCM-5 time out.
+W04 : Low cross amplitude counts but phases are stable.
+W06 : Low cross amplitude counts but phases are stable.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 22 Nov 2014 05:00:00 - 22 Nov 2014 17:59:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :26
+
+37. Comments (During Observations) :
+05:00 : Started scan on 3286.
+05:10 : Stopped scan on 3C286.
+05:10 : Started command file.'
+/odisk/gtac/cmd/rdutta/qgpj1243p16.cmd
+08:43 : Stopped command file.
+08:45 : Started scan on 3C286.
+08:57 : Stopped scan.
+-------------------------------------------------------
+08:58 : Started set-up.
+GSB line observation setup
+RF band= 1280 (1220 - 1340)
+LO1= 1220 (lower)
+IFBW= 6
+GSB [ACQ] BW= 16.6666
+Total Channel= 512
+Line/Center Frequency= 1290.4568
+CH#[0]= 1288.3735
+CH#[512]= 1292.5401
+BW= +4.1666
+CW= 8.14 (KHz.)
+step#= 2 is USEABLE ###
+GSB_CONFIG LO5= 139.9597  165.0403
+LTA_FILE   L05= 131.6265  173.3735
+BASE BAND  LO4= 60.0403  60.0403
+tpa 1280.0403 1280.0403 1220 1220 60.0403 60.0403
+
+09:08 : Started scan on 3C286.
+09:19 : Stopped scan.
+09:20 : Started command file.
+/odisk/gtac/cmd/rdutta/qgpj1551p07.cmd
+10:57 : E06 taken for cherry picker work.
+17:25 : Stopped command file.
+17:30 : Started scan on 3C48.
+17:59 : Stopped scan and observation session is over.
+
+
+

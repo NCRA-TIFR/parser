@@ -1,0 +1,133 @@
+		 GTAC Observation Log
+
+1. Date : 29/04/2016
+2. Observation Sr. No. : 8537
+3. Observer : Yashwant Gupta, BHAL CHANDRA JOSHI, Jayanta Roy, Yogesh Maan, Kishalay De, Manjari Bagchi, Prajwal Padmanabh, Gopakumar Achamveedu, Nikhil Vijay Naik
+4. Observer's Email : ygupta@ncra.tifr.res.in, bcj@ncra.tifr.res.in, jroy@ncra.tifr.res.in, ymaan@ncra.tifr.res.in, ugkishalayde@ug.iisc.in, manjari.bagchi@gmail.com, prajwal3108@gmail.com, gopu.tifr@gmail.com, naiknikhil27@gmail.com
+5. Project Name : Towards high precision pulsar timing with the upgraded GMRT
+6. Project Code : 30_043
+7. Operator(s) : Deepak, Nilesh, Pramod, Shilpa
+8. Command File : /odisk/gtac/cmd
+9. LTA File : /gsbifrdata/29apr/30_043_28apr2016.lta.1, /gsbifrdata/29apr/30_043_28apr2016.lta
+10. LogFlag File : /odisk/online1/logflags/30_043.FLAGS.2, /odisk/online1/logflags/30_043.FLAGS.1, /odisk/online1/logflags/30_043.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1454 MHz ,RF2 : 1454 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1505 MHz, ILO2 : 1505MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+14 dB, 32 MHz,OFF, IF-CH2 : 20+14 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : IA
+22. Beam - 2 : PA
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 0 MHz; Step # 0
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 1454 1454 1505 1505 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :27
+
+32. Name of Non-Working Antennas (with reason for each) :
+C01 : BLDC work.
+C05 : Servo problem. 
+S01 : CST painting. 
+ 
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 29 Apr 2016 01:10:00 - 29 Apr 2016 10:03:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :26
+
+37. Comments (During Observations) :
+01:10 : Started settings.
+01:20 : Started power eq @ 250 counts @ GSB and 150 counts @ GWB on 3C286.
+01:55 : Started phasing.
+
+ANTENNAS connected to GWB:
+C00,C02,C04,C06,C08,C10,C11,C12,C13,E05,S02,S04,S06,W01,W02,W06 = 16.
+ANTENNAS in GAC:
+C00,C02,C04,C06,C08,C10,C11,C12,C13,E05,S02,S04,S06,W06 = 14.
+
+02:15:50 : Started scan on 1248-199 for ~ 0.805306 min.
+02:16:53 : Started scan on 1248-199 for ~ 0.53687 min.
+02:21:45 : Started scan on J1455-3330 for ~ 3.75809 min.
+02:26:47 : Started scan on J1455-3330 for ~ 4.5634 min.
+02:31:39 : Started scan on J1455-3330 for ~ 15.3008 min.
+02:49:54 : Started scan on 1822-096 for ~ 0.805306 min.
+02:50:57 : Started scan on 1822-096 for ~ 0.53687 min.
+02:53:51 : Started scan on J1614-2230 for ~ 20.1326 min.
+03:18:13 : Started scan on 1609+266 for ~ 0.53687 min.
+03:19:16 : Started scan on 1609+266 for ~ 0.53687 min.
+03:20:48 : Started scan on J1640+2224 for ~ 20.1326 min.
+03:41:24 : Started scan on J1455-3330 for ~ 0 min.
+03:47:39 : Started scan on 1822-096 for ~ 0.805306 min.
+03:48:43 : Started scan on 1822-096 for ~ 0.53687 min.
+03:51:42 : Started scan on J1713+0747 for ~ 20.1326 min.
+04:14:25 : Started scan on 1822-096 for ~ 0.53687 min.
+04:15:28 : Started scan on 1822-096 for ~ 0.268435 min.
+04:17:18 : Started scan on J1730-2304 for ~ 20.1326 min.
+04:38:56 : Started scan on 1822-096 for ~ 0.805306 min.
+04:39:59 : Started scan on 1822-096 for ~ 0.53687 min.
+04:42:17 : Started scan on J1738+0333 for ~ 20.1326 min.
+05:04:17 : Started scan on 1822-096 for ~ 0.53687 min.
+05:05:20 : Started scan on 1822-096 for ~ 0.268435 min.
+05:08:24 : Started scan on J1741+1351 for ~ 20.1326 min.
+05:31:05 : Started scan on 1822-096 for ~ 0.805306 min.
+05:32:09 : Started scan on 1822-096 for ~ 0.53687 min.
+05:34:21 : Started scan on B1855+09 for ~ 1.61061 min.
+
+05:36 : Noticed that GWB got killed @ 04:57 IST.
+        So, GWB DATA from 04:57 to 05:36 is BAD.
+        Restarted GWB acquisition.
+       
+
+05:45:43 : Started scan on 1822-096 for ~ 0.805306 min.
+05:46:48 : Started scan on 1822-096 for ~ 0.53687 min.
+05:48:53 : Started scan on J1738+0333 for ~ 20.1326 min.
+06:10:31 : Started scan on 1822-096 for ~ 0.805306 min.
+06:11:34 : Started scan on 1822-096 for ~ 0.53687 min.
+06:14:02 : Started scan on J1741+1351 for ~ 19.8642 min.
+06:36:06 : Started scan on 1822-096 for ~ 0.53687 min.
+06:37:11 : Started scan on 1822-096 for ~ 0.268435 min.
+06:39:13 : Started scan on B1855+09 for ~ 20.1326 min.
+07:02:05 : Started scan on 1830-360 for ~ 0.805306 min.
+07:03:10 : Started scan on 1830-360 for ~ 0.268435 min.
+07:04:36 : Started scan on J1909-3744 for ~ 20.1326 min.
+07:30:54 : Started scan on 2202+422 for ~ 1.34218 min.
+07:32:47 : Started scan on 2202+422 for ~ 1.34218 min.
+07:34:40 : Started scan on 2202+422 for ~ 0.805306 min.
+07:35:55 : Started scan on 2202+422 for ~ 0.268435 min.
+07:37:32 : Started scan on J2302+4442 for ~ 19.8642 min.
+
+08:02 : W04 taken for painting.
+
+08:11:30 : Started scan on 3C48 for ~ 0.805306 min.
+08:12:33 : Started scan on 3C48 for ~ 0.53687 min.
+08:14:54 : Started scan on J0023+0923 for ~ 10.469 min.
+
+08:14 : It is noticed that '/data2/' disk of gwbh2 full.Hence data recorded on /data3/gpuuser/29apr2016/ for both gwbh2 and gwbh3.
+
+08:28:04 : Started scan on J0023+0923 for ~ 28.991 min.
+09:08:17 : Started scan on 2202+422 for ~ 0.53687 min.
+09:09:20 : Started scan on 2202+422 for ~ 0.53687 min.
+09:11:12 : Started scan on J2302+4442 for ~ 20.1326 min.
+09:42:15 : Started scan on 2047-026 for ~ 1.61061 min.
+09:44:13 : Started scan on 2047-026 for ~ 0.53687 min.
+09:47:33 : Started scan on B1855+09 for ~ 15.5692 min.
+10:03:00 : Stopped scan and observing session over.
+

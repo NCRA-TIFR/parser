@@ -1,0 +1,59 @@
+		 GTAC Observation Log 
+
+1. Date : 02/07/2004
+2. Observation Sr. No. : 1532
+3. Observer : S. K. Ghosh
+4. Observer's Email : swarna@tifr.res.in,vasant@ncra.tifr.res.in
+5. Project Name : IRAS Sources
+6. Project Code : 06SKG01
+7. Operator(s) : Jayprakash,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/skg/i17059.cmd
+9. LTA File : /rawdata/2jul/06skg01_i17059.lta,
+	/rawdata1/2jul/06skg01_i17059.ltb
+10. LogFlag File : /btemp2/logflags/06SKG01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 325 MHz ,RF2 : 325 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 255 MHz, ILO2 : 255 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 325 325 255 255 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+--
+
+21. Start and End Time of Obs.(IST): 21:39 - 01:25
+
+22. Comments (During Observations) :
+online bhaskar
+IF ATTn :- Power Equalised
+---------------------------
+
+*** Equalised the power on I17059 with ALCs OFF
+21:39 : Started scan on I17059 for 10min.
+21:49 : Stopped the scan.
+21:53 : Started scan on 1830-360 for 10min.
+22:01 : Stopped the scan.
+22:09 : Started scan on 3c286 for 10min.
+22:17 : Stopped the scan.
+22:23 : Switched ON the ALCs & Started scan on 3c286 for 10min.
+22:31 : Stopped the scan.
+22:40 : Started the command file.
+00:00 : C03:USB shows high cross counts.
+00:11 : command file stopped and scan started on
+	3c286 for 10 min
+00:30 : restarted the command file.
+01:10 : C03:USB high cross counts vanished.
+01:25 : stopped the observation session.
+

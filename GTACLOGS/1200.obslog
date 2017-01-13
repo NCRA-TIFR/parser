@@ -1,0 +1,93 @@
+		 GTAC Observation Log 
+
+1. Date : 28/10/2003
+2. Observation Sr. No. : 1200
+3. Observer : Prof. SAK/Dr. NGK
+4. Observer's Email : ananth@ncra.tifr.res.in,ngk@ncra.tifr.res.in
+5. Project Name : HI
+6. Project Code : 04SAK01
+7. Operator(s) : Mangesh,
+	Manisha J.,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/ngk/ugc4961.cmd
+9. LTA File : /rawdata/28oct/04sak01_ugc4961.lta,
+	/rawdata1/28oct/04sak01_ugc4961.ltb
+10. LogFlag File : /btemp2/logflags/04SAK01.FLAGS.12
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1409 MHz ,RF2 : 1409 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1345 MHz, ILO2 : 1345 MHz, IVLO1 : 64 MHz, IVLO2 : 64 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+4 dB, 32 MHz,ON, IF-CH2 : 4+4 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1409 1409 1345 1345 64 64 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C12: RF problem.
+S03: Not tracking due to 'acok'(servo) problem
+W06: Low(No ?) fringe.
+W03-130: Very low(No ?)
+fringe       
+
+21. Start and End Time of Obs.(IST): 01:42 - 11:30
+
+22. Comments (During Observations) :
+*** ONLINE:BHASKAR ***
+*** IF-ANT:AUTHIF @1390MHz ***
+----------------------
+
+01:42 Started a scan on 3c147 for 30 minutes.
+02:13 Stopped the scan on 3c147.
+02:16 Started the command file
+        /btemp2/cmd/ngk/ugc4961.cmd
+03:31 MSEB power failed. Stopped the command file
+      and scan.
+      Only central square antennas available on
+      generator.
+03:57 After setting the central square antennas
+      started a scan on 3c147 to check the fringe.
+      All central square antennas working except
+      C12.
+04:05 Stopped the scan on 3c147. Moved antennas to
+      the phase cal 0834+555.
+04:06 Restarted the command file.(Only central-sq.
+      antennas available.)
+04:19 MSEB power resumed. Change over from genrator
+      to MSEB power occured. So stopped the command 
+      file and scan.
+      Started setting the antennas.
+04:32 Again MSEB power failed. Running on generator
+04:39 MSEB power resumed. Started setting the
+      antennas.
+05:14 After setting the antennas, started a scan on
+      3c147 for 5 minutes to check the fringe.
+      Following problems exists after power
+      resumption
+
+        C12: RF problem.
+        S03: Not tracking due to 'acok'(servo) problem
+        W06: Low(No ?) fringe.
+        W03-130: Very low(No ?) fringe
+        C01: Servo time outs so not tracking.
+05:18  Stopped the scan on 3c147.
+05:20  Restarted the command file.
+05:26  C01 servo started communicating. Antenna
+       tracking fine.
+08:29   S01:LSB flat band shape problem.
+08:50	W02-USB flat band.
+08:50	S01:LSB & W02-USB recovered.
+09:17	C03 parked for painting.
+10:55	stopped command file.
+11:00	started scan on 3C286 ~ 30mins.
+11:30	stopped das and observation.
+       
+

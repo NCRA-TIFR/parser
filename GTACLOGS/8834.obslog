@@ -1,0 +1,99 @@
+		 GTAC Observation Log
+
+1. Date : 20/08/2016
+2. Observation Sr. No. : 8834
+3. Observer : Nayana AJ, Poonam Chandra
+4. Observer's Email : nayan89deva@gmail.com, poonam@ncra.tifr.res.in
+5. Project Name : Tracing the footprints of various types of core collapse supernovae environments at low frequencies
+6. Project Code : 30_090
+7. Operator(s) : Deepak, Navnath, Rupsing, Sachin
+8. Command File : /odisk/gtac/cmd/nayana/30_090/aug20_1/obs2.cmd, /odisk/gtac/cmd/nayana/30_090/aug20_1/obs4.cmd
+9. LTA File : /gsbifrdata1/20aug/30_090_20aug2016_610.lta.1, /gsbifrdata1/20aug/30_090_20aug2016_610.lta, /gsbifrdata1/20aug/30_090_20aug2016_1460.lta.1, /gsbifrdata1/20aug/30_090_20aug2016_1460.lta, /gwbifrdata1/20aug/30_090_20aug2016_gwb.lta.1, /gwbifrdata1/20aug/30_090_20aug2016_gwb.lta
+10. LogFlag File : /odisk/online1/logflags/30_065.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1409 MHz ,RF2 : 1409 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1460 MHz, ILO2 : 1460MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 0 MHz; Step # 0
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 1409 1409 1460 1460 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :29
+
+32. Name of Non-Working Antennas (with reason for each) :
+C13 : : Maintenance.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 20 Aug 2016 10:00:00 - 20 Aug 2016 16:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :26
+
+37. Comments (During Observations) :
+GSB:suba 2 # C02 C06 C09 C12 C13 C14 W02 W04 W05 E02 E04 E05 S02 S04
+ante 14 5 20 4 2 11 10 13 15 16 17 21 22 27 29
+cp 0;defs 2;subar 2
+tpa 591 591 540 540 51 51
+--------------------------------------------------------------------------
+GWB# sub 4 # C00 C01 C03 C04 C05 C08 C10 C11 W01 W03 W06 E03 E06 S01 S03 S06
+ante 16 7 6 1 3 19 24 12 9 8 14 25 18 23 26 28 30
+cp 0;defs 4;subar 4
+tpa 1409 1409 1460 1460 51 51
+
+10:00 : Started Feed ratation
+10:10 : 14 ants ratated to 610 Mhz and subar splitting done 
+10:15 : Started 1420 Mhz Setting RF,LO, IF and LOFSW.
+10:25 : Started setup for 610 Mhz RF,LO,IF and LOFSW.
+10:33 : Started scan on 3C147. IN both GSB and GWB.
+10:57 : Started command file for both subars.
+
+/odisk/gtac/cmd/nayana/30_090/aug20_1/obs2.cmd
+/odisk/gtac/cmd/nayana/30_090/aug20_1/obs4.cmd
+
+13:00 : Command file stopped.
+13:08 : Started scan on 3C286 for 10min.
+13:22 : Started command file.
+ 
+ /odisk/gtac/cmd/nayana/30_090/aug20_2/obs2.cmd
+ /odisk/gtac/cmd/nayana/30_090/aug20_2/obs4.cmd
+
+13:30 : command file stopped Source Not Risen yet.
+13:44 : E-arm power failure.
+13:51 : Started scan on 3C286.
+14:09 : Restarted command files.
+           /odisk/gtac/cmd/nayana/30_090/aug20_2/obs2.cmd
+           /odisk/gtac/cmd/nayana/30_090/aug20_2/obs4.cmd
+
+E03,E04 and E06 : stopped fringing after power failure.
+
+E06 : Started fringing after resetting RF,LOFSW and IF parameter.
+
+15:45 : Stopped command file.
+15:52 : Started scan on 3C286.
+16:03 : Stopped scan observation session over.
+
+
+
+ 
+

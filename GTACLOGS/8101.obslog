@@ -1,0 +1,73 @@
+		 GTAC Observation Log
+
+1. Date : 01/10/2015
+2. Observation Sr. No. : 8101
+3. Observer : Yashwant Gupta, Devansh Agarwal and Kishalay De.  
+4. Observer's Email : ygupta@gmrt.ncra.tifr.res.in,devansh@iisertvm.ac.in,dekishalay@gmail.com 
+5. Project Name : Test Observation.
+6. Project Code : DDTB181
+7. Operator(s) : Pramod
+8. Command File : /odisk/gtac/cmd
+9. LTA File : /gsbifrdata/01oct/ddtb181_01oct2015.lta.1, /gsbifrdata/01oct/ddtb181_01oct2015.lta
+10. LogFlag File : /odisk/online1/logflags/DDTB181.FLAGS.1, /odisk/online1/logflags/DDTB181.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1371 MHz ,RF2 : 1371 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1320 MHz, ILO2 : 1320MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 16.666666 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 138
+28. LO5 -2  : 167
+
+29. Frequency Parameters (TPA) : 1371 1371 1320 1320 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :27
+
+32. Name of Non-Working Antennas (with reason for each) :
+C01 : Taken for Maintenance.
+C12 : 2,3,10 MCM time out
+C09 : LO problem
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 01 Oct 2015 18:00:00 - 01 Oct 2015 21:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :27
+
+37. Comments (During Observations) :
+18:00 : Started set up for 1390MHz.
+18:20 : Power equalized and phasing done on 1830-360.
+18:39:02 : Started scan on J1804-2717 for ~ 45.3655 min.
+19:20 : Stopped scan and halt the GSB.
+19:21 : Started set up for 1170MHz.
+19:35 : Power equalized and phasing done on 1830-360.
+19:43:38 : Started scan on 1830-360 for ~ 4.02653 min.
+19:47:54 : Started scan on 1830-360 for ~ 2.68435 min.
+19:51:00 : Started scan on 1830-360 for ~ 0 min.
+19:54:11 : Started scan on 2206-185 for ~ 1.07374 min.
+19:55:42 : Started scan on 2206-185 for ~ 0.268435 min.
+19:58:22 : Started scan on J2124-3358 for ~ 31.4069 min.
+20:32:05 : Started scan on 1830-360 for ~ 1.87905 min.
+20:34:27 : Started scan on 1830-360 for ~ 3.22122 min.
+20:38:16 : Started scan on 1830-360 for ~ 6.17401 min.
+20:44:50 : Started scan on 1830-360 for ~ 0.268435 min.
+20:48:19 : Started scan on J1804-2717 for ~ 27.6488 min.
+21:20 : Stopped scan and observation session is over.

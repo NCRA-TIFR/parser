@@ -1,0 +1,37 @@
+1. Date : 06/06/2002
+2. Observation Sr. No. : 615
+3. Observer & email : Dr. Ishwar Chandra &  ishwar@ncra.tifr.res.in
+4. Project Name & Code : TSYS / TSYS
+5. Operator(s) : Jayprakash
+6. Command File/Source  & Lta File : /temp2/data/cmd/ishwar/tsys.cmd
+								   : /rawdata/6jun/tsys_244.lta.1
+								   : /rawdata/6jun/tsys_244.lta.2
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 :235 MHz.,14 dB., OFF.
+8. Ist LO (MHz) & IVth LO (MHz) :310 MHz., 66 Mhz. 
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : Power Equalised + (2+2 dB), 6 MHz., OFF.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status :8 MHz., 3 dB., OFF.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 0 / 0 
+12. Channels :0,63,1
+13. Frequency Parameters (TPA) : 244 244 310 310 66 66
+
+14. Integration Time (Sec.) : 16 sec (16*8m).
+15. No of Antennas Working(Fringing) :29
+16. Name of Non-Working Antennas (with reason for each) :
+	C04		dnfl flag.
+
+
+17. Starting and Ending time of Observations (IST) : 03:00
+18. Comments (During Observations) :
+
+    03:001  Started command file /temp2/data/cmd/ishwar/tsys.cmd.
+    04:45   Scan 16,17 & 18 bad scans.
+    05:30   Started scan on 3c48 for 20min.
+    06:00   Started command file /temp2/data/cmd/ishwar/tsys2.cmd.
+
+19. Data Backup files & Tape No. :

@@ -1,0 +1,81 @@
+		 GTAC Observation Log 
+
+1. Date : 30/05/2005
+2. Observation Sr. No. : 2043
+3. Observer : Prasad Subramaniyam
+4. Observer's Email : psubrama@iucaa.ernet.in
+5. Project Name : Sun at 235 MHz
+6. Project Code : 08PSA01
+7. Operator(s) : Jitendra,
+	Sachin,
+	Sanjay,
+	
+8. Command File : /atemp2/cmd/psubrama/casa_235.cmd,
+	/atemp2/cmd/psubrama/crab_235.cmd,
+	/atemp2/cmd/psubrama/may3005_235.cmd
+9. LTA File : /rawdata/30may/08psa01_sun235.lta,
+	/rawdata/30may/08psa01_235_16s.lta,
+	/rawdata/30may/08psa01_235_2s.lta
+10. LogFlag File : /atemp2/logflags/08PSA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 244 MHz ,RF2 : 244 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 310 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 18+18 dB, 6 MHz,ON, IF-CH2 : 18+18 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 244 244 310 310 66 66 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+C10 - Servo problem
+W02,S03- Cross count may jump periodically.
+C13-Servo problem
+S04- No fringe.
+
+
+
+21. Start and End Time of Obs.(IST): 12:16 - 17:36
+
+22. Comments (During Observations) :
+ONLINE : ADITYA
+AUTHIF At 235 MHz + 14dB Sol. Attn.
+====================================
+09:14 : scan#0 : 2350+646 (SA:14dB)
+09:22 : scan#2 : CASA ( SA : 14dB)
+09:40 : scan#3 : CASA ( SA : 30dB) 
+10:03 : scan#4 : 2350+646 (SA:14dB)
+10:10 : scan#5 : CASA ( SA: 14dB)
+10:27 : scan#6 : CASA ( SA : 30dB)
+10:39 : Decided to put 44 dB attenuation 
+        Scan#7 : CASA ( SA : 44dB)
+10:59 : command file casa_235.cmd.
+~11:00 : C01 servo brake problem.
+~12:15 : C13 Servo problem solved.
+12:24 : command file and scan stopped.
+12:43 : command file crab_235.cmd started.
+13:18 : scan  and command file stopped.
+13:31 : SUN00041 command file started.
+14:08 : SUN00043 command file started.
+14:39 : SUN00047 command file started.
+15:11 : SUN00048 command file started.
+15:45 : SUN00052 command file started.
+16:18 : SUN00054 command file started.
+16:54 : SUN00057 command file started.
+17:04 : Decided to continue the same source & stopped command file.
+17:29 : Stopped scan on SUN00057.
+17:31 : Started scan on the calibrator source.
+17:36 : Stopped scan on cal.
+17:36 : Stopped the project.
+
+
+
+
+

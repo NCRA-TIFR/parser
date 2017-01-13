@@ -1,0 +1,56 @@
+		 GTAC Observation Log 
+
+1. Date : 23/10/2013
+2. Observation Sr. No. : 6741
+3. Observer : Nissim Kanekar,Aditya JNHS
+4. Observer's Email : nkanekar@ncra.tifr.res.in,aditya@ncra.tifr.res.in
+5. Project Name : Confirming the detection of two new redshifted HI-21cm absorbers at z=3.5
+6. Project Code : ddtB100
+7. Operator(s) : Deepak,
+8. Command File : /odisk/gtac/cmd/nissim/0620+389.cmd
+9. LTA File : /gsbifrdata/23oct/ddtb100_23oct2013.lta,
+10. LogFlag File : /odisk/online1/logflags/DDTB100.FLAGS.2,
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 316 MHz ,RF2 : 316 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 249 MHz, ILO2 : 249 MHz , IVLO1 : 67 MHz, IVLO2 : 67 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,ON, IF-CH2 : 24+4 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : Realtime 
+15. GSB LTA : 8 
+16. GSB CTRL : ONLINE 
+17. GSB Fstop : ON 
+18. GAIN EQ : ON 
+19. Stokes : TotIntensity
+20. Beam - 1 : OFF
+21. Beam - 2 : OFF
+22. ACQ BW : 16.67 MHz
+23. Final BW : 4.17 MHz; Step # 0
+24. Maximum Channels : 512 
+25. Channel Numbers : 0:511:1 
+26. LO5 -1  : 133.00 
+27. LO5 -2  : 172.00 
+
+28. Frequency Parameters (TPA) : 316 316 249 249 67 67.
+29. Integration Time : 8.053056 Sec.
+30. No of Antennas Working(Fringing) at the begining :28
+
+31. Name of Non-Working Antennas (with reason for each) :
+C11 : servo problem
+E04 - 130 pol low fringe.
+32. Note for Backup :
+
+33. Start and End Time of Obs.(IST): 00:00 - 04:00
+
+34. ONLINE Machine : Lenyadri
+
+35. No of Antennas Working(Fringing) at the end :28
+
+36. Comments (During Observations) :
+23:49 : Started scan on 3C147.
+00:12 : Started command file.
+04:02 : Observation stopped.
+

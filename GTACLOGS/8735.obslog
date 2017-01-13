@@ -1,0 +1,62 @@
+		 GTAC Observation Log
+
+1. Date : 13/07/2016
+2. Observation Sr. No. : 8735
+3. Observer : Stephen Hamer, Mamta Pandey-Pommier, Alastair Edge, David Lagattuta
+4. Observer's Email : stephen.hamer.astro@gmail.com, mamtapan@gmail.com, alastair.edge@durham.ac.uk, dlagattuta@gmail.com
+5. Project Name : Low frequency nature of  Bright Galaxies in cluster environment
+6. Project Code : 30_085
+7. Operator(s) : Pramod
+8. Command File : /odisk/gtac/cmd/30_085/13jul16/obs_13jul.cmd
+9. LTA File : /gsbifrdata/13jul/30_085_13jul2016.lta
+10. LogFlag File : /odisk/online1/logflags/30_085.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 629 MHz ,RF2 : 253 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 680 MHz, ILO2 : 304MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 0 MHz; Step # 0
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 629 253 680 304 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :28
+
+32. Name of Non-Working Antennas (with reason for each) :
+C12 : Taken for BLDC
+W03 : Servo problem
+C10,E02,S03,W01,C02,S06,E06 : No 235 MHz feed.
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 13 Jul 2016 00:00:00 - 13 Jul 2016 07:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :28
+
+37. Comments (During Observations) :
+00:00 : Stated set up.
+00:42 : Started scan on 3C468.1 for 10 min. because 3C286 was set.
+00:52 : Stopped scan and started command file.
+ '/odisk/gtac/cmd/30_085/13jul16/obs_13jul.cmd'
+06:46 : Stopped command file.
+06:51 : Started scan on 3C48.
+07:00 : Stopped scan and observation session is over.
+

@@ -1,0 +1,62 @@
+		 GTAC Observation Log 
+
+1. Date : 24/08/2009
+2. Observation Sr. No. : 4490
+3. Observer : Srianand
+4. Observer's Email : anand@iucaa.ernet.in
+5. Project Name : MG0956
+6. Project Code : 16_129
+7. Operator(s) : Jayprakash,
+	Navanath,
+	Rupsingh,
+	Sachin,
+	
+8. Command File : /odisk/gtac/cmd/srianand/mg0956.cmd
+9. LTA File : /rawdata/24aug/16_129_24aug2009.lta,
+	/rawdata1/24aug/16_129_24aug2009.ltb
+10. LogFlag File : /odisk/online1/logflags/16_129.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610.942 MHz ,RF2 : 610.942 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70.942 MHz, IVLO2 : 70.942 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 6 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 1000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610.942 610.942 540 540 70.942 70.942 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+W01 : For maintenance.
+E05 : 130 pol low fringe.
+C13 : NO fringe.
+S04 : No fringe
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 07:00 - 17:45
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+07:00 : log file changed. 
+07:01 : Started scan on 3C147 for 15min.
+07:22 : Started command file.
+12:00 : S04 and C13 relesed for observation.
+12:12 : command file stopped.
+12:13 : scan stopped.
+12:17 : Started scan on 3C147 for 15min.
+12:33 : Restarted command file.
+16:24 : Stopped command file.
+16:29 : Started scan on 3C286.
+16:45 : Stopped scan and observation session.
+
+

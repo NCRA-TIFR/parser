@@ -1,0 +1,65 @@
+		 GTAC Observation Log 
+
+1. Date : 27/4/2013
+2. Observation Sr. No. : 6469
+3. Observer : Bhal Chandra Joshi
+4. Observer's Email : bcj@ncra.tifr.res.in,paul.barrett@usno.navy.mil
+5. Project Name : A Search for Radio-Loud Magnetic Cataclysmic Variable
+6. Project Code : 24_034
+7. Operator(s) : Pramod,
+	Surender
+8. Command File : /odisk/gtac/cmd/bcj/24_034.270413.cmd
+9. LTA File : /gsbifrdata/27apr/24_034_27apr2013.lta
+10. LogFlag File : /odisk/online1/logflags/24_034.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1261 MHz ,RF2 : 1261 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1210 MHz, ILO2 : 1210 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 512 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 1261 1261 1210 1210 51 51.
+25. Integration Time : 8.053 Sec.
+26. No of Antennas Working(Fringing) :25
+
+27. Name of Non-Working Antennas (with reason for each) :
+E03 : BLDC.
+E04 : Servo problem.
+C01 : Structural repair.
+W01 : MCM-5 Timeout.
+S01 : 130 pol low fringe.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 19:00 - 03:49
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+19:00 : Started set-up.
+19:19 : Started command file.
+21:47 : Stopped command file.
+Scan no-7 is Bad.
+21:54 : Started scan on 3C286.
+22:30 : Stopped scan.
+22:32 : Restarted command file.
+Scan no. 14 is bad.
+00:43 : Restarted scan command file.
+03:34 : Stopped command file.
+03:41 : Started scan on 3C286.
+03:49    : Stopped scan on 3C286 and observation session is over.
+
+
+

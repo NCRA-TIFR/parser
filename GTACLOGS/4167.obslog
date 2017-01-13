@@ -1,0 +1,48 @@
+		 GTAC Observation Log 
+
+1. Date : 30/01/2009
+2. Observation Sr. No. : 4167
+3. Observer : Viswesh
+4. Observer's Email : viswesh@ncra.tifr.res.in
+5. Project Name : 50MHz Observation
+6. Project Code : 15VRM01
+7. Operator(s) : Manisha,
+	Sachin,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /rawdata/30jan/15vrm01_30jan2009.lta,
+              /rawdata/30jan/15vrm01_30jan2009_diffstop.lta
+10. LogFlag File : /btemp2/logflags/15VRM01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 58 MHz ,RF2 : 58 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 120 MHz, ILO2 : 120 MHz, IVLO1 : 62 MHz, IVLO2 : 62 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+6 dB, 16 MHz,OFF, IF-CH2 : 20+6 dB, 16 MHz,OFF
+14. BB BW(KHz) & BB ALC : 8000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 58 58 120 120 62 62 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :04
+
+20. Name of Non-Working Antennas (with reason for each) :
+--
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 06:00 - 00:00
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+08:29 : Started scan on GPOH1.
+09:15 : W-arm power failed.
+09:55 : W-arm started working.
+

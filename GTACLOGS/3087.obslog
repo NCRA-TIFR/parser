@@ -1,0 +1,125 @@
+		 GTAC Observation Log 
+
+1. Date : 11/03/2007
+2. Observation Sr. No. : 3087
+3. Observer : Nissim         
+4. Observer's Email :nkanekar@aoc.nrao.edu
+5. Project Name : 0311tst
+6. Project Code : 11NKA02 
+7. Operator(s) : NJS,Jayprakash       
+	
+8. Command File :/btemp2/cmd/nissim/0311+430.cmd,
+		/btemp2/cmd/nissim/0801+303.cmd,
+                /btemp2/cmd/nissim/3c205.cmd,
+                /btemp2/cmd/nissim/2003-025.cmd.new
+	
+9. LTA File : /rawdata/11mar/11nka01_0311_11mar07.lta,
+              /rawdata1/11mar/11nka01_0311_11mar07.ltb,
+	      /rawdata/11mar/11nka02_0801+303_11mar07.lta,
+	      /rawdata1/11mar/11nka02_0801+303_11mar07.ltb,
+	      /rawdata/11mar/11nka02_3c205_11mar07.lta,
+	      /rawdata1/11mar/11nka02_3c205_11mar07.ltb,
+	      /rawdata/11mar/11nka02_2003-025_11mar07.lta,
+	      /rawdata1/11mar/11nka02_2003-025_11mar07.ltb
+
+	
+10. LogFlag File : /btemp2/logflags/11NKA02.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+--
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 12:05:00:00
+
+23. Comments (During Observations) :
+
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+
+   in listscan/gvfits.
+---------------------------------------------
+12:05 : Started settings for 11NKA02.
+12:13 : Started scan on fulx cal 3c48 for 15min.
+12:29 : Started command file.
+15:14 : Started scan on 3c147 for 15m.
+15:26 : Scan stopped.
+----------------------------------------------
+***************Change in settings(Line obs)
+---------------------------------------------
+**Corr    : USB Hing Raise Mode.
+  RF BAND : 610MHz.
+  RF freq.: 647.85MHz.
+  LO Freq.: 580MHz.
+  IF BW   : 6MHz.
+  BB BW   : 1MHz.
+  TPA 647.85 647.85 580 580 67.85 67.85
+  BB and IF ALC's "ON"
+---------------------------------------------
+15:39 : Started scan on 3C147 for 15 mins.
+15:58 : Started command file
+/btemp2/cmd/nissim/3c205.cmd.
+21:47 : Stopped command file.
+21:48 : Started scan on phase cal for 7 mins.
+21:57 : Started scan on 3C147 for 10 mins.
+22:07 : Stopped scan on 3C147.
+-------------------------------------------------
+****************Change in settings
+-------------------------------------------------
+**Corr    : USB Hing Raise Mode.
+  RF BAND : 610MHz.
+  RF freq.: 583MHz.
+  LO Freq.: 515MHz.
+  IF BW   : 6MHz.
+  BB BW   : 1MHz.
+  TPA 583 583 515 515 68 68
+  BB and IF ALC's "ON"
+-------------------------------------------------
+22:12 : Started scan on 3C147 for 10 mins.
+22:26 : Started command file.
+        /btemp2/cmd/nissim/3c205.cmd.
+03:41 : started flux cal on 3c286.
+04:00 : settings changed to 
+-------------------------------------------------
+**Corr    : USB High Rse Mode.
+  RF BAND : 610 MHz.
+  RF freq.: 588.7 MHz.
+  LO Freq.: 520 MHz.
+  IF BW   : 6 MHz.
+  BB BW   : 1 MHz.
+  TPA 588.7 588.7 515 515 68.7 68.7
+  BB and IF ALC's "ON"
+-------------------------------------------------
+04:13 : scan started on 3c286.
+04:53 : command file started.
+10:10 : command file stopped.
+10:24 : Started scan on 3c48 for 15 min.
+10:47 : Restarted command file.
+14:04 : Command file stopped.
+14:10 : Started scan on 3c48 for 40min.
+14:45 : Scan stopped.
+-------------------------------------------------
+------------------------------------------------
+

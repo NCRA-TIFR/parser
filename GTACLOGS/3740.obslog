@@ -1,0 +1,58 @@
+		 GTAC Observation Log 
+
+1. Date : 19/05/2008
+2. Observation Sr. No. : 3740
+3. Observer : Ekta
+4. Observer's Email : ekta@ncra.tifr.res.in
+5. Project Name : 14EKA02
+6. Project Code : 14EKA02
+7. Operator(s) : Deepak,
+	Navanath,
+	Nilesh,
+	
+8. Command File : /odisk/gtac/cmd/ekta/01.cmd
+9. LTA File : /rawdata/19may/14EKA02_19may2008.lta,
+	/rawdata1/19may/14EKA02_19may2008.ltb
+10. LogFlag File : /odisk/online1/logflags/14EKA02.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1410.74 MHz ,RF2 : 1410.74 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1340 MHz, ILO2 : 1340 MHz, IVLO1 : 70.74 MHz, IVLO2 : 70.74 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+14. BB BW(KHz) & BB ALC : 2000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1410.74 1410.74 1340 1340 70.74 70.74 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :24
+
+20. Name of Non-Working Antennas (with reason for each) :
+S01 - phase unstable.
+W01 - phase unstable.
+W03 - ele problem.
+W04 - Painting.(off)
+C04  : RRI expt
+E02  : RRI Expt.
+
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 06:00 - 09:50
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+06:00 : started settings for make obs.
+06:25 : started scan on flux cal for 15 min.
+06:55 : cmd file started.
+09:29 : cmd file stopped.
+09:34 : Started scan on 3c48 for 15 min.
+09:49 : Stopped scan and closed observation.
+

@@ -1,0 +1,74 @@
+		 GTAC Observation Log 
+
+1. Date : 31/08/2004
+2. Observation Sr. No. : 1644
+3. Observer : Amanda Kepley
+4. Observer's Email : visitor5gmrt.ncra.tifr.res.in,kepley@astro.wisc.edu
+5. Project Name : HIDIRR
+6. Project Code : 06AKA01
+7. Operator(s) : Manish G.,
+	Manisha J.,
+	Sachin,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/kepley/ugc00685.cmd,
+	/btemp2/cmd/kepley/ugc05288.cmd
+9. LTA File : /rawdata1/31aug/06aka01_ugc00685_2.ltb,
+	/rawdata1/31aug/06aka01_ugc05288_03.ltb
+10. LogFlag File : /btemp2/logflags/06AKA01.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1420.16 MHz ,RF2 : 1420.16 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1350 MHz, ILO2 : 1350 MHz, IVLO1 : 70.16 MHz, IVLO2 : 70.16 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+4 dB, 16 MHz,ON, IF-CH2 : 4+4 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 1000 KHz, 12 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 4
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1420.16 1420.16 1350 1350 70.16 70.16 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+S04 : Unstable fringe.
+C10 : Phase Jumps.
+E06 : Phase Jumps.
+
+
+21. Start and End Time of Obs.(IST): 00:07 - 15:00
+
+22. Comments (During Observations) :
+** ONLINE : BHASKAR ***
+*** IF ATTN : 1390 MHz. AUTH IF : ****
+--------------------------------------------------
+00:07 : record started on BP-cal(3c48)
+00:19 : Record stopped, rec#37 and onward of scan#0 are bad.
+00:31 : Started cmd file.
+01:05 : W05 ABC getting reset.
+02:19 : W05 started working.
+03:03 : Stopped cmd file, source transiting.
+03:12 : Started record on BP-cal,3c48.
+03:30 : stopped record in BP-cal,
+03:35 : Restarted cmd file.
+06:13 : Stopped cmd file.
+06:16 : Started record on BP-cal,3c48.
+06:26 : Stoppped record on BP-cal
+=================================================
+LO4 changed to 68.27MHz,
+TPA=1418.27 1418.27 1350 1350 68.27 68.27
+----------------------------
+06:27 : Started BP-cal, 3c48.
+        new ltb file started.
+06:43 : Stopped BP-cal
+06:53 : Started cmd file ugc05288.cmd
+07:08 : W05 got ABC reset.
+07:18 : ABC initialised, antenna started working.
+09:58 : W05 got ABC reset.
+10:10 : ABC initialised, antenna started working.
+12:00 : W05 taken for break-down maintenance.
+15:00 : stopped the scan and observation session.
+

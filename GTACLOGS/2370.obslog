@@ -1,0 +1,55 @@
+		 GTAC Observation Log 
+
+1. Date : 23/12/2005
+2. Observation Sr. No. : 2370
+3. Observer : Konar
+4. Observer's Email : sckonar@ncra.tifr.res.in
+5. Project Name : GRS
+6. Project Code : 09JMA01
+7. Operator(s) : Jayprakash,
+	Manisha J.,
+	
+8. Command File : /atemp2/cmd/konar/j1453_l_23dec05.cmd
+9. LTA File : /rawdata/23dec/09jma01_j1453_l.lta,
+	/rawdata1/23dec/09jma01_j1453_l.ltb
+10. LogFlag File : /atemp2/logflags/09JMA01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1280 MHz ,RF2 : 1280 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1210 MHz, ILO2 : 1210 MHz, IVLO1 : 70.00 MHz, IVLO2 : 70.00 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1280 1280 1210 1210 70.00 70.00 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+C11 : Elevation brake prob.
+W06 : Elevation brake prob.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 04:11 - 10:26
+
+23. Comments (During Observations) :
+* CORR    : Indian Polar Mode.
+* ONLINE  : aditya
+* IF-ATTN : AUTHIF @ 1280MHZ
+----------------------------------------------------
+
+04:11 : Started the command file.
+07:15 : W06 started working.
+08:55 : C11 started working.
+09:10 : W-arm MSEB Power Failed.
+        C09 - parked for Painting.
+09:41 : W-arm power resumed, started observations.
+        W06 - brakes appeared.
+10:26 : stopped das & observation session.
+

@@ -1,0 +1,98 @@
+		 GTAC Observation Log 
+
+1. Date : 20/07/2010
+2. Observation Sr. No. : 4972
+3. Observer : Rekhesh Mohan, Noah Brosch
+4. Observer's Email : reks@iiap.res.in,nbrosch@yahoo.com
+5. Project Name : HI imaging of high mass disk galaxies
+6. Project Code : 18_085
+7. Operator(s) : Nilesh,
+	Rupsingh,
+	
+8. Command File : /odisk/gtac/cmd/reks/18_085.cmd
+9. LTA File : /rawdata/20jul/18_085_20jul2010.lta,
+	/rawdata1/20jul/18_085_20jul2010.ltb,
+	
+10. GSB File : /gsbifrdata/20jul/18_085_20jul2010_gsb.lta,
+	/gsbifrdata/20jul/18_085_20jul2010_gsb.lta.1,
+	/gsbifrdata/20jul/18_085_20jul2010_gsb.lta.2,
+	/gsbifrdata/20jul/18_085_20jul2010_gsb.lta.3,
+	
+11. LogFlag File : /odisk/online1/logflags/18_085.FLAGS.1
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1370.172 MHz ,RF2 : 1370.172 MHz, SA1 : 0 dB, SA2 : 0 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1300 MHz, ILO2 : 1300 MHz, IVLO1 : 70.172 MHz, IVLO2 : 70.172 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+15. BB BW(KHz) & BB ALC : 4000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:255:1
+17. Frequency Parameters (TPA) : 1370.172 1370.172 1300 1300 70.172 70.172 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+E04 : Maintenance.
+W03 : Intermittent fringe problems.
+21. Note for Backup :--
+
+22. Start and End Time of Obs.(IST): 16:00 - 02:08
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : UsbHighRes
+
+25. Comments (During Observations) :
+-------------------------------------------------
+GSB Setup :
+           Mode :RealTime,
+           ACQ-BW :16MHz,
+           FINAL_BW : 4MHz,
+           EDGE STEP : 2,
+           CHAN-MAX : 256,
+           LO-5 : 16:138-167,
+           BEAM-1 and BEAM-2 : OFF
+-------------------------------------------------
+16:13 : Started command file.
+        GSB is showing rapid phase variations 
+        for Arm antennas. also slowness of 
+        GSB collect and record programs.
+        GSB record file :/gsbifrdata/20jul/18_085_20jul2010_gsb.lta,
+16:34 : Stopped command file.
+
+16:35 : Reconfigured and Restarted GSB.
+16:41 : Started scan on 3c286.
+        GSB Problem didn't get solved by 
+        restarting it.   
+        GSB record file :/gsbifrdata/20jul/18_085_20jul2010_gsb.lta.1,
+17:02 : E04 released for observation.
+17:10 : W03 Started working.
+17:24 : Stopped DATA Aquisition for GSB only.
+        Keeping GHB Data Aquisition running.
+17:40 : Given Reboot to GSB Cluster
+        (GSBM1+GSBM4+Node1-49).
+17:52 : Restarted GSB DATA Acquisition.
+        GSB record file :/gsbifrdata/20jul/18_085_20jul2010_gsb.lta.2,
+
+18:00 : problem is still there. i.e. collect 
+        and record still showing slow updates. 
+        and rapid phase variation in arm antennas.
+        GSB Acquisition kept running.
+19:10 : It is found that GSB machines are not 
+        synchronised with samay1 (GPS). 
+19:16 : Stopped GSB DATA Aquisition.
+
+20:45 : After synchronising GSB cluster to samay1,
+        restarted data aquisition for GSB.
+        GSB record file :/gsbifrdata/20jul/18_085_20jul2010_gsb.lta.3,
+20:58 : DATA from GSB looking fine now.
+01:46 : Stopped command file.
+01:54 : Started scan on 3C48.
+02:08 : Stopped scan and observation over.
+
+-------------------------------------------------
+

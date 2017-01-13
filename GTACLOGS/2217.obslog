@@ -1,0 +1,77 @@
+		 GTAC Observation Log 
+
+1. Date : 29/08/2005
+2. Observation Sr. No. : 2217
+3. Observer : Y.Gupta, Dave Green
+4. Observer's Email : ygupta@ncra.tifr.res.in
+5. Project Name : G21.5-0.9 at 610 MHz
+6. Project Code : 05DT034
+7. Operator(s) : Deepak,
+	Jitendra,
+	Manisha J.,
+	Sachin,
+	Santaji,
+	
+8. Command File : /atemp2/cmd/hold.cmd
+9. LTA File : /rawdata/29aug/05dt034_g21.5.lta,
+	/rawdata1/29aug/05dt034_g21.5.ltb
+10. LogFlag File : /atemp2/logflags/05DT034.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 14+14 dB, 32 MHz,OFF, IF-CH2 : 14+14 dB, 32 MHz,OFF
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, OFF
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :25
+
+20. Name of Non-Working Antennas (with reason for each) :
+C09 - Servo Prob.
+S01 - fringe vanishing.
+E04 - Unstable Fringe.
+W02 - ABC Time out.
+W01-USB-130 - No fringe
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 15:21 - 00:00
+
+23. Comments (During Observations) :
+ONLINE : ADITYA @ 610 MHz.
+PSR + BBGain power equilized for BOTH USB AND LSB
+=============================================
+GAC Config - (36pol) : All CSQ (Except C09) + S02,
+S03,E02,E03,W03
+
+15:21 : Flux cal scan started on 3c286
+15:30 : Scan stopped.
+15:31 : BB gain equilization for both USB+LSB.
+16:08 : Flux cal scan started for 6m.
+16:28 : scan#2,3 phasing scan
+17:57 : Scan#4 PHS -IFR scan.
+17:04 : B1804-08 test pulsar scan started.
+17:06 : Scan #6 G21.5-0.9 scan started for 40m
+17:48 : Scan #7 for phasing
+17:57 : Scan #8  PHS -IFR scan
+18:04 : Scan #9 G21.5-0.9 for 40m
+18:45 : scan #10 PHS -IFR scan
+18:54 : Scan#11 G21.5-0.9
+19:36 : Scan#12,13,14 bad scan for phasing
+        corr-mac reset problem.
+19:59 : scan#15 for phasing
+20:09 : Scan#16 PHS-IFR scan.
+20:15 : scan#18 Test scan B1804-08 for PMTR mode.
+21:03 : scan#19 PHS-IFR scan
+21:09 : scan#20 G21.5-0.0 for 40m
+
+
+
+

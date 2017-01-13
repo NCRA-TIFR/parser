@@ -1,0 +1,54 @@
+		 GTAC Observation Log 
+
+1. Date : 08/11/2008
+2. Observation Sr. No. : 4026
+3. Observer : Rob Ivison
+4. Observer's Email : rji@roe.ac.uk
+5. Project Name : UDS50
+6. Project Code : 15RJI01
+7. Operator(s) : Navanath,
+	Sachin,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/15rji01/8nov_v2.cmd
+9. LTA File : /rawdata/8nov/15rji01_08nov2008.lta,
+	/rawdata1/8nov/15rji01_08nov2008.ltb
+10. LogFlag File : /btemp2/logflags/15RJI01.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+--
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 18:45 - 04:30
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+---------------------------------------------
+18:48 : Started scan on 3C48 for 10 mins.
+18:58 : Stopped scan on 3C48.
+19:01 : Started command file.
+23:03 : E06 ABC time out.
+04:14 : Started scan on flux cal for 15min
+04:30 : Observing session over.
+
+
+
+

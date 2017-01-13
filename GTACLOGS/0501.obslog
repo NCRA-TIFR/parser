@@ -1,0 +1,54 @@
+1. Date : 6/04/2002
+2. Observation Sr. No. : 501
+3. Observer & email : GCC
+4. Project Name & Code : sys_test / TST
+5. Operator(s) : SANTAJI.
+6. Command File/Source  & Lta File : /rawdata/6apr/sys_tst.lta 
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 : RF OFF.
+8. Ist LO (MHz) & IVth LO (MHz) : 255 MHz., 70 MHz.
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : 8+8 dB. 32 MHz.,OFF 
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status : 16 MHz.,  0 dB., OFF.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 0 / 0 
+12. Channels : 0,127,1
+13. Frequency Parameters (TPA) : 325 325 255 255 70 70 
+ 
+14. Integration Time (Sec.) : 16 sec 
+15. No of Antennas Working(Fringing) :29  
+16. Name of Non-Working Antennas (with reason for each) :
+
+	C02  antenna down.
+
+17. Starting and Ending time of Observations (IST) : 22:00
+18. Comments (During Observations) :
+
+
+	started 30 to 1 switch record on gcc-l5 pc 
+    file  : /home/elab/data/6apr/apr6.dat
+
+	the sttings are as follows 
+
+		all antenna parked 
+
+        FE   : FE terminated
+        IF   : BW 32 MHz
+               ATTEN 8 + 8 dB
+               ALC OFF
+        LO   : 255 MHz
+        BB   : BW 16 MHz
+               ALC OFF
+        BBLO : 70 MHz
+ 
+        Record both lta file and 30 to 1 switch output spectrum
+
+	C10 is getting frequently reset.
+	22:19 MSEB power failed for W arm 
+    23:30 Stopped the 30 to 2 switch record file started new one
+           /home/elab/data/6apr/tsys_6apr.dat
+
+19. Data Backup files & Tape No. :

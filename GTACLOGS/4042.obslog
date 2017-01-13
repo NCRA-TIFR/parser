@@ -1,0 +1,65 @@
+		 GTAC Observation Log 
+
+1. Date : 16/11/2008
+2. Observation Sr. No. : 4042
+3. Observer : Manash
+4. Observer's Email : manash@aries.ernet.in
+5. Project Name : Galactic HII 
+6. Project Code : 15MRS01
+7. Operator(s) : Deepak,
+	Navanath,
+	Rupsingh,
+	Sachin,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/15mrs01/nov16.cmd
+9. LTA File : /rawdata/16nov/15mrs01_16nov2008.lta,
+	/rawdata1/16nov/15mrs01_16nov2008.ltb
+10. LogFlag File : /btemp2/logflags/15MRS01.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1280 MHz ,RF2 : 1280 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1210 MHz, ILO2 : 1210 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:255:1
+17. Frequency Parameters (TPA) : 1280 1280 1210 1210 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C04 : For painting.
+C05 : For painting.
+C02 : 175 pol no power at 30to1.
+
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 10:55 - 17:40
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar     *********
+--------------------------------------------
+10:55 : Started setting.
+11:16 : Started scan on 3C286.
+11:27 : Stopped scan.
+11:38 : Started command file.
+16:00 : C04 started tracking.
+17:25 : Started scan on 3c48.
+      : for flux cal C02 was down. 
+17:40 : Observing session over.
+
+
+
+        
+         
+
+---------------------------------------------
+

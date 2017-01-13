@@ -1,0 +1,74 @@
+		 GTAC Observation Log 
+
+1. Date : 21/05/2007
+2. Observation Sr. No. : 3160
+3. Observer : N.G. Kantharia
+4. Observer's Email : ngk@ncra.tifr.res.in
+5. Project Name : SDSS14231
+6. Project Code : 12NGK01
+7. Operator(s) : Jayprakash,
+	Jitendra,
+	Sachin,
+	
+8. Command File : /btemp2/cmd/ngk/sdss14231.cmd
+9. LTA File : /rawdata/21may/12ngk01_21may07.lta,
+	/rawdata1/21may/12ngk01_21may07.ltb
+10. LogFlag File : /btemp2/logflags/12NGK01.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 325 MHz ,RF2 : 325 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 255 MHz, ILO2 : 255 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 6+0 dB, 32 MHz,ON, IF-CH2 : 6+0 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 325 325 255 255 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+C11 : jumps in cross amplitude.
+C05 : ABC T.O.
+E02 : Servo applies brakes.
+C03-USB-175 Low sensitivity.
+E03 - Low sensitivity.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 23:34 - 10:30
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+
+23:34 : Flux cal scan started on 3c286 for 15m.
+23:54 : Scan stopped.
+23:55 : Cal/Target source (sdss14231) has not risen...
+        Since both sources rising late, 3c286 scan continuing.
+01:32 : Note that antennae not tracking 3c286 since 01:00 Hrs.
+        Online data disk full, data & log files moved to other area.
+        Scan stopped.
+01:39 : Command file started.
+02:20 : C05 tracking started.
+~2:34 : E02 tracking started.
+02:35 : C06 - ABC T.O.
+08:17 : W02 and S01 got ABC reset.
+08:45 : W02 and S01 came back.
+09:18 : C08 got ABC reset.
+09:30 : C08 resumed.
+09:32 : Scan started on the source.
+NOTE : Please note that scan no. 27 is bad i.e. 
+the scan on the source, because many antennas were
+not tracking due to some problem.
+09:53 : Source set.
+09:56 : Started scan on phase cal.
+10:11 : Started scan on 3C147.
+10:30 : Stopped scan on 3C147 and stopped project.
+

@@ -1,0 +1,145 @@
+		 GTAC Observation Log 
+
+1. Date : 20/2/2014
+2. Observation Sr. No. : 6969
+3. Observer : Dipanjan Mitra,Krzysztof Maciesiak,Rahul Basu,Anna Maria Skrzypczak,Janusz Gil
+4. Observer's Email : dmitra@ncra.tifr.res.in,jezyk@astro.ia.uz.zgora.pl,rbasu@ncra.tifr.res.in,ania.skrzypczak@hotmail.com,jag@astro.ia.uz.zgora.pl
+5. Project Name : %latex% A Metrewavelength Survey of Pulsar Emission: ( -50  $<$ Dec $<$ 25 )
+6. Project Code : 25_038
+7. Operator(s) : Navanath,Pramod,Rupsingh,Sachin,Shilpa,
+8. Command File : 
+9. LTA File : /gsbifrdata1/20feb//25_038_20feb2014_2s.lta,
+10. LogFlag File : /odisk/online1/logflags/25_038.FLAGS.13,
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 602 MHz ,RF2 : 602 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540 MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 16 MHz,OFF, IF-CH2 : 24+4 dB, 16 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : Realtime 
+15. GSB LTA : 8 
+16. GSB CTRL : ONLINE 
+17. GSB Fstop : ON 
+18. GAIN EQ : OFF, 
+19. Stokes : FullStokes
+20. Beam - 1 : IA
+21. Beam - 2 : PA
+22. ACQ BW : 16.67 MHz
+23. Final BW : 16.666666 MHz; Step # 0
+24. Maximum Channels : 256 
+25. Channel Numbers : 0:255:1 
+26. LO5 -1  : 138.00 
+27. LO5 -2  : 167.00 
+
+28. Frequency Parameters (TPA) : 602 602 540 540 62 62.
+29. Integration Time : 2.013264 Sec.
+30. No of Antennas Working(Fringing) at the begining :29
+
+31. Name of Non-Working Antennas (with reason for each) :
+S03 : 175 low fringe.
+
+32. Note for Backup :
+
+33. Start and End Time of Obs.(IST): 17:35 - 09:26
+
+34. ONLINE Machine : Lenyadri
+
+35. No of Antennas Working(Fringing) at the end :26
+
+36. Comments (During Observations) :
+17:35 : Started set-up.
+17:45 : Started power eq on 0116-208 at 150 counts.
+17:55 : Started phasing.
+18:00 : GAC configuring done. csq+S01,S02,E02,W01,W02, Post Int is 4.
+18:05 : 30-1 machine switch off.
+18:10 : Rephasing done.
+-----------------------------------------------------------------------
+18:13:34 : Started scan on 0116-208 for ~ 1.40928 min.
+18:16:20 : Started scan on B0148-06 for ~ 11.2407 min.
+18:28:32 : Started scan on B0149-16 for ~ 30.3667 min.
+18:59:56 : Started scan on 0116-208 for ~ 0.335544 min.
+19:01:47 : Started scan on B0031-07 for ~ 34.1919 min.
+19:37:36 : Started scan on 0116-208 for ~ 1.00663 min.
+19:43:31 : Started scan on 0837-198 for ~ 1.84549 min.
+19:45:30 : Started scan on 0837-198 for ~ 1.14085 min.
+19:48:04 : Started scan on B0736-40 for ~ 14.3277 min.
+20:03:33 : Started scan on B0818-41 for ~ 20.8373 min.
+20:25:57 : Started scan on 0837-198 for ~ 2.04682 min.
+20:28:20 : Started scan on 0837-198 for ~ 0.671088 min.
+20:29:09 : Started scan on 0837-198 for ~ 1.20796 min.
+20:31:34 : Started scan on B0844-35 for ~ 40.2317 min.
+21:13:04 : Started scan on 0837-198 for ~ 1.9126 min.
+21:15:07 : Started scan on 0837-198 for ~ 1.34218 min.
+21:17:37 : Started scan on B0818-13 for ~ 44.2918 min.
+22:02:42 : Started scan on 0837-198 for ~ 1.24151 min.
+22:06:01 : Started scan on 1033-343 for ~ 1.77838 min.
+22:07:58 : Started scan on 1033-343 for ~ 1.24151 min.
+22:10:38 : Started scan on J0905-4536 for ~ 36.1716 min.
+22:48:04 : Started scan on 1033-343 for ~ 0.83886 min.
+22:51:36 : Started scan on B0957-47 for ~ 25.1658 min.
+23:17:47 : Started scan on J0905-5127 for ~ 20.7702 min.
+23:39:46 : Started scan on 1033-343 for ~ 1.5435 min.
+23:41:26 : Started scan on 1033-343 for ~ 1.04019 min.
+23:42:39 : Started scan on 1033-343 for ~ 1.07374 min.
+23:44:50 : Started scan on B1039-19 for ~ 50.7007 min.
+00:36:29 : Started scan on 1033-343 for ~ 1.07374 min.
+00:39:22 : Started scan on 0837-198 for ~ 2.08037 min.
+00:41:35 : Started scan on 0837-198 for ~ 1.04019 min.
+00:43:15 : Started scan on B0906-17 for ~ 15.0324 min.
+01:00:03 : Started scan on B0942-13 for ~ 21.8104 min.
+01:23:05 : Started scan on 0837-198 for ~ 1.14085 min.
+01:28:26 : Started scan on 3C147 for ~ 10.2676 min.
+01:44:24 : Started scan on 1330+251 for ~ 8.15372 min.
+-----------------------------------------------------------------------
+01:42:00 : S01 removed from GAC.
+----------------------------------------------------------------------
+01:52:43 : Started scan on 1330+251 for ~ 6.20756 min.
+01:59:05 : Started scan on 1330+251 for ~ 6.07335 min.
+02:06:45 : Started scan on B1237+25 for ~ 49.2243 min.
+02:57:54 : Started scan on J1246+22 for ~ 17.918 min.
+03:18:11 : Started scan on 1330+251 for ~ 1.04019 min.
+03:21:31 : Started scan on 1549+214 for ~ 1.64417 min.
+03:23:19 : Started scan on 1549+214 for ~ 1.04019 min.
+03:38:18 : Started scan on B1534+12 for ~ 5.80491 min.
+03:44:55 : Started scan on 1549+214 for ~ 1.37573 min.
+03:51:52 : Started scan on 1156+314 for ~ 3.32189 min.
+03:55:18 : Started scan on 1156+314 for ~ 1.04019 min.
+04:09:57 : Started scan on B1133+16 for ~ 12.3145 min.
+04:23:55 : Started scan on 1156+314 for ~ 1.30862 min.
+04:33:12 : Started scan on 1822-096 for ~ 1.9126 min.
+04:35:16 : Started scan on 1822-096 for ~ 1.04019 min.
+04:37:41 : Started scan on B1706-16 for ~ 23.5887 min.
+05:02:02 : Started scan on B1732-07 for ~ 15.6364 min.
+05:18:14 : Started scan on B1745-12 for ~ 14.5626 min.
+05:33:44 : Started scan on 1822-096 for ~ 1.57706 min.
+05:37:22 : Started scan on 1625-311 for ~ 1.74483 min.
+05:39:17 : Started scan on 1625-311 for ~ 1.1744 min.
+05:41:59 : Started scan on B1558-50 for ~ 61.2703 min.
+06:44:58 : Started scan on 1625-311 for ~ 1.07374 min.
+06:47:19 : Started scan on 1830-360 for ~ 1.50995 min.
+06:48:58 : Started scan on 1830-360 for ~ 1.77838 min.
+06:52:05 : Started scan on B1857-26 for ~ 22.515 min.
+07:16:21 : Started scan on J1852-2610 for ~ 12.3145 min.
+07:30:17 : Started scan on J1848-1414 for ~ 11.5427 min.
+07:44:15 : Started scan on B1937-26 for ~ 15.5692 min.
+08:01:53 : Started scan on 1830-360 for ~ 1.27507 min.
+08:05:46 : Started scan on 2047-026 for ~ 2.71791 min.
+08:08:44 : Started scan on 2047-026 for ~ 1.50995 min.
+08:11:54 : Started scan on B2003-08 for ~ 21.911 min.
+08:36:58 : Started scan on B2044+15 for ~ 30.1654 min.
+09:08:44 : Started scan on 2047-026 for ~ 1.44284 min.
+-----------------------------------------------------------------------
+09:09 : W02 taken for painting.
+-----------------------------------------------------------------------
+09:17:51 : Started scan on 3C286 for ~ 8.12016 min.
+-----------------------------------------------------------------------
+09:23 : C10 taken for painting.
+-----------------------------------------------------------------------
+09:26 : Stopped scan and observing session over.
+
+
+
+

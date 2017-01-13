@@ -1,0 +1,62 @@
+		 GTAC Observation Log 
+
+1. Date : 14/07/2007
+2. Observation Sr. No. : 3253
+3. Observer : Nirupam
+4. Observer's Email : nirupam@ncra.tifr.res.in
+5. Project Name : 1229-021
+6. Project Code : 12NKA02
+7. Operator(s) : Deepak,
+	Jayprakash,
+	Manisha,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/nissim/1229-021.cmd
+9. LTA File : /rawdata/14jul/12nka02_14jul2007.lta,
+	/rawdata1/14jul/12nka02_14jul2007.ltb
+10. LogFlag File : /btemp2/logflags/12NKA02.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1017.2 MHz ,RF2 : 1017.2 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 950 MHz, ILO2 : 950 MHz, IVLO1 : 67.2 MHz, IVLO2 : 67.2 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 6+0 dB, 16 MHz,ON, IF-CH2 : 6+0 dB, 16 MHz,ON
+14. BB BW(KHz) & BB ALC : 2000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:255:1
+17. Frequency Parameters (TPA) : 1017.2 1017.2 950 950 67.2 67.2 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C11 : 175 USB zero self.
+C14 : no fringe.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 13:00 - 22:55
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : USBHiRes  *********
+---------------------------------------------
+13:25 : scan started on 3c147 for 15mins.
+13:50 : command file started.
+14:40 : MSEB power failure.
+14:42 : MSEB power resume.
+17:21 : MSEB power failure.
+17:23 : MSEB power resumed.
+17:31 : STarted scan on 3c286 for 15min.
+17:54 : command file started.
+21:32 : Stopped the command file.
+21:33 : Started scan on phase cal for 7min.
+21:40 : stopped the scan.
+21:41 : Started scan on source.
+22:19 : Stopped the scan.
+22:22 : Started flux cal, 3c286.
+22:55 : Stopped flux cal, closed observation.
+

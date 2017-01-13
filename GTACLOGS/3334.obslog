@@ -1,0 +1,67 @@
+		 GTAC Observation Log 
+
+1. Date : 23/08/2007
+2. Observation Sr. No. : 3334
+3. Observer : E. Freeland
+4. Observer's Email : freeland@astro.wisc.edu
+5. Project Name : Bent-Doubles
+6. Project Code : 12EFA02
+7. Operator(s) : Jitendra,
+	Navanath,
+	Nilesh,
+	Sachin,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/freeland/537611.cmd
+9. LTA File : /rawdata/23aug/12efa02_23aug2007.lta,
+	/rawdata1/23aug/12efa02_23aug2007.ltb
+10. LogFlag File : /btemp2/logflags/12EFA02.FLAGS.5
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+12 dB, 32 MHz,ON, IF-CH2 : 10+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+W01 : Maintenance.
+W02 : Maintenance.
+W03 : No fringe upto 15:00 hrs
+
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 14:33 - 22:12
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+---------------------------------------------
+14:33 : Started scan on 3c286.
+14:36 : Stopped scan.
+14:41 : Restarted scan on 3c286.
+14:51 : Stopped scan.
+15:03 : Started command file.
+NOTE  : W03 started fringing after 15:00 hrs.
+22:01 : Stopped command file.
+22:03 : Started scan on phase cal for 10mins.
+22:12 : Stopped scan and observation session over.
+

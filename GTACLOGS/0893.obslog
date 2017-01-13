@@ -1,0 +1,54 @@
+1. Date : 08/12/2002
+2. Observation Sr. No. : 0893
+3. Observer : Dr. J. N. Chengalur
+4. Observer's Email : chengalu@ncra.tifr.res.in
+5. Project Name : 3c196_3c147
+6. Project Code : 03JNC01
+7. Operator(s) : Jayprakash,
+	Jitendra,
+	
+8. Command File : /temp2/data/cmd/chengalu/3c196_3c147.cmd,
+	/temp2/data/cmd/chengalu/3c196_3c295.cmd
+9. LTA File : /rawdata/7dec/03jnc01_3c196_3c147.lta.
+10. LogFlag File : /temp2/data/logflags/03JNC01.FLAGS.6
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1157.86 MHz ,RF2 : 1157.86 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1090 MHz, ILO2 : 1090 MHz, IVLO1 : 67.86 MHz, IVLO2 : 67.86 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+4 dB, 6 MHz,ON, IF-CH2 : 4+4 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 4000 KHz, 6 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 2
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1157.86 1157.86 1090 1090 67.86 67.86 
+
+18. Integration Time : 256 STA ~ 33.817 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+S03 : No cross, self OK
+E04 : Some baselines are showing high cross count.
+
+21. Start and End Time of Obs.(IST): 23:23 - 00:00
+
+22. Comments (During Observations) :
+23:23 : Started scan on 3c48 for 10min.
+23:39 : Started command file.
+        /temp2/data/cmd/chengalu/3c196_3c147.cmd.
+30:27 : 3C147 set, stopped command file & started the new cmd file.
+        /temp2/data/cmd/chengalu/3c196_3c295.cmd.
+
+07:05 : Power failed.
+07:35 : Observation restarted with CSQ antenna.
+09:00 : 3C196 source set.
+09:20 : scan started on 3C295 source.
+09:50 : Scan stopped.
+09:54 : flux cal scan started on 3c286.
+10:47 : scan stopped & project over.
+
+         
+
+

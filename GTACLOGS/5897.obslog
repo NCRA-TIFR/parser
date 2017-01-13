@@ -1,0 +1,99 @@
+		 GTAC Observation Log 
+
+1. Date : 20/4/2012
+2. Observation Sr. No. : 5897
+3. Observer : Jayanta Roy
+4. Observer's Email : jroy@ncra.tifr.res.in
+5. Project Name : Pulsar observation
+6. Project Code : 22_012
+7. Operator(s) : Deepak,
+	Nilesh,
+	Rupsingh,
+	
+8. Command File : /odisk/gtac/cmd/jroy/22_012.19apr.610.1.cmd,
+	/odisk/gtac/cmd/jroy/22_012.20apr.610.cmd,
+	/odisk/gtac/cmd/jroy/22_012.21apr.325.dual.cmd,
+	
+9. LTA File : /gsbifrdata/20apr/22_012_20apr2012.lta.3,
+	/gsbifrdata/20apr/22_012_20apr2012.lta.4,
+	/gsbifrdata/21apr/22_012_325_subar4_21apr2012.lta,
+	/gsbifrdata/21apr/22_012_610_subar2_21apr2012.lta,
+	
+10. LogFlag File : /odisk/online1/logflags/22_012.FLAGS.5,
+	/odisk/online1/logflags/22_012.FLAGS.6,
+	
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+10 dB, 32 MHz,OFF, IF-CH2 : 20+10 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : OFF 
+17. Stokes : Total_Intensity
+18. Beam - 1 : IA
+19. Beam - 2 : PA
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 512 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 591 591 540 540 51 51.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :26
+
+27. Name of Non-Working Antennas (with reason for each) :
+C10 : Servo maintenance.
+C12 : No fringe.
+W05 : Servo off.
+S06 : Painting.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 19:00 - 07:00
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+19:00 : Started power eq. & phasing on 3C147(300 counts).
+19:30 : Phasing done.
+------------------------------------------------------------------
+        GAC-IA-all working antennas(except C10,C12,W05,S06)
+        GAC-PA-CSQ+W01,W02,W03,E02,E03,S01,S02,S03(except C10,C12).
+------------------------------------------------------------------
+19:33 : Command file started.
+       '/odisk/gtac/cmd/jroy/22_012.19apr.610.cmd'
+20:27 : Stopped command file.
+
+20:40 : S06 is add in GAC-IA
+20:36 : Started scan on 1154-350(Power eq. & Phasing).
+20:45 : Phasing done.
+20:50 : Started next command file
+       '/odisk/gtac/cmd/jroy/22_012.20apr.610.cmd' 
+
+22:42 : Started setttings @ 325MHz.
+23:21 : Started scan on 1154-350.
+23:30 : MSEDCL power failure.
+00:03 : MSEDCL power resumed.
+------------------------------------------------------------------
+00:05 : Started settings at 610 and 325MHz.
+        subar 2 @ 610 MHz, and subar 4 @ 325MHz.
+------------------------------------------------------------------
+subar 2 : C00,C03,C08,C11,C13,W02,W03,W04,E02,E03,S02,S03,S04.
+subar 4 : C01,C02,C04,C05,C06,C09,C10,C12,C14,E04,E05,E06,W01,W06,S01,S06.
+------------------------------------------------------------------
+00:40 : Power Eq @ 300 counts done.
+01:03 : Phasing on 1459+716.
+01:23 : Started scan on J1544+4937 for ~ 2hrs.
+03:26 : Phasing on 1459+716.
+03:30 : Started scan on J1544+4937 for ~ 2hrs.
+05:35 : Phasing on 1459+716.
+05:37 : Started scan on J1544+4937 for ~ 70min.
+06:47 : Stopped scan.
+06:52 : Started scan on B1855+09 for ~ 5min.
+07:00 : Stopped scan and observation session closed.
+------------------------------------------------------------------
+

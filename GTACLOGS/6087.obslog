@@ -1,0 +1,76 @@
+		 GTAC Observation Log 
+
+1. Date : 13/8/2012
+2. Observation Sr. No. : 6087
+3. Observer : Hans Nguyen
+4. Observer's Email : hans.nguyen369@gmail.com
+5. Project Name : EoR Project
+6. Project Code : 22_045
+7. Operator(s) : Navanath,
+	Rupsingh,
+	Santaji,
+	
+8. Command File : 
+9. LTA File : /gsbifrdata/13aug/22_045_13aug2012.lta
+10. LogFlag File : /odisk/online1/logflags/22_045.FLAGS.14,
+	/odisk/online1/logflags/22_045.FLAGS.15
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 218 MHz, ILO2 : 218 MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 16 MHz,OFF, IF-CH2 : 24+4 dB, 16 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : OFF 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 512 
+22. IFBW (MHz) : LO5 (KHz) : 16:138000-167000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 156 156 218 218 62 62.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :29
+
+27. Name of Non-Working Antennas (with reason for each) :
+C14 : BLDC work.
+
+
+
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 16:00 - 22:00
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+*Step 1*
+16:00 : Setup started for EOR observation.
+      : Phase Array ,Voltage mode,Source:B1508+55
+      : IF Bandwidth=32MHz, Acquisiotn=32MHz.
+      : # of Channels=512
+16:20 : Phasing Done $ Scan started.
+      : ./run_PAvoltage.dual.new.csh 300/mnt/pulsar/gsbuser/ ueliTest
+16:30 : Scan Stopped.
+---------------------------------------------------------------------
+*Step 2*
+16:30 : Change the Corr. mode on Node1 & Setup started.
+      :  #Setup # Source:B1508+55 LO1=218MHz, LO2=62MHz, LO5=16MHz
+        Baseband BW=16MHz IF Bandwidth=16Mhz.
+16:38 : Power Eq. Done.
+16:51 : Noise ON ,25% duty cycle & Split the Antennas.
+      : # Sub 2 # C00 C01 C02 C03 C04 C05 C06 C08 C09 C10 C11 C12 C13 
+       C14 W01 W03 W05 E03 E05 S01 S04 (AZ=180d,EL=53d36' & Brakes Applied)
+       
+       # Sub 4 # W02 W04 W06 E02 E04 E06 S02 S03 S06 (Tracking Antennas).
+22:00: Observation session over.
+       
+
+        
+

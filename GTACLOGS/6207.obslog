@@ -1,0 +1,78 @@
+		 GTAC Observation Log 
+
+1. Date : 06/11/2012
+2. Observation Sr. No. : 6207
+3. Observer : Dharam Vir Lal
+4. Observer's Email : dharam@ncra.tifr.res.in
+5. Project Name : The physics of radio relics and halos in Planck clusters
+6. Project Code : 23_046
+7. Operator(s) : Manisha,
+	Sachin,
+	
+8. Command File : /odisk/gtac/cmd/dharam/23_046_06nov.cmd
+9. LTA File : /gsbifrdata/06nov/23_046_06nov2012.lta
+10. LogFlag File : /odisk/online1/logflags/23_046.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 591 591 540 540 51 51.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :26
+
+27. Name of Non-Working Antennas (with reason for each) :
+C00 : BLDC work.
+E04 : Up gradation work
+S06 : Servo off
+E03 : ABC time out.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 04:00 - 11:00
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+04:01:01 - 04:15:06 Recorded data on 3C48
+04:24:54 - 04:31:45 Recorded data on 1123+055
+04:35:22 - 05:10:32 Recorded data on A1443
+05:12:09 - 05:18:51 Recorded data on 1123+055
+05:22:21 - 05:57:15 Recorded data on A1443
+05:58:59 - 06:05:42 Recorded data on 1331+305
+06:09:11 - 06:44:05 Recorded data on A1443
+06:45:00 - 06:53:00 C03 was having servo problem.
+06:45:50 - 06:52:32 Recorded data on 1331+305
+06:56:02 - 07:31:20 Recorded data on A1443
+07:33:12 - 07:39:55 Recorded data on 1331+305
+07:43:33 - 08:19:07 Recorded data on A1443
+07:50 : W05 antenna parked for painting.
+08:20:59 - 08:27:42 Recorded data on 1331+305
+08:31:19 - 09:07:02 Recorded data on A1443
+08:50 : E02 antenna parked for painting.
+09:08:54 - 09:15:45 Recorded data on 1331+305
+09:19:14 - 09:54:40 Recorded data on A1443
+09:59:14 - 10:06:05 Recorded data on 1331+305
+10:11:03 - 10:46:45 Recorded data on A1443
+10:50:47 - 10:55:04 Recorded data on 1331+305
+10:55:45 - 11:00:51 Recorded data on 3C286
+11:01 stopped das & observation session.
+
+
+
+
+

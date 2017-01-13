@@ -1,0 +1,93 @@
+		 GTAC Observation Log 
+
+1. Date : 04/06/2010
+2. Observation Sr. No. : 4899
+3. Observer : Ekta
+4. Observer's Email : ekta@ncra.tifr.res.in
+5. Project Name : MRK1416
+6. Project Code : 18_055
+7. Operator(s) : Amruta,
+	Deepak,
+	Rupsingh,
+	Sachin,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/ekta/mrk1416.cmd,
+	/odisk/gtac/cmd/ekta/tol1108.cmd,
+	/odisk/gtac/cmd/ekta/sbs1428+457.cmd
+9. LTA File : /rawdata/4jun/18_055_4jun2010.lta,
+	/rawdata/4jun/18_055_4jun2010.lta.1,
+	/rawdata/4jun/18_055_04jun2010.lta.1,
+	/rawdata1/4jun/18_055_4jun2010.ltb,
+	/rawdata1/4jun/18_055_4jun2010.ltb.1,
+	/rawdata1/4jun/18_055_04jun2010.ltb.1
+10. GSB File : /gsbifrdata/4jun/18_055_4jun2010_gsb.lta,
+	/gsbifrdata/4jun/18_055_4jun2010_gsb.lta.1,
+	/gsbifrdata/4jun/18_055_04jun2010_gsb.lta.2
+11. LogFlag File : /odisk/online1/logflags/18_055.FLAGS.1
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1408.39 MHz ,RF2 : 1408.39 MHz, SA1 : 0 dB, SA2 : 0 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1340 MHz, ILO2 : 1340 MHz, IVLO1 : 68.39 MHz, IVLO2 : 68.39 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+15. BB BW(KHz) & BB ALC : 2000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1408.39 1408.39 1340 1340 68.39 68.39 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :25
+
+20. Name of Non-Working Antennas (with reason for each) :
+C01 - Off.
+C03 - Phase not stable.
+C06 - No fringe @130.
+E03 - Feed jam.
+S01 - mcm time out.
+
+21. Note for Backup :--
+
+22. Start and End Time of Obs.(IST): 14:00 - 01:00
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+14:06 : Started scan on 3C147.
+14:21 : Started command file
+       '/odisk/gtac/cmd/ekta/mrk1416.cmd'
+16:04 : E03 started working.   
+18:43 : Stopped command file.
+18:46 : Started scan on 3C286.
+18:52 : Stopped scan.
+
+18:53 : Setting changed
+        LO1=1345MHz, LO4=66.79
+        tpa  1411.79  1411.79  1345  1345  66.79  66.79
+
+18:57 : Started scan on 3C286.
+19:09 : Stopped scan.
+19:17 : Started command file
+        '/odisk/gtac/cmd/ekta/tol1108.cmd'
+23:39 : Command file stopped.
+23:41 : Started scan on 3c286 for 15min.
+23:56 : Setting changed.
+
+  Setting changed
+        LO1=1340MHz, LO4=68.18
+        tpa 1408.18 1408.18 1340 1340 68.18 68.18
+
+    GSB : 16mhz 256 channal , 
+          final bw=2mhz, fractional bw=0.375
+00:00 : Started scan on 3c286 for 10min.
+00:20 : Started command file.
+     
+           /odisk/gtac/cmd/ekta/sbs1428+457.cmd
+02:59 : Stopped command file and observing session over.
+
+      
+
+

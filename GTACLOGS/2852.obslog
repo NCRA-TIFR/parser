@@ -1,0 +1,60 @@
+		 GTAC Observation Log 
+
+1. Date : 26/09/2006
+2. Observation Sr. No. : 2852
+3. Observer : BCJ
+4. Observer's Email : bcj@ncra.tifr.res.in
+5. Project Name : pulsar obs.
+6. Project Code : 10BCJ02
+7. Operator(s) : Deepak,
+	Jayprakash,
+	
+8. Command File : /btemp2/cmd/hold.cmd
+9. LTA File : /rawdata/26sep/10bcj02_26sep06.lta,
+	/rawdata1/26sep/10bcj02_26sep06.ltb,
+	/rawdata/26sep/10bcj02_26sep06.lta.1,
+	/rawdata1/26sep/10bcj02_26sep06.ltb.1,
+	
+10. LogFlag File : /btemp2/logflags/10BCJ02.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 322 MHz ,RF2 : 322 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 255 MHz, ILO2 : 255 MHz, IVLO1 : 67 MHz, IVLO2 : 67 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 6+0 dB, 32 MHz,OFF, IF-CH2 : 6+0 dB, 32 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 322 322 255 255 67 67 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+C04 : Servo problem.
+E02 : ABC timeout.
+W02 : Feed not in focus.
+E04 : Low fringe.
+C11 : ABC Time Out.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 15:30 - 07:00
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+---------------------------------------------
+
+
+

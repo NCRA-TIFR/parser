@@ -1,0 +1,48 @@
+1. Date : 22/11/2002
+2. Observation Sr. No. : 0865
+3. Observer : Prof. SAK
+4. Observer's Email : ananth@ncra.tifr.res.in,jitendra@gmrt.ncra.tifr.res.in
+5. Project Name : ngc891@1390
+6. Project Code : 03SAK01
+7. Operator(s) : Kamble J.R.,
+	Kodilkar J.P.,
+	
+8. Command File : /temp2/data/cmd/sak/ngc891.cmd
+9. LTA File : /rawdata/22nov/03sak01_n891_1390.lta
+
+ANTENNA SETTINGS :
+
+10. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1390 MHz ,RF2 : 1390 MHz, SA1 : 0 dB, SA2 : 0 dB
+11. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1320 MHz, ILO2 : 1320 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+12. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 2+2 dB, 32 MHz,ON, IF-CH2 : 2+2 dB, 32 MHz,ON
+13. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+14. CLK_SEL/Samp_Freq : 0
+15. Channels : 0:127:1
+16. Frequency Parameters (TPA) : 1390 1390 1320 1320 70 70 
+
+17. Integration Time : 128 STA ~ 16.908 Sec.
+18. No of Antennas Working(Fringing) :29
+
+19. Name of Non-Working Antennas (with reason for each) :
+C11 :- Not tracking.
+
+20. Start and End Time of Obs.(IST): 05:11 - 00:00
+
+21. Comments (During Observations) :
+17:05 : Started observation.
+        Started scan on 3c48 for 20min.
+17:37 : Started command file
+        /temp2/data/cmd/sak/ngc891.cmd.
+18:10 : MSEB Power failed.
+20:00 : Power resume, restarted the observation.
+22:46 : Scan 10 Bad ( Power failed at 23:00 Hr.)
+23:15 : power comeback
+23:54 : command file started.
+        SCAn 21 bad , 3c48 source set.
+23:39 : flux cal scan started on 3c147
+23:59 : Scan stopped , and project over.
+
+

@@ -1,0 +1,115 @@
+		 GTAC Observation Log
+
+1. Date : 24/07/2016
+2. Observation Sr. No. : 8766
+3. Observer : Yashwant Gupta, BHAL CHANDRA JOSHI, Jayanta Roy, Yogesh Maan, Kishalay De, Manjari Bagchi, Prajwal Padmanabh, Gopakumar Achamveedu, Nikhil Vijay Naik
+4. Observer's Email : ygupta@ncra.tifr.res.in, bcj@ncra.tifr.res.in, jroy@ncra.tifr.res.in, ymaan@ncra.tifr.res.in, ugkishalayde@ug.iisc.in, manjari.bagchi@gmail.com, prajwal3108@gmail.com, gopu.tifr@gmail.com, naiknikhil27@gmail.com
+5. Project Name : Towards high precision pulsar timing with the upgraded GMRT
+6. Project Code : 30_043
+7. Operator(s) : Deepak, Navnath, Rupsing, Shilpa
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /gsbifrdata/23jul/30_043_23jul2016_325.lta, /gsbifrdata/23jul/30_043_23jul2016_1420.lta, /gwbifrdata/23jul/30_043_23jul16_500.lta.1, /gwbifrdata/23jul/30_043_23jul16_500.lta, /gwbifrdata/23jul/30_043_23jul16_1460.lta.1, /gwbifrdata/23jul/30_043_23jul16_1460.lta
+10. LogFlag File : /odisk/online1/logflags/SUBA2.FLAGS.982, /odisk/online1/logflags/PNTG.FLAGS.2054, /odisk/online1/logflags/30_043.FLAGS.20
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1454 MHz ,RF2 : 1454 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1505 MHz, ILO2 : 1505MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : Volt
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 0 MHz; Step # 0
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 1454 1454 1505 1505 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :29
+
+32. Name of Non-Working Antennas (with reason for each) :
+C12 : Servo problem.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 23 Jul 2016 17:00:00 - 24 Jul 2016 00:15:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :29
+
+37. Comments (During Observations) :
+# 325MHz # suba 2 # C00 C01 C02 C05 C09 C10 C13 C14 W01 S01
+ante 10 7 6 5 19 4 12 11 10 8 26
+cp 0;defs 2;subar 2
+tpa 306 306 255 255 51 51
+
+# 1420MHz # suba 4 # C03 C04 C06 C08 C11 C12 W02 W03 W04 W05 W06 E02 E03 E04 E05 E06 S02 S03 S04 S06
+ante 20 1 3 20 24 9 2 13 14 15 16 25 17 18 21 22 23 27 28 29 30
+cp 0;defs 4;subar 4
+tpa 1454 1454 1505 1505 51 51 
+
+Antennas selected in GSB GAC : C00 C01 C02 C05 C09 C10 C13 C14 W01 S01
+
+Antennas selected in GWB GAC : 
+# 325MHz # suba 2 # C00 C01 C02 C05 C13 
+# 1420MHz # suba 4 # C03 C04 C06 C08 C11 E02 E03 S02 S03 W02 W03 
+
+Antennas connected in GWB : C00 C01 C02 C03 C04 C05 C06 C08 C11 C13 E02 E03 S02 S03 W02 W03 
+---------------------------------------------------------------------------
+
+17:00:00 : Started settings.
+17:45:00 : Power equalized on 3C286 @ 300 counts.
+17:49:00 : Phasing done on 3C286.
+18:02:57 : Phasing done on 1130-148.
+18:05:42 : Started scan on J1024-0719 for ~ 23.6223 min.
+18:36:05 : Phasing done on 1248-199.
+18:38:38 : Started scan on J1455-3330 for ~ 21.2064 min.
+19:05:12 : Phasing done on 1822-096.
+19:07:56 : Started scan on J1614-2230 for ~ 20.9379 min.
+19:31:53 : Started scan on B1642-03 for ~ 24.696 min.
+
+19:32:01 : GSB das chain hung.
+           (node 32 gives error[node32][0,1,31 [btl_tcp_endpoint.c:572:mca_btl_tcp_endpoint_complete_connect] connect() failed with errno=110 +Killed the process...)
+
+19:37:00 : Halted GSB and rebooted node32.
+        
+           But still GSB gives error : [node53][0,1,35][btl_tcp_endpoint.c:572:mca_btl_tcp_endpoint_complete_connect] connect() failed with errno=110
+[node28][0,1,27][btl_tcp_endpoint.c:572:mca_btl_tcp_endpoint_complete_connect] connect() failed with errno=110
+
+19:52:00 : Halted GWB.
+
+20:00:01 : Restarted GWB independently.
+20:04:38 : Phasing done on 1609+266.
+20:08:05 : Started scan on J1640+2224 for ~ 20.5353 min.
+20:34:59 : Phasing done on 1822-096.
+20:37:07 : Started scan on J1713+0747 for ~ 20.8037 min.
+20:59:40 : Phasing done on 1822-096.
+21:02:20 : Started scan on J1730-2304 for ~ 21.4748 min.
+21:28:33 : Phasing done on 1822-096.
+21:29:54 : Started scan on J1738+0333 for ~ 20.8037 min.
+21:52:22 : Phasing done on 1822-096.
+21:55:16 : Started scan on J1741+1351 for ~ 20.1326 min.
+22:21:00 : Phasing done on 1822-096.
+22:23:17 : Started scan on J1857+0943 for ~ 20.1326 min.
+22:50:00 : Phasing done on 1830-360.
+22:51:15 : Started scan on J1909-3744 for ~ 20.3000 min.
+23:17:47 : Started scan on 2202+422 for ~ 2.68435 min.
+23:20:41 : Started scan on 2202+422 for ~ 4.42918 min.
+23:25:46 : Started scan on 2202+422 for ~ 0.402653 min.
+23:27:34 : Started scan on J2302+4442 for ~ 21.0722 min.
+23:50:35 : Started scan on 2202+422 for ~ 1.87905 min.
+23:55:03 : Started scan on J0023+0923 for ~ 20.609 min.
+00:15:00 : Stopped scan and observation closed.

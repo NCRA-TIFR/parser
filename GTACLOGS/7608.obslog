@@ -1,0 +1,69 @@
+		 GTAC Observation Log
+
+1. Date : 13/02/2015
+2. Observation Sr. No. : 7608
+3. Observer : Anandmayee Tej, Sarita Vig, swagat ranjan das, Veena V.S., Tie Liu, Kee-Tae Kim, Swarna Kanti Ghosh, C.H. IshwaraChandra, Jeong-Eun Lee, Diego Mardones, Hongli Li
+4. Observer's Email : anandmayee.tej@gmail.com, sarita@iist.ac.in, dasswagat77@gmail.com, veenagangothri@gmail.com, liutiepku@gmail.com, ktkim@kasi.re.kr, swarna@ncra.tifr.res.in, ishwar@ncra.tifr.res.in, jeongeun.lee@khu.ac.kr, diego@das.uchile.cl, hlliu@nao.cas.cn
+5. Project Name : Bubbles as probes for triggered star formation
+6. Project Code : 27_029
+7. Operator(s) : Manisha, Navnath, Sachin, Surender
+8. Command File : /odisk/gtac/cmd/27_029/feb13.cmd
+9. LTA File : /gsbifrdata/13feb/27_029_13feb2015.lta
+10. LogFlag File : /odisk/online1/logflags/27_029.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 591 591 540 540 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :25
+
+32. Name of Non-Working Antennas (with reason for each) :
+C04 : Servo Problem.
+E06 : ABC Time out.
+W06 : 130 no fringe.
+W02 : No feed at 610.
+W05 : Feed cage painting.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 13 Feb 2015 05:00:00 - 13 Feb 2015 10:08:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :26
+
+37. Comments (During Observations) :
+05:03 : Started scan on 3C147 for 15 min.
+05:28 : Started cmd file.
+08:13 : all antennas power failed.
+08:14 : Stopped command file.
+08:50 : Completed set up after power arrival.
+NOTE : Please ignore scan no. 9 which was run to check fringe status while setting up antennas.
+08:50 : C04 started working.
+08:50 : Restarted command file from phase cal.
+09:44 : Stopped command file.
+09:52 : Started scan on 3C295 for 15 min.
+10:08 : Stopped scan and observing session is over.
+

@@ -1,0 +1,57 @@
+		 GTAC Observation Log 
+
+1. Date : 02/02/2005
+2. Observation Sr. No. : 0155
+3. Observer : Prof. Gopal Krishna
+4. Observer's Email : krishna@ncra.tifr.res.in
+5. Project Name : twocals 1328-015 (P)
+6. Project Code : TST0155
+7. Operator(s) : Jitendra,
+	Sachin,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/gk/phs_calib.cmd
+9. LTA File : /rawdata/2feb/tst0155_twocals_P.lta,
+	/rawdata1/2feb/tst0155_twocals_P.ltb
+10. LogFlag File : /btemp2/logflags/07ALA01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 325 MHz ,RF2 : 325 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 255 MHz, ILO2 : 255 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 325 325 255 255 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+C12 : painting
+C14 : 175 pol unstable fringe.
+W06 : ABC T.O.
+C09 : ABC T.O.
+W02 : Bad bandpass at 175 channel
+
+
+
+21. Start and End Time of Obs.(IST): 03:04 - 10:15
+
+22. Comments (During Observations) :
+ONLINE : BHASKAR
+AUTHIF AT 325 MHz 
+**************************
+03:04 : Flux cal scan started on 3c286.
+03:20 : Flux cal scan stopped.
+03:35 : command file started.
+09:00 : C12 parked for painting.
+09:42 : Stopped the command file.
+09:45 : Started taking scan on 3C286 for 30 mins.
+10:15 : Stopped the observation.
+
+

@@ -1,0 +1,64 @@
+		 GTAC Observation Log
+
+1. Date : 23/01/2015
+2. Observation Sr. No. : 7563
+3. Observer : Bhaswati Bhattacharyya, Jayanta Roy, Yashwant Gupta, Dipankar Bhattacharya, Elizabeth Ferrara
+4. Observer's Email : bhaswati.bhattacharyya@manchester.ac.uk, jayanta.roy@manchester.ac.uk, ygupta@ncra.tifr.res.in, dipankar@iucaa.ernet.in, elizabeth.c.ferrara@nasa.gov
+5. Project Name : Search for spider MSPs within the error boxes of high-significance Fermi LAT unassociated sources
+6. Project Code : 27_039
+7. Operator(s) : Navnath, Pramod, Rupsing
+8. Command File : /odisk/gtac/cmd/jroy/tmp.cmd
+9. LTA File : /gsbifrdata1/22jan/27_039_22jan2015_2s.lta
+10. LogFlag File : /odisk/online1/logflags/27_039.FLAGS.7
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : IA
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 306 306 255 255 51 51
+30. Integration Time : 2.0132 Sec
+31. No of Antennas Working(Fringing) at the beginning :24
+
+32. Name of Non-Working Antennas (with reason for each) :
+C00 : ABC time out.
+C11 : Servo problem.
+E04 : Cable tray installation.
+W04 : P3 item work.
+W05 and W06 : RFI.
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 22 Jan 2015 21:00:00 - 23 Jan 2015 04:00:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :23
+
+37. Comments (During Observations) :
+21:20 : Power eq on 3C48.
+21:30 : Started command file.
+       '/odisk/gtac/cmd/jroy/tmp.cmd'
+22:00 : C06 removed from GAC.
+22:32 : C00 Started working and add in GAB.
+23:51 : C12 ABC time out and removed from GAC.
+04:00 : Stopped command file and observation session is over.
+

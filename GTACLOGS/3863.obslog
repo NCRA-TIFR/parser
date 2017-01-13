@@ -1,0 +1,63 @@
+		 GTAC Observation Log 
+
+1. Date : 12/07/2008
+2. Observation Sr. No. : 3863
+3. Observer : viswesh
+4. Observer's Email : viswesh@ncra.tifr.res.in
+5. Project Name : REDQS0
+6. Project Code : 14VRM01
+7. Operator(s) : Deepak,
+	Navanath,
+	Nilesh,
+	Rupsingh,
+	Sachin,
+	
+8. Command File : /odisk/gtac/cmd/viswesh/txs0814+201.cmd,
+	/odisk/gtac/cmd/viswesh/txs0814+425.cmd
+9. LTA File : /rawdata/12jul/14vrm01_12jul2008.lta,
+	/rawdata1/12jul/14vrm01_12jul2008.ltb,
+	/rawdata/12jul/14vrm01_12jul2008.lta.1,
+	/rawdata1/12jul/14vrm01_12jul2008.ltb.1,
+	
+10. LogFlag File : /btemp2/logflags/14VRM01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1246.16 MHz ,RF2 : 1246.16 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1175 MHz, ILO2 : 1175 MHz, IVLO1 : 71.16 MHz, IVLO2 : 71.16 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+14. BB BW(KHz) & BB ALC : 4000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1246.16 1246.16 1175 1175 71.16 71.16 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+C04 - LO1 unlock.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 09:15 - 18:06
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : USBhigh raise    *********
+--------------------------------------------
+09:15 : Started settings for 14VRM01 
+09:25 : Started scan on 3c147 for 15min.
+13:55 : Stopped first record file after scan on 
+3C147.
+14:06 : Started new record file with new settings.
+tpa 1138.89 1138.89 1070 1070 68.8882 68.8882
+15:05 : W-ant Power Failure.
+16:30 : W01 and W02 started working on GENSET power.
+17:41 : Command file stopped.
+17:44 : Started scan on  3C286 for 15min.
+18:06 : Stopped the scan & observation over.
+
+

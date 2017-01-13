@@ -1,0 +1,56 @@
+		 GTAC Observation Log 
+
+1. Date : 22/08/2005
+2. Observation Sr. No. : 2208
+3. Observer : Ishwar
+4. Observer's Email : ishwar@ncra.tifr.res.in
+5. Project Name : EXO-PLANET-1
+6. Project Code : 08DWA01
+7. Operator(s) : Deepak,
+	Jitendra,
+	Manish G.,
+	Sachin,
+	Santaji,
+	
+8. Command File : /atemp2/cmd/hold.cmd
+9. LTA File : /rawdata/22aug/08dwa01_23aug05.lta,
+	/rawdata/22aug/08dwa01_23aug05.lta.1,
+	/rawdata/22aug/08dwa01_phs.lta
+10. LogFlag File : /atemp2/logflags/08DWA01.FLAGS.5
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 157 MHz ,RF2 : 157 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 223 MHz, ILO2 : 223 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+10 dB, 6 MHz,OFF, IF-CH2 : 10+10 dB, 6 MHz,OFF
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, OFF
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 157 157 223 223 66 66 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+S01 - MCM-5 timeout.
+C04 - Servo problem.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 23:10 - 09:30
+
+23. Comments (During Observations) :
+-----------------------------
+--- ONLINE ADITYA
+--- IFATTN NAUTH @ 150 MHz
+-----------------------------
+
+
+09:30  Stopped the observation.
+
+*** NOTE: One file was missing from the lta file names.
+
+- Corrected on 09-01-2006.

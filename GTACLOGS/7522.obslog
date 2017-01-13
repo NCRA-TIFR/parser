@@ -1,0 +1,65 @@
+		 GTAC Observation Log
+
+1. Date : 27/12/2014
+2. Observation Sr. No. : 7522
+3. Observer : Francesco deGasperin, Annalisa Bonafede, Marcus Bruggen, Huib Intema, Reinout Johannes vanWeeren
+4. Observer's Email : fdg@hs.uni-hamburg.de, annalisa.bonafede@hs.uni-hamburg.de, mbrueggen@hs.uni-hamburg.de, hintema@nrao.edu, rvanweeren@cfa.harvard.edu
+5. Project Name : Particle (re)acceleration in galaxy clusters
+6. Project Code : 27_018
+7. Operator(s) : Deepak, Navnath, Pramod, Sachin, Surender
+8. Command File : /odisk/gtac/cmd/27dec14_08hr.cmd,,
+9. LTA File : /gsbifrdata1/26dec/27_018_26dec2014.lta.1,/gsbifrdata1/26dec/27_018_26dec2014.lta
+10. LogFlag File : /odisk/online1/logflags/27_018.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 218 MHz, ILO2 : 218MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Full_Stokes
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 16.666666 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 138
+28. LO5 -2  : 167
+
+29. Frequency Parameters (TPA) : 156 156 218 218 62 62
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :27
+
+32. Name of Non-Working Antennas (with reason for each) :
+E04 : Servo maintenance.
+W04 : Mechanical maintenance
+C10 : Feed not present at 150 MHz.
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 27 Dec 2014 00:00:00 - 27 Dec 2014 16:00:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :27
+
+37. Comments (During Observations) :
+23:26 : Started scan on 3C147 for 15 mins.
+23:43 : Started command file.
+07:40 : Stopped command file.
+07:43 : Started scan on 3c286 and started new lta file,common flux cal in both files.
+08:00 : Started command file and closed previous source lta file.
+15:46 : Stopped command file.
+15:50 : Started scan on 3C48.
+16:00 : Stopped scan and observation session is over.
+
+
+

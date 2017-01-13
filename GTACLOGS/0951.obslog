@@ -1,0 +1,74 @@
+		 GTAC Observation Log 
+
+1. Date : 23/01/2003
+2. Observation Sr. No. : 0951
+3. Observer : Katherine
+4. Observer's Email : kmb@astro.ox.ac.uk
+5. Project Name : quasars
+6. Project Code : 03KBA01
+7. Operator(s) : Mangesh,
+	Manisha J.,
+	Jitendra,
+	
+8. Command File : /temp2/data/cmd/kmb/kmb10hr.cmd,
+	/temp2/data/cmd/kmb/kmb14hr.cmd,
+	/temp2/data/cmd/kmb/kmb17hr.cmd
+9. LTA File : /rawdata/23jan/03kba01_10hr.lta,
+	/rawdata/23jan/03kba01_14hr.lta,
+	/rawdata/23jan/03kba01_17hr.lta
+10. LogFlag File : /temp2/data/logflags/03KBA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 244 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 310 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 14+14 dB, 6 MHz,ON, IF-CH2 : 14+14 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 244 244 310 310 66 66 
+
+18. Integration Time : 80 STA ~ 10.568 Sec.
+19. No of Antennas Working(Fringing) :23
+
+20. Name of Non-Working Antennas (with reason for each) :
+C03 : 130 pol no fringe.
+C13 : PM maintance.
+E02 : ABC reset prob.
+W02 : 130 pol no fringe.
+W03 : No fringe.
+S04 : Low fringe!.
+S06 : Feed Jammed.
+W01 : No fringe.
+
+
+
+21. Start and End Time of Obs.(IST): 23:14 - 09:08
+
+22. Comments (During Observations) :
+23:14 : Started command file and lta file as follows
+            /temp2/data/cmd/kmb/kmb10hr.cmd
+            /rawdata/23jan/03kba01_10hr.lta
+27:02 : Stopped the command file.
+           /temp2/data/cmd/kmb/kmb10hr.cmd
+
+27:08 : Started next command file and lta file
+        as follows
+            /temp2/data/cmd/kmb/kmb14hr.cmd
+            /rawdata/23jan/03kba01_14hr.lta
+30:20 : Stopped the command file and lta file.
+
+30:30 : E03 developed problem in servo. So it
+        stopped working(tracking).
+
+30:40 : Started next command file and lta file
+        as follows
+            /temp2/data/cmd/kmb/kmb17hr.cmd
+            /rawdata/23jan/03kba01_17hr.lta
+
+09:08 : stopped the observation session. 
+
+

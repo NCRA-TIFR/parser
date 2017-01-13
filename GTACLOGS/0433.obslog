@@ -1,0 +1,37 @@
+1. Date : 15/01/2002
+2. Observation Sr. No. : 433
+3. Observer & email : Jayaram , chengalu@ncra.tifr.res.in
+4. Project Name & Code :TEST
+5. Operator(s) : Sanjay & Santaji(1),Jayprakash(2) & Manisha(2).
+6. Command File/Source  & Lta File : /temp2/data/cmd/nissim/0229.cmd
+                                   : /rawdata/15jan/mithuna_test.lta.
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 : 610 MHz., 0 dB., OFF.
+8. Ist LO (MHz) & IVth LO (MHz) : 570 MHz., 67.94 MHz.
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : 10 + 12 dB., 6 MHz., ON.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status :1 MHz., 12 dB., ON.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 4 / 4
+12. Channels : 0,127,1
+13. Frequency Parameters (TPA) :637.94 637.94 570 570 67.94 67.94
+
+14. Integration Time (Sec.) : 32 sec (16*16m)
+15. No of Antennas Working(Fringing) : 27.5
+16. Name of Non-Working Antennas (with reason for each) :
+
+    W04     MCM 5 T. O.
+    W06     130 pol low self, no fringe
+
+17. Starting and Ending time of Observations (IST) : 14:18
+
+18. Comments (During Observations) :
+
+    14:18  Started scan on 3c48 for 30min.   
+    14:54  Started cmd file /temp2/data/cmd/nissim/0229.cmd.
+    18:30  Started scan on 3C48 for 20min.
+
+19. Data Backup files & Tape No. :

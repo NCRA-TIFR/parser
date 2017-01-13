@@ -1,0 +1,67 @@
+		 GTAC Observation Log 
+
+1. Date : 20/4/2014
+2. Observation Sr. No. : 7060
+3. Observer : Nimisha Kantharia,Nirupam Roy,G.C. Anupama,Prasun Dutta,Ashok Madhav Nagarhalli,Dipankar Banerjee
+4. Observer's Email : ngk@ncra.tifr.res.in,roy.nirupam@gmail.com,gca@iiap.res.in,prasundutta151@gmail.com,ashok@prl.res.in,orion@prl.res.in
+5. Project Name : Search for radio emission at frequencies less than 1 GHz from Galactic Novae with GMRT - GNovaG
+6. Project Code : 26_010
+7. Operator(s) : Pramod,Surender
+8. Command File : /odisk/gtac/cmd/ngk/26_010-21apr14a.cmd,/odisk/gtac/cmd/ngk/26_010-21apr14b.cmd
+9. LTA File : /gsbifrdata/20apr/26_010_20apr2014.lta,/gsbifrdata/20apr/26_010_20apr2014.lta.1,
+10. LogFlag File : /odisk/online1/logflags/26_010.FLAGS.4,
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 22+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : Realtime 
+15. GSB LTA : 8 
+16. GSB CTRL : ONLINE 
+17. GSB Fstop : ON 
+18. GAIN EQ : OFF, 
+19. Stokes : TotIntensity
+20. Beam - 1 : OFF
+21. Beam - 2 : OFF
+22. ACQ BW : 33.33 MHz
+23. Final BW : 33.333333 MHz; Step # 0
+24. Maximum Channels : 256 
+25. Channel Numbers : 0:255:1 
+26. LO5 -1  : 149.00 
+27. LO5 -2  : 156.00 
+
+28. Frequency Parameters (TPA) : 591 591 540 540 51 51.
+29. Integration Time : 16.106112 Sec.
+30. No of Antennas Working(Fringing) at the begining :28
+
+31. Name of Non-Working Antennas (with reason for each) :
+C03 : Feed removed.
+E06 : Intermediate fringing. 
+32. Note for Backup :
+
+33. Start and End Time of Obs.(IST): 23:00 - 09:25
+
+34. ONLINE Machine : Shivneri
+
+35. No of Antennas Working(Fringing) at the end :25
+
+36. Comments (During Observations) :
+23:00 : Started set up for 610MHZ.
+23:28 : Power equalised on 3C286 at 150 counts.
+23:33 : Started scan on 3C286.
+23:43 : Stopped scan and started command file.
+        '/odisk/gtac/cmd/ngk/26_010-21apr14a.cmd'
+03:00 : Stopped command file and started new command file.
+        '/odisk/gtac/cmd/ngk/26_010-21apr14b.cmd'
+08:00 : E03 taken for painting.
+08:31 : W01 & S02 taken for painting.
+08:59 : Stopped command file.
+09:03 : Started scan on 3C48.
+09:25 : Stopped scan and observing session is over.
+
+
+

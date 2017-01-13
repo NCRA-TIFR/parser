@@ -1,0 +1,64 @@
+		 GTAC Observation Log
+
+1. Date : 07/08/2014
+2. Observation Sr. No. : 7273
+3. Observer : Sarita Vig, Anandmayee Tej, Veena V.S., Swarna Kanti Ghosh, C.H. IshwaraChandra, Alvaro Sanchez-Monge
+4. Observer's Email : sarita@iist.ac.in, anandmayee.tej@gmail.com,veenagangothri@gmail.com,swarna@ncra.tifr.res.in,ishwar@ncra.tifr.res.in,sanchez@ph1.uni-koeln.de
+5. Project Name : High resolution radio investigation of early phases in the formation of massive stars
+6. Project Code : 26_043
+7. Operator(s) : Navnath, Pramod, Rupsing
+8. Command File : /odisk/gtac/cmd/26_043/obs_610.cmd
+9. LTA File : /gsbifrdata/07aug/26_043_07aug2014.lta
+10. LogFlag File : /odisk/online1/logflags/26_043.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 0
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 591 591 540 540 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :29
+
+32. Name of Non-Working Antennas (with reason for each) :
+W05 : Taken for BLDC work.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 07 Aug 2014 18:00:00 - 07 Aug 2014 22:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :29
+
+37. Comments (During Observations) :
+18:00 : Started set up.
+18:02 : Started scan on 3C286.
+18:17 : Stopped scan and started command file.
+18:25 : Started following command file.
+       '/odisk/gtac/cmd/26_043/obs_610.cmd'
+18:33 : C08 not fringing.
+21:35 : C08 started working.
+21:41 : Stopped command file.
+21:46 : Started scan on 3C286.
+22:00 : Stopped scan and observation session is over.
+

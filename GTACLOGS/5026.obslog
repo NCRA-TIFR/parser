@@ -1,0 +1,61 @@
+		 GTAC Observation Log 
+
+1. Date : 22/08/2010
+2. Observation Sr. No. : 5026
+3. Observer :  J. Roy
+4. Observer's Email : jroy@ncra.tifr.res.in
+5. Project Name : Pulsar observation.
+6. Project Code : 18_088
+7. Operator(s) : Nilesh,
+	Rupsingh,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/pulsar/gtd.22aug2k10.1.cmd
+9. LTA File : /rawdata/22aug/18_088_22aug2010.lta,
+	
+10. GSB File : 
+11. LogFlag File : /odisk/online1/logflags/18_088.FLAGS.1
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 602 MHz ,RF2 : 602 MHz, SA1 : 0 dB, SA2 : 0 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 62 MHz, IVLO2 : 62 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+10 dB, 16 MHz,OFF, IF-CH2 : 20+10 dB, 16 MHz,OFF
+15. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 602 602 540 540 62 62 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+S03 : finge fluctuations.
+
+21. Note for Backup :--
+
+22. Start and End Time of Obs.(IST): 18:10 - 00:00
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+---------------------------------------------------
+E03 : Requires swap at RF = 610MHz.
+GSB is running in rawdump mode.
+---------------------------------------------------
+18:15 : Started setup.       
+18:20 : Started power eq on 1822-096.
+18:30 : Started phasing on 1822-096.
+18:45 : Started command file.
+   /odisk/gtac/cmd/pulsar/gtd.22aug2k10.1.cmd,
+20:13 : C05 ABC time out.
+23:56 : Stopped command file.
+23:57 : Started scan on 1822-096.
+00:00 : Stopped scan and observation closed.
+
+
+

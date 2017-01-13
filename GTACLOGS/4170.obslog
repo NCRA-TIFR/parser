@@ -1,0 +1,70 @@
+		 GTAC Observation Log 
+
+1. Date : 31/01/2009
+2. Observation Sr. No. : 4170
+3. Observer : Ishwar, Dipankar
+4. Observer's Email : ishwar@ncra.tifr.res.in,dipankar@iucaa.ernet.in
+5. Project Name : GRb
+6. Project Code : 15DBA01
+7. Operator(s) : Deepak,
+	Manisha,
+	Nilesh,
+	Rupsingh,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/ishwar/15dba610.cmd
+9. LTA File : /rawdata/31jan/15dba01_31jan2009.lta,
+	/rawdata1/31jan/15dba01_31jan2009.ltb,
+  /rawdata/31jan/15dba01_31jan2009_diffstop.lta,
+  /rawdata1/31jan/15dba01_31jan2009_diffstop.ltb
+10. LogFlag File : /btemp2/logflags/15DBA01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C09 : Low Fringe.
+W05 : Low Fringe.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 21:00 - 07:42
+
+23. ONLINE Machine : Bhaskar
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+---------------------------------------------------------
+NOTE FOR THE USER :
+"The online fringe stopping algorithm was found to be in error by about 2s
+after 1Jan2009. This differential fringe rate was applied using the program
+diffstop. The fringe rate was corrected for an error of +2.0s, and the
+timestamps were also updated by the same amount."
+--------------------------------------------------------------------
+
+21:00 : Started scan on 3C147 ~15mins.
+21:27 : Started command file.
+
+02:21 : Command file stopped. Track changed.
+02:31 : Started scan on '1021+219'.
+02:48 : Restarted command file.
+07:23 : Stopped command file.
+07:26 : Started scan on 3C286.
+07:42 : Stopped scan and observing session over.
+
+
+
+
+

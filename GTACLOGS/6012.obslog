@@ -1,0 +1,55 @@
+		 GTAC Observation Log 
+
+1. Date : 30/6/2012
+2. Observation Sr. No. : 6012
+3. Observer : Mayuresh Surnis
+4. Observer's Email : mpsurnis@ncra.tifr.res.in
+5. Project Name : Pulsar Observation
+6. Project Code : 22_069
+7. Operator(s) : Deepak,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/mpsurnis/22_069_30jun12.cmd
+9. LTA File : /gsbifrdata/30jun/22_069_30jun2012.lta.1
+10. LogFlag File : /odisk/online1/logflags/22_069.FLAGS.13
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : IA
+19. Beam - 2 : PA
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 512 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 306 306 255 255 51 51.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :29
+
+27. Name of Non-Working Antennas (with reason for each) :
+C04 - not working (at 14dB solar attn for 325 MHz.)
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 22:00 - 04:20
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+22:00 : settings started.
+power eq and phasing.
+
+23:15 : command file started.
+04:20 : stopped the command file.
+04:20 : observation session over.
+
+

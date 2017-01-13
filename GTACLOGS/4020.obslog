@@ -1,0 +1,69 @@
+		 GTAC Observation Log 
+
+1. Date : 04/11/2008
+2. Observation Sr. No. : 4020
+3. Observer : Rekesh
+4. Observer's Email : reks@iiap.res.in
+5. Project Name : pnradio
+6. Project Code : 15NKR01
+7. Operator(s) : Jayprakash,
+	Nilesh,
+	Santaji,
+	Shilpa,
+  Rupsing
+8. Command File : /odisk/gtac/cmd/15nkr01/v4334sgr.cmd,
+	/odisk/gtac/cmd/15nkr01/fgsge.cmd
+9. LTA File : /rawdata/4nov/15nkr01_04nov2008.lta,
+	/rawdata1/4nov/15nkr01_04nov2008.ltb,
+	/rawdata/4nov/15nkr01_04nov2008.lta.1,
+	/rawdata1/4nov/15nkr01_04nov2008.ltb.1
+10. LogFlag File : /btemp2/logflags/15NKR01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1400 MHz ,RF2 : 1400 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1330 MHz, ILO2 : 1330 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:128:1
+17. Frequency Parameters (TPA) : 1400 1400 1330 1330 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+C08 : Low fringe.
+C04 : Painting.
+C05 : Painting.
+S06 : Low fringe.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 12:00 - 00:00
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar ********* 
+******** Corr Mode : IndianPolarMode  *********
+-------------------------------------------
+12:00 : Started scan on 3c286 for 10 min.
+12:15 : '/odisk/gtac/cmd/15nkr01/v4334sgr.cmd' command file started.
+16:04 : MSEB power failure.
+16:08 : MSEB power resumed.
+      : scan # 12 last 10 records are bad.
+16:28 : Restarted the observation session.
+
+19:17 : Stopped command file.
+19:25 : Started scan on 3C48. New record files started.
+19:35 : Stopped scan. Closed the old record files.
+
+        Changed command file.
+19:43 : '/odisk/gtac/cmd/15nkr01/fgsge.cmd' command file started.
+20:00 : C04,C05 back in observation. 
+23:06 : Stopped command file.
+23:12 : Started scan on 3C147.
+23:18 :Stopped scan and observation session over.

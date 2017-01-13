@@ -1,0 +1,171 @@
+		 GTAC Observation Log 
+
+1. Date : 16/03/2003
+2. Observation Sr. No. : 1015
+3. Observer : P. Shastri & Ashok Singal
+4. Observer's Email : pshastri@iiap.ernet.in
+5. Project Name : Seyferts
+6. Project Code : 03PSB01
+7. Operator(s) : Deepak,
+	Mangesh,
+	Manish G.,
+	Manisha J.,
+	Jayprakash,
+	Sanjay,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/ashok/16mar03a.cmd,
+	/btemp2/cmd/ashok/16mar03b.cmd,
+	/btemp2/cmd/ashok/16mar03c.cmd,
+	/btemp2/cmd/ashok/16mar03d.cmd,
+	/btemp2/cmd/ashok/17mar03a.cmd,
+	/btemp2/cmd/ashok/17mar03b.cmd,
+	/btemp2/cmd/ashok/17mar03c.cmd,
+	/btemp2/cmd/ashok/17mar03d.cmd,
+	/btemp2/cmd/ashok/17mar03e.cmd,
+	/btemp2/cmd/ashok/17mar03f.cmd,
+	/btemp2/cmd/ashok/18mar03b.cmd,
+	/btemp2/cmd/ashok/18mar03c.cmd,
+	/btemp2/cmd/ashok/18mar03d.cmd,
+	/btemp2/cmd/ashok/18mar_0234.cmd,
+	/btemp2/cmd/ashok/18mar03e.cmd,
+	/btemp2/cmd/ashok/18mar_0159.cmd,
+	/btemp2/cmd/ashok/18mar_0242.cmd,
+	/btemp2/cmd/ashok/18mar03f.cmd,
+	/btemp2/cmd/ashok/18mar_1116.cmd,
+	/btemp2/cmd/ashok/k.cmd,
+	/btemp2/cmd/ashok/19mar03.cmd
+9. LTA File : /rawdata/16mar/03psb01_16marA.lta,
+	/rawdata/16mar/03psb01_17marA.lta,
+	/rawdata/16mar/03psb01_17marB.lta,
+	/rawdata/17mar/03psb01_17marC.lta,
+	/rawdata/17mar/03psb01_17marD.lta,
+	/rawdata/18mar/03psb01_18marA.lta,
+	/rawdata/18mar/03psb01_18marB.lta,
+	/rawdata/18mar/03psb01_18marC.lta,
+	/rawdata/18mar/03psb01_18marD.lta,
+	/rawdata/18mar/03psb01_18marE.lta
+10. LogFlag File : /btemp2/logflags/03PSB01.FLAGS,
+	/btemp2/logflags/03PSB01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+--
+
+21. Start and End Time of Obs.(IST): 15:29 - 10:30
+
+22. Comments (During Observations) :
+15:29 : Started scan on 3c48 for 1min.
+15:32 : Started scan on 3c48 for 7min.
+15:45 : Started scan on 2225-049 for 3min.
+15:50 : Started scan on J2305+001 for 15min.
+*** Scan 4 Bad scan ***
+16:13 : Started command file /temp2/data/cmd/ashok/16mar03a.cmd.
+        Scan 5 and 7 doesn't have source name due
+        to default source list being deleted from
+        online. Antennas may not be tracking the
+        expected sources and hence data may junk
+        for these scans( 5 and 7).
+17:19 : Started command file /temp2/data/cmd/ashok/16mar03b.cmd.
+19:57 : W01 not tracking the source.
+20:02 : W01 Started tracking the source.
+20:22 : Started command file /temp2/data/cmd/ashok/16mar03c.cmd.
+21:09 : Stopped command file.
+21:12 : Started scan on J0452-032 for 15min.
+21:28 : Stopped scan.
+21:38 : Started command file /temp2/data/cmd/ashok/16mar03d.cmd.
+23:42 : Stopped the command file.
+23:53 : Started command file  /temp2/data/cmd/ashok/17mar03a.cmd
+04:55 : Command file finished.
+04:58 : Started command file  /temp2/data/cmd/ashok/17mar03b.cmd
+*********
+08:02 : E04 started giving ABC time out.
+08:15 : E04 Started communicating.
+08:29 : started command file /temp2/data/cmd/ashok/17mar03c.cmd.
+	ltafile : /rawdata/16mar/03psb01_17marB.lta
+09:02	scan # 4 BAD (source 0054-035 was not risen!!)
+10:05 : scan # 9 bad scan ( Source J0137-091 was not risen )
+11:46 : scan # 17 BAD (antennas were not reached on source!!!)
+11:53 : scan # 18 , S04 flat bandshape.
+12:20 : scan 20, C04 flat bandshape.
+16:06 : Stopped cmd file
+16:15 : Started  new lta file,
+	/rawdata/17mar/03psb01_17marC.lta
+	Started record on  3c48, record in both lta files.
+16:23 : Stopped record on 3c48, stopped earlier lta file
+	/rawdata/16mar/03psb01_17marB.lta
+16:30 : Started cmd file /temp2/data/cmd/ashok/17mar03d.cmd
+
+16:44 : C05 flat bandshape till end of scan# 2.
+17:22 : S03, brake problem, antenna stopped tracking.
+19:18 : Scan# 16 bad, antenna did not reach to target.
+21:30 : Command file over. Moved antennas to
+        first source in file 
+          /temp2/data/cmd/ashok/17mar03e.cmd
+21:38 : Started the command file 
+          /temp2/data/cmd/ashok/17mar03e.cmd
+22:07 : Stopped the lta file.
+        Started new lta file
+         /rawdata/17mar/03psb01_17marD.lta.
+22:22 : Started next command file.
+         /temp2/data/cmd/ashok/17mar03e.cmd
+------------------------------------------------
+** IIIrd shift operator to fill. ***
+-------------------------------------------------
+09:46 : Stopped cmd file.
+09:54 : Stopped lta file, started new 
+/rawdata/18mar/03psb01_18marB.lta
+10:00 : Started cmd file /temp2/data/cmd/ashok/18mar03c.cmd
+11:35 : C05 flat bshape, till end of scan# 7.
+11:42 : First 3 records of scan# 8 bad, corr_config running.
+13:02 : Stopped cmd  file
+13:10 : Record on 3c48 started,
+13:13 : C00, C01, W01,W03, W06 found  not giving fringe on 3c48.
+      : corr_config solved problem.
+      : from  11:42 to 13:13 data on C00, C01, W01, W03, W06 bad.
+13:17 : Restarted record on 3c48.
+13:24 : Stopped record on 3c48.
+13:30 : Started cmd file /temp2/data/cmd/ashok/18mar03d.cmd
+15:47 : started the command file 
+        /temp2/data/cmd/ashok/18mar_0234.cmd 
+16:23 : started the command file
+        /temp2/data/cmd/ashok/18mar03e.cmd
+17:36 : started the command file
+       /temp2/data/cmd/ashok/18mar_0159.cmd
+18:03 : started the command file 
+       /temp2/data/cmd/ashok/18mar_0242.cmd
+18:38 : started the command file 
+       /temp2/data/cmd/ashok/18mar03f.cmd
+20:03 : started the command file
+       /temp2/data/cmd/ashok/18mar_1116.cmd
+20:44 : ONLINE Machine  (Bhaskar) crashed, 
+        rebooted it. Restarted the observation.
+21:34 : started scan on 3c286.
+21:44 : restarted the command file 
+       /temp2/data/cmd/ashok/18mar_1116.cmd
+04:45 : From file: /rawdata/18mar/03psb01_18marD.lta
+        Bad Scan Nos: 31, 33, 34, 35.
+04:47 : Started new LTA file: /rawdata/18mar/03psb01_18marE.lta
+07:13 : Started command file   /temp2/data/cmd/ashok/k.cmd
+08:30 : started command file  /temp2/data/cmd/ashok/19mar03.cmd
+10:10	stopped command file.
+10:15	started scan on 3C48 ~ 15mins.
+10:30	stopped scan. Observation session over!.
+
+
+

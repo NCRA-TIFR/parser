@@ -1,0 +1,65 @@
+		 GTAC Observation Log
+
+1. Date : 19/10/2014
+2. Observation Sr. No. : 7372
+3. Observer : Jayanta Roy, Bhaswati Bhattacharyya, Yashwant Gupta, Dipankar Bhattacharya
+4. Observer's Email : jayanta.roy@manchester.ac.uk, bhaswati.bhattacharyya@manchester.ac.uk, ygupta@ncra.tifr.res.in, dipankar@iucaa.ernet.in
+5. Project Name : Long-term timing program for millisecond pulsars discovered by the GMRT in Fermi-directed searches
+6. Project Code : 27_041
+7. Operator(s) : Pramod, Surender
+8. Command File : /odisk/gtac/cmd/jroy/27_041_19oct.1.cmd
+9. LTA File : /gsbifrdata/19oct/27_041_19oct2014_2s.lta.1,/gsbifrdata/19oct/27_041_19oct2014_2s.lta,/gsbifrdata/19oct/27_041_19oct2014.lta.1,/gsbifrdata/19oct/27_041_19oct2014.lta
+10. LogFlag File : /odisk/online1/logflags/27_041.FLAGS.2,/odisk/online1/logflags/27_041.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : IA
+22. Beam - 2 : PA
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 591 591 540 540 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :26
+
+32. Name of Non-Working Antennas (with reason for each) :
+W03 : Feed trush painting .
+E06 : Taken for BLDC.
+E05 : Servo problem.
+W06 : Low fringe@130 pol.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 19 Oct 2014 08:45:00 - 19 Oct 2014 14:21:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :26
+
+37. Comments (During Observations) :
+08:30 : Started set-up for 610MHz.
+08:46 : Power eq and phasing done on 1459+716.
+08:50 : Started command file.
+11:41 : Stopped command file.
+------------------------------------------
+11:45 : Started set-up for 325MHz.
+11:59 : Power eq and phasing done on 1154-350.
+12:03 : Stopped command file.
+14:21 : Stopped command file and observing session is over.

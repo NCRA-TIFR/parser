@@ -1,0 +1,93 @@
+		 GTAC Observation Log 
+
+1. Date : 05/06/2007
+2. Observation Sr. No. : 3187
+3. Observer : NEERAJ
+4. Observer's Email : neeraj@ncra.tifr.res.in
+5. Project Name : MG2
+6. Project Code : 12RSA01
+7. Operator(s) : Jayprakash,
+	Jitendra,
+	Sachin,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/neeraj/mg0953.cmd,
+	/btemp2/cmd/neeraj/mg1508.cmd
+9. LTA File : /rawdata/5jun/12rsa01_5jun2k7.lta,
+	/rawdata1/5jun/12rsa01_5jun2k7.ltb,
+	/rawdata/5jun/12rsa01_5jun2k7.lta.1,
+	/rawdata1/5jun/12rsa01_5jun2k7.ltb.1
+10. LogFlag File : /btemp2/logflags/12RSA01.FLAGS.7
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 634.3962 MHz ,RF2 : 634.3962 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 565 MHz, ILO2 : 565 MHz, IVLO1 : 69.3962 MHz, IVLO2 : 69.3962 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+4 dB, 6 MHz,ON, IF-CH2 : 12+4 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 1000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 634.3962 634.3962 565 565 69.3962 69.3962 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+W03 : servo Problem.
+
+No. of antennas are changing w.r.t time please refer log statements below.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 11:58 - 04:00
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+---------------------------------------------
+11:58 : Flux cal 3c48 started,
+12:22 : cmd file started.
+16:31 : Phase cal scan stopped before the time limit because phase cal
+        at transit, many Arm antennas are going out of tracking.
+
+16:35 : Flux cal scan started on 3C286.
+        W03 Started tracking, fringe also appeared.
+20:15 : Stopped the command file.
+20:21 : Started scan on 3c286.
+20:31 : Stopped the scan.
+...............................................................
+        Started settings for next obs.
+        Antenna Settings : RF = 610 MHz, LO = 585 MHz.,
+        IFBW = 6 MHz, BB = 2 MHz, IV LO = 70.1417
+* Problems : S06 ABC T.O.
+             C09-USB/LSB 175 Low fringe count.
+             C14-USB/LSB 175 No fringe.
+20:44 : Flux cal scan started on 3C286 for 15m.
+20:59 : Scan stopped.
+21:02 : Command file started.
+22:19 : Power failed.
+22:30 : POwer is on GEN SET, so initialized CSQ + E03,W02,S02.
+        Observing settings restored.
+22:40 : command file started.
+22:54 : MSEB power resume.
+23:23 : Restarted commnad file.
+23:58 : MSEB power failed.
+00:05 : MSEB power resumed.
+00:05 : E03 ABC time out.
+01:38 : E02 ABC time out.
+02:38 : Servo time out.
+04:00 : Stopped command file and scans.
+04:00 : Stopped observation session.
+
+

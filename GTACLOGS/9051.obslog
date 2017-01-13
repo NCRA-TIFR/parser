@@ -1,0 +1,82 @@
+		 GTAC Observation Log
+
+1. Date : 10/12/2016
+2. Observation Sr. No. : 9051
+3. Observer : Bhaswati Bhattacharyya, Jayanta Roy, Ben Stappers, Michael Keith, Sally Cooper, Mateusz Malenta, Maura Ann McLaughlin, Paul Ray, Scott M. Ransom, Jayaram Narayanan Chengalur
+4. Observer's Email : bhaswati.bhattacharyya@manchester.ac.uk, jayanta.roy@manchester.ac.uk, Ben.Stappers@manchester.ac.uk, mkeith@pulsarastronomy.net, sally.cooper@postgrad.manchester.ac.uk, mateusz.malenta@student.manchester.ac.uk, maura.mclaughlin@mail.wvu.edu, paul.ray@nrl.navy.mil, sransom@nrao.edu, chengalur@ncra.tifr.res.in
+5. Project Name : GMRT High Resolution Southern Sky (GHRSS) survey for millisecond pulsars and transients : A SKA precursor survey
+6. Project Code : 31_035
+7. Operator(s) : Deepak, Sachin, Shilpa
+8. Command File : /odisk/gtac/cmd/jroy/31_035_10dec.cmd
+9. LTA File : /gsbifrdata1/10dec/31_035_10dec2016_2s.lta
+10. LogFlag File : /odisk/online1/logflags/31_035.FLAGS.5
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_lenyadri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 0 MHz; Step # 0
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 306 306 255 255 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :29
+
+32. Name of Non-Working Antennas (with reason for each) :
+E05 : Taken for mechanical work.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 10 Dec 2016 10:00:00 - 10 Dec 2016 16:17:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :29
+
+37. Comments (During Observations) :
+GAC - All antennas except E05.
+---------------------------------------------------------------------------
+10:07:09 : Started scan on 1526-138 for ~ 2.31525 min.
+10:14:43 : Started scan on 1427-421 for ~ 2.04682 min.
+10:17:28 : Started scan on HR_1501-43 for ~ 18.4214 min.
+10:36:47 : Started scan on HR_1509-43 for ~ 18.3543 min.
+10:56:03 : Started scan on HR_1516-43 for ~ 18.2871 min.
+11:15:02 : Started scan on 1427-421 for ~ 2.01326 min.
+11:17:44 : Started scan on HR_1523-43 for ~ 18.2536 min.
+11:36:55 : Started scan on HR_1531-43 for ~ 18.3207 min.
+11:56:08 : Started scan on HR_1538-43 for ~ 18.2871 min.
+12:15:10 : Started scan on 1427-421 for ~ 1.97971 min.
+12:18:00 : Started scan on HR_1545-43 for ~ 18.2871 min.
+12:36:59 : Started scan on HR_1553-43 for ~ 18.2871 min.
+12:56:13 : Started scan on HR_1726-52 for ~ 45.2649 min.
+13:42:44 : Started scan on 1830-360 for ~ 2.01326 min.
+13:45:36 : Started scan on HR_1706-43 for ~ 18.2871 min.
+14:04:49 : Started scan on HR_1713-43 for ~ 3.75809 min.
+14:09 : S06 and W05 removed from GAC.
+14:08:40 : Started scan on HR_1713-43 for ~ 14.4284 min.
+14:23:59 : Started scan on HR_1721-43 for ~ 18.2871 min.
+14:43:10 : Started scan on 1830-360 for ~ 2.01326 min.
+14:46:02 : Started scan on HR_1728-43 for ~ 18.2871 min.
+15:05:13 : Started scan on HR_1735-43 for ~ 18.2536 min.
+15:24:12 : Started scan on HR_1743-43 for ~ 18.2871 min.
+15:43:24 : Started scan on 1830-360 for ~ 2.01326 min.
+15:46:13 : Started scan on HR_1750-43 for ~ 7.2142 min.
+15:57:35 : Started scan on HR_1947-43 for ~ 20.2669 min.
+16:17:00 : Stopped scan and observing session over.

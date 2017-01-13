@@ -1,0 +1,92 @@
+		 GTAC Observation Log 
+
+1. Date : 20/12/2010
+2. Observation Sr. No. : 5150
+3. Observer : Ujjwal Kumar
+4. Observer's Email : ujjwal@ncra.tifr.res.in
+5. Project Name : Pulsar Observation
+6. Project Code : 19_072
+7. Operator(s) : Manisha,
+	Navanath,
+	Rupsingh,
+	
+8. Command File : /odisk/online1/hold.cmd
+9. LTA File : /rawdata/20dec/19_072_20dec2010_325.lta.1,
+	/rawdata/20dec/19_072_20dec2010_610.lta.1
+10. GSB File : /gsbifrdata/17dec/19_072_20dec_gsb_sub2.lta.1,
+	/gsbifrdata/17dec/19_072_20dec_gsb_sub4.lta.1
+11. LogFlag File : /odisk/online1/logflags/SUBA4.FLAGS.112,
+	/odisk/online1/logflags/SUBA2.FLAGS.104
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+4 dB, 32 MHz,OFF, IF-CH2 : 20+4 dB, 32 MHz,OFF
+15. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+GHB Settings :
+16. GHB Channels : 0:127:1
+17. Correlator Mode : IndianPolar
+18. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+GSB Settings :
+19. Maximum Channels : 512 
+20. Final Bandwidth (MHz): OFF MHz; Step # 0
+21. IFBW : LO5(MHz) : 32:149000-156000 MHz
+22. Stokes : Total_Intensity
+23. Beam - 1 : PA
+24. Beam - 2 : PA
+
+25. Integration Time : 128 LTA ~ 16.908 Sec.
+26. No of Antennas Working(Fringing) :30
+
+27. Name of Non-Working Antennas (with reason for each) :
+C00 and C03 : painting 
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 10:25 - 16:47
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+# sub 2 # 325mhz #C01 C02 C03 C05 C10 C12 C13 W01 E02 S01 
+ante 10 6 5 1 19 12 2 11 8 17 26 
+cp 0;defs 2;subar 2
+---------------------------------------------------------------------------------------------------
+# sub 4 # 610mhz #C00 C04 C06 C08 C09 C11 C14 W02 W03 W04 W05 W06 E03 E04 E05 E06 S02 S03 S04 S06 
+ante 20 7 3 20 24 4 9 10 13 14 15 16 25 18 21 22 23 27 28 29 30 
+cp 0;defs 4;subar 4
+----------------------------------------------------------
+10:22:13 : Started scan on 1419+064 for ~ 3.05556min.
+10:25:56 : Started scan on 1419+064 for ~ 10.5556min.
+10:46:38 : Started scan on J1713+0747 for ~ 22.7778min.
+11:13:10 : Started scan on B1540-06 for ~ 26.3889min.
+11:43:23 : Started scan on B1642-03 for ~ 26.9444min.
+12:14:26 : Started scan on J1744-1134 for ~ 21.3889min.
+12:37:34 : Started scan on J1730-2304 for ~ 31.9444min.
+13:10:32 : Started scan on J1600-3053 for ~ 0min.
+13:12:13 : Started scan on J1600-3053 for ~ 23.8889min.
+13:39:03 : Started scan on J1909-3744 for ~ 22.2222min.
+14:05:18 : Started scan on 1822-096 for ~ 11.6667min.
+14:22:20 : Started scan on 1822-096 for ~ 5.83333min.
+14:31:53 : Started scan on 1822-096 for ~ 3.05556min.
+14:39:55 : Started scan on 1822-096 for ~ 8.05556min.
+14:05:18 : Started scan on 1822-096 for ~ 11.6667min.
+14:22:20 : Started scan on 1822-096 for ~ 5.83333min.
+14:31:53 : Started scan on 1822-096 for ~ 3.05556min.
+14:39:55 : Started scan on 1822-096 for ~ 10.8333min.
+14:51:23 : Started scan on 1822-096 for ~ 4.16667min.
+15:00:17 : Started scan on 1822-096 for ~ 4.72222min.
+15:06:10 : Started scan on B1822-09 for ~ 21.3889min.
+15:31:38 : Started scan on J2145-0750 for ~ 16.6667min.
+15:52:26 : Started scan on B1907+00 for ~ 21.3889min.
+16:15:28 : Started scan on B1818-04 for ~ 10.5556min.
+16:28:15 : Started scan on B1929+10 for ~ 3.05556min.
+16:33:46 : Started scan on J2043+2740 for ~ 13.0556min.
+16:47:24 : Stopped scan & observation over.
+
+
+

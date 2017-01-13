@@ -1,0 +1,80 @@
+		 GTAC Observation Log 
+
+1. Date : 21/11/2010
+2. Observation Sr. No. : 5111
+3. Observer : Jayanto Roy, Bhaswati
+4. Observer's Email : jroy@ncra.tifr.res.in,bhaswati@ncra.tifr.res.in
+5. Project Name : Pulsar Observation
+6. Project Code : 19_084
+7. Operator(s) : Deepak,
+	Manisha,
+	Navanath,
+	Nilesh,
+	Rupsingh,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /rawdata/21nov/19_084_21nov2010.lta,
+	/rawdata1/21nov/19_084_21nov2010.ltb
+10. GSB File : /gsbifrdata/21nov/19_084_21nov2010_gsb.lta,
+	/gsbifrdata/21nov/19_084_21nov2010_gsb.lta.1
+11. LogFlag File : /odisk/online1/logflags/19_084.FLAGS
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+15. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+GHB Settings :
+16. GHB Channels : 0:127:1
+17. Correlator Mode : IndianPolar
+18. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+GSB Settings :
+19. Maximum Channels : 512 
+20. Final Bandwidth (MHz): OFF MHz; Steps : 0
+21. IFBW : LO5(MHz) : 32:149-156 MHz
+22. Stokes : Total_Intensity
+23. Beam - 1 : IA
+24. Beam - 2 : PA
+
+25. Integration Time : 128 LTA ~ 16.908 Sec.
+26. No of Antennas Working(Fringing) :29
+
+27. Name of Non-Working Antennas (with reason for each) :
+E05 : ABC T.O.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 18:00 - 08:00
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+17:50 : Started power(3C48) eq. @ IF=1000.
+18:00 : Power eq. done.
+18:01 : Started phasing(3C48).
+18:15 : Phasing done.
+18:16 : Started phasing on 2225-049.
+18:25 : Started scan on 0010-418 to check phases.
+19:18 : Started scan on 2225-049 for phasing.
+19:33 : Started scan on 3C48 for ~5min.
+19:43 : Started phasing on 0010-418.
+19:49 : Started scan on J2323.0-491 for ~28min.
+20:15 : Started scan on J2356.0-525 for ~30min.
+20:45 : Started scan on J2330.3-474 for ~30min.
+21:17 : Started phasing on 0010-418.
+21:23 : Started scan on J2145-0750 for ~10min.
+21:34 : Started scan on 18M4913 for ~18min.
+21:52 : Started scan on B0329+54 for ~3min.
+22:04 : Started scan on 18M4913 for ~30min.
+22:35 : Started phasing on 0010-418.
+22:38 : Started scan on J0001.9-415 for ~30min.
+
+
+08:15 : Observation stopped.
+
+

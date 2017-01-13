@@ -1,0 +1,69 @@
+		 GTAC Observation Log 
+
+1. Date : 17/3/2013
+2. Observation Sr. No. : 6426
+3. Observer : Yashwant Gupta, Ujjwal Kumar
+4. Observer's Email : ygupta@ncra.tifr.res.in,ujjwal@ncra.tifr.res.in
+5. Project Name : Pulsar Observation
+6. Project Code : 23_065
+7. Operator(s) : Pramod,
+	Surender
+8. Command File : 
+9. LTA File : /gsbifrdata/17mar/23_065_suba4_17mar2013.lta,
+	/gsbifrdata/17mar/23_065_suba2_17mar2013.lta
+10. LogFlag File : /odisk/online1/logflags/SUBA4.FLAGS.471,
+	/odisk/online1/logflags/SUBA2.FLAGS.526
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 317 MHz ,RF2 : 317 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255 MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 16 MHz,OFF, IF-CH2 : 24+4 dB, 16 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : OFF 
+17. Stokes : Full_Polar
+18. Beam - 1 : IA
+19. Beam - 2 : PA
+20. ACQ BW : 16 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 16:138000-167000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 317 317 255 255 62 62.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :25
+
+27. Name of Non-Working Antennas (with reason for each) :
+C04 : Counter weight replacement.
+W02 : BLDC work.
+C06 : Taken for painting.
+C12 : Taken for painting.
+E03 : Low fringe.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 16:30 - 18:11
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+16:30 : Stared set up.
+-----------------------------------------------
+GAC Selection
+SUBA 2 @ 325 
+PA: @ 325 : C - 1, 2, 3, 5, 10, 13; S - 1; E - 2; W-1 (Total = 9)
+-----------------------------------------------------------------
+SUBA 4
+
+PA: @ 610 :C-0, 8, 9, 11, 14; S – 2, 3, 4; E – 4; W – 3, 4 (Total = 11)
+-------------------------------------------------------------------
+17:18 : Power eq. & phasing on 0521+166.
+17:23 : Started scan on B0740-28
+17:44 : Stopped scan.
+17:48 : Started scan on B0720-28.
+17:11 : Stopped scan on B0720-28 and observation session is over.
+
+

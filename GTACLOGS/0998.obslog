@@ -1,0 +1,60 @@
+		 GTAC Observation Log 
+
+1. Date : 02/03/2003
+2. Observation Sr. No. : 0998
+3. Observer : Prof. A. P. Rao.
+4. Observer's Email : pramesh@ncra.tifr.res.in
+5. Project Name : GAL SURVEY
+6. Project Code : 03APR01
+7. Operator(s) : Mangesh,
+	Jayprakash,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/pramesh/galsurvey/g016pm04.cmd
+9. LTA File : /rawdata/2mar/03apr01_g016pm04.lta
+10. LogFlag File : /btemp2/logflags/03APR01.FLAGS.7
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 244 MHz ,RF2 : 244 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 310 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+20 dB, 6 MHz,ON, IF-CH2 : 20+20 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:63:1
+17. Frequency Parameters (TPA) : 244 244 310 310 66 66 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+S03 - 130 pol no fringe.
+
+
+21. Start and End Time of Obs.(IST): 04:11 - 12:50
+
+22. Comments (During Observations) :
+** ONLINE RUNNING ON bhaskar **
+---------------------------------
+04:11  Started record on 3c286.
+04:26  Stopped record on 3c286.
+*** ALC MODE OFF ***
+04:35  Power EQ. done on 1822-096
+04:41  Started das scan with ALC OFF for each of
+the sources in cmd file.
+05:13 ALC MADE ON.
+05:13 Scan# 7 bad.
+05:13 Started cmd file
+/temp2/data/cmd/pramesh/galsurvey/g016pm04.cmd
+31:05 :Scan 19 first 1.5 min. bad corrconfig being run.
+31:50 : C04 flat band shape.
+32:31 : C04 flat band shape.
+36:25 : Stopped the command file as sources were
+        setting.
+36:35 : Started a scan on 3c48 for 15 minutes.
+36:50 : Closed the observation.
+
+

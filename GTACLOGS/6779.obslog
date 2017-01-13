@@ -1,0 +1,57 @@
+		 GTAC Observation Log 
+
+1. Date : 13/11/2013
+2. Observation Sr. No. : 6779
+3. Observer : Stephen John Curran,Matthew Whiting,Dick Hunstead,Elaine Sadler,James Richard Allison,Ramana Athreya,Helen Johnston
+4. Observer's Email : sjc@physics.usyd.edu.au,Matthew.Whiting@csiro.au,rwh@physics.usyd.edu.au,ems@physics.usyd.edu.au,jra@physics.usyd.edu.au,rathreya@iiserpune.ac.in,helenj@physics.usyd.edu.au
+5. Project Name : A Cosmic Census of the Star Forming Reservoir in Active Galaxies I: The High Redshifts
+6. Project Code : 25_020
+7. Operator(s) : Deepak,
+8. Command File : /odisk/gtac/cmd/25_020/obs_1.cmd
+9. LTA File : /gsbifrdata1/13nov/25_020_13nov2013_2s.lta,/gsbifrdata1/13nov/25_020_13nov2013_16s.lta,/gsbifrdata1/13nov/25_020_13nov2013_2s.lta.1,/gsbifrdata1/13nov/25_020_13nov2013_16s.lta.1,
+10. LogFlag File : /odisk/online1/logflags/25_020.FLAGS.8,
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 326 MHz ,RF2 : 326 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 275 MHz, ILO2 : 275 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,ON, IF-CH2 : 24+4 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : Realtime 
+15. GSB LTA : 8 
+16. GSB CTRL : ONLINE 
+17. GSB Fstop : ON 
+18. GAIN EQ : ON 
+19. Stokes : TotIntensity
+20. Beam - 1 : OFF
+21. Beam - 2 : OFF
+22. ACQ BW : 33.33 MHz
+23. Final BW : 33.333333 MHz; Step # 0
+24. Maximum Channels : 512 
+25. Channel Numbers : 0:511:1 
+26. LO5 -1  : 149.00 
+27. LO5 -2  : 156.00 
+
+28. Frequency Parameters (TPA) : 326 326 275 275 51 51.
+29. Integration Time : 16.106112 Sec.
+30. No of Antennas Working(Fringing) at the begining :30
+
+31. Name of Non-Working Antennas (with reason for each) :
+--
+32. Note for Backup :
+
+33. Start and End Time of Obs.(IST): 04:00 - 10:00
+
+34. ONLINE Machine : Lenyadri
+
+35. No of Antennas Working(Fringing) at the end :30
+
+36. Comments (During Observations) :
+04:06 : Started scan on 3C147 for 10mins.
+04:20 : Started command file obs_1.cmd
+04:40 : Command file stopped.
+04:40 : Observation stopped due to baseband LO setting problem.
+
+

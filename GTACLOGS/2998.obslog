@@ -1,0 +1,58 @@
+		 GTAC Observation Log 
+
+1. Date : 20/01/2007
+2. Observation Sr. No. : 2998
+3. Observer : Garland
+4. Observer's Email : catherine.garland@castleton.edu
+5. Project Name : LCBG
+6. Project Code : 11CGA01
+7. Operator(s) : Sachin,
+	
+8. Command File : /btemp2/cmd/11cga01/cg3.cmd
+9. LTA File : /rawdata/20jan/11cga01_20jan07.lta,
+	/rawdata1/20jan/11cga01_20jan07.ltb
+10. LogFlag File : /btemp2/logflags/11CGA01.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1396.19 MHz ,RF2 : 1396.19 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1330 MHz, ILO2 : 1330 MHz, IVLO1 : 66.19 MHz, IVLO2 : 66.19 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 8000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1396.19 1396.19 1330 1330 66.19 66.19 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C11 - mcm 5 time out.
+C04 - USB-130 bad   bandshape.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 05:55 - 11:00
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : Indian polar mode  *********
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+---------------------------------------------
+06:08 : Started scan on 3C286 for 10mins.
+06:26 : Started command file
+10:45 : Command file stopped.
+10:47 : Started scan on 3C286 for 15mins.
+11:00 : Observation stopped.
+
+
+

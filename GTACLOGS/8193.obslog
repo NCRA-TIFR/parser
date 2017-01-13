@@ -1,0 +1,61 @@
+		 GTAC Observation Log
+
+1. Date : 22/11/2015
+2. Observation Sr. No. : 8193
+3. Observer : Ravi Joshi, Raghunathan Srianand, Neeraj Gupta, Rajeshwari Dutta, Pasquier Noterdaeme, Jens-Kristian Krogager, Patrick Petitjean, Jian Ge
+4. Observer's Email : physistravi@gmail.com, anand@iucaa.ernet.in, ngupta@iucaa.ernet.in, rdutta@iucaa.ernet.in, noterdaeme@iap.fr, krogager@dark-cosmology.dk, ppetitje@iap.fr, jge@ufl.edu
+5. Project Name : A pilot survey for detecting cold H I  gas in strong FeII absorbers
+6. Project Code : 29_051
+7. Operator(s) : Deepak, Surender
+8. Command File : /odisk/gtac/cmd
+9. LTA File : /gsbifrdata/22nov/29_051_22nov2015.lta
+10. LogFlag File : /odisk/online1/logflags/29_051.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 627.4075 MHz ,RF2 : 627.4075 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 565 MHz, ILO2 : 565MHz , IVLO1 : 62.4075 MHz, IVLO2 : 62.4075 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 6 MHz,ON, IF-CH2 : 4+14 dB, 6 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 8 MHz; Step # 6
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 137.5925
+28. LO5 -2  : 167.4075
+
+29. Frequency Parameters (TPA) : 627.4075 627.4075 565 565 62.4075 62.4075
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :27
+
+32. Name of Non-Working Antennas (with reason for each) :
+C00 : 175 pole no fringe.
+W03 : Taken for BLDC
+S03 : 175 pole no fringe.
+C11 : Taken for CST painting.
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 22 Nov 2015 04:00:00 - 22 Nov 2015 09:00:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :27
+
+37. Comments (During Observations) :
+04:16 : Started scan on 3C147 for 15mins.
+04:32 : Started command file.
+08:40 : Stopped command file.
+08:45 : Started scan on 3C286.
+09:00 : Stopped scan and observing session is over.
+

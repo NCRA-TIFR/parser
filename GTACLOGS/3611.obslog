@@ -1,0 +1,121 @@
+		 GTAC Observation Log 
+
+1. Date : 07/02/2008
+2. Observation Sr. No. : 3611
+3. Observer : R. J.  van Weeren
+4. Observer's Email : rvweeren@strw.leidenuniv.nl
+5. Project Name : cosmic wave
+6. Project Code : 13HRB01
+7. Operator(s) : Deepak,
+	Nilesh,
+	Sachin,
+	Sanjay,
+	Santaji,
+	
+8. Command File : /atemp2/cmd/13hrb01/hrb2.cmd,
+	/atemp2/cmd/13hrb01/hrb3.cmd,
+	/atemp2/cmd/13hrb01/hrb11.cmd,
+	/atemp2/cmd/13hrb01/hrb12.cmd,
+	/atemp2/cmd/13hrb01/hrb13.cmd
+9. LTA File : /rawdata/7feb/13hrb01_07feb2008.lta,
+	/rawdata1/7feb/13hrb01_07feb2008.ltb,
+	/rawdata/7feb/13hrb01_07feb2008.lta.1,
+	/rawdata1/7feb/13hrb01_07feb2008.ltb.1,
+	/rawdata/8feb/13hrb01_08feb2008.lta,
+	/rawdata1/8feb/13hrb01_08feb2008.ltb,
+	/rawdata/8feb/13hrb01_08feb2008.lta.1,
+	/rawdata1/8feb/13hrb01_08feb2008.ltb.1,
+        /rawdata/9feb/13hrb01_09feb2008.lta,
+        /rawdata1/9feb/13hrb01_09feb2008.ltb
+
+10. LogFlag File : /atemp2/logflags/13HRB01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+4 dB, 32 MHz,ON, IF-CH2 : 16+4 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C08,C02 - painting.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 14:30 - 00:00
+
+23. Comments (During Observations) :
+--------------------------------------------------------------
+******** ONLINE Machine : Aditya  ********* 
+******** Corr Mode : Indian Polar   *********
+--------------------------------------------------------------
+14:26 : Started scan on 3C48 for 12mins.
+14:40 : Started command file.
+16:08 : C08 started working.
+18:08 : C02 started working.
+20:00 : Closed observation(to restart corr, record was
+      : giving different timestamp on LSB-USB.
+20:15 : Restarted observation, new cmd file started.
+----------------------------------------------------------------
+01:25 : Stopped hrb3.cmd.
+01:32 : Started hrb4.cmd.
+06:01 : Stopped hrb4.cmd.
+06:06 : Started hrb5.cmd.
+06:27 : S02 servo timed out.
+06:50 : S02 started working.
+
+07:48 : Command file stopped.
+07:50 : Started scan on 3C286 for 7mins.
+08:05 : Started hrb6.cmd command file.
+09:00 : C02 parked for painting.
+09:30 : C08 parked for painting.
+10:50 : Scan #43 is bad.
+10:50 : Started hrb7.cmd command file.
+12:20 : Command file stopped.
+12:21 : Started new lta files.
+12:22 : Started command file hrb8.cmd.
+02:50 : Stopped command file hrb11.cmd.
+02:52 : Started command file hrb12.cmd and started
+new record file.
+05:44 : E06 parked due to high wind.
+06:02 : E06 started tracking.
+06:22 : Stopped command file.
+06:25 : Started scan on 3C286 for 10 mins.
+06:35 : Stopped scan on 3C386.
+06:38 : Started command file hrb13.cmd.
+08:23 : new commad file started hrb14.cmd
+09:00 : C02 parked for painting.
+10:00 : C08 parked for painting.
+11:04 : new command file started hrb15.cmd
+12:40 : new command file started hrb16.cmd
+13:55 : power failure for E-arm antennas.
+14:10 : E02 and E03 are working. 
+      : E04,E05 and E06 are not working.
+14:17 : new command file started, hrb17.cmd
+15:11 : Started New LTA files.
+        and also new command file 
+      /temp2/data/cmd/13hrb01/hrb18.cmd
+18:04 : command file stopped.
+18:08 : Started scan on phase cal manually for 5 min.
+18:10 : E arm power resets.
+18:19 : Started new command file 
+       /temp2/data/cmd/13hrb01/hrb19.cmd for 3.5 hour
+
+21:48 : command file stopped.
+      : started scan on phase cal.
+21:54 : started scan on flux cal for 10 min.
+22:05 : New command file started.
+	/temp2/data/cmd/13hrb01/hrb20.cmd
+23:05 : Stopped command file and started new command file.
+	/temp2/data/cmd/13hrb01/hrb21.cmd
+01:41 : Stopped command file and started scan on phase cal.
+01:46 : Stopped scan on phase cal and observation over.
+---------------------------------------------------------------

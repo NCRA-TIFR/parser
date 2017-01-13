@@ -1,0 +1,72 @@
+		 GTAC Observation Log 
+
+1. Date : 17/11/2006
+2. Observation Sr. No. : 2882
+3. Observer : Mamta
+4. Observer's Email : mamtapan@gmail.com,servilla@cesr.fr
+5. Project Name : xmm
+6. Project Code : 11NAW01
+7. Operator(s) : Sanjay,
+	
+8. Command File : /btemp2/cmd/mamta/11xmm01_16nov06.cmd,
+	/btemp2/cmd/mamta/11xmm02_17nov06.cmd,
+	/btemp2/cmd/mamta/11xmm03_17nov06.cmd
+9. LTA File : /rawdata/17nov/11naw01_17nov2k6.lta,
+	/rawdata1/17nov/11naw01_17nov2k6.ltb,
+	/rawdata/17nov/11naw01_17nov2k6.lta.1,
+	/rawdata1/17nov/11naw01_17nov2k6.lta.1
+10. LogFlag File : /btemp2/logflags/11NAW01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 14+5 dB, 32 MHz,ON, IF-CH2 : 14+5 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C01 - Servo in off mode.
+W02-130 - No ringe.
+S06 - Dly/phs jump
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 04:50 - 18:05
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+---------------------------------------------
+04:50 Flux cal started,
+05:10 Flux cal done,
+05:20 started cmd file.
+
+08:20 Electrical Power failed. Command file,
+      and scan stopped.
+08:58 Scan restarted on target with 
+      Central Square antennas only.
+09:30 MSEB power resumed.
+09:54 scan started on 3c286.
+10:15 started the new command file and record files.
+12:00 C14 servo problem parked the antenna.
+13:40 S01 ABC time out.
+14:50 started the new command file 
+18:03 Phase cal scan over. Project stopped.
+
+

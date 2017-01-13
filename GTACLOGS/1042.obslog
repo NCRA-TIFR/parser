@@ -1,0 +1,62 @@
+		 GTAC Observation Log 
+
+1. Date : 06/07/2003
+2. Observation Sr. No. : 1042
+3. Observer : A.P. Rao
+4. Observer's Email : pramesh@ncra.tifr.res.in
+5. Project Name : Galsurvey
+6. Project Code : 04APR01
+7. Operator(s) : Mangesh,
+	Sanjay,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/pramesh/galsurvey/g28+02.cmd
+9. LTA File : /rawdata1/6jul/04apr01_g28+02.ltb
+10. LogFlag File : /atemp2/logflags/04APR01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 233 MHz ,RF2 : 233 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 307 MHz, ILO2 : 307 MHz, IVLO1 : 74 MHz, IVLO2 : 74 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 18+18 dB, 6 MHz,ON, IF-CH2 : 18+18 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:63:1
+17. Frequency Parameters (TPA) : 233 233 307 307 74 74 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+USB:No RF signal in USB.
+LSB:
+C13-130:no fringe
+E03-175:no fringe
+S03:   :no fringe(?)
+E05 & C05 -175 chan high power.
+
+
+
+21. Start and End Time of Obs.(IST): 19:16 - 05:00
+
+22. Comments (During Observations) :
+ONLINE:aditya
+----------------------------
+Record:Using only LSB
+IF ATTN:Authif attn.
+BB GAIN=0dBm (BW=8MHz)
+----------------------------
+19:16 : Started record on 3c286 with ALC ON.
+19:42 : Started record on 3c286 with ALC ON.
+19:58 : Started cmd file for each source 3min with ALC OFF
+        /btemp2/cmd/pramesh/galsurvey/6jul3m.cmd
+
+ALC turned ON:
+===============
+20:35 : Started cmd file /btemp2/cmd/pramesh/galsurvey/g28+02.cmd
+
+29:00 : stopped the observation session.
+

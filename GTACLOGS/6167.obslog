@@ -1,0 +1,78 @@
+		 GTAC Observation Log 
+
+1. Date : 18/10/2012
+2. Observation Sr. No. : 6167
+3. Observer : Dharam Vir Lal
+4. Observer's Email : dharam@ncra.tifr.res.in
+5. Project Name : Strong radio AGN in the center of galaxy groups
+6. Project Code : 23_055
+7. Operator(s) : Deepak,
+	Navanath,
+	Nilesh,
+	
+8. Command File : /odisk/gtac/cmd/dharam/23_055_18oct.cmd,
+	/odisk/gtac/cmd/dharam/23_055_19oct.cmd
+9. LTA File : /gsbifrdata/18oct/23_055_18oct2012.lta
+10. LogFlag File : /odisk/online1/logflags/23_055.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 591 591 540 540 51 51.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :25
+
+27. Name of Non-Working Antennas (with reason for each) :
+C00 : BLDC work.
+C09 : ABC time out.
+W01 : Servo problem.
+W05 : Freq. Tel.Reset
+S01 : MCM 2,3,10 time out.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 19:30 - 05:00
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+19:00 : Started set-up.
+19:32 : Started scan on 3C48.
+
+20:12 : Started cmd file.
+       /odisk/gtac/cmd/dharam/23_055_18oct.cmd,
+
+20:40 : Scintillations in the data are observed.
+20:48 : Stopped command file.
+20:51 : started scan on 3c48 for 6min.
+21:00 : Restarted command file.
+21:00 : C03 stopped fringing.
+21:55 : scintillation continued, stopped command file.
+22:00 : started scan on 3c48.
+22:00 : W05 started working.
+
+00:20 : Restarted command file.
+01:17 : Due to scintillation command file stopped.
+
+01:49 : Started scan on 3C48 for 15mins.
+02:05 : Started command file 23_055_19oct.cmd
+04:45 : Command file stopped.
+04:48 : Started scan on 3C48 for 12mins.
+05:00 : Observation stopped.
+
+

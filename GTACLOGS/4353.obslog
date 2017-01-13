@@ -1,0 +1,83 @@
+		 GTAC Observation Log 
+
+1. Date : 18/06/2009
+2. Observation Sr. No. : 4353
+3. Observer : Kazutaka Koike
+4. Observer's Email : koike.kazutaka@nao.ac.jp
+5. Project Name : Search for Cyclotron Maser Emission of Cool Dwarfs and Free-Floa ting Planets III. the SDSS & FIRST Sample
+6. Project Code : 16_130
+7. Operator(s) : Jayprakash,
+	Rupsingh,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/koike/j0946.1.cmd,
+	/odisk/gtac/cmd/koike/j1039.2.cmd,
+	/odisk/gtac/cmd/koike/j1211.3.cmd,
+	/odisk/gtac/cmd/koike/456.cmd,
+	/odisk/gtac/cmd/koike/j1523.7.cmd
+9. LTA File : /rawdata/18jun/16_130_18jun2009.lta,
+	/rawdata1/18jun/16_130_18jun2009.ltb,
+	/rawdata/18jun/16_130_4s_18jun2009.lta,
+	/rawdata1/18jun/16_130_4s_18jun2009.ltb
+10. LogFlag File : /odisk/online1/logflags/16_130.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 16 LTA ~ 2.114 Sec.
+19. No of Antennas Working(Fringing) :25
+
+20. Name of Non-Working Antennas (with reason for each) :
+C11 : Servo problem.
+C05 : 235MHz no fringe.
+W04 : Servo problem.
+E03 : abc reset.
+W01 : 235Mhz no fringe.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 15:00 - 21:02
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+15:00 : Started settings.
+
+        /rawdata/18jun/16_130_18jun2009.lta(For 16s)
+        /rawdata1/18jun/16_130_18jun2009.ltb,
+         
+15:35 : Started scan on 3C147.
+15:46 : Stopped scan.
+15:52 : '/odisk/gtac/cmd/koike/j0946.1.cmd' command file started.
+        
+        W04 started working.
+15:55 : E03 started working.     
+16:31 : Stopped command file.
+
+        Changed the recording files.(For 4s)
+        /rawdata/18jun/16_130_4s_18jun2009.lta,
+        /rawdata1/18jun/16_130_4s_18jun2009.ltb.
+
+16:37 : '/odisk/gtac/cmd/koike/j1039.2.cmd' command file started.
+17:17 : C11 started working.
+17:21 : Stopped command file.
+
+17:27 : '/odisk/gtac/cmd/koike/j1211.3.cmd' command file started.
+18:17 : Stopped commmand file.
+
+18:20 : Started command file
+        '/odisk/gtac/cmd/koike/456.cmd'
+20:28 : Started command file
+         '/odisk/gtac/cmd/koike/j1523.7.cmd'       
+21:02 : Stopped command file and observation session over.        
+

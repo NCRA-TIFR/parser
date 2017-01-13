@@ -1,0 +1,62 @@
+		 GTAC Observation Log 
+
+1. Date : 09/12/2007
+2. Observation Sr. No. : 3488
+3. Observer : S pal
+4. Observer's Email : spal@ncra.tifr.res.in
+5. Project Name : 3CR
+6. Project Code : 13SPA01
+7. Operator(s) : Jitendra,
+	Navanath,
+	Nilesh,
+	
+8. Command File : /atemp2/cmd/spal/3c452-150.cmd,
+	/atemp2/cmd/spal/3c284-150.cmd
+9. LTA File : /rawdata/9dec/13spa01_3cr.lta
+10. LogFlag File : /atemp2/logflags/13SPA01.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 157 MHz ,RF2 : 157 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 223 MHz, ILO2 : 223 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 14+12 dB, 6 MHz,ON, IF-CH2 : 14+12 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 8000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 157 157 223 223 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+S06 - mcm 5 time out.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 23:00 - 07:53
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Aditya   ********* 
+******** Corr Mode :Indian polar *********
+----------------------------------------
+
+07:35 :   13SPA01 observing session with Default 150 MHz, ALCs ON,
+          and Indian Polar mode observation started.
+          S01, S06 No fringe.
+          C02 - released for painting.
+07:41 :  Flux calibrator scan started.
+07:49 :  Scan stopped.
+07:54 :  Command file /temp2/data/cmd/spal/3c452-150.cmd started.
+13:39 :  Command file changed to /temp2/data/cmd/spal/3c452-150.cmd.
+14:4315:00 : Command file is running.
+15:55 : S01 released for observation.
+21:14 : Stopped command file.
+21:28 : Stopped observation session
+
+
+
+

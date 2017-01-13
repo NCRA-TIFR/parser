@@ -1,0 +1,116 @@
+		 GTAC Observation Log 
+
+1. Date : 22/1/2014
+2. Observation Sr. No. : 6920
+3. Observer : Ue Li Pen,Marten H vanKerkwijk,Jayanta Roy,Yashwant Gupta,Keith Vanderlinde,Richard Shaw,P Freire,Jason WilliamThomas Hessels
+4. Observer's Email : pen@cita.utoronto.ca,mhvk@astro.utoronto.ca,jroy@ncra.tifr.res.in,ygupta@ncra.tifr.res.in,vanderlinde@di.utoronto.ca,jrs65@cita.utoronto.ca,pfreire@naic.edu,hessels@astron.nl
+5. Project Name : 150 and 327 MHz pulsar VLBI for precision pulsar scintellation astrometry
+6. Project Code : 25_054
+7. Operator(s) : Navanath,Nilesh,Shilpa,
+8. Command File : 
+9. LTA File : /gsbifrdata1/22jan//25_054_22jan2014.lta,/gsbifrdata1/22jan//25_054_22jan2014.lta.1,
+10. LogFlag File : /odisk/online1/logflags/25_054.FLAGS.7,/odisk/online1/logflags/25_054.FLAGS.6,
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 167 MHz ,RF2 : 167 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 218 MHz, ILO2 : 218 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : Realtime 
+15. GSB LTA : 8 
+16. GSB CTRL : ONLINE 
+17. GSB Fstop : ON 
+18. GAIN EQ : OFF, 
+19. Stokes : TotIntensity
+20. Beam - 1 : OFF
+21. Beam - 2 : V
+22. ACQ BW : 33.33 MHz
+23. Final BW : 33.333333 MHz; Step # 0
+24. Maximum Channels : 256 
+25. Channel Numbers : 0:255:1 
+26. LO5 -1  : 149.00 
+27. LO5 -2  : 156.00 
+
+28. Frequency Parameters (TPA) : 167 167 218 218 51 51.
+29. Integration Time : 16.106112 Sec.
+30. No of Antennas Working(Fringing) at the begining :29
+
+31. Name of Non-Working Antennas (with reason for each) :
+W04 : Can not rotate feed due to painting.
+32. Note for Backup :
+
+33. Start and End Time of Obs.(IST): 02:00 - 09:06
+
+34. ONLINE Machine : Lenyadri
+
+35. No of Antennas Working(Fringing) at the end :28
+
+36. Comments (During Observations) :
+Pulsar Data file.
+/mnt/a/gsbuser/25_054_22jan14/ on Node33 and Node34.
+/mnt/b/gsbuser/25_054_22jan14/ on Node33 and Node34.
+/mnt/c/gsbuser/25_054_22jan14/ on Node33 and Node34.
+----------------------------------------------------------------------
+GAC Selection.
+PA: C00,C01,C02,C03,C04,C05,C06,C08,C09,C10,C11,
+C13,C14,S01,S02,S03,W02,W03,E02,E03
+----------------------------------------------------------------------
+02:18:33 : Started scan on 3C196 for ~ 2.14748 min.
+02:20:56 : Started scan on 3C196 for ~ 4.29496 min.
+02:25:33 : Started scan on 3C196 for ~ 0.268435 min.
+02:27:52 : Started scan on B0809+74 for ~ 10.469 min.
+
+02:43:16 : Started scan on 3C147 for ~ 0.805306 min.
+02:46:42 : Started scan on 3C147 for ~ 0.268435 min.
+02:49:12 : Started scan on 3C286 for ~ 0 min.
+02:49:30 : Started scan on 3C196 for ~ 0.805306 min.
+02:50:43 : Started scan on 3C196 for ~ 0.53687 min.
+02:53:01 : Started scan on B0809+74 for ~ 13.6902 min.
+03:09:20 : Started scan on 3C196 for ~ 13.1533 min.
+03:23:55 : Started scan on 3C196 for ~ 18.522 min.
+03:42:43 : Started scan on 3C196 for ~ 5.90557 min.
+03:48:55 : Started scan on 3C196 for ~ 6.44244 min.
+03:55:49 : Started scan on 3C196 for ~ 0.268435 min.
+03:57:51 : Started scan on B0809+74 for ~ 12.6165 min.
+04:12:34 : Started scan on J1012+5307 for ~ 33.286 min.
+04:49:27 : Started scan on 3C216 for ~ 1.07374 min.
+04:50:51 : Started scan on 3C216 for ~ 0 min.
+04:52:14 : Started scan on J1012+5307 for ~ 32.4807 min.
+05:25:47 : Started scan on 3C216 for ~ 1.07374 min.
+05:27:05 : Started scan on 3C216 for ~ 1.87905 min.
+05:29:23 : Started scan on 3C216 for ~ 0.53687 min.
+05:30:56 : Started scan on J1012+5307 for ~ 35.9703 min.
+06:07:49 : Started scan on 3C216 for ~ 1.34218 min.
+06:09:32 : Started scan on 3C216 for ~ 2.95279 min.
+06:12:56 : Started scan on 3C216 for ~ 1.34218 min.
+06:14:39 : Started scan on 3C216 for ~ 3.22122 min.
+06:18:06 : Started scan on 3C216 for ~ 0 min.
+06:22:07 : Started scan on 3C286 for ~ 1.07374 min.
+06:23:40 : Started scan on 3C286 for ~ 0 min.
+06:27:10 : Started scan on J1012+5307 for ~ 22.817 min.
+
+06:47 : C09 abc timeout, so removed from GAC.
+
+06:50:24 : Started scan on J1012+5307 for ~ 8.85836 min.
+07:02:15 : Started scan on 3C286 for ~ 1.34218 min.
+07:03:44 : Started scan on 3C286 for ~ 0.805306 min.
+07:07:50 : Started scan on J1012+5307 for ~ 33.8228 min.
+07:45:01 : Started scan on 3C286 for ~ 2.41592 min.
+
+07:45 : C09 started working.
+
+07:47:55 : Started scan on 3C286 for ~ 1.61061 min.
+07:49:41 : Started scan on 3C286 for ~ 0.53687 min.
+07:53:19 : Started scan on J1012+5307 for ~ 19.8642 min.
+
+08:13 : W02 taken for painting.
+
+08:13:52 : Started scan on J1012+5307 for ~ 11.2743 min.
+08:28:06 : Started scan on 3C286 for ~ 1.07374 min.
+08:29:35 : Started scan on 3C286 for ~ 0.53687 min.
+08:32:50 : Started scan on B1508+55 for ~ 33.5544 min.
+
+09:06 : Stopped scan and observing session over.

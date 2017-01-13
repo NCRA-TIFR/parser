@@ -1,0 +1,73 @@
+		 GTAC Observation Log 
+
+1. Date : 15/08/2003
+2. Observation Sr. No. : 1096
+3. Observer : Dr. Jayaram Chengalur
+4. Observer's Email : chengalu@ncra.tifr.res.in
+5. Project Name : A370
+6. Project Code : 04JNC03
+7. Operator(s) : Santaji,
+	
+8. Command File : /btemp2/cmd/chengalu/a370.cmd
+9. LTA File : /rawdata/15aug/04jnc03_15aug03.lta,
+	/rawdata1/15aug/04jnc03_15aug03.ltb
+10. LogFlag File : /btemp2/logflags/04JNC03.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1040 MHz ,RF2 : 1040 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 970 MHz, ILO2 : 970 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 6+6 dB, 32 MHz,ON, IF-CH2 : 6+6 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1040 1040 970 970 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :24
+
+20. Name of Non-Working Antennas (with reason for each) :
+USB:
+C00 :phase not stable
+C01 :phase not stable
+C11 :130 no fringe.
+E04 :175 no fringe.
+S03 :MCM 5 time out.
+S04 :MCM 0 time out.
+LSB:
+C00,C01,S03,S04 same as USB
+
+21. Start and End Time of Obs.(IST): 01:28 - 00:00
+
+22. Comments (During Observations) :
+ONLINE RUNNING ON BHASKAR
+AUTHIF @ 1060
+-----------------------------------
+01:28 started the scan on 3c48
+02:11 sarted the commad file
+	/temp2/data/cmd/chengalu/a370.cmd
+scan # 1,2,3 are junk.
+03:13 W02:USB flat band.
+03:35 ran corr_config
+03:44 W02:USB flat band
+04:26 ran corr_config
+	stopped the command file
+	started the scan on 3c48
+04:48 restarted the command file
+04:50 C03 servo problem
+04:58 C06:USB flat band
+05:03 ran corr_config
+05:24 W02:USB falt band
+05:40 ran corr_config 
+	W03 got reset.
+06:16 C05:C06:USB flat band
+06:25 ran corr_config
+09:46 command file stopped.
+09:51 flux calibrator scan started on 3C147
+10:12 scan stopped & project over.
+
+
+

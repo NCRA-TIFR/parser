@@ -1,0 +1,110 @@
+		 GTAC Observation Log 
+
+1. Date : 04/5/2013
+2. Observation Sr. No. : 6479
+3. Observer : Sayan Chakraborti
+4. Observer's Email : schakraborti@fas.harvard.edu
+5. Project Name : Green Peas
+6. Project Code : 24_036
+7. Operator(s) : Deepak,
+	Navanath,
+	Pramod,
+	Sachin,
+	Surender
+8. Command File : /odisk/gtac/cmd/sayan/24_036/s3obs.cmd,
+	/odisk/gtac/cmd/sayan/24_036/obs_s1.cmd,
+	/odisk/gtac/cmd/sayan/24_036/obs_s5.cmd
+9. LTA File : /gsbifrdata/04may/24_036_04may2013.lta,
+	/gsbifrdata/04may/24_036_04may2013_16s.lta,
+	/gsbifrdata/04may/24_036_04may2013_s5.lta
+10. LogFlag File : /odisk/online1/logflags/24_036.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 512 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 591 591 540 540 51 51.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :25
+
+27. Name of Non-Working Antennas (with reason for each) :
+E03 : BLDC.
+E04 : Servo problem.
+C14 : Structural Repair.
+C09 : Taken for Painting.
+W06 : Frequently applying brakes.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 08:46 - 06:28
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+08:46:08 - 09:01:26 Recorded data on 3C48.
+08:04 : Started following command file
+        '/odisk/gtac/cmd/sayan/24_036/s3obs.cmd'
+ The scans are ,
+09:04:07 - 09:08:24 Recorded data on 0323+055
+09:12:10 - 09:34:11 Recorded data on GP06
+09:35:31 - 09:40:05 Recorded data on 0323+055
+09:43:50 - 10:05:19 Recorded data on GP06
+10:06:39 - 10:11:13 Recorded data on 0323+055
+10:14:59 - 10:36:59 Recorded data on GP06
+10:38:20 - 10:42:54 Recorded data on 0323+055
+10:46:39 - 11:08:24 Recorded data on GP06
+11:10:00 - 11:14:18 Recorded data on 0323+055
+11:18:04 - 11:39:48 Recorded data on GP06
+11:41:25 - 11:45:43 Recorded data on 0323+055
+11:49:28 - 12:11:29 Recorded data on GP06
+12:13:05 - 12:17:23 Recorded data on 0323+055
+12:21:09 - 12:42:53 Recorded data on GP06
+12:44:30 - 12:48:48 Recorded data on 0323+055
+12:52:33 - 13:14:18 Recorded data on GP06
+13:15:54 - 13:20:28 Recorded data on 0323+055
+13:23:57 - 13:45:42 Recorded data on GP06
+13:38 : S04 got ABC reset.
+13:47:35 - 13:52:09 Recorded data on 0323+055
+13:56:26 - 14:18:11 Recorded data on GP06
+16:30 : Stopped command file.
+16:34 : Started scan on 3C147.
+16:46 : Stopped scan on 3C147.
+Note  :- flux is common for both for S3 at the End  & S1 at beginning
+--------------------------------------------------------------------------------------------
+16:34 : Started scan on 3C147.
+16:46 : Stopped scan on 3C147.
+16:50 : Started command following command file.
+        '/odisk/gtac/cmd/sayan/24_036/obs_s1.cmd'
+17:20 : S04 problem of ABC time out was solved and taken for observation.
+18:30 : C09 is released from painting and taken for observation.
+22:43 : Stopped command file.
+22:46 : Started scan on 3C286.
+22:59 : Stopped scan on 3C286.
+Note  :- flux cal.is common for S1 at the End  & S5 at beginning.
+------------------------------------------------------------------------------------------
+22:46 : Started scan on 3C286.
+22:59 : Stopped scan on 3C286.
+23:02 : Started following command file.
+        '/odisk/gtac/cmd/sayan/24_036/obs_s5.cmd'
+06:03 : Stopped command file.
+06:07 : Started scan on 3C48.
+06:28 : Stopped scan & obervation session is over.
+
+
+
+
+

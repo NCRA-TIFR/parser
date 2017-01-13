@@ -1,0 +1,59 @@
+		 GTAC Observation Log
+
+1. Date : 21/08/2016
+2. Observation Sr. No. : 8839
+3. Observer : Peri, Paula Benaglia, Josep Marti, C.H. IshwaraChandra, J R Sanchez-Sutil
+4. Observer's Email : cintiaperi@gmail.com, pbenaglia@fcaglp.unlp.edu.ar, jmarti@ujaen.es, ishwar@ncra.tifr.res.in, jrssutil@hotmail.com
+5. Project Name : Non-thermal emission from protostellar jets
+6. Project Code : 30_051
+7. Operator(s) : Deepak, Rupsing
+8. Command File : /odisk/gtac/cmd/30_051/obs.cmd
+9. LTA File : /gsbifrdata1/21aug/30_051_21aug2016.lta
+10. LogFlag File : /odisk/online1/logflags/30_051.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1381 MHz ,RF2 : 1381 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1330 MHz, ILO2 : 1330MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 0 MHz; Step # 0
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 1381 1381 1330 1330 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :29
+
+32. Name of Non-Working Antennas (with reason for each) :
+E06 : Servo prblem.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 21 Aug 2016 19:00:00 - 21 Aug 2016 23:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :29
+
+37. Comments (During Observations) :
+19:10 : Started scan 3C286.
+19:20 : Stopped scan.
+19:24 : Started command file.
+22:30 : Stopped command file(source set)
+22:46 : Started scan on 3C48.
+23:00 : Stopped scan and observation session over.

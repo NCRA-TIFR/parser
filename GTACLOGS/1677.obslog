@@ -1,0 +1,40 @@
+		 GTAC Observation Log 
+
+1. Date : 01/01/2004
+2. Observation Sr. No. : 1677
+3. Observer : ANAND HOTA
+4. Observer's Email : hota@ncra.tifr.res.in
+5. Project Name : LIRGHI
+6. Project Code : 06AHA01
+7. Operator(s) : Jayprakash,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/hota/ngc4303.cmd
+9. LTA File : /rawdata/24sep/06aha01_ngc4303HI.lta,
+	/rawdata1/24sep/06aha01_ngc4303HI.ltb
+10. LogFlag File : /btemp2/logflags/06AHA01.FLAGS.15
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1408.88 MHz ,RF2 : 1408.88 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1345 MHz, ILO2 : 1345 MHz, IVLO1 : 63.88 MHz, IVLO2 : 63.88 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+4 dB, 16 MHz,ON, IF-CH2 : 4+4 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1408.88 1408.88 1345 1345 63.88 63.88 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+--
+
+21. Start and End Time of Obs.(IST): 08:05 - 00:00
+
+22. Comments (During Observations) :
+--
+

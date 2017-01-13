@@ -1,0 +1,36 @@
+1. Date : 04/04/2002
+2. Observation Sr. No. : 0500
+3. Observer & email : Prof. SAK
+4. Project Name & Code : sun observation / SUN
+5. Operator(s) : Manisha
+6. Command File/Source  & Lta File : /rawdata/4apr/sun_4apr02_16s.lta
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 : 1060 MHz.,OFF,  ON.
+8. Ist LO (MHz) & IVth LO (MHz) : 990 MHz., 70 MH.
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : 4+4 dB., 32 MHz., ON.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status :16 MH., 0 dB., ON.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 0 / 0
+12. Channels : 0,127,1
+13. Frequency Parameters (TPA) : 1060 1060 990 990 70 70
+ 
+14. Integration Time (Sec.) :  16 sec (16*8m).
+15. No of Antennas Working(Fringing) : 25 
+16. Name of Non-Working Antennas (with reason for each) :
+
+   C02 - Painting.
+   C13 - CP Work.
+   E02 - Servo in OFF mode
+   S01 - AZ. 'acok' failed.
+   S03 - Eln brake prob.
+
+17. Starting and Ending time of Observations (IST) : 07:25 - 09:08
+18. Comments (During Observations) :
+   
+
+19. Data Backup files & Tape No. :
+

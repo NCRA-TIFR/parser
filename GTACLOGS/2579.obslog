@@ -1,0 +1,56 @@
+		 GTAC Observation Log 
+
+1. Date : 01/04/2006
+2. Observation Sr. No. : 2579
+3. Observer : NGK,SRC
+4. Observer's Email : ngk@ncra.tifr.res.in,somak@star.sr.bham.ac.uk
+5. Project Name : 3c278
+6. Project Code : 09SRC01
+7. Operator(s) : Deepak,
+	Jitendra,
+	Sanjay,
+	
+8. Command File : /atemp2/cmd/ngk/3c278_150.cmd
+9. LTA File : /rawdata/1apr/09src01_1apr06.lta
+10. LogFlag File : /atemp2/logflags/09SRC01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 157 MHz ,RF2 : 157 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 223 MHz, ILO2 : 223 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 6 MHz,ON, IF-CH2 : 16+16 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 157 157 223 223 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+S02-low fringe.
+E06 - Low fringe.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 21:00 - 05:52
+
+23. Comments (During Observations) :
+**********************************
+** ONLINE   :- aditya
+** CORRMODE :- INDIAN POLAR ( Default mode )
+** IF ATTN  :- AuthIF  
+*********************************
+21:11 : started scan on 3C147 for 30mins.
+21:51 : Started command file.
+        /atemp2/cmd/ngk/3c278_150.cmd
+05:00 : command file stopped.
+05:06 : Scan started on 3c278 source
+        (Source set at ~05:10 Hrs.)
+05:21 : Flux calibrator scan started on 3C286.
+05:52 : Scan stopped and project over.
+
+

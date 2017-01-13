@@ -1,0 +1,76 @@
+		 GTAC Observation Log 
+
+1. Date : 04/09/2005
+2. Observation Sr. No. : 2227
+3. Observer : BCJ
+4. Observer's Email : bcj@ncra.tifr.res.in
+5. Project Name : PSR_OBS @ 610
+6. Project Code : 08MMA01
+7. Operator(s) : Deepak,
+	Jitendra,
+	Manish G.,
+	Manisha J.,
+	Sachin,
+	Santaji,
+	
+8. Command File : /atemp2/cmd/bcj/gmlpsr.04050905.3.cmd
+9. LTA File : /rawdata/4sep/08mma01_4-5sep.lta,
+	/rawdata1/4sep/08mma01_4-5sep.ltb
+10. LogFlag File : /atemp2/logflags/08MMA01.FLAGS.6
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,OFF, IF-CH2 : 16+16 dB, 32 MHz,OFF
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, OFF
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+-
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 15:30 - 10:00
+
+23. Comments (During Observations) :
+*** ONLINE: aditya
+*** IFATTN: Power equalisation at IF for 600 counts,
+            then BB equalisation for 1000 counts.
+----------------------------------------------------
+
+15:30  Started power equalisation.
+       Electrical power of S-arm is not stable.
+16:45  Started command file:
+         /temp2/data/cmd/bcj/gmlpsr.04050905.1.cmd
+*** Antennas not added to GAC:
+    C11, E05, whole S-arm.
+
+18:00  S-arm antennas and E05 added to the GAC.
+20:00  C04 and C13 removed from GAC,
+       due to instability.
+21:22  Power failure...
+21:35  Power resumed. All antennas set to the
+       earlier settings.
+22:10  Re-started the command file:
+        /temp2/data/cmd/bcj/gmlpsr.04050905.1.cmd
+
+00:42 : command file stopped.
+00:56 : Scan=12,13 Phasing on 3C48
+01:21 : gmlpsr.0405092005.2.cmd pointing started.
+02:39 : gmlpsr.04050902005.3.cmd started
+03:21 : power glitch
+        C08,C03 -power level adjusted.
+04:10 : Command file restarted (S06 excluded from GAC).
+09:10 : Stopped command file.
+09:14 : Started scan on 08075.
+10:00 : Stopped scan & closed project.
+

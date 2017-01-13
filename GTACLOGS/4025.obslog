@@ -1,0 +1,73 @@
+		 GTAC Observation Log 
+
+1. Date : 08/11/2008
+2. Observation Sr. No. : 4025
+3. Observer : RJ Van Weeren
+4. Observer's Email : rvweeren@strw.leidenuniv.nl
+5. Project Name : DSSS
+6. Project Code : 15HRA01
+7. Operator(s) : Deepak,
+	Navanath,
+	Nilesh,
+	
+8. Command File : /odisk/gtac/cmd/15hra01/obs6_8nov.cmd
+9. LTA File : /rawdata/8nov/15hra01_08nov2008.lta,
+	/rawdata1/8nov/15hra01_08nov2008.ltb
+10. LogFlag File : /btemp2/logflags/15HRA01.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+W06 : Fringe fluctuation. 
+C08 : Servo problem
+S03 : 130 pol. no fringe.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 03:35 - 14:23
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+---------------------------------------------
+03:35 : Started setup for observation
+03:39 : MSEB power failure.
+04:07 : Started scan on 3c147 for 5 min.
+04:17 : Started scan on source.
+07:20 : Stopped command file and stopped scan.
+07:24 : Started next command file
+        '/odisk/gtac/cmd/15hra01/obs6_8nov.cmd'
+09:23 : C05 Parked for painting.
+09:53 : C08 released for observation.
+09:55 : Stopped command file.
+09:58 : Started scan on 'S22'.
+10:00 : C04 Parked for painting.
+11:16 : S-arm Power failure.
+11:30 : S-arm restored in observation.
+11:48 : Stopped scan.
+11:51 : Started scan on '1146+399'.
+11:56 : Stopped scan.
+11:58 : Started scan on 'S23'.
+13:18 : Stopped scan.
+13:20 : Started scan on '1146+399'.
+13:25 : Stopped scan.
+13:29 : Started scan on 'S25'.
+14:05 : Stopped scan.
+14:08 : Started scan on 3C286 for 15 min.
+14:23 : Stopped scan and closed observing session.
+

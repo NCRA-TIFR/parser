@@ -1,0 +1,77 @@
+		 GTAC Observation Log
+
+1. Date : 09/11/2014
+2. Observation Sr. No. : 7416
+3. Observer : Jayanta Roy, Bhaswati Bhattacharyya, Yashwant Gupta, Dipankar Bhattacharya
+4. Observer's Email : jayanta.roy@manchester.ac.uk, bhaswati.bhattacharyya@manchester.ac.uk, ygupta@ncra.tifr.res.in, dipankar@iucaa.ernet.in
+5. Project Name : Long-term timing program for millisecond pulsars discovered by the GMRT in Fermi-directed searches
+6. Project Code : 27_041
+7. Operator(s) : Nilesh, Rupsing, Surender
+8. Command File : /odisk/gtac/cmd/jroy/27_041_9nov.1.cmd,/odisk/gtac/cmd/jroy/27_041_9nov.2.cmd,
+9. LTA File : /gsbifrdata/09nov/27_041_09nov2014_2s.lta,/gsbifrdata/09nov/27_041_09nov2014.lta.1,/gsbifrdata/09nov/27_041_09nov2014.lta
+10. LogFlag File : /odisk/online1/logflags/27_041.FLAGS.5,/odisk/online1/logflags/27_041.FLAGS.4,/odisk/online1/logflags/27_041.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+3 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : IA
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 306 306 255 255 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :26
+
+32. Name of Non-Working Antennas (with reason for each) :
+C04 : RFI ripples.
+E06 : BLDc.
+W06 : Strong RFI line.
+S04 : LO1 unlock.
+C01 : Taken for feed cage painting.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 09 Nov 2014 05:00:00 - 09 Nov 2014 12:05:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :26
+
+37. Comments (During Observations) :
+05:20 : Power eq. on 0837-198
+05:21 : Started command file.
+        '/odisk/gtac/cmd/jroy/27_041_9nov.1.cmd'
+06:17 : Stopped command file.
+--------------------------------------------------------------------------
+06:20 : Setup IA and PA
+06:33 : Power and phasing on 1154-350.
+06:36 : Started command file
+        /odisk/gtac/cmd/jroy/27_041_9nov.2.cmd'
+12:00 : Stopped command file and observing session is over.
+
+08:15 : Stopped command file, and started feed rotation to 610 MHz.
+08:15 : C04 Started working and C01 Taken for feed cage painting.
+08:32 : Started command file for poiting.
+09:15 : Pointing updated and started power eq on 1154-350.
+09:35 : Phasing done on 1154-350.
+09:39 : Started command file.
+        '/odisk/gtac/cmd/jroy/27_041_9nov.3.cmd'.
+12:00 : Stopped command file and observing session is over.
+

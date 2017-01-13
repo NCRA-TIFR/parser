@@ -1,0 +1,65 @@
+		 GTAC Observation Log 
+
+1. Date : 06/10/2004
+2. Observation Sr. No. : 1703
+3. Observer : Sabya
+4. Observer's Email : sabya_p2003@rediffmail.com,chakraba@bose.res.in
+5. Project Name : Compact object
+6. Project Code : 06SKC2A
+7. Operator(s) : Jitendra,
+	
+8. Command File : /btemp2/cmd/skc/6oct2_sub2.cmd,
+                 /btemp2/cmd/skc/6oct2_sub4.cmd,
+                 /btemp2/cmd/skc/6oct1_sub2.cmd,
+                 /btemp2/cmd/skc/6oct1_sub4.cmd
+9. LTA File : /rawdata/6oct/06skc2a_6oct.lta
+	/rawdata/6oct/06skc2b_6oct.lta
+	/rawdata1/6oct/06skc2a_6oct.ltb
+	/rawdata1/6oct/06skc2b_6oct.ltb
+10. LogFlag File : /btemp2/logflags/06SKC2A.FLAGS.5,/btemp2/logflags/06SKC2B.FLAGS.5
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1400 MHz ,RF2 : 1400 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1330 MHz, ILO2 : 1330 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 6+6 dB, 32 MHz,ON, IF-CH2 : 6+6 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1400 1400 1330 1330 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C12 abc time out
+
+
+
+21. Start and End Time of Obs.(IST): 17:09 - 
+
+22. Comments (During Observations) :
+***** ONLINE BHASKAR ******
+****** AUTH IF AT 1390 & 1060 Mhz. ***
+---------------------------------
+Made two differnt subar
+Subar 2
+C00,C03,C05,C08,C10,C11,E02,E04,E06,W02,W04,W06,S01,S03,S06
+Settings Rf-1060 MHz. Lo1-950 Lo4-70MHz.
+-------------------------------------------------------------
+Subar 4
+C01,C02,C04,C06,C09,C12,C13,C14,E03,E05,W01,W03,W05,S02,S04
+Settings Rf-1390 MHz. Lo1-1330 Lo4-70MHz.
+-------------------------------------------------------------
+
+17:09 : Flux cal scan started for 10m
+17:19 : Flux cal scan stopped.
+17:31 : command file started.
+20:13 : command file stopped. scan# 10
+20:22 : Command file 6oct2_sub2/4.cmd  started.
+21:54 : command file stopped.
+21:58 : phase cal scan started.
+22:01 : scan stopped and project over.

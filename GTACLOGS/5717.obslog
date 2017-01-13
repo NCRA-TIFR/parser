@@ -1,0 +1,77 @@
+		 GTAC Observation Log 
+
+1. Date : 24/12/2011
+2. Observation Sr. No. : 5717
+3. Observer : Jayanta Roy
+4. Observer's Email : jroy@ncra.tifr.res.in
+5. Project Name : Pulsar Observation
+6. Project Code : 21_045
+7. Operator(s) : Rupsingh,
+	Sachin,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/jroy/21_045.24dec.325.1.cmd,
+	/odisk/gtac/cmd/jroy/21_045.24dec.325.2.cmd
+9. LTA File : /gsbifrdata/24dec/21_045_24dec2011.lta
+10. LogFlag File : /odisk/online1/logflags/21_045.FLAGS.25
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 22+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : OFF 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 512 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 306 306 255 255 51 51.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :27
+
+27. Name of Non-Working Antennas (with reason for each) :
+C13 : No fringe.
+E04 : Servo problem.
+S01 : No IF power @130 pole.
+W03 : Servo off.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 03:00 - 10:01
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+03:25 : Power eq @ 300 counts on 1154-350.
+03:30 : Setup change
+        IF-16MHz & LO4-62
+03:34 : hltndas.
+03:35 : Started rawdump recording on J1124-36.
+07:00 : Stopped scan.
+Changed setup
+to IF-32 MHz and LO4-51
+
+07:29:36 : Started scan on J1544+4937 for ~ 0.53687 min.
+07:30:25 : Started scan on J1544+4937 for ~ 1.07374 min.
+07:31:57 : Started scan on J1544+4937 for ~ 18.2536 min.
+08:00:33 : Started scan on 1427-421 for ~ 0.805306 min.
+08:01:33 : Started scan on 1427-421 for ~ 0.268435 min.
+08:03:55 : Started scan on J1646-2142 for ~ 30.3332 min.
+08:34:00 : S03 taken for painting.
+08:35:01 : Started scan on J1646-2142 for ~ 28.7226 min.
+09:06:13 : Started scan on J1828+0625 for ~ 8.32149 min.
+09:14:00 : S04 taken for painting.
+09:14:52 : Started scan on J1828+0625 for ~ 38.9231 min.
+09:55:00 : W06 taken for painting.
+09:56:00 : W-arm power failed.
+09:56:35 : Started scan on B1855+09 for ~ 5min.
+10:01:40 : Stopped scan and observing session over.
+
+

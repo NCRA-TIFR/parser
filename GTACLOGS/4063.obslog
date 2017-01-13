@@ -1,0 +1,71 @@
+		 GTAC Observation Log 
+
+1. Date : 29/11/2008
+2. Observation Sr. No. : 4063
+3. Observer : Rekhesh 
+4. Observer's Email : reks@iiap.res.in
+5. Project Name : V4334SGR
+6. Project Code : 15NKR01
+7. Operator(s) : Deepak,
+	Sachin,
+	
+8. Command File : /odisk/gtac/cmd/15nkr01/v4334sgr.cmd,
+	/odisk/gtac/cmd/15nkr01/fgsge.cmd
+9. LTA File : /rawdata/29nov/15nkr01_29nov2008.lta,
+	/rawdata1/29nov/15nkr01_29nov2008.ltb,
+	/rawdata/29nov/15nkr01_29nov2008.lta.1,
+	/rawdata1/29nov/15nkr01_29nov2008.ltb.1
+10. LogFlag File : /btemp2/logflags/15NKR01.FLAGS.1,
+	/btemp2/logflags/15NKR01.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1400 MHz ,RF2 : 1400 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1330 MHz, ILO2 : 1330 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1400 1400 1330 1330 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+W04 - Servo maintenance.
+C04 - Taken for painting.
+C05 - Taken for painting.
+C05-175 - no fringe.
+C12 - servo problem.
+S06 - low fringe in 130 pol.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 10:30 - 21:30
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+10:36 : Started scan on 3C286 for 10 mins.
+11:02 : Started command file.
+11:48 : C12 started tracking.
+12:25 : W04 started tracking.
+
+16:00 : W03 started working.
+16:36 : command file stopped.
+16:40 : restarted das chain. Started new lta files.
+16:44 : Started scan on 3C48 for 8 mins.
+16:54 : Started command file.
+        /odisk/gtac/cmd/15nkr01/fgsge.cmd
+19:00 ; C04 included in observation.
+
+21:10 : command file stopped.
+21:13 : Started scan on 3C48 for 15mins.
+21:30 : Observation stopped.
+
+

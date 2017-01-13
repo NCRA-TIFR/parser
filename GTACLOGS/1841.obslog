@@ -1,0 +1,58 @@
+		 GTAC Observation Log 
+
+1. Date : 24/01/2005
+2. Observation Sr. No. : 1841
+3. Observer : SAK
+4. Observer's Email : ananth@ncra.tifr.res.in
+5. Project Name : Sun Observation
+6. Project Code : 07MRK01
+7. Operator(s) : Deepak,
+	Manisha J.,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/psubrama/24jan05_235.cmd
+9. LTA File : /rawdata/24jan/07mrk01_sun24jan05.lta
+10. LogFlag File : /btemp2/logflags/07MRK01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 244 MHz ,RF2 : 244 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 310 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 6 MHz,ON, IF-CH2 : 16+16 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 244 244 310 310 66 66 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+W05 : 130-USB not fringing.	
+C11 : MCM 5 time out.
+C12 : Painting.
+
+21. Start and End Time of Obs.(IST): 10:23 - 17:20
+
+22. Comments (During Observations) :
+******************************
+ONLINE: bhaskar
+AUTHIF: 235 MHz
+******************************
+11:00 Started scan on 3C286 for 10mins.
+11:04 C05 servo time out.
+11:19 Started command file
+      /btemp2/cmd/psubrama/24jan05_235.cmd
+12:15 W05 started working.
+12:30 C11 started working.
+14:53 C05 started working.
+16:20 : Phase cal "1941-154" set, so could not completed the scan # 19.
+16:22 : Started scan on SUN.
+16:57 : Stopped the scan.
+17:05 : Started scan on 3c48 for 15min.
+17:20 : Stopped the scan & observation session.
+
+

@@ -1,0 +1,61 @@
+		 GTAC Observation Log
+
+1. Date : 31/07/2015
+2. Observation Sr. No. : 7956
+3. Observer : John Antoniadis, Robert Main, Ue Li Pen, Marten H vanKerkwijk, Michael Kramer, Keith Vanderlinde, Siqi Liu
+4. Observer's Email : antoniadis@dunlap.utoronto.ca, main@astro.utoronto.ca, pen@cita.utoronto.ca, mhvk@astro.utoronto.ca, Michael.Kramer@manchester.ac.uk, vanderlinde@di.utoronto.ca, sqliu@astro.utoronto.ca
+5. Project Name : Probing the properties of the double pulsar at low frequencies
+6. Project Code : 28_068
+7. Operator(s) : Sachin, Shilpa
+8. Command File : /odisk/gtac/cmd
+9. LTA File : /gsbifrdata1/31jul/28_068_31jul2015.lta
+10. LogFlag File : /odisk/online1/logflags/28_068.FLAGS\r,/odisk/online1/logflags/28_068.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 218 MHz, ILO2 : 218MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 16 MHz,ON, IF-CH2 : 4+14 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 16.666666 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 138
+28. LO5 -2  : 167
+
+29. Frequency Parameters (TPA) : 156 156 218 218 62 62
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :29
+
+32. Name of Non-Working Antennas (with reason for each) :
+E02 : BLDC work.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 31 Jul 2015 08:00:00 - 31 Jul 2015 11:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :29
+
+37. Comments (During Observations) :
+08:00 : Started settings.
+08:12 : Checked fringes on 3C147.
+        RAW Voltage mode is not working.
+08:40 : Rebooted all nodes.
+08:55 : Started scan on 3C147 at RAW Voltage mode.
+09:15 : RAW Voltage mode having problem.
+09:30 : Again rebooted all nodes, but problem still persist.
+11:00 : Observing session over.

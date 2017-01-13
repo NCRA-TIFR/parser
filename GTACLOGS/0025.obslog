@@ -1,0 +1,42 @@
+1. Date : 14/01/2002
+2. Observation Sr. No. : 25
+3. Observer & email : jayram , chengalu@ncra.tifr.res.in
+4. Project Name & Code : 01NIK02
+5. Operator(s) : Jayprakash(2), Jitendra(3)
+6. Command File/Source  & Lta File : /temp2/data/cmd/nissim/0642.cmd.
+                                   : /raid/data/14jan/01nik02_0642.lta
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 : 610 MHz., 0 dB., OFF.
+8. Ist LO (MHz) & IVth LO (MHz) : 560 MHz., 71.75 MHz.
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : 10 + 10 dB., 16 MHz., ON.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status :1 MHz., 12 dB., ON.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 4 / 4
+12. Channels : 0,127,1
+13. Frequency Parameters (TPA) : 631.75 631.75 560 560 71.75 71.75
+
+14. Integration Time (Sec.) : 32 sec (16*16m)
+15. No of Antennas Working(Fringing) : 27.5
+16. Name of Non-Working Antennas (with reason for each) :
+
+	C11		No Fringe. (reson unknown,both self are OK)
+	W04     MCM 5 T. O.
+	W06     130 pol low self, no fringe
+
+17. Starting and Ending time of Observations (IST) : 18:24
+
+18. Comments (During Observations) :
+
+    18:24  Started scan on 3C48 for 20min.
+    18:33  MSEB Power glich for C03,C04,C10,C11,C13&C14.
+    18:52  Started cmd file /ttemp2/data/cmd/nissim/0642.cmd.   
+    21:35  C11 Started giving fringes.
+    25:05  command file stopped and 3c147 scan started
+    25:17  project over.
+     
+
+19. Data Backup files & Tape No. :

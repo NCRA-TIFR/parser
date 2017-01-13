@@ -1,0 +1,80 @@
+		 GTAC Observation Log 
+
+1. Date : 20/11/2010
+2. Observation Sr. No. : 5108
+3. Observer : S.K.Sirothia,Anand Hota
+4. Observer's Email : sirothia@ncra.tifr.res.in,hotaananda@gmail.com
+5. Project Name : Speca:A Spiral-host,triple-double, giant radio galaxy with the relic lobes likely revived by accretion shocks.
+6. Project Code : 19_045
+7. Operator(s) : Amruta,
+	Deepak,
+	Manisha,
+	Rupsingh,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/sirothia/19_045_20nov2010.cmd
+9. LTA File : /rawdata/20nov/19_045_20nov2010.lta,
+	/rawdata1/20nov/19_045_20nov2010.ltb
+10. GSB File : /gsbifrdata/20nov/19_045_20nov2010_gsb.lta
+11. LogFlag File : /odisk/online1/logflags/19_045.FLAGS.2,
+	/odisk/online1/logflags/19_045.FLAGS.3
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 314 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+15. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+GHB Settings :
+16. GHB Channels : 0:127:1
+17. Correlator Mode : IndianPolar
+18. Frequency Parameters (TPA) : 610 244 680 314 70 70 
+
+GSB Settings :
+19. Maximum Channels : 512 
+20. Final Bandwidth (MHz): OFF MHz; Steps : 0
+21. IFBW : LO5(MHz) : 32:149-156 MHz
+22. Stokes : Total_Intensity
+23. Beam - 1 : OFF
+24. Beam - 2 : OFF
+
+25. Integration Time : 128 LTA ~ 16.908 Sec.
+26. No of Antennas Working(Fringing) :27
+
+27. Name of Non-Working Antennas (with reason for each) :
+E05 - no fringe @235MHz
+C11 - USB-175 low self
+C03 - for painting
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 06:30 - 15:34
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+2s data lta/ltb files
+/rawdata/20nov/19_045_20nov2010_2s.lta,
+/rawdata1/20nov/19_045_20nov2010_2s.ltb,
+
+2s gsb file
+/gsbifrdata1/20nov/19_045_20nov2010_gsb_2s.lta
+
+06:32 : Started scan on 3C286 for 15 mins.
+06:51 : Started command file 
+        /odisk/gtac/cmd/sirothia/19_045_20nov2010.cmd
+
+08:50 : C03 antenna taken for painting.    
+
+14:10 : Stopped command file.
+14:12 : Started scan on 3C286 for 10 mins.
+14:22 : Stopped scan.
+
+14:24 : Restarted command file
+        /odisk/gtac/cmd/sirothia/19_045_20nov2010.cmd'
+15:25 : Stopped command file.
+15:27 : Started scan on 1419+064.
+15:34 : Stopped scan observation over.                    
+

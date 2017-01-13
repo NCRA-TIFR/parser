@@ -1,0 +1,49 @@
+		 GTAC Observation Log 
+
+1. Date : 09/04/2006
+2. Observation Sr. No. : 2598
+3. Observer : BCJ
+4. Observer's Email : bcj@ncra.tifr.res.in
+5. Project Name : Pulsar Obs.
+6. Project Code : 09BCJ03
+7. Operator(s) : Manisha J.,
+	Sanjay,
+	
+8. Command File : /atemp2/cmd/bcj/gmlpsr.090406.ia.cmd,
+	/atemp2/cmd/bcj/gmlpsr.090406.pa.1.cmd,
+	/atemp2/cmd/bcj/gmlpsr.090406.pa.2.cmd,
+	/atemp2/cmd/bcj/gmlpsr.090406.pa.3.cmd
+9. LTA File : /rawdata/9apr/09bcj03_psr.lta,
+	/rawdata1/9apr/09bcj03_psr.ltb
+10. LogFlag File : /atemp2/logflags/09BCJ03.FLAGS.12
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,OFF, IF-CH2 : 16+16 dB, 32 MHz,OFF
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, OFF
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+LSB : -
+S04-175 :- No fringe.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 07:30 - 15:24
+
+23. Comments (During Observations) :
+*** ONLINE Machine : aditya   ****
+*** IF ATTN : IF & BB Power Eq. ***
+*** CORR MODE : INDIAN POLAR MODE *****
+----------------------------------
+

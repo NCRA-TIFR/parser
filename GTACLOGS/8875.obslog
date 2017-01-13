@@ -1,0 +1,84 @@
+		 GTAC Observation Log
+
+1. Date : 05/09/2016
+2. Observation Sr. No. : 8875
+3. Observer : Anshu Kumari, Hariharan Krishnan, Kathiravan C
+4. Observer's Email : anshu@iiap.res.in, khariharan@iiap.res.in, kathir@iiap.res.in
+5. Project Name : Imaging Observations of Circularly Polarized Emission from Solar Transients at Decimeter Wavelengths using uGMRT
+6. Project Code : 30_077
+7. Operator(s) : Deepak, Navnath, Nilesh, Rupsing
+8. Command File : /odisk/gtac/cmd/30_077/05sep16/obs.cmd
+9. LTA File : /gsbifrdata/05sep/30_077_05sep2016.lta
+10. LogFlag File : /odisk/online1/logflags/30_077.FLAGS.2, /odisk/online1/logflags/30_077.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+10 dB, 32 MHz,OFF, IF-CH2 : 20+10 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Full_Stokes
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 0 MHz; Step # 0
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 306 306 255 255 51 51
+30. Integration Time : 2.0132 Sec
+31. No of Antennas Working(Fringing) at the beginning :30
+
+32. Name of Non-Working Antennas (with reason for each) :
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 05 Sep 2016 06:00:00 - 05 Sep 2016 17:05:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :30
+
+37. Comments (During Observations) :
+06:00 : Started settings.
+07:54:29 : Started scan on 3C147 for ~ 10.5025 min.
+08:09:19 : Started scan on 3C241 for ~ 10.2005 min.
+08:32:25 : Started scan on SUN0009 for ~ 20.0655 min.
+08:53:37 : Started scan on SUN0010 for ~ 20.334 min.
+09:19:09 : Started scan on 3C241 for ~ 14.4619 min.
+09:40:06 : Started scan on SUN0012 for ~ 21.3406 min.
+10:01:55 : Started scan on SUN0013 for ~ 20.1326 min.
+10:27:38 : Started scan on 3C241 for ~ 10.3683 min.
+10:42:44 : Started scan on 3C147 for ~ 10.4019 min.
+11:00:00 : Started scan on 3C257 for ~ 9.99921 min.
+11:14:50 : Started scan on SUN0017 for ~ 20.032 min.
+11:35:40 : Started scan on SUN0018 for ~ 20.032 min.
+12:01:21 : Started scan on 3C257 for ~ 10.3348 min.
+12:18:31 : Started scan on SUN0020 for ~ 21.6761 min.
+12:42:34 : Started scan on SUN0021 for ~ 20.032 min.
+13:07:44 : Started scan on 3C257 for ~ 9.99921 min.
+13:23:34 : Started scan on 3C286 for ~ 9.99921 min.
+13:43:15 : Started scan on 3C241 for ~ 9.99921 min.
+13:58:09 : Started scan on SUN0025 for ~ 20.032 min.
+14:18:52 : Started scan on SUN0026 for ~ 20.032 min.
+14:44:06 : Started scan on 3C241 for ~ 10.0328 min.
+14:59:25 : Started scan on SUN0028 for ~ 20.0655 min.
+15:20:18 : Started scan on SUN0029 for ~ 20.0655 min.
+15:45:17 : Started scan on 3C241 for ~ 10.0328 min.
+16:00:30 : Started scan on SUN0031 for ~ 20.032 min.
+16:23:56 : Started scan on SUN0032 for ~ 10.2341 min.
+16:39:25 : Started scan on 3C241 for ~ 9.99921 min.
+16:52:33 : Started scan on 3C286 for ~ 0.603979 min.
+17:02:00 : Observation session over.
+
+

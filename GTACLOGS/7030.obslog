@@ -1,0 +1,83 @@
+		 GTAC Observation Log 
+
+1. Date : 23/3/2014
+2. Observation Sr. No. : 7030
+3. Observer : Bhaswati Bhattacharyya,Jayanta Roy,Yashwant Gupta,Dipankar Bhattacharya,Elizabeth Ferrara
+4. Observer's Email : bhaswati@ncra.tifr.res.in,jroy@ncra.tifr.res.in,ygupta@ncra.tifr.res.in,dipankar@iucaa.ernet.in,elizabeth.c.ferrara@nasa.gov
+5. Project Name : Search for millisecond radio pulsations within the error boxes of Fermi LAT unassociated sources
+6. Project Code : 25_045
+7. Operator(s) : Deepak,Nilesh,Rupsingh,
+8. Command File : /odisk/gtac/cmd/jroy/25_045.23mar.11.cmd,/odisk/gtac/cmd/jroy/25_045.23mar.2.cmd,
+9. LTA File : /gsbifrdata/23mar//25_045_23mar2014.lta,/gsbifrdata/23mar//25_045_23mar2014.lta.1,/gsbifrdata/23mar//25_045_23mar2014.lta.2,
+10. LogFlag File : /odisk/online1/logflags/25_045.FLAGS.12,/odisk/online1/logflags/25_045.FLAGS.11,/odisk/online1/logflags/25_045.FLAGS.14,/odisk/online1/logflags/25_045.FLAGS.13,
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : Realtime 
+15. GSB LTA : 8 
+16. GSB CTRL : ONLINE 
+17. GSB Fstop : ON 
+18. GAIN EQ : OFF 
+19. Stokes : TotIntensity
+20. Beam - 1 : IA
+21. Beam - 2 : PA
+22. ACQ BW : 33.33 MHz
+23. Final BW : 33.333333 MHz; Step # 0
+24. Maximum Channels : 512 
+25. Channel Numbers : 0:511:1 
+26. LO5 -1  : 149.00 
+27. LO5 -2  : 156.00 
+
+28. Frequency Parameters (TPA) : 306 306 255 255 51 51.
+29. Integration Time : 16.106112 Sec.
+30. No of Antennas Working(Fringing) at the begining :29
+
+31. Name of Non-Working Antennas (with reason for each) :
+E03 : Servo problem
+
+32. Note for Backup :
+
+33. Start and End Time of Obs.(IST): 21:00 - 04:00
+
+34. ONLINE Machine : Lenyadri
+
+35. No of Antennas Working(Fringing) at the end :27
+
+36. Comments (During Observations) :
+21:00 : Started observation with BEAM1 : IA BEAM2 PA.
+21:20:03 : Started scan on J1120-3618 for ~ 89.9258 min.
+22:52:31 : Started scan on 1154-350 for ~ 2.14748 min.
+22:55:00 : Started scan on 1154-350 for ~ 1.07374 min.
+
+23:00 : Scintillations in data. Restarted GSB with BEAM2 : PA only.
+23:03:49 : Started scan on J1227-4859 for ~ 60.1295 min.
+00:05:26 : Started scan on 1154-350 for ~ 1.07374 min.
+
+00:08 : Scintillation not observed.
+        Restarted GSB with BEAM1 : PA BEAM2 : PA.
+00:10:17 : Started scan on 1154-350 for ~ 0.805306 min.
+00:11:39 : Started scan on 1154-350 for ~ 0.53687 min.
+00:16:32 : Started scan on J1227-4859 for ~ 59.861 min.
+01:17:51 : Started scan on 1154-350 for ~ 1.61061 min.
+01:19:40 : Started scan on 1154-350 for ~ 2.95279 min.
+01:22:58 : Started scan on 1154-350 for ~ 2.68435 min.
+01:27:20 : Started scan on J1227-4859 for ~ 59.861 min.
+02:28:34 : Started scan on 1154-350 for ~ 0.53687 min.
+02:29:36 : Started scan on 1154-350 for ~ 1.61061 min.
+02:32:31 : Started scan on J1227-4859 for ~ 23.8907 min.
+
+
+E06 : Low Fringe.
+W04 : Low Fringe.
+
+03:00 : Restarted GSB with BEAM1 : IA BEAM2 PA. 
+        (forgot to record lta file for the following sources,my apology).
+03:04:29 : Started scan on 1623-116 for ~ 1.45min.
+03:08:08 : Started scan on J1536-4948 for ~52 min.
+04:01 : Stopped scan and closed observation session.

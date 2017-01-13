@@ -1,0 +1,56 @@
+		 GTAC Observation Log 
+
+1. Date : 17/06/2009
+2. Observation Sr. No. : 4352
+3. Observer : Nirupam
+4. Observer's Email : nirupam@ncra.tifr.res.in
+5. Project Name : Super Disk
+6. Project Code : 16_085
+7. Operator(s) : Manisha,
+	Nilesh,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/nirupam/sd1.cmd
+9. LTA File : /rawdata/17jun/16_085_17jun09.lta
+10. LogFlag File : /odisk/online1/logflags/16_085.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1232 MHz ,RF2 : 1232 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1170 MHz, ILO2 : 1170 MHz, IVLO1 : 62 MHz, IVLO2 : 62 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1232 1232 1170 1170 62 62 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C11 : Servo problem.
+C04 : No fringe in GHB
+W01 : No fringe.
+(W03..W06)x(S02..S06) : Low cross counts @ 130 pol. in LSB.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 06:00 - 10:16
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+*************************************************
+06:21 : Started scan on 3C48.
+06:25 : Started command file.
+09:47 : Stopped command file.
+09:54 : Started scan on 3C48.
+10:16 : Stopped scan and observation session.
+
+*************************************************
+

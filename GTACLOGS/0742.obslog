@@ -1,0 +1,39 @@
+1. Date : 04/08/2002
+2. Observation Sr. No. : 0742
+3. Observer : crs,pandey
+4. Observer's Email : vnpandey@rri.res.in,crs@rri.res.in
+5. Project Name : PND/UDAY
+6. Project Code : 02CRS01
+7. Operator(s) : Katore S.N.,Kodilkar J.P.,
+8. Command File : /temp2/data/cmd/mrc/1aug/mrc11.cmd
+9. LTA File : /rawdata/4aug/02crs01_mrc11.lta,/rawdata/4aug/02crs01_pnd.lta
+
+ANTENNA SETTINGS :
+
+10. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+11. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+12. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 6 MHz,on, IF-CH2 : 18+18 dB, 6 MHz,on
+13. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, on
+
+CORREATOR SETTINGS :
+
+14. CLK_SEL/Samp_Freq : 1
+15. Channels : 0:127:1
+16. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+17. Integration Time : 64 STA ~ 8.454 Sec.
+18. No of Antennas Working(Fringing) :26
+
+19. Name of Non-Working Antennas (with reason for each) :
+c13 : 610 (Pol1) fringe not comming(LO1 problem)
+E04 : ABC T.O.
+C12 : mcm 2,3 T.O.
+S04 : No fringe.
+C12 : low self.
+
+20. Start and End Time of Obs.(IST): 17:10 - 19:53
+
+21. Comments (During Observations) :
+17:10 /temp2/data/cmd/mrc/1aug/mrc11.cmd command
+      file started.
+

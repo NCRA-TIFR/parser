@@ -1,0 +1,82 @@
+		 GTAC Observation Log 
+
+1. Date : 18/11/2003
+2. Observation Sr. No. : 1204
+3. Observer : Prof. A.P.Rao, Dr. Ishwar, Mamta
+4. Observer's Email : pramesh@ncra.tifr.res.in,ishwar@ncra.tifr.res.in,mamta@ncra.tifr.res.in
+5. Project Name : GRS
+6. Project Code : 03DT002
+7. Operator(s) : Mangesh,
+	Santaji,
+	
+8. Command File : /temp2/data/cmd/
+9. LTA File : /rawdata/18nov/03dt002_too_18nov03.lta,
+	/rawdata1/18nov/03dt002_too_18nov03.ltb,
+	/rawdata/18nov/03dt002_too_18nov031.lta,
+	/rawdata1/18nov/03dt002_too_18nov031.ltb
+10. LogFlag File : /btemp2/logflags/03DT002.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1280 MHz ,RF2 : 1280 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1210 MHz, ILO2 : 1210 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 2+2 dB, 32 MHz,ON, IF-CH2 : 2+2 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1280 1280 1210 1210 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :18
+
+20. Name of Non-Working Antennas (with reason for each) :
+1280&(610/235)
+C04:servo off
+C06:servo problem
+C08:no fringe
+E02:servo off
+E05:servo off
+E06:no fringe
+S02:mcm time out
+W01:no fringe
+W04:servo off
+W05:130 no fringe
+E03:130:LSB: no fringe.
+C09:(610/235):no fringe.
+
+21. Start and End Time of Obs.(IST): 17:30 - 21:10
+
+22. Comments (During Observations) :
+ONLINE RUNNING ON BHASKAR.
+----------------------------------
+SCN OBJECT      RA(MEAN)     DEC(MEAN)    DATE        IST       RF(MHz) CW(kHz)   Nrecs
+  0 2202+422    22h02m52.91 +42d17'47.80" 18/Nov/2003 17:39:36 1280.00  125.000   37
+  1 1925+211    19h26m09.68 +21d06'54.72" 18/Nov/2003 17:58:05 1280.00  125.000   18
+  2 GRS1915     19h15m22.48 +10d57'09.08" 18/Nov/2003 18:05:14 1280.00  125.000  114
+  3 1925+211    19h26m09.68 +21d06'54.72" 18/Nov/2003 18:38:42 1280.00  125.000   26
+  4 GRS1915     19h15m22.48 +10d57'09.08" 18/Nov/2003 18:48:08 1280.00  125.000  106
+  5 1925+211    19h26m09.68 +21d06'54.72" 18/Nov/2003 19:19:14 1280.00  125.000   16
+  6 3C48        01h37m54.60 +33d10'46.42" 18/Nov/2003 19:31:15 1280.00  125.000   36
+
+rotated the all feeds to 610/235 MHz.
+and set antennas to dual frequency mode
+614 244 680 310 66 66
+
+rf1=614,rf2=244,lo11=680,lo12=310,
+solar_atn1=0,solar_atn2=14,
+if_atn1=12+12,if_atn2=18+18,
+if_bw1=32,if_bw2=6,
+bb_bw=8+8,bb_lo=66.
+
+SCN OBJECT      RA(MEAN)     DEC(MEAN)    DATE        IST       RF(MHz) CW(kHz)   Nrecs
+  0 3C48        01h37m54.60 +33d10'46.42" 18/Nov/2003 19:54:48  614.00   62.500   36
+  1 2225-049    22h25m59.37 -04d55'50.12" 18/Nov/2003 20:16:03  614.00   62.500   23
+  2 GRS1915     19h15m22.48 +10d57'09.08" 18/Nov/2003 20:25:54  614.00   62.500  123
+  3 2225-049    22h25m59.37 -04d55'50.12" 18/Nov/2003 21:03:35  614.00   62.500   20
+
+stopped the observation session.
+
+

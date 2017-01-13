@@ -1,0 +1,75 @@
+		 GTAC Observation Log 
+
+1. Date : 15/11/2010
+2. Observation Sr. No. : 5100
+3. Observer : Ian Stevens
+4. Observer's Email : irs@star.sr.bham.ac.uk
+5. Project Name : Imaging of a Bowshock
+6. Project Code : 19_029
+7. Operator(s) : Deepak,
+	Manisha,
+	Navanath,
+	Nilesh,
+	Rupsingh,
+	
+8. Command File : /odisk/gtac/cmd/19_029/19_029.cmd
+9. LTA File : /rawdata/15nov/19_029_15nov2010.lta,
+	/rawdata1/15nov/19_029_15nov2010.ltb,
+	/rawdata/15nov/19_029_15nov2010.lta.1,
+	/rawdata1/15nov/19_029_15nov2010.ltb.1
+10. GSB File : /gsbifrdata/15nov/19_029_15nov2010_gsb.lta,
+	/gsbifrdata/15nov/19_029_15nov2010_gsb.lta.1
+11. LogFlag File : /odisk/online1/logflags/19_029.FLAGS
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1280 MHz ,RF2 : 1280 MHz, SA1 : 0 dB, SA2 : 0 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1210 MHz, ILO2 : 1210 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+15. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+GHB Settings :
+16. GHB Channels : 0:127:1
+17. Correlator Mode : IndianPolar
+18. Frequency Parameters (TPA) : 1280 1280 1210 1210 70 70 
+
+GSB Settings :
+19. Maximum Channels : 256 
+20. Final Bandwidth (MHz): OFF MHz; Steps : 0
+21. IFBW : LO5(MHz) : 16:138-167 MHz
+22. Stokes : Full_Polar
+23. Beam - 1 : OFF
+24. Beam - 2 : OFF
+
+25. Integration Time : 128 LTA ~ 16.908 Sec.
+26. No of Antennas Working(Fringing) :28
+
+27. Name of Non-Working Antennas (with reason for each) :
+C03 : Painting.
+C00 : Painting.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 12:00 - 22:02
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+12:33 : Started scan on 3C286 ~ 15-20 mins.
+      : Delay-dpc problem. 
+12:33 : Started scan on 3C286.
+12:52 : Started cmd file.
+14:20 : observation stopped. 
+      : Reconfigured corr...LSB Started working.
+14:35 : Started scan on flux cal.
+14:52 : Restarted cmd file.
+
+17:08 : C03,and W06 released for observation.
+17:55 : C00 released for observation.
+17:55 : C01 not pointed to source from 17:55 to 18:06.
+21:46 : Stopped command file.
+21:49 : Started scan on 3C48.
+22:02 : Stopped scan and observation over.
+ 
+

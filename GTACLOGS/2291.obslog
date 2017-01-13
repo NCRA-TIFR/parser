@@ -1,0 +1,70 @@
+		 GTAC Observation Log 
+
+1. Date : 18/11/2005
+2. Observation Sr. No. : 2291
+3. Observer : Neeraj Gupta
+4. Observer's Email : neeraj@ncra.tifr.res.in,djs@ncra.tifr.res.in,anand@iucaa.ernet.in
+5. Project Name : Linevar
+6. Project Code : 09DJS02
+7. Operator(s) : Manisha J.,
+	Sachin,
+	Santaji,
+	
+8. Command File : /atemp2/cmd/neeraj/1413.cmd
+9. LTA File : /rawdata/18nov/09djs02_1413.lta,
+	/rawdata1/18nov/09djs02_1413.ltb
+10. LogFlag File : /atemp2/logflags/09DJS02.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1138.92 MHz ,RF2 : 1138.92 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1070 MHz, ILO2 : 1070 MHz, IVLO1 : 68.92 MHz, IVLO2 : 68.92 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 1000 KHz, 12 dB, OFF
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 4
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1138.92 1138.92 1070 1070 68.92 68.92 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C04 - Taken for servo work.
+C10 - Taken for maintenance.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 09:15 - 16:00
+
+23. Comments (During Observations) :
+*********************************************
+**********ONLINE RUNNING ON ADITYA***********
+*********AUTHIF AT 1170 MHz. ALC ON**********
+*********************************************
+09:27 : Started scan on 3C286 & continued it for 
+        20 mins.
+10:03 : Started command file.
+10:47 : Came to know that the slewing time is less.
+        So edited command file.
+10:51 : Restarted command file.
+11:47 : scan started on 3C286.
+12:12 : restarted the command file.
+12:15 : C10 released from maintenance work.
+12:30 : Due to power glitch whole E-arm+W01+W02+W06+S04+C13 
+        affected.
+12:46 : Recoverd all antennae excepr E-arm and started command file.
+12:48 : E-arm power resumed.
+13:10 : Completed settings for E-arm.
+13:18 : Restarted command file.
+13:20 : C10's feed was not focused.
+13:30 : C10 focused the feed.
+13:32 : E02's IF bandwidth set properly.
+13:35 : E03 IF bandwidth set to 6 MHz.
+14:57 : started scan on 3c286 ~12mins.
+15:13 : restarted command file.
+16:00 : stopped das & observation session.
+

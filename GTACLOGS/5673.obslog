@@ -1,0 +1,62 @@
+		 GTAC Observation Log 
+
+1. Date : 02/11/2011
+2. Observation Sr. No. : 5673
+3. Observer : D.Mitra
+4. Observer's Email : dmitra@ncra.tifr.res.in
+5. Project Name : Coordinated X-ray and Radio Observations of the Moding/Drifting Pulsar B0943+10
+6. Project Code : 21_028
+7. Operator(s) : Navanath,
+	
+8. Command File : 
+9. LTA File : /gsbifrdata/02dec/21_028_02dec2011.lta,
+	/gsbifrdata/02dec/21_028_02dec2011.lta.1,
+	/gsbifrdata/02dec/21_028_02dec2011.lta.2,
+	/gsbifrdata/02dec/21_028_02dec2011.lta.3,
+	/gsbifrdata/02dec/21_028_02dec2011.lta.4
+10. LogFlag File : /odisk/online1/logflags/21_028.FLAGS.8
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+12 dB, 32 MHz,OFF, IF-CH2 : 20+12 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : OFF 
+17. Stokes : Total_Intensity
+18. Beam - 1 : IA
+19. Beam - 2 : PA
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 306 306 255 255 51 51.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :29
+
+27. Name of Non-Working Antennas (with reason for each) :
+S03 :Feed jam.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 01:00 - 11:00
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+00:40 : Started setup for project 21_028.
+00:55 : Started power eq. on 3C147 ~ 300counts 
+01:05 : Started phasing on 3C147.
+01:08:17 : Started scan on 3C147 for ~ 5.63714 min.
+01:18:14 : Started scan on 1021+219 for ~ 7.24775 min.
+01:27:37 : Started scan on B0950+08 for ~ 3.75809 min.
+01:32:56 : Started scan on B0943+10 for ~ 49.9289 min.
+
+08:10 : W06 and S04 released for painting.
+11:30 : Observation stopped.
+
+

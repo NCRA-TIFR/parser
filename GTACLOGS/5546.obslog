@@ -1,0 +1,52 @@
+		 GTAC Observation Log 
+
+1. Date : 30/8/2011
+2. Observation Sr. No. : 5546
+3. Observer : Richard Dodson,Avinash Anant Deshpande, Wasim
+4. Observer's Email : desh@rri.res.in,wasim@rri.res.in,richard.dodson@uwa.edu.au
+5. Project Name : Polarised GMRT observations of the Vela PWN
+6. Project Code : 20_072
+7. Operator(s) : Manisha,
+	Navanath,
+	
+8. Command File : 
+9. LTA File : 
+10. LogFlag File : 
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 317 MHz ,RF2 : 317 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255 MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,OFF, IF-CH2 : 4+12 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : Rawdump 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 16:138000-167000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 317 317 255 255 62 62.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :30
+
+27. Name of Non-Working Antennas (with reason for each) :
+--
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 07:00 - 13:00
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+07:00 : Started setup for 20_072.
+07:30 : Started power eq.
+11:30 : S-arm power failure.
+13:00 : Observing session over.
+

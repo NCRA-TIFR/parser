@@ -1,0 +1,38 @@
+1. Date : 14/04/2002
+2. Observation Sr. No. : 521
+3. Observer & email :  Ishwar Chandra/ishwar@ncra.tifr.res.in
+4. Project Name & Code : HIABS / 01CHI01
+5. Operator(s) : Sanjay(2)
+6. Command File/Source  & Lta File : /temp2/data/cmd/ishwar/pks1437.cmd
+							       : /rawdata/14apr/pks1437.lta
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 : 1170 MHz., 0 dB., OFF.
+8. Ist LO (MHz) & IVth LO (MHz) : 1055 MHz., 73.7 MHz.
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : 2+2 dB., 32 MHz., ON.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status : 8 MHz., 3 dB., ON.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 1 / 1 
+12. Channels : 0,127,1
+13. Frequency Parameters (TPA) : 1128.7 1128.7 1055 1055 73.7 73.7
+
+14. Integration Time (Sec.) : 16 sec (16*8m)
+15. No of Antennas Working(Fringing) : 28
+16. Name of Non-Working Antennas (with reason for each) :
+	
+	C00     Az-brake problem
+	W04		MCM 5 time out.
+
+17. Starting and Ending time of Observations (IST) : 21:49 
+18. Comments (During Observations) :
+
+    21:49  Started a scan for 20 minutes on 3c286.
+			Scintillation is on.
+	22:10  Scintillation stopped.
+	22:35  Stopped das scan.
+	22:50  Started cmd file.
+
+19. Data Backup files & Tape No. :

@@ -1,0 +1,59 @@
+		 GTAC Observation Log 
+
+1. Date : 07/02/2009
+2. Observation Sr. No. : 4186
+3. Observer : Ahirup Datta
+4. Observer's Email : adatta@nrao.edu
+5. Project Name : HI_21cm absorption
+6. Project Code : 15ADA01
+7. Operator(s) : Deepak,
+	Nilesh,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/15ada01/1026.cmd
+9. LTA File : /rawdata/7feb/15ada01_07feb2009.lta,
+	/rawdata1/7feb/15ada01_07feb2009.ltb,
+	/rawdata/7feb/15ada01_07feb2009_diffstop.lta,
+	/rawdata1/7feb/15ada01_07feb2009_diffstop.ltb
+10. LogFlag File : /btemp2/logflags/15ADA01.FLAGS.20
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 228.035 MHz ,RF2 : 228.035 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 296 MHz, ILO2 : 296 MHz, IVLO1 : 67.965 MHz, IVLO2 : 67.965 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 6 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 4000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:255:1
+17. Frequency Parameters (TPA) : 228.035 228.035 296 296 67.965 67.965 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+S01 : Bad Bandshape @130pol
+C05 : Low fringe.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 20:30 - 06:30
+
+23. ONLINE Machine : Bhaskar
+
+24. Correlator Mode : UsbHighRes
+
+25. Comments (During Observations) :
+---------------------------------------------------------
+NOTE FOR THE USER :
+"The online fringe stopping algorithm was found to be in error by about 2s
+after 1Jan2009. This differential fringe rate was applied using the program
+diffstop. The fringe rate was corrected for an error of +2.0s, and the
+timestamps were also updated by the same amount."
+-----------------------------------------------------------------------------
+20:00 : Started setup for 15ADA01 observation.
+20:21 : Started scan on 3c147 ~15min.
+20:50 : Started command file.
+06:30 : observation session over.
+

@@ -1,0 +1,85 @@
+		 GTAC Observation Log 
+
+1. Date : 10/3/2013
+2. Observation Sr. No. : 6416
+3. Observer : Sandip Sirothia, Ishwar Chandra
+4. Observer's Email : sirothia@ncra.tifr.res.in,ishwar@ncra.tifr.res.in
+5. Project Name : Candidate High-redshift Radio Galaxies: Compact ultra-steep-spectrum sources from TGSS
+6. Project Code : 23_066
+7. Operator(s) : Pramod,
+	Rupsingh,
+	Surender
+8. Command File : /odisk/gtac/cmd/sirothia/23_066_20130310b.cmd,
+	/odisk/gtac/cmd/sirothia/23_066_20130310c.cmd,
+	/odisk/gtac/cmd/sirothia/23_066_20130310d.cmd,
+	/odisk/gtac/cmd/sirothia/23_066_20130310e.cmd,
+	/odisk/gtac/cmd/sirothia/23_066_20130310g.cmd,
+	
+9. LTA File : /gsbifrdata/10mar/23_066_10mar2013_16s.lta
+10. LogFlag File : /odisk/online1/logflags/23_066.FLAGS.13
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : IA
+19. Beam - 2 : PA
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 306 306 255 255 51 51.
+25. Integration Time : 2.013 Sec.
+26. No of Antennas Working(Fringing) :28
+
+27. Name of Non-Working Antennas (with reason for each) :
+C04 : Servo motor changing and counter weight rectification.
+W02 : BLDC work.
+
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 21:00 - 06:25
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+       2s .lta file
+/gsbifrdata1/10mar/23_066_10mar2013_2s.lta.1
+--------------------------------------------------------------------------------
+   GAC configuration 
+In PA (Total 16 )#C00 C01 C02 C03 C05 C06 C08 C09 C10 C11 C12 C13 C14 W01 E02 S01 
+In IA (Total 28) # Total 28 except C04 & W02.
+---------------------------------------------------------------------------------
+21:00 : Started set up for 325MHz.
+21:00 to 23:30 : Scintillation problem.
+23:26 : Started scan on 3C147.
+23:37 : Stopped scan on 3C147 and started following command file.
+       '/odisk/gtac/cmd/sirothia/23_066_20130310b.cmd'
+23:58 : E05 applying frequently El brake.Hence remove from GAC.
+00:57 : Stopped command file.
+01:00 : Started command file 
+          '/odisk/gtac/cmd/sirothia/23_066_20130310c.cmd' 
+02:10 : Stopped command file
+02:12 : Started command file
+           '/odisk/gtac/cmd/sirothia/23_066_20130310d.cmd' 
+03:30 : Stopped command file
+03:32 : Started command file
+           '/odisk/gtac/cmd/sirothia/23_066_20130310e.cmd' 
+04:42 : Stopped command file.
+04:44 : Started command file.
+           '/odisk/gtac/cmd/sirothia/23_066_20130310g.cmd' 
+05:53 : Stopped command file.
+06:04 : Started scan on 3C286.
+06:25 : Stopped scan & observing session is over.
+
+
+

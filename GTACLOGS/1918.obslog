@@ -1,0 +1,76 @@
+		 GTAC Observation Log 
+
+1. Date : 27/02/2005
+2. Observation Sr. No. : 1918
+3. Observer : R. Beswick
+4. Observer's Email : rbeswick@jbiman.ac.uk
+5. Project Name : seyferts
+6. Project Code : 07RBB01
+7. Operator(s) : Deepak,
+	Manisha J.,
+	
+8. Command File : /btemp2/cmd/rbeswick/ngc34.cmd,
+	/btemp2/cmd/rbeswick/ugc5101.cmd
+9. LTA File : /rawdata/27feb/07rbb01_ngc34.lta,
+	/rawdata1/27feb/07rbb01_ngc34.ltb,
+	/rawdata/27feb/07rbb01_ugc5101.lta,
+	/rawdata1/27feb/07rbb01_ugc5101.ltb
+10. LogFlag File : /btemp2/logflags/07RBB01.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1388.842 MHz ,RF2 : 1388.842 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1320 MHz, ILO2 : 1320 MHz, IVLO1 : 68.842 MHz, IVLO2 : 68.842 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 14+14 dB, 16 MHz,ON, IF-CH2 : 14+14 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1388.842 1388.842 1320 1320 68.842 68.842 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+--
+
+21. Start and End Time of Obs.(IST): 10:15 - 23:11
+
+22. Comments (During Observations) :
+****************************
+ONLINE: bhaskar
+AUTHIF: 1390MHz.
+****************************
+
+10:29 : Started scan on 3C48 for 20 mins.
+10:54 : Started command file  
+        /btemp2/cmd/rbeswick/ngc34.cmd
+11:10 : E03 Started working.
+13:55 : Command file stopped.
+14:07 : Started scan on 3C48 for 20mins.
+14:08 : E02 Started working.
+14:30 : Restarted command file.
+16:53 : Power failed at W-arm.
+17:28 : W-arm restored for observing session.
+17:42 : Stopped the command file.
+17:45 : Started scan on 3c48 for 20min.
+18:05 : Stopped the scan & closed the data file.
+--------
+18:05 : Started next settings.
+        TPA 1362.5598 1362.5598 1295 1295 67.5598 67.5598
+18:11 : Started scan on 3c48 for 20min.
+18:36 : Stopped the scan.
+18:41 : Started the command file
+        /btemp2/cmd/rbeswick/ugc5101.cmd.
+20:47 : Stopped the command file.
+20:50 : Started the scan on 3c147 for 20min.
+21:10 : Stopped the scan.
+21:11 : Restarted the command file /btemp2/cmd/rbeswick/ugc5101.cmd.
+22:48 : Command file stopped.
+22:51 : Started scan on 3c147 for 20min.
+23:11 : Stopped the scan & Obs. session.
+
+
+

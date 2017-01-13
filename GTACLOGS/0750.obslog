@@ -1,0 +1,58 @@
+1. Date : 11/08/2002
+2. Observation Sr. No. : 0750
+3. Observer : Andre,Lecavelier,Sirothia
+4. Observer's Email : andre@iap.fr,lecaveli@iap.fr,sirothia@ncra.tifr.res.in
+5. Project Name : PKS1925
+6. Project Code : 02MAA02
+7. Operator(s) : Katore S.N.,Kodilkar J.P.,Umbarje M.S.,
+8. Command File : /temp2/data/cmd/sirothia/1925.cmd
+9. LTA File : /rawdata/11aug/02maa02_pks1925.lta
+
+ANTENNA SETTINGS :
+
+10. RF Freq(MHz) & Solar Attn(dB)- RF1 : 327.12 MHz ,RF2 : 327.12 MHz, SA1 : 0 dB, SA2 : - dB
+11. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 257 MHz, ILO2 : 257 MHz, IVLO1 : 70.12 MHz, IVLO2 : 70.12 MHz
+12. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 6 MHz,on, IF-CH2 : 16+16 dB, 6 MHz,on
+13. BB BW(KHz), BB Gain(dB) & BB ALC : 500 KHz, 12 dB, on
+
+CORREATOR SETTINGS :
+
+14. CLK_SEL/Samp_Freq : 5
+15. Channels : 0:127:1
+16. Frequency Parameters (TPA) : 327.12 327.12 257 257 70.12 70.12 
+
+17. Integration Time : 128 STA ~ 16.908 Sec.
+18. No of Antennas Working(Fringing) :26
+
+19. Name of Non-Working Antennas (with reason for each) :
+C00:clk-sel 5 not set.
+C01:clk-sel 5 not set.
+W01:130 pol no fringe.
+W02:130 pol no ftinge.
+
+
+
+20. Start and End Time of Obs.(IST): 17:00 - 00:00
+
+21. Comments (During Observations) :
+17:31 started scan on 3c286 for 20 min.
+18:02 started the command file 
+      /temp2/data/cmd/sirothia/1925.cmd.
+      scan # 1 is bad.
+23:08 subarray 4 track reached to inner limit.
+      command file stopped.
+      scan # 7 is bad( containts only 2 record.)
+23:25 command file restarted with outer track.
+23:33 W01 azimuth brake problem , antenna not tracking.
+24:48 Scan 9 , E06 flatband shape.
+25:06 scan 9 stopped & corr_config run to elliminate
+      the problem of E06.
+25:10 scan restarted, E06 flat bandshape problem 
+      solved.
+26:41 C06 Az brake problem , wind high.
+26:44 problem solved.
+27:32 source set command file stopped.
+scan : 13 is bad scan.
+27:44 flux cal scan started on 3C48 source for 20m.
+28:04 scan stopped & project over.
+

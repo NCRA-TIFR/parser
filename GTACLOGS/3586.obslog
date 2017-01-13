@@ -1,0 +1,52 @@
+		 GTAC Observation Log 
+
+1. Date : 27/01/2008
+2. Observation Sr. No. : 3586
+3. Observer : S J George
+4. Observer's Email : samuel@star.sr.bham.ac.uk,krioma@gmail.com,irs@star.sr.bham.ac.uk
+5. Project Name : Brown Dwarf Observations
+6. Project Code : 13SGB01
+7. Operator(s) : Deepak,
+	
+8. Command File : /atemp2/cmd/13sgb01/obs16.cmd
+9. LTA File : /rawdata/27jan/13sgb01_27jan2008.lta,
+	/rawdata1/27jan/13sgb01_27jan2008.ltb
+10. LogFlag File : /atemp2/logflags/13SGB01.FLAGS.9
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+4 dB, 32 MHz,ON, IF-CH2 : 12+4 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C02 : painting.
+W02 - LSB no fringe.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 16:30 - 23:00
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : USBPolar    *********
+--------------------------------------------
+16:54 : Started scan on 3C147 for 15mins.
+17:13 : Started command file.
+19:00 : C02 started working.
+
+22:28 : Command file stopped.
+22:35 : Started scan on 3C147 for 15mins.
+23:00 : Observation stopped.
+
+

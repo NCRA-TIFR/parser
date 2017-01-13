@@ -1,0 +1,59 @@
+		 GTAC Observation Log 
+
+1. Date : 03/02/2006
+2. Observation Sr. No. : 2459
+3. Observer : Dipanjan Mitra
+4. Observer's Email : ahuja@iucaa.ernet.in,dmitra@ncra.tifr.res.in
+5. Project Name : Pulsar Obsn.
+6. Project Code : 09DOA01
+7. Operator(s) : Sachin,
+	Sanjay,
+	Santaji,
+	
+8. Command File : /atemp2/cmd/hold.cmd
+9. LTA File : /rawdata/3feb/09doaa1_243.lta,
+	/rawdata/3feb/09doab1_607.lta
+10. LogFlag File : /atemp2/logflags/09DOAA1.FLAGS.6,
+	/atemp2/logflags/09DOAB1.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 607 MHz ,RF2 : 607 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 67 MHz, IVLO2 : 67 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,OFF, IF-CH2 : 16+16 dB, 32 MHz,OFF
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, OFF
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 607 607 540 540 67 67 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C03 : No fringe.
+S06 : No power at S06.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 08:40 - 13:09
+
+23. Comments (During Observations) :
+| Online  - Aditya
+| ALC OFF IF-Power Eq.
+-----------------------------------
+Dual Freq. Pulsar Observation:
+243 Ants:C01,C02,C03,C08,S01,E02,W01
+610 Ants:C00,C05,C06,C10,C11,C12,C13,C14,S02
+
+243 - chans in GAC:chan 0 to chan 110
+C09 - Sin wave signal injected chan 111-chan 114
+610 - Chans in GAC:chan 115 to chan 255
+------------------------------------------------
+tpa for 610 MHz ants:607 607 540 540 67 67(suba 2)
+tpa for 235 MHz ants:243 243 310 310 67 67(suba 3)
+-------------------------------------------------
+
+

@@ -1,0 +1,52 @@
+		 GTAC Observation Log 
+
+1. Date : 01/01/2003
+2. Observation Sr. No. : 0918
+3. Observer : D J Saikia, Neeraj Gupta
+4. Observer's Email : djs@ncra.tifr.res.in,neeraj@ncra.tifr.res.in
+5. Project Name : CSSHI
+6. Project Code : 03SJA01
+7. Operator(s) : Mangesh,
+	Manisha J.,
+	
+8. Command File : /temp2/data/cmd/neeraj/0858+292.cmd
+9. LTA File : /rawdata/1jan/03sja01_0858.lta
+10. LogFlag File : /temp2/data/logflags/03SJA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1185.62 MHz ,RF2 : 1185.62 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1115 MHz, ILO2 : 1115 MHz, IVLO1 : 70.62 MHz, IVLO2 : 70.62 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 6+6 dB, 16 MHz,ON, IF-CH2 : 6+6 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1185.62 1185.62 1115 1115 70.62 70.62 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+S03 : ABC T. O.
+C00 : El brake Problem.
+W01 : Intermittant Az. brakes.
+
+
+21. Start and End Time of Obs.(IST): 00:53 - 07:55
+
+22. Comments (During Observations) :
+00:53	started scan on 3C147 ~ 30mins.
+
+Note : in scan # 0, data after ~ 01:30 is bad (antennas were off sources).
+
+02:00  Started command file.
+07:44  Stopped the command file.
+07:53  Started a scan on 3c286.
+08:03  From around 0750 Hr. C13 not working due
+       to ABC reset. From 08:03 started working.
+07:55  Stopped the scan on 3c286. Closed the observation.
+
+

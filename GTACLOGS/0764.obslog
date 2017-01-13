@@ -1,0 +1,43 @@
+1. Date : 19/08/2002
+2. Observation Sr. No. : 0764
+3. Observer : Ishwar,Nimisha,SAK
+4. Observer's Email : ishwar@ncra.tifr.res.in,ngk@ncra.tifr.res.in,ananth@ncra.tifr.res.in
+5. Project Name : ugc11909 at 325
+6. Project Code : 02SAK01
+7. Operator(s) : Katore S.N.,Kodilkar J.P.,Kudale S.S.,Umbarje M.S.,
+8. Command File : /temp2/data/cmd/ngk/ugc11909.cmd,/temp2/data/cmd/ngk/ugc4961.cmd
+9. LTA File : /rawdata/19aug/02sak01_ugc11909_19aug.lta,/rawdata/20aug/02sak01_ugc4961_20aug.lta
+
+ANTENNA SETTINGS :
+
+10. RF Freq(MHz) & Solar Attn(dB)- RF1 : 325 MHz ,RF2 : 325 MHz, SA1 : 0 dB, SA2 : 0 dB
+11. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 255 MHz, ILO2 : 255 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+12. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,on, IF-CH2 : 16+16 dB, 32 MHz,on
+13. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, on
+
+CORREATOR SETTINGS :
+
+14. CLK_SEL/Samp_Freq : 0
+15. Channels : 0:127:1
+16. Frequency Parameters (TPA) : 325 325 255 255 70 70 
+
+17. Integration Time : 256 STA ~ 33.817 Sec.
+18. No of Antennas Working(Fringing) :28
+
+19. Name of Non-Working Antennas (with reason for each) :
+W01,W02 no fringe.
+
+20. Start and End Time of Obs.(IST): 22:06 - 00:00
+
+21. Comments (During Observations) :
+22:06 : Started the command file
+            '/temp2/data/cmd/ngk/ugc11909.cmd'
+23:40 : started scan on 3c40 for 20 min.
+14:05 : started the command file.
+06:10 : started scan on 3c147.
+06:35 : started the command file 
+	/temp2/data/cmd/ngk/ugc4961.cmd
+11:35 : Stopped cmd file.
+11:38 : Started das scan on BP/FLUX cal (3c147).
+11:58 : Stopped das scan on 3c147, stopped project.
+

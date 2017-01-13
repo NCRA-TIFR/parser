@@ -1,0 +1,80 @@
+1. Date : 29/01/2002
+2. Observation Sr. No. : 458
+3. Observer & email :psubrama, psubrama@iucaa.ernet.in
+4. Project Name & Code : SUN JAN29 / 01PSA01 
+5. Operator(s) : Jitendra(2),Jprakash(2)
+6. Command File/Source  & Lta File : 
+                                   : /rawdata/29jan/01psa01_s610cal.lta
+                                   : /rawdata/29jan/01psa01_sun610.lta
+                                   : /rawdata/29jan/01psa01_sun610.lta.1
+                                   : /rawdata/29jan/01psa01_s235cal.lta
+	                               : /rawdata/29jan/01psa01_s235cal.lta.1
+
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 : 610 MHz., 0 dB., OFF.
+8. Ist LO (MHz) & IVth LO (MHz) :540 MHz., 70 MHz., 
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : Power Eq., 32 MHz., OFF.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status : 16 MHz., 0 dB., ON.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 0 / 0
+12. Channels : 0,127,1
+13. Frequency Parameters (TPA) : 610 610 540 540 70 70
+
+14. Integration Time (Sec.) : 16 sec (16*8m)
+15. No of Antennas Working(Fringing) : 26 
+16. Name of Non-Working Antennas (with reason for each) :
+    
+	 C12 - No fring (243)
+	 C14 - MCM 5 Time Out no fring (243)
+	 W04 - No fring at (243)
+     W05 - Mechanical PM.
+
+     W06,S06 - Delay out of range
+	 
+17. Starting and Ending time of Observations (IST) : 12:25 - 17:10
+18. Comments (During Observations) :
+ 
+	10:40   Scan 0 : 3c446 + 14dB + EHiCal ON ,  Duration : 10m
+            C01 Elevation brake problem
+	10:57   Scan 1 : CYGA + 14dB + Ngoff   ,  Duration : 10m
+	11:14   Scan 2 : CYGA + 30dB + Ngoff   ,  Duration : 10m
+
+	11:37   Scan 3 : SUN0129B  + 30dB + Ngoff   ,  Duration : 10m
+
+    * File Closed.
+
+    * BB-IF ALC : ON
+    datafile : /rawdata/28jan/01psa01_sun610.lta   : 3C446
+    datafile : /rawdata/28jan/01psa01_sun610.lta.1 : SUN0129C
+
+    12:04   scan 0 started on 3c446 
+    12:20   scan 1 started on SUN0128C
+    12:50   scan 1 stopped.
+	
+   * Antennas Settings :-
+     RF Freq (MHz) & Solar Attn (dB) & MCM 5 : 243 MHz., 0 dB., OFF.
+     Ist LO (MHz) & IVth LO (MHz) :313 MHz., 70 MHz., 
+     IF Attn (dB) , IF BW (MHz) & IF ALC Status : Power Eq., 16 MHz., OFF.
+     BB BW (MHz) , BB Gain (dB) & BB ALC Status : 8 MHz., 0 dB., ON.
+
+     Data file : /rawdata/29jan/01psa01_s235cal.lta.
+
+	13:30   Scan 0 : 3c446 + 14dB + EHiCal ON ,  Duration : 10m
+	13:51   Scan 1 : CYGA + 14dB + Ngoff      ,  Duration : 10m
+	14:07   Scan 2 : CYGA + 30dB + Ngoff      ,  Duration : 10m
+    14:11   Scan stopped , MSEB Power shutdown for 1 Hour.
+	
+	16:05   started scan on SUN0129F whith CSQ antennas.
+	Data file  : /rawdata/29jan/01psa01_s235cal.lta.1
+	16:38   stopped scan 
+	16:56   started scan on 3c446
+	17:10   stopped observetion.
+
+	
+	
+
+19. Data Backup files & Tape No. :

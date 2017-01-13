@@ -1,0 +1,53 @@
+		 GTAC Observation Log 
+
+1. Date : 15/12/2007
+2. Observation Sr. No. : 3498
+3. Observer : BCJ
+4. Observer's Email : bcj@ncra.tifr.res.in
+5. Project Name : Pulsar obs
+6. Project Code : 13BCJ01
+7. Operator(s) : Deepak,
+	Jayprakash,
+	Navanath,
+	Nilesh,
+	
+8. Command File : /atemp2/cmd/hold.cmd
+9. LTA File : /rawdata/15dec/13bcj01_235.lta,
+	/rawdata1/15dec/13bcj01_325.ltb
+10. LogFlag File : /atemp2/logflags/13BCJ01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 328 MHz ,RF2 : 328 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 261 MHz, ILO2 : 261 MHz, IVLO1 : 67 MHz, IVLO2 : 67 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+5 dB, 6 MHz,OFF, IF-CH2 : 20+5 dB, 6 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 328 328 261 261 67 67 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+S01 : No fringe.
+S04 : No fringe.
+W04 : Servo problem.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 08:00 - 16:15
+
+23. Comments (During Observations) :
+----------------------------------------------------
+******** ONLINE Machine : Aditya   ********* 
+******** Corr Mode : IndianPolar *********
+----------------------------------------------------
+
+09:00 : Pulsar observation started.
+16:15 : Observation stopped.
+
+
+

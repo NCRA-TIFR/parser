@@ -1,0 +1,44 @@
+1. Date : 28/04/2002
+2. Observation Sr. No. : 549
+3. Observer & email :  Minchin
+4. Project Name & Code :  Observation at 1020 MHz./01SEA01
+5. Operator(s) :   Mangesh(2), Jayprakash(2) , Jitendra(3)
+6. Command File/Source  & Lta File : /temp2/data/cmd/minchin/1447a.cmd
+                                   : /rawdata/28apr/01sea01_1447.lta
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 :  1060 MHz.,  0 dB., OFF.
+8. Ist LO (MHz) & IVth LO (MHz) : 950 MHz.,  70 MHz.  
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : 4+4 dB., 32 MHz., ON.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status : 16 MHz., 0 dB., ON.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 0 / 0 
+12. Channels : 0,127,1 
+13. Frequency Parameters (TPA) : 1020 1020 950 950 70 70
+
+14. Integration Time (Sec.) : 16 sec (16*8m)
+15. No of Antennas Working(Fringing/tracking):  26
+16. Name of Non-Working Antennas (with reason for each) :
+
+    C02  No fringe ( Feed problem ? also MCM 14 T. O.)
+    C04  Frequently ABC Reset.
+	C03	 MCM 5 T. O.
+    W04  No fringe
+    E06  No fringe
+
+17. Starting and Ending time of Observations (IST) : 19:10 -
+	
+18. Comments (During Observations) :
+
+    19:10  Started a scan on 3c147.
+    19:45  Stopped the scan on 3c147. Moved antennas to 1347+122.
+    20:07  Started the command file.
+    21:12  After refocussing the feed W04 started working.
+    06:50  command file stopped.
+
+
+    
+19. Data Backup files & Tape No. :

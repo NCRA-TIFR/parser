@@ -1,0 +1,48 @@
+		 GTAC Observation Log 
+
+1. Date : 24/01/2008
+2. Observation Sr. No. : 3577
+3. Observer : Viswesh
+4. Observer's Email : viswesh@ncra.tifr.res.in
+5. Project Name : RDQS
+6. Project Code : 08DT009
+7. Operator(s) : Jitendra,
+	
+8. Command File : /atemp2/cmd/viswesh/1456+375.cmd
+9. LTA File : /rawdata/24jan/08dt009_24jan2008.lta,
+	/rawdata1/24jan/08dt009_24jan2008.ltb
+10. LogFlag File : /atemp2/logflags/08DT009.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1065.25 MHz ,RF2 : 1065.25 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 995 MHz, ILO2 : 995 MHz, IVLO1 : 70.25 MHz, IVLO2 : 70.25 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 6 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 500 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:255:1
+17. Frequency Parameters (TPA) : 1065.25 1065.25 995 995 70.25 70.25 
+
+18. Integration Time : 16 LTA ~ 2.114 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+E04 - tracking problem.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 03:45 - 00:00
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Aditya   ********* 
+******** Corr Mode : USB Highres *********
+******** ALCs On********************
+--------------------------------------------
+03:45 : Flux cal scan started on 3c286.
+04:05 : Command file started.
+07:25  : observing session over
+

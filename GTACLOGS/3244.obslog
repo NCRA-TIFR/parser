@@ -1,0 +1,62 @@
+		 GTAC Observation Log 
+
+1. Date : 10/07/2007
+2. Observation Sr. No. : 3244
+3. Observer : Atish Kambale
+4. Observer's Email : atish@rri.res.in
+5. Project Name : GRB030329
+6. Project Code : 12DBA01
+7. Operator(s) : Jayprakash,
+	Jitendra,
+	Manisha,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/ishwar/dba.cmd
+9. LTA File : /rawdata/10jul/12dba01_grb030329.lta,
+	/rawdata1/10jul/12dba01_grb030329.ltb
+10. LogFlag File : /btemp2/logflags/12DBA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 32 MHz,ON, IF-CH2 : 12+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :22
+
+20. Name of Non-Working Antennas (with reason for each) :
+C01 - servo problem.
+C13 - no fringe. 
+C14 - 130 no fringe.
+E03 - low fringe.
+E04 - no fringe.
+W01 - no fringe.
+W06 - no fringe.
+S06 - no fringe. and EL brakes.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 12:30 - 20:30
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+12:54 : scan started on 3c147.
+13:38 : command file started.
+20:02 : Command file stopped, scan stopped on
+        target source.
+20:04 : Phase cal scan started.
+20:12 : Scan stopped.
+20:16 : Flux cal scan started on 3C286.
+20:30 : Scan stopped, project over.
+

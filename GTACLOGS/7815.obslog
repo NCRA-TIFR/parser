@@ -1,0 +1,62 @@
+		 GTAC Observation Log
+
+1. Date : 01/06/2015
+2. Observation Sr. No. : 7815
+3. Observer : Xinwen Shu, YOGESH CHANDOLA, Tinggui Wang, Ning Jiang, Di Li, Ningyu Tang
+4. Observer's Email : xinwen.shu@cea.fr, yogesh.chandola@gmail.com, twang@ustc.edu.cn, jnac@mail.ustc.edu.cn, ithaca.li@gmail.com, nytang@nao.cas.cn
+5. Project Name : The missing link: revealing the nature of radio emission from a supersoft intermediate-mass black hole with GMRT
+6. Project Code : 28_039
+7. Operator(s) : Deepak, Navnath, Pramod
+8. Command File : /odisk/gtac/cmd/28_039/may31.cmd
+9. LTA File : /gsbifrdata/31may/28_039_31may2015.lta
+10. LogFlag File : /odisk/online1/logflags/28_039.FLAGS.2,/odisk/online1/logflags/28_039.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1371 MHz ,RF2 : 1371 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1320 MHz, ILO2 : 1320MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 1371 1371 1320 1320 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :28
+
+32. Name of Non-Working Antennas (with reason for each) :
+S04 : Taken for BLDC.
+W05 : Taken for Mechanical work.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 31 May 2015 15:00:00 - 01 Jun 2015 03:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :28
+
+37. Comments (During Observations) :
+15:00 : Started set up.
+15:11 : Started scan on 3C147.
+15:43 : Stopped scan and started command file.
+    '/odisk/gtac/cmd/28_039/may31.cmd'
+16:40 : W05 started working.
+17:00 : W03 servo problem.
+02:22 : Started scan on 3C286.
+03:00 : Observation session over.

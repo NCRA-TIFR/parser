@@ -1,0 +1,80 @@
+		 GTAC Observation Log 
+
+1. Date : 11/11/2012
+2. Observation Sr. No. : 6216
+3. Observer : Jayaram Chengalur
+4. Observer's Email : chengalu@ncra.tifr.res.in
+5. Project Name : HI observations of gas rich dwarf galaxies in voids
+6. Project Code : 23_041
+7. Operator(s) : Shilpa,
+	Surender
+8. Command File : /odisk/gtac/cmd/chengalu/j0744.cmd
+9. LTA File : /gsbifrdata/11nov/23_041_11nov2012_8s.lta
+10. LogFlag File : /odisk/online1/logflags/23_041.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1406.3794 MHz ,RF2 : 1406.3794 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1345 MHz, ILO2 : 1345 MHz , IVLO1 : 61.3794 MHz, IVLO2 : 61.3794 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 16 MHz
+21. Maximum Channels : 512 
+22. IFBW (MHz) : LO5 (KHz) : Custom :- 16 : 138.62 - 166.37
+23. Final Bandwidth (MHz): 4 MHz; Step # 2
+
+24. Frequency Parameters (TPA) : 1406.3794 1406.3794 1345 1345 61.3794 61.3794.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :25
+
+27. Name of Non-Working Antennas (with reason for each) :
+C00 : BLDC work.
+W05 : Up gradation work(Mech)
+C02 : Low fringe.
+C09 : 130 low fringe.
+S02 : Low fringe.
+
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 23:00 - 07:00
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+RF band= 1390 (1330 - 1450)
+LO1= 1345 (lower)
+IFBW= 18
+GSB [ACQ] BW= 16.6666
+Total Channel= 512
+
+Line/Center Frequency= 1416.8536
+CH#[0]= 1414.7126
+CH#[512]= 1418.8792
+BW= +4.1666
+CW= 8.14 (KHz.)
+
+Digital SubBand/step#= 2 is USEABLE ###
+GSB_CONFIG LO5= 138.6206  166.3794
+LTA_FILE   L05= 130.2874  174.7126
+BASE_BAND  LO4= 61.3794  61.3794
+tpa 1406.3794 1406.3794 1345 1345 61.3794 61.3794
+----------------------------------------------------------------------
+23:00 : GSB not getting minute pulse.
+
+02:40 : Started scan on 3C48.
+02:50 : Stopped scan.
+
+02:56 : '/odisk/gtac/cmd/chengalu/j0744.cmd' command file started.
+06:43 : Stopped command file.
+
+06:48 : Started scan on 3C286.
+07:00 : Stopped scan and observing session over.
+

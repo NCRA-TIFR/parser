@@ -1,0 +1,78 @@
+		 GTAC Observation Log 
+
+1. Date : 22/02/2005
+2. Observation Sr. No. : 1904
+3. Observer : R. Beswick, D.J.Saikia
+4. Observer's Email : rbeswick@jb.man.ac.uk,djs@ncra.tifr.res.in
+5. Project Name : SYFERT
+6. Project Code : 07RBB01
+7. Operator(s) : Deepak,
+	Manish G.,
+	Manisha J.,
+	Sanjay,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/rbeswick/ngc4594.cmd,
+	/btemp2/cmd/rbeswick/f15480.cmd
+9. LTA File : /rawdata/22feb/07rbb01_ngc4594.lta,
+	/rawdata1/22feb/07rbb01_ngc4594.ltb,
+	/rawdata/23feb/07rbb01_f15480.lta,
+	/rawdata1/23feb/07rbb01_f15480.ltb
+10. LogFlag File : /btemp2/logflags/07RBB01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1411.569 MHz ,RF2 : 1411.569 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1345 MHz, ILO2 : 1345 MHz, IVLO1 : 66.569 MHz, IVLO2 : 66.569 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 6 MHz,ON, IF-CH2 : 16+16 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1411.569 1411.569 1345 1345 66.569 66.569 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :23
+
+20. Name of Non-Working Antennas (with reason for each) :
+C02,C08 - feed not in focus
+C04 - servo not tracking.
+E02 - LO1 unlock.
+E06 - Phase Jumps
+W06 - Not stable fringe.
+S01 - servo stow problem.
+
+
+
+21. Start and End Time of Obs.(IST): 23:00 - 10:15
+
+22. Comments (During Observations) :
+ONLINE : BHASKAR
+AUTHIF : 1390 MHz
+****************************
+23:00 : Flux cal, 3c147 started.
+23:12 : S01 started working.
+23:22 : F-cal stopped.
+23:31 : cmd file ngc4594.cmd started.
+04:40 : Stopped cmd file.
+04:43 : Started flux cal 3c286.,
+05:04 : Stopped flux cal,
+--------------------------------
+LO setting changed to
+LO1=1305 MHz.
+LO4=69.6196 MHz.
+TPA 1374.6196 1374.6196 1305 1305 69.6196 69.6196
+
+05:06 : Started flux cal.
+      : E02 LO1 unlock.
+05:26 : Stopped flux cal.
+05:34 : Started cmd file f15480.cmd
+
+07:57 : Command file stopped.
+08:00 : Started scan on 3C286 for 20mins.
+08:23 : Restarted command file.
+08:33 : C12 taken for painting.
+10:15 : Observation stopped.
+

@@ -1,0 +1,100 @@
+		 GTAC Observation Log 
+
+1. Date : 17/06/2004
+2. Observation Sr. No. : 1510
+3. Observer : Ayesha Begum.
+4. Observer's Email : ayesha@ncra.tifr.res.in,ikar@luna.sao.ru,sme@sao.ru,chengalu@ncra.tifr.res.in
+5. Project Name : DWARFS
+6. Project Code : 06ABA01
+7. Operator(s) : Mangesh,
+	Manish G.,
+	Manisha J.,
+	Jayprakash,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/ash/ddo187.cmd,
+	/btemp2/cmd/ash/kk246.cmd,
+	/btemp2/cmd/ash/u685.cmd,
+	/btemp2/cmd/ash/e490.cmd
+9. LTA File : /rawdata/17jun/06aba01_ddo187.lta,
+	/rawdata1/17jun/06aba01_ddo187.ltb,
+	/rawdata/18jun/06aba01_kk246.lta,
+	/rawdata1/18jun/06aba01_kk246.ltb,
+	/rawdata/18jun/06aba01_u685.lta,
+	/rawdata1/18jun/06aba01_u685.ltb,
+	/rawdata/18jun/06aba01_e490.lta,
+	/rawdata1/18jun/06aba01_e490.ltb
+10. LogFlag File : /btemp2/logflags/06ABA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1419.1 MHz ,RF2 : 1419.1 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1350 MHz, ILO2 : 1350 MHz, IVLO1 : 69.1 MHz, IVLO2 : 69.1 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 16 MHz,ON, IF-CH2 : 16+16 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 1000 KHz, 12 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 4
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1419.1 1419.1 1350 1350 69.1 69.1 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C13 : ILO UNLOCK.
+E02 : Corr problem.
+W04 : Servo Time Out.
+
+21. Start and End Time of Obs.(IST): 23:25 - 15:52
+
+22. Comments (During Observations) :
+ONLINE : Bhaskar
+AUTHIF @ 1390 MHz
+-------------------------
+23:25	Started scan on 3c286 ~10mins.
+23:38	command file started.
+02:00	stopped observation.
+
+	IVLO changed to 68.3
+	tpa 1418.3 1418.3 1350 1350 68.3 68.3
+02:04	started scan on 1830-211 ~5mins.
+02:13	command file /temp2/data/cmd/ash/kk246.cmd
+	started.
+02:32	W01 started giving Servo T.O. + MCM T.O.
+06:01	command file stopped.
+06:11	started scan on 3c48 ~ 10mins.
+06:22	stopped das.
+
+	IVLO changed to 69.3
+	tpa 1419.3 1419.3 1350 1350 69.3 69.3
+06:23	started scan on 3c48 ~10mins.
+06:35	started command file
+	/temp2/data/cmd/ash/u685.cmd.
+08:18 : Changed the track & restarted the command file.
+09:01 : Stopped the command file.
+09:07 : Started scan on 0010-418 for 10min.
+09:16 : Stopped the scan.
+09:20 : Restarted the command file.
+09:25 : S04 got parked due to high wind speed.
+09:28 : C14 got parked due to high wind speed.
+09:53 : All antennas parked due to high wind.
+10:16 : E-arm power failed.
+11:20 : Started next observation.
+        Tpa 1417.5 1417.5 1350 1350 67.5 67.5
+        Started scan on 3c48 for 15min.
+11:43 : W-arm power failed.
+11:45 : Started command file.
+11:55 : E-arm started working.
+12:29 : S-arm power failed.
+13:15 : W & S arm settings done.
+13:20 : Started scan on 3c48 for 10min.
+13:40 : Restarted the command file.
+13:50 : C02,C05& C06 getting parked due to high wind speed.
+14:05 : S-arm power failed.
+15:52 : Stopped the scan and command file, parked
+        the antennas due to high wind.
+18:25 : Closed the observation
+
+

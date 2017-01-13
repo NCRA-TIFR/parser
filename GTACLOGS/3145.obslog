@@ -1,0 +1,49 @@
+		 GTAC Observation Log 
+
+1. Date : 15/05/2007
+2. Observation Sr. No. : 3145
+3. Observer : Poonam Chandra
+4. Observer's Email : alak@tifr.res.in,pc8s@virginia.edu
+5. Project Name : SN1993J
+6. Project Code : 12PCA01
+7. Operator(s) : Sachin,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/poonam/sn1993j.cmd
+9. LTA File : /rawdata/15may/12pca01_15may2007.lta,
+	/rawdata1/15may/12pca01_15may2007.ltb
+10. LogFlag File : /btemp2/logflags/12PCA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+C13 - LSB 130 zero self+cross.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 17:00 - 21:00
+
+23. Comments (During Observations) :
+----------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+----------------------------------------------
+17:12 : Started scan on 3C147 for 15 mins.
+17:32 : Started command file.
+20:37 : Stopped command file.
+20:43 : Started scan on 3C286 for 15 mins.
+21:00 : Stopped observation.
+

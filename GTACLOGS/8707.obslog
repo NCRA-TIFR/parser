@@ -1,0 +1,92 @@
+		 GTAC Observation Log
+
+1. Date : 03/07/2016
+2. Observation Sr. No. : 8707
+3. Observer : Yashwant Gupta, BHAL CHANDRA JOSHI, Jayanta Roy, Yogesh Maan, Kishalay De, Manjari Bagchi, Prajwal Padmanabh, Gopakumar Achamveedu, Nikhil Vijay Naik
+4. Observer's Email : ygupta@ncra.tifr.res.in, bcj@ncra.tifr.res.in, jroy@ncra.tifr.res.in, ymaan@ncra.tifr.res.in, ugkishalayde@ug.iisc.in, manjari.bagchi@gmail.com, prajwal3108@gmail.com, gopu.tifr@gmail.com, naiknikhil27@gmail.com
+5. Project Name : Towards high precision pulsar timing with the upgraded GMRT
+6. Project Code : 30_043
+7. Operator(s) : Deepak, Rupsing, Shilpa
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /gsbifrdata/03jul/30_043_03jul2016_325.lta.1, /gsbifrdata/03jul/30_043_03jul2016_325.lta, /gsbifrdata/03jul/30_043_03jul2016_1420.lta.1, /gsbifrdata/03jul/30_043_03jul2016_1420.lta
+10. LogFlag File : /odisk/online1/logflags/30_043.FLAGS.17, /odisk/online1/logflags/30_043.FLAGS.16, /odisk/online1/logflags/SUBA2.FLAGS.967, /odisk/online1/logflags/SUBA2.FLAGS.968
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1454 MHz ,RF2 : 1454 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1505 MHz, ILO2 : 1505MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+10 dB, 32 MHz,OFF, IF-CH2 : 24+10 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : Volt
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 0 MHz; Step # 0
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 1454 1454 1505 1505 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :26
+
+32. Name of Non-Working Antennas (with reason for each) :
+C04 : Feed problem.
+C11 : BLDC work.
+C12 : BLDC work.
+E05 : Servo problem.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 03 Jul 2016 07:30:00 - 03 Jul 2016 12:04:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :26
+
+37. Comments (During Observations) :
+# sub 2 # C00 C01 C02 C05 C09 C10 C13 C14 W01 S01
+ante 10 7 6 5 19 4 12 11 10 8 26
+cp 0;defs 2;subar 2
+tpa 306 306 255 255 51 51
+---------------------------------------------------------------------------
+# sub 4 # C03 C04 C06 C08 C11 C12 W02 W03 W04 W05 W06 E02 E03 E04 E05 E06 S02 S03 S04 S06
+ante 20 1 3 20 24 9 2 13 14 15 16 25 17 18 21 22 23 27 28 29 30
+cp 0;defs 4;subar 4
+tpa 1454 1454 1505 1505 51 51
+---------------------------------------------------------------------------
+07:30 : Started settings.
+08:15 : Power equalized on 3C48 @ 300counts.
+08:35 : Phasing done on 3C48.
+
+08:40:25 : Started scan on J0023+0923 for ~ 25.2329 min.
+09:12:00 : node51 hung.
+
+           Rebooted node51 and restarted GSB.
+09:20:00 : Strong broadband RFI @ 325MHz.
+09:51:25 : Phasing done on 0432+416.
+09:54:02 : Started scan on J0645+5158 for ~ 21.4748 min.
+
+10:29:20 : Phasing done on 0744-064.
+10:33:01 : Started scan on J0613-0200 for ~ 22.5486 min.
+
+10:58:54 : Started scan on B0740-28 for ~ 5.63714 min.
+
+11:07:51 : Phasing done on 0744-064. 
+11:10:40 : Started scan on J0751+1807 for ~ 23.0854 min.
+
+11:40:00 : GSB shows buffer loss.
+11:40:46 : Phasing done on 0834+555. 
+
+11:43:14 : Started scan on J1012+5307 for ~ 20.9379 min.
+12:04:00 : Stopped scan and observing session over.
+

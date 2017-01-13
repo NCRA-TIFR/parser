@@ -1,0 +1,112 @@
+		 GTAC Observation Log 
+
+1. Date : 01/11/2009
+2. Observation Sr. No. : 4569
+3. Observer : Wasim 
+4. Observer's Email : wasim@rri.res.in
+5. Project Name : CASA Polarimetry
+6. Project Code : 17_078
+7. Operator(s) : Jayprakash,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/wasim/17_078_01nov_2.cmd,
+	/odisk/gtac/cmd/wasim/17_078_01nov_3.cmd,
+	/odisk/gtac/cmd/wasim/17_078_01nov_4.cmd
+9. LTA File : /rawdata/1nov/17_078_pha_1nov2009.lta,
+	/rawdata1/1nov/17_078_pha_1nov2009.ltb,
+	/rawdata/1nov/17_078_pul_1nov2009.lta,
+	/rawdata1/1nov/17_078_pul_1nov2009.ltb,
+	/rawdata/1nov/17_078_1nov2009.lta,
+	/rawdata1/1nov/17_078_1nov2009.ltb
+10. LogFlag File : /odisk/online1/logflags/17_078.FLAGS,
+	/odisk/online1/logflags/17_078.FLAGS.1,
+	/odisk/online1/logflags/17_078.FLAGS.2,
+	/odisk/online1/logflags/17_078.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 312 MHz ,RF2 : 312 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 250 MHz, ILO2 : 250 MHz, IVLO1 : 62 MHz, IVLO2 : 62 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,OFF, IF-CH2 : 4+12 dB, 32 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 312 312 250 250 62 62 
+
+18. Integration Time : 32 LTA ~ 4.227 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+E05 : For painting.
+E03 : intermittent fringe problem.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 12:00 - 04:00
+
+23. ONLINE Machine : Lenyadri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+GSB recording files : 
+        /gsbifrdata/1nov/17_078_pul_1nov2009_gsb.lta,
+        /gsbifrdata/1nov/17_078_1nov2009_gsb.lta.
+------------------------------------------------------------------------------       
+
+12:00 : Started settings.
+        Power equilised on 3C286 at 300counts.
+        
+        /rawdata/1nov/17_078_pha_1nov2009.lta,
+        /rawdata1/1nov/17_078_pha_1nov2009.ltb.
+
+12:25 : Started phasing on 3C286.
+12:50 : Phasing done.
+
+        Changed the settings.
+        Correlator configured in USBPolar  mode.
+         
+        /rawdata/1nov/17_078_pul_1nov2009.lta,
+        /rawdata1/1nov/17_078_pul_1nov2009.ltb.
+
+13:00 : Started scan on 3C286.
+13:07 : Stopped scan.
+
+13:11 : Started scan on B1237+25 for 15min.
+13:27 : Stopped scan.
+
+13:36 : Started scan on B1929+10 for 12min.
+13:48 : Stopped scan.
+        
+         
+13:51 : Started scan on B2111+46 for 12min.
+14:04 : Stopped scan.
+        
+        Changed the settings.
+        Both ALC's on. 
+
+        /rawdata/1nov/17_078_1nov2009.lta,
+        /rawdata1/1nov/17_078_1nov2009.ltb.
+
+14:19 : '/odisk/gtac/cmd/wasim/17_078_01nov_2.cmd' command file started.
+15:23 : Stopped command file.
+
+15:30 : C14 got abc reset.
+        scan 8,9,10 may be bad due to phasing.
+
+15:52 :  '/odisk/gtac/cmd/wasim/17_078_01nov_3.cmd' command file started.
+
+18:30 : E05 released for observation.
+
+02:55 : Command file stopped.
+02:57 : Started scan on 3C468.1 for 5mins.
+03:03 : Started scan on MY_3C468.1 for 5mins.
+03:10 : Started command file
+        /odisk/gtac/cmd/wasim/17_078_01nov_4.cmd
+
+04:00 : Command file stopped, observation stopped.
+
+
+

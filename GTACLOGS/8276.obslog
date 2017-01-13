@@ -1,0 +1,70 @@
+		 GTAC Observation Log
+
+1. Date : 24/12/2015
+2. Observation Sr. No. : 8276
+3. Observer : Maryam Arabsalmani, Sambit Roychowdhury, Martin Alexander Zwaan, Nissim Kanekar, Palle Moller
+4. Observer's Email : marabsal@eso.org, sambit@mpa-garching.mpg.de, mzwaan@eso.org, nkanekar@ncra.tifr.res.in, pmoller@eso.org
+5. Project Name : HI 21 cm emission studies of gamma ray burst host galaxies
+6. Project Code : 29_077
+7. Operator(s) : Pramod, Sachin, Shilpa, Surender
+8. Command File : /odisk/gtac/cmd/nissim/grb060505.cmd
+9. LTA File : /gsbifrdata1/24dec/29_077_24dec2015.lta
+10. LogFlag File : /odisk/online1/logflags/29_077.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1298 MHz ,RF2 : 1298 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1235 MHz, ILO2 : 1235MHz , IVLO1 : 63 MHz, IVLO2 : 63 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 16 MHz,ON, IF-CH2 : 4+14 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_lenyadri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 4 MHz; Step # 4
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 137
+28. LO5 -2  : 168
+
+29. Frequency Parameters (TPA) : 1298 1298 1235 1235 63 63
+30. Integration Time : 8.053 Sec
+31. No of Antennas Working(Fringing) at the beginning :25
+
+32. Name of Non-Working Antennas (with reason for each) :
+C04 : Painting.
+C10 : Feed cage painting.
+E06 : Antenna reflector surface rectification work.
+W01 : BLDC work.
+W02 : 175 pol low fringe.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 24 Dec 2015 12:20:00 - 24 Dec 2015 21:00:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :27
+
+37. Comments (During Observations) :
+12:20 : Started settings.
+12:41 : Started scan on 3C286 for 15min.
+
+13:03 : '/odisk/gtac/cmd/nissim/grb060505.cmd' command file started.
+
+13:03 :  C04 started working.
+13:03 : Fringe drop of C01.
+17:43 : E06 and C10 released for observation.
+20:22 : Stopped command file.
+20:23 : Started scan on 2219-279 for 7 min.
+20:35 : Started scan on 3C48.
+21:00 : Stopped scan and observation session is over.
+

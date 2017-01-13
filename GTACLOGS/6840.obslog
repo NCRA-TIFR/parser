@@ -1,0 +1,59 @@
+		 GTAC Observation Log 
+
+1. Date : 16/12/2013
+2. Observation Sr. No. : 6840
+3. Observer : Jayanta Roy,Scott M. Ransom,Bhaswati Bhattacharya
+4. Observer's Email : jroy@ncra.tifr.res.in,sransom@nrao.edu,bhaswati@ncra.tifr.res.in
+5. Project Name : Multi-pixel coherently dedispersed search for MSPs in globular clusters
+6. Project Code : 25_047
+7. Operator(s) : Deepak,Nilesh,Rupsingh,Sachin,Shilpa,
+8. Command File : /odisk/gtac/cmd/jroy/25_047_16dec.cmd
+9. LTA File : /gsbifrdata/16dec/25_047_16dec2013.lta,/gsbifrdata/16dec/25_047_16dec2013.lta.1,
+10. LogFlag File : /odisk/online1/logflags/25_047.FLAGS,
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+10 dB, 32 MHz,OFF, IF-CH2 : 20+10 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : Realtime 
+15. GSB LTA : 8 
+16. GSB CTRL : ONLINE 
+17. GSB Fstop : ON 
+18. GAIN EQ : ON 
+19. Stokes : TotIntensity
+20. Beam - 1 : OFF
+21. Beam - 2 : OFF
+22. ACQ BW : 33.33 MHz
+23. Final BW : 33.333333 MHz; Step # 0
+24. Maximum Channels : 256 
+25. Channel Numbers : 0:255:1 
+26. LO5 -1  : 149.00 
+27. LO5 -2  : 156.00 
+
+28. Frequency Parameters (TPA) : 306 306 255 255 51 51.
+29. Integration Time : 16.106112 Sec.
+30. No of Antennas Working(Fringing) at the begining :27
+
+31. Name of Non-Working Antennas (with reason for each) :
+C10,W02 : Painting.
+S06 : Servo problem.
+32. Note for Backup :
+
+33. Start and End Time of Obs.(IST): 09:00 - 16:44
+
+34. ONLINE Machine : Lenyadri
+
+35. No of Antennas Working(Fringing) at the end :27
+
+36. Comments (During Observations) :
+09:00 : Started settings for observation.
+09:20 : Started power equalise and phasing on 1526-138.
+09:30 : power eq and phasing done, started command file.
+        '/odisk/gtac/cmd/jroy/25_047_16dec.cmd'.
+09:47 : W04 taken for painting.
+        C04 strong RFI, so removed from GAC.
+16:44 : Stopped command file & observation session over.

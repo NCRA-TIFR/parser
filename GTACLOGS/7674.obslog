@@ -1,0 +1,75 @@
+		 GTAC Observation Log
+
+1. Date : 14/03/2015
+2. Observation Sr. No. : 7674
+3. Observer : Manash Ranjan Samal, Jessy Jose, Arti Goyal, Devendra Kumar Ojha
+4. Observer's Email : manash.samal@oamp.fr, jessy@iiap.res.in, arti.aries@gmail.com, ojha@tifr.res.in
+5. Project Name :  Studying ionized gas content of the HII complex SH2-252 with GMRT.
+6. Project Code : 27_053
+7. Operator(s) : Navnath, Nilesh, Pramod, Surender
+8. Command File : /odisk/gtac/cmd/27_053/obsmar14.cmd
+9. LTA File : /gsbifrdata/14mar/27_053_14mar2015.lta
+10. LogFlag File : /odisk/online1/logflags/27_053.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 253 MHz ,RF2 : 253 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 304 MHz, ILO2 : 304MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+14 dB, 32 MHz,ON, IF-CH2 : 10+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 253 253 304 304 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :25
+
+32. Name of Non-Working Antennas (with reason for each) :
+C10 : No Fringe (150 MHz feed focus).
+W03 : No Fringe, MCM 5 time out.
+W05 : Feed Cage Painting.
+S04 : ABC time out.
+W04 : Low fringe @ 175 pol.
+ 
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 14 Mar 2015 14:00:00 - 14 Mar 2015 23:04:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :28
+
+37. Comments (During Observations) :
+13:45 : Started settings.
+14:02 : Started scan on 3c48 for ~ 16 min.
+14:21 : Started command file.
+        /odisk/gtac/cmd/27_053/obsmar14.cmd
+
+14:33 : Scan # 2 BAD, antennas were not tracking, stopped command file.
+14:45 : Re-started command file.
+17:58 : S04,W03 and W05 Started working.
+18:03 : E05 ABC time out.
+18:08 : C12 ABC time out.
+22:40 : C12 and E05 started working.
+22:47 : Stopped command file.
+22:49 : Started scan on 3C147.
+23:04 : Stopped scan and observation session is over.
+
+
+

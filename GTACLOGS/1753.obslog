@@ -1,0 +1,65 @@
+		 GTAC Observation Log 
+
+1. Date : 12/12/2004
+2. Observation Sr. No. : 1753
+3. Observer : Sarita
+4. Observer's Email : sariat@tifr.res.in
+5. Project Name : NGC6334
+6. Project Code : 07SVA01
+7. Operator(s) : Deepak,
+	Manisha J.,
+	Jayprakash,
+	Jitendra,
+	
+8. Command File : /btemp2/cmd/sarita/ngc6334.cmd
+9. LTA File : /rawdata/12dec/07sva01_ngc6334_03.lta,
+	/rawdata1/12dec/07sva01_ngc6334_03.ltb
+10. LogFlag File : /btemp2/logflags/07SVA01.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1064.896 MHz ,RF2 : 1064.896 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 995 MHz, ILO2 : 995 MHz, IVLO1 : 69.896 MHz, IVLO2 : 69.896 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+10 dB, 6 MHz,ON, IF-CH2 : 10+10 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 500 KHz, 15 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 5
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1064.896 1064.896 995 995 69.896 69.896 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+W04-LO unlock also not fringing.
+
+
+21. Start and End Time of Obs.(IST): 08:20 - 16:05
+
+22. Comments (During Observations) :
+**** ONLINE:bhaskara    ****
+**** IF:  AUTH@1060MHz. ****
+---------------------------------
+08:20 : Started scan on 3c286.
+08:56 : Stopped the scan.
+#Scan 1 : Bad scan.
+09:11 : Started the command file /btemp2/cmd/sarita/ngc6334.cmd.
+10:30 : Stopped the scan & command file.
+10:38 : Started scan on 3c286 for 20min.
+11:06 : Restarted command file.
+13:00 : Command file stopped.
+13:04 : Started scan on 3C286 for 20min.
+13:30 : Restarted command file.
+15:05 : command file stopped.
+15:07 : Phase cal scan started.
+15:16 : Phase cal scan stopped.
+15:19 : Scan started on NGC 6334.
+15:36 : scan stopped.
+15:48 : Flux cal scan started on 3c48.
+16:05 : flux cal scan stopped and project over.
+
+
+
+

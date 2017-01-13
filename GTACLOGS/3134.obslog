@@ -1,0 +1,88 @@
+		 GTAC Observation Log 
+
+1. Date : 08/05/2007
+2. Observation Sr. No. : 3134
+3. Observer : NIssim
+4. Observer's Email : nissim
+5. Project Name : 0606-223
+6. Project Code : 11NKA02
+7. Operator(s) : Jitendra,
+	Sachin,
+	
+8. Command File : /btemp2/cmd/nissim/0606-223.cmd
+9. LTA File : /rawdata/8may/11nka02_8may.lta,
+	/rawdata1/8may/11nka02_8may.ltb,
+	
+10. LogFlag File : /btemp2/logflags/11NKA02.FLAGS.21,
+	/btemp2/logflags/11NKA02.FLAGS.23
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 560.64 MHz ,RF2 : 560.64 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 490 MHz, ILO2 : 490 MHz, IVLO1 : 70.64 MHz, IVLO2 : 70.64 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 6+0 dB, 16 MHz,ON, IF-CH2 : 6+0 dB, 16 MHz,ON
+14. BB BW(KHz) & BB ALC : 1000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 560.64 560.64 490 490 70.64 70.64 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C05 : No fringe.
+E04 : serv t.o.
+E05 : MCM 3 intermittent T.O.
+E06 : MCM 2,3,10 T.O
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 11:15 - 17:35
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+---------------------------------------------
+12:30 : Started sttings.
+12:45 : Corr problem s-arm not fringing.
+12:12 : Started scan on 3c147 for 12 min.
+12:26 : command file started.
+18:00 : Stopped previous command file and took scan
+on 3C147 and started new command file with scan
+on 3C147.
+*********************************************
+Settings are :
+RF = 610 MHz.
+LO1 = 490 MHz.
+LO4 = 70.64 MHz.
+TPA = 560.64 560.64 490 490 70.64 70.64
+
+11:15 : scan# 0 3c147 - weak fringe.
+12:04 : scan #1 Default 610 Settings - Fring appeared
+        (Just for test).
+12:17 : scan #1 - restored observation settings.
+     
+         Note : 560.64 MHz is comming at very edge
+               of the band.
+12:41 : Command file started.
+17:00 : Stopped command file.
+17:01 : Started scan on phase cal.
+17:09 : Stopped scan on phase cal.
+17:14 : Started scan on 3C286.
+17:28 : Stopped scan on 3C286.
+17:30 : For testing purpose changed LO1 to 540 MHz
+and LO4 to 70 MHz and started scan on 3C147 
+for 5 mins. 
+17:35 : Stopped project.
+

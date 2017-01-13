@@ -1,0 +1,53 @@
+		 GTAC Observation Log 
+
+1. Date : 19/01/2004
+2. Observation Sr. No. : 1768
+3. Observer : ramesh
+4. Observer's Email : ramesh@rri.res.in,ramebal@yahoo.co.in
+5. Project Name : HISHELL 
+6. Project Code : 07RBA01
+7. Operator(s) : Deepak,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/rbalas/07rba01d19.cmd
+9. LTA File : /rawdata/19dec/07rba01_g349.83.lta,
+	/rawdata1/19dec/07rba01_g349.83.ltb
+10. LogFlag File : /btemp2/logflags/07RBA01.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1419.4057 MHz ,RF2 : 1419.4057 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1350 MHz, ILO2 : 1350 MHz, IVLO1 : 69.4057 MHz, IVLO2 : 69.4057 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+10 dB, 6 MHz,ON, IF-CH2 : 10+10 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 2000 KHz, 9 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 3
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1419.4057 1419.4057 1350 1350 69.4057 69.4057 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+C12 - fringe fluctuation.
+-----------------
+
+
+21. Start and End Time of Obs.(IST): 08:35 - 13:40
+
+22. Comments (During Observations) :
+ONLINE : BHASKAR
+AUTHIF : 1390
+**************************
+
+08:50 : Started scan on 3C286 for 10mins.
+09:15 : Started command file.
+        /btemp2/cmd/rbalas/07rba01d19.cmd 
+12:34 : S04 go abc reset.
+12:48 : S04 started working.
+13:25 : command file stopped.
+13:27 : Started scan on 3c286.
+13:40 : Observation stopped.
+

@@ -1,0 +1,83 @@
+		 GTAC Observation Log
+
+1. Date : 12/12/2015
+2. Observation Sr. No. : 8246
+3. Observer : Nissim Kanekar
+4. Observer's Email : nkanekar@ncra.tifr.res.in
+5. Project Name : DDTUGA05
+6. Project Code : DDTUG5
+7. Operator(s) : Sachin
+8. Command File : /odisk/gtac/cmd/nissim/j1054-0123.cmd, /odisk/gtac/cmd/nissim/1215\+333.cmd, /odisk/gtac/cmd/nissim/j0852\+2431.cmd
+9. LTA File : /gsbifrdata/12dec/ddtug5_12dec2015.lta.2, /gsbifrdata/12dec/ddtug5_12dec2015.lta.1, /gsbifrdata/12dec/ddtug5_12dec2015.lta
+10. LogFlag File : /odisk/online1/logflags/DDTUG5.FLAGS.2, /odisk/online1/logflags/DDTUG5.FLAGS.1, /odisk/online1/logflags/DDTUG5.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 369 MHz ,RF2 : 369 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 302 MHz, ILO2 : 302MHz , IVLO1 : 67 MHz, IVLO2 : 67 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 8 MHz; Step # 2
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 133
+28. LO5 -2  : 172
+
+29. Frequency Parameters (TPA) : 369 369 302 302 67 67
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :29
+
+32. Name of Non-Working Antennas (with reason for each) :
+W01 : BLDC work.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 12 Dec 2015 02:00:00 - 12 Dec 2015 07:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :29
+
+37. Comments (During Observations) :
+GWB files : 
+/data2/gpuuser/12dec/ddtuga05_12dec2015.lta
+/data2/gpuuser/12dec/ddtuga05_12dec2015.lta.1
+/data2/gpuuser/12dec/ddtuga05_12dec2015.lta.2
+
+02:00 : Observation setup - 1 done.
+-----------------------------------------------------------------------
+02:00:19 : Started scan on 3C147 for ~ 6.30823 min.
+02:11:54 : Started scan on 3C255 for ~ 6.17401 min.
+02:18:59 : Started scan on J1054-0123 for ~ 46.5735 min.
+03:06:46 : Started scan on 3C255 for ~ 6.44244 min.
+03:13:58 : Started scan on J1054-0123 for ~ 46.7077 min.
+04:01:59 : Started scan on 3C255 for ~ 5.3687 min.
+-----------------------------------------------------------------------
+
+04:15 : Observation setup - 2 done.
+-----------------------------------------------------------------------
+04:21:42 : Started scan on 1156+314 for ~ 6.71088 min.
+04:29:33 : Started scan on 1215+333 for ~ 46.5735 min.
+05:17:05 : Started scan on 1156+314 for ~ 6.44244 min.
+05:25:31 : Started scan on 3C286 for ~ 6.57666 min.
+-----------------------------------------------------------------------
+
+05:45 : Observation setup - 3 done.
+-----------------------------------------------------------------------
+06:01:21 : Started scan on 3C286 for ~ 6.30823 min.
+06:26:55 : Started scan on 3C207 for ~ 6.30823 min.
+06:34:20 : Started scan on J0852+2431 for ~ 19.9984 min.
+06:55:19 : Started scan on 3C207 for ~ 7.78462 min.
+07:02:00 : Stopped scan and observing session is over.

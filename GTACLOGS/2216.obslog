@@ -1,0 +1,61 @@
+		 GTAC Observation Log 
+
+1. Date : 28/08/2005
+2. Observation Sr. No. : 2216
+3. Observer : Gopal Krishna
+4. Observer's Email : krishna@ncra.tifr.res.in,mangesh.umbarje@gmail.com
+5. Project Name : YSOs
+6. Project Code : 08GKA04
+7. Operator(s) : Deepak,
+	Sachin,
+	Santaji,
+	
+8. Command File : /atemp2/cmd/gk/yso280805a.cmd
+9. LTA File : /rawdata/28aug/08gka04_yso.lta,
+	/rawdata1/28aug/08gka04_yso.ltb
+10. LogFlag File : /atemp2/logflags/08GKA04.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 14+14 dB, 32 MHz,ON, IF-CH2 : 14+14 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C09 - Servo Prob.
+S01 - fringe vanishing.
+E04 - Unstable Fringe.
+W02 - ABC Time out.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 23:15 - 14:00
+
+23. Comments (During Observations) :
+ONLINE : ADITYA
+AUTHIF @ 610 MHz.
+===================================================
+
+23:12 : Started scan on 3C48 for 10mins.
+23:16 : Started scan on 2202+422 for 3mins.
+23:32 : Started command file yso280805a.cmd
+06:15 : Command file stopped.
+06:20 : Started scan on 3C48 for 10mins.
+06:40 : Started scan on 0632+103 for 3mins.
+06:44 : Started command file yso280805b.cmd
+08:13 : Due to transit of the source stopped command file & stopped scan.
+08:25 : Continued command file.
+13:34 : Stopped command file.
+13:35 : Before reaching on phase cal it set hence took scan on 3C286 for 15 mins.
+14:00 : Stopped the observation session.
+

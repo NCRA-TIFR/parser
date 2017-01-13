@@ -1,0 +1,56 @@
+		 GTAC Observation Log 
+
+1. Date : 31/8/2012
+2. Observation Sr. No. : 6131
+3. Observer : Ruta Kale
+4. Observer's Email : rkale@ira.inaf.it,tventuri@ira.inaf.it
+5. Project Name : Cluster mergers in the aftermath: diffuse emission in the Shapley Concentration
+6. Project Code : 22_039
+7. Operator(s) : Sachin,Deepak,Rupsing
+	
+8. Command File : /odisk/gtac/cmd/22_039/mkp/31aug.cmd
+9. LTA File : /gsbifrdata/31aug/22_039_31aug2012.lta
+10. LogFlag File : /odisk/online1/logflags/22_039.FLAGS.5
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : OFF 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 306 306 255 255 51 51.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :29
+
+27. Name of Non-Working Antennas (with reason for each) :
+W04 : Under test. 
+
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 12:30 - 21:00
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+12:33:31 - 12:45:03 Recorded data on 3C286
+12:57:00 - Started command file.
+17:17:00 - Power failure.
+17:17:00 - Stopped command file.
+17:45:00 - Power resume.
+17:51:00 - Restarted command file
+19:04:00 - Stopped command file.(due to source set).
+19:06:00 - Started scan on 3C286.
+19:22:00 - Stopped scan & observation session over.

@@ -1,0 +1,57 @@
+		 GTAC Observation Log 
+
+1. Date : 29/5/2011
+2. Observation Sr. No. : 5354
+3. Observer : Sumit Jaiswal
+4. Observer's Email : sumit@aries.res.in
+5. Project Name : HI Imaging of Wolf-Rayet Galaxies (Tracing Tidal Interactions)
+6. Project Code : 20_060
+7. Operator(s) : Deepak,
+	Manisha,
+	Nilesh,
+	Santaji,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/sumit/ugca130.cmd
+9. LTA File : /gsbifrdata/29may/20_060_29may2011.lta
+10. LogFlag File : /odisk/online1/logflags/20_060.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1406.5 MHz ,RF2 : 1406.5 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1345 MHz, ILO2 : 1345 MHz , IVLO1 : 61.5 MHz, IVLO2 : 61.5 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 2+28 dB, 16 MHz,ON, IF-CH2 : 2+28 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. Maximum Channels : 256 
+15. Final Bandwidth (MHz): 4 MHz; Step # 2
+16. IFBW (MHz) : LO5 (KHz) : Custom :- 16 : 138.5 - 166.5
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+
+20. Frequency Parameters (TPA) : 1406.5 1406.5 1345 1345 61.5 61.5.
+21. Integration Time : 16.106 Sec.
+22. No of Antennas Working(Fringing) :29
+
+23. Name of Non-Working Antennas (with reason for each) :
+C02 : Strong RFI line in band, no fringe.
+
+24. Note for Backup :--
+
+25. Start and End Time of Obs.(IST): 11:10 - 17:00
+
+26. ONLINE Machine : Shivneri
+
+27. Comments (During Observations) :
+11:22 : started scan on 3C147 ~ 15mins.
+11:42 : Command file started.
+11:42 : C02 started working.
+11:52 : W05 taken for maintenance.
+14:18 : W05 released.
+
+16:46 : Stopped command file.
+16:47 : Started scan on phase cal.(0410+769)
+16:53 : Started scan on 3c147.
+17:00 : Stopped observation session.
+

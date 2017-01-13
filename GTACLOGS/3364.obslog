@@ -1,0 +1,59 @@
+		 GTAC Observation Log 
+
+1. Date : 03/09/2007
+2. Observation Sr. No. : 3364
+3. Observer : Mousumi
+4. Observer's Email : mousumi@rri.res.in
+5. Project Name : Radio Continuum Observations of AGN inUltraluminous Galaxies 
+6. Project Code : 12MDA01
+7. Operator(s) : Jitendra,
+	
+8. Command File : /btemp2/cmd/12mda01/sep3_p2.cmd
+9. LTA File : /rawdata/3sep/12mda01_03sep2007.lta,
+	/rawdata1/3sep/12mda01_03sep2007.ltb
+10. LogFlag File : /btemp2/logflags/12MDA01.FLAGS.7
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1280 MHz ,RF2 : 1280 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1210 MHz, ILO2 : 1210 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+4 dB, 32 MHz,ON, IF-CH2 : 12+4 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1280 1280 1210 1210 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C02 - feed testing.
+S06 - very low fringe.
+
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 23:03 - 05:54
+
+23. Comments (During Observations) :
+------------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+-------------------------------------------------
+23:03 : Flux cal scan started on 3C48 for 10m.
+23:24 : command file 'sep3_1.cmd' started.
+00:23 : source 1634+627 already set around 00:09 Hrs.
+00:24 : Observation of source IR17179 aborted no calibrator (set time 00:44).
+
+        E03,S06-USB-130 : Low sensitivity
+
+04:38 : IR08572 not risen ( rise time 05:13).
+05:01 : IR09463 scan started manually.
+05:45 : Scan stopped.
+05:50 : Scan started on 3c147
+05:54 : Scan stopped, observing session over.
+
+

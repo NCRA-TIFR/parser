@@ -1,0 +1,56 @@
+		 GTAC Observation Log 
+
+1. Date : 03/01/2003
+2. Observation Sr. No. : 0925
+3. Observer : Dr. Alastair Edge
+4. Observer's Email : visitor6@gmrt.ncra.tifr.res.in,alastair.edge@durham.ac.uk
+5. Project Name : A1068
+6. Project Code : 03AEA01
+7. Operator(s) : Manisha J.,
+	Jayprakash,
+	Sanjay,
+	
+8. Command File : /temp2/data/cmd/edge/a1068.cmd
+9. LTA File : /rawdata/3jan/03aea01_a1068.lta,
+	/rawdata/3jan/03aea01_a1068.lta.1
+10. LogFlag File : /temp2/data/logflags/03AEA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1243.568 MHz ,RF2 : 1243.568 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1175 MHz, ILO2 : 1175 MHz, IVLO1 : 68.568 MHz, IVLO2 : 68.568 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 6+6 dB, 16 MHz,ON, IF-CH2 : 6+6 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1243.568 1243.568 1175 1175 68.568 68.568 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+S03 : Servo off mode.
+
+
+21. Start and End Time of Obs.(IST): 23:11 - 00:00
+
+22. Comments (During Observations) :
+23:11	started scan on 3C48 ~ 15mins.
+23:31	started scan on 3C147 ~ 15mins.
+23:50	started command file.
+04:21   Stopped cmd file.
+04:25   Started recording on 3c286.
+04:45	restarted commnad file.
+08:30   W01 :Suddenly both self power became low.
+08:43   C00,E02 & E05 got power reset.
+08:55   C00,E02 & E05 started communicating.
+09:34   Stopped command file.
+09:37   Started scan on 3c286 for 20min.
+09:57   Started scan on 3c286 for 20min.
+        ltafile : /rawdata/3jan/03ae01_a1068.lta.1
+
+
+

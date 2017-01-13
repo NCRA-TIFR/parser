@@ -1,0 +1,65 @@
+		 GTAC Observation Log 
+
+1. Date : 09/02/2004
+2. Observation Sr. No. : 1338
+3. Observer : Dr. D. J. Saikia,Dr. Peter Thomasson
+4. Observer's Email : djs@ncra.tifr.res.in
+5. Project Name : Giant Source
+6. Project Code : 05CKA02
+7. Operator(s) : Mangesh,
+	Manish G.,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/djs/3c292.cmd
+9. LTA File : /rawdata/9feb/05cka02_3c292.lta,
+	/rawdata1/9feb/05cka02_3c292.ltb
+10. LogFlag File : /btemp2/logflags/05CKA02.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+E04-USB-175 (244): Large
+RFI line.
+W06-USB-175 (244) : Bad
+band-shape.
+W03-USB-130 (614) : Bad
+band-shape.
+
+
+21. Start and End Time of Obs.(IST): 01:59 - 11:45
+
+22. Comments (During Observations) :
+*** ONLINE:bhaskar ****
+*** IF attn : Authif at 610-235 with ALCs on ****
+=============================================
+
+01:59 : Started a scan on 3c286 for 20 minutes.
+02:23 : Started the command file.
+~02:35 : C12-USB-175 band powerlevel dropped
+         significantly.
+03:02 : Noticed that correlator giving very large
+        numbers for few base-lines. So stopped
+        the scan. Ran corrconfig
+
+03:10 : Restarted the command file. Corr problem
+        disappeared.
+
+03:16 : C12-USB-175 band powerlevel recovered.
+11:45 : stopped the observation session.
+
+
+

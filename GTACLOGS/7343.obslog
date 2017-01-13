@@ -1,0 +1,96 @@
+		 GTAC Observation Log
+
+1. Date : 10/09/2014
+2. Observation Sr. No. : 7343
+3. Observer : Nissim Kanekar
+4. Observer's Email : nkanekar@ncra.tifr.res.in
+5. Project Name : A search for HI-21cm absorption in high redshift DLAs with the new GMRT cone-dipole feeds
+6. Project Code : ddtb102
+7. Operator(s) : Deepak, Manisha, Navnath, Pramod, Rupsing, Sachin, Shilpa
+8. Command File : /odisk/gtac/cmd/nissim/1529\+1904.cmd,/odisk/gtac/cmd/nissim/0201\+365.cmd,/odisk/gtac/cmd/nissim/0827\+3525.cmd
+9. LTA File : /gsbifrdata/09sep/ddtb102_09sep2014.lta.1,/gsbifrdata/09sep/ddtb102_09sep2014.lta,/gsbifrdata/10sep/ddtb102_10sep2014.lta
+10. LogFlag File : /odisk/online1/logflags/DDTB102.FLAGS.4,/odisk/online1/logflags/DDTB102.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 448.5 MHz ,RF2 : 448.5 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 510 MHz, ILO2 : 510MHz , IVLO1 : 61.5 MHz, IVLO2 : 61.5 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+12 dB, 16 MHz,ON, IF-CH2 : 10+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 2 MHz; Step # 3
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 138.5
+28. LO5 -2  : 166.5
+
+29. Frequency Parameters (TPA) : 448.5 448.5 510 510 61.5 61.5
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :29
+
+32. Name of Non-Working Antennas (with reason for each) :
+S06 : No fringe.
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 09 Sep 2014 18:20:00 - 10 Sep 2014 10:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :29
+
+37. Comments (During Observations) :
+Cone-dipole feed :- C04,C06,C08,C10,C11,C13,E02,E06,S02,S04,W01,W04,W06.
+----------------------------------------------------------------------------
+18:27 : Started command file
+        '/odisk/gtac/cmd/nissim/1529+1904.cmd'
+21:38 : Stopped command file.
+21:45 : Started scan on 3C48.
+22:00 : Stopped scan.
+--------------------------------------------------------------------------
+22:01 : Line frequency : 410.285 MHz
+  
+   RF Band     : 327
+   IF BW       : 18 MHz
+   Baseband BW : 2 MHz
+   LO(5)       : 137.6, 167.4 MHz
+   LO(4)       : 62.4, 62.4 MHz
+   LO(1)       : 480 MHz
+   Step        : 3
+   Channels    : 512
+TPA 417.6 417.6 480 480 62.4 62.4
+
+22:10 : Started command file
+        '/odisk/gtac/cmd/nissim/0201+365.cmd'
+03:49 : Stopped command file.
+--------------------------------------------------------------------------
+        Changed the settings.
+Line frequency : 437.45 MHz
+
+   RF Band     : 327
+   IF BW       : 18 MHz
+   Baseband BW : 2 MHz
+   LO(5)       : 137.6, 167.4 MHz
+   LO(4)       : 62.4, 62.4 MHz
+   LO(1)       : 505 MHz
+   Step        : 2
+   Channels    : 512
+ 
+TPA 442.6 442.6 505 505 62.4 62.4
+
+04:00 : '/odisk/gtac/cmd/nissim/0827+3525.cmd' command file started.
+09:47 : Stopped command file.
+09:49 : Started scan on 3C147.
+10:00 : Stopped scan on 3C147 and observation session is over.
+
+

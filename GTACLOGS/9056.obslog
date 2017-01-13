@@ -1,0 +1,63 @@
+		 GTAC Observation Log
+
+1. Date : 11/12/2016
+2. Observation Sr. No. : 9056
+3. Observer : Rahul Basu, Jaroslaw Kijak, Wojciech Lewandowski, Karolina Rozko
+4. Observer's Email : rahul@astro.ia.uz.zgora.pl, jkijak@astro.ia.uz.zgora.pl, boe@astro.ia.uz.zgora.pl, krozko@gmail.com
+5. Project Name : Gigahertz-Peaked Spectra in Vela-like Pulsars ... continued.
+6. Project Code : 31_089
+7. Operator(s) : Deepak, Nilesh, Pramod, Sachin
+8. Command File : /odisk/gtac/cmd/31_089/11dec2016/obs.cmd
+9. LTA File : /gsbifrdata/11dec/31_089_11dec2016_2s.lta
+10. LogFlag File : /odisk/online1/logflags/31_089.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1281 MHz ,RF2 : 1281 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1230 MHz, ILO2 : 1230MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 0 MHz; Step # 0
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 1281 1281 1230 1230 51 51
+30. Integration Time : 2.0132 Sec
+31. No of Antennas Working(Fringing) at the beginning :29
+
+32. Name of Non-Working Antennas (with reason for each) :
+S06 : Phase and amplitude variation
+W04 : Taken for painting
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 11 Dec 2016 13:00:00 - 11 Dec 2016 17:30:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :29
+
+37. Comments (During Observations) :
+13:00 : Started set up.
+13:18 : Power equalized doen at 300 counts on 3C286.
+13:19 : Started scan on 3C286.
+13:27 : Stopped scan and started command file.
+ '/odisk/gtac/cmd/31_089/11dec2016/obs.cmd'
+
+17:02 : Stopped command file, phase cal (1714-252) set below horizon.
+17:10 : Started scan on 3C48 for ~ 15 min.
+17:25 : Stopped scan and observation closed.

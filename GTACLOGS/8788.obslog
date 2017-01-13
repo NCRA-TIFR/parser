@@ -1,0 +1,62 @@
+		 GTAC Observation Log
+
+1. Date : 01/08/2016
+2. Observation Sr. No. : 8788
+3. Observer : Nissim Kanekar, Jayaram Narayanan Chengalur, Jason X. Prochaska
+4. Observer's Email : nkanekar@ncra.tifr.res.in, chengalur@ncra.tifr.res.in, xavier@ucolick.org
+5. Project Name : %latex% The Spin Temperature of High-Redshift Damped Lyman-$\\\\\\\\alpha$ systems
+6. Project Code : 30_068
+7. Operator(s) : Navnath, Rupsing, Shilpa, Surender
+8. Command File : /odisk/gtac/cmd/nissim/0229\+230.cmd
+9. LTA File : /gsbifrdata/01aug/30_068_01aug2016.lta, /gwbifrdata1/01aug/30_068_01aug2016_gwb.lta
+10. LogFlag File : /odisk/online1/logflags/30_068.FLAGS.15
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 399.7 MHz ,RF2 : 399.7 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 460 MHz, ILO2 : 460MHz , IVLO1 : 60.3 MHz, IVLO2 : 60.3 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 2 MHz; Step # 3
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 139.7
+28. LO5 -2  : 165.3
+
+29. Frequency Parameters (TPA) : 399.7 399.7 460 460 60.3 60.3
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :29
+
+32. Name of Non-Working Antennas (with reason for each) :
+W04 : No fringe.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 01 Aug 2016 06:00:00 - 01 Aug 2016 09:27:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :29
+
+37. Comments (During Observations) :
+06:00 : Started setup.
+06:18 : Started command file.
+
+        /odisk/gtac/cmd/nissim/0229+230.cmd
+--------------------------------------------------------------------------
+08:53 : Stopped command file due to power failure.
+--------------------------------------------------------------------------
+09:12 : Started scan on 3C48.
+09:25 : Stopped scan and observation session over.

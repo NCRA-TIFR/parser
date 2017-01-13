@@ -1,0 +1,74 @@
+		 GTAC Observation Log 
+
+1. Date : 7/12/2013
+2. Observation Sr. No. : 6829
+3. Observer : Preshanth Jagannathan,Russ Taylor,Sanjay Bhatnagar,Rob Ivison,Jeroen Maarten Stil,David Alan Green,Wiphu Rujopakarn
+4. Observer's Email : preshanth@ras.ucalgary.ca,russ@ras.ucalgary.ca,sbhatnag@aoc.nrao.edu,rji@roe.ac.uk,stil@ras.ucalgary.ca,dag@mrao.cam.ac.uk,wiphu@as.arizona.edu
+5. Project Name : Radio Polarimetry of the UDS deep field at 610 MHz
+6. Project Code : 25_071
+7. Operator(s) : Deepak,Nilesh,Pramod,
+8. Command File : /odisk/gtac/cmd/25_071/obs.cmd
+9. LTA File : /gsbifrdata/07dec/25_071_07dec2013.lta,/gsbifrdata/07dec/25_071_07dec2013.lta.1,
+10. LogFlag File : /odisk/online1/logflags/25_071.FLAGS.2,
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : Realtime 
+15. GSB LTA : 8 
+16. GSB CTRL : ONLINE 
+17. GSB Fstop : ON 
+18. GAIN EQ : ON 
+19. Stokes : FullStokes
+20. Beam - 1 : OFF
+21. Beam - 2 : OFF
+22. ACQ BW : 33.33 MHz
+23. Final BW : 33.333333 MHz; Step # 0
+24. Maximum Channels : 256 
+25. Channel Numbers : 0:255:1 
+26. LO5 -1  : 149.00 
+27. LO5 -2  : 156.00 
+
+28. Frequency Parameters (TPA) : 591 591 540 540 51 51.
+29. Integration Time : 16.106112 Sec.
+30. No of Antennas Working(Fringing) at the begining :26
+
+31. Name of Non-Working Antennas (with reason for each) :
+C14 : No 610MHz feed 
+W02,W04 : Painting.
+C02 : No fringe at 175pole.
+
+32. Note for Backup :
+
+33. Start and End Time of Obs.(IST): 15:11 - 03:00
+
+34. ONLINE Machine : Lenyadri
+
+35. No of Antennas Working(Fringing) at the end :27
+
+36. Comments (During Observations) :
+15:11 : Started scan on 3C48.
+15:26 : Stopped scan and started command file.
+        '/odisk/gtac/cmd/25_071/obs.cmd'
+18:20 : W02 and W04 released from painting and taken for observation.
+21:57 : Stopped command file duo to oper2 machine  hanged.
+21:57 - 22:10 : Time required  to start oper2 machine.
+Halt the GSB .
+22:20 : Started scan 3C138 for 15 min. and restarted command file.
+
+22:30 : C12 No Fringe.
+01:47 : Stopped command file.
+01:50 : Started scan on 3c286 for ~15min.
+02:08 : Started scan on target source (UDS).
+02:25 : Stopped scan. 
+02:28 : Started scan on phase cal for ~8min.
+02:39 : C01, C02, C08 and C12 servo problem.
+02:40 : started scan on 3c147 for ~15min.
+02:50 : C01, C02, C08 and C12 started working.
+03:00 : Stopped scan and closed obseravtion session.
+

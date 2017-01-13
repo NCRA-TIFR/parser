@@ -1,0 +1,63 @@
+		 GTAC Observation Log 
+
+1. Date : 06/12/2008
+2. Observation Sr. No. : 4075
+3. Observer : Somak Raychaudhury
+4. Observer's Email : somak@star.sr.bham.ac.uk,j.h.croston@herts.ac.uk
+5. Project Name : REXCESS
+6. Project Code : 15JHC01
+7. Operator(s) : Deepak,
+	Navanath,
+	Nilesh,
+	Sachin,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/15jhc01/15jhc01_lst18.cmd,
+	/odisk/gtac/cmd/15jhc01/15jhc01_lst00.cmd
+9. LTA File : /rawdata/6dec/15jhc01_6dec2008.lta.1,
+	/rawdata1/6dec/15jhc01_6dec2008.ltb.1
+10. LogFlag File : /btemp2/logflags/15JHC01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C05 : Painting 
+S01 : 175 no fringe.
+C13 : Unstable fringe.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 14:00 - 00:20
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+14:00 : Started setup.
+14:37 : Started scan on phase cal.
+19:10 : C05 released for observation.
+19:18 : stopped the command file and started
+        the scan on 3c48.
+19:43 : started new command file.
+20:00 : ABC time out.
+22:00 : C01 started working.
+00:02 : Source and phase cal set. Stopped command 
+file.
+00:07 : Started scan on 3C48 for 10 mins.
+00:18 : Stopped scan on 3C48 and stopped 
+observation session.
+

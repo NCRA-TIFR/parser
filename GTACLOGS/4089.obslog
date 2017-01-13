@@ -1,0 +1,95 @@
+		 GTAC Observation Log 
+
+1. Date : 14/12/2008
+2. Observation Sr. No. : 4089
+3. Observer : Deguchi
+4. Observer's Email : deguchi@nro.nao.ac.jp
+5. Project Name : cyclotron-maser
+6. Project Code : 15SDA01
+7. Operator(s) : Deepak,
+	Navanath,
+	Rupsingh,
+	Sachin,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/deguchi/obs1.cmd,
+	/odisk/gtac/cmd/deguchi/obs2.cmd
+9. LTA File : /rawdata/14dec/15sda01_14dec2008.lta,
+	/rawdata1/14dec/15sda01_14dec2008.ltb,
+	/rawdata/14dec/15sda01_14dec2008.lta.1,
+	/rawdata1/14dec/15sda01_14dec2008.ltb.1,
+	/rawdata/14dec/15sda01_14dec2008.lta.2,
+	/rawdata1/14dec/15sda01_14dec2008.ltb.2,
+	/rawdata/14dec/15sda01_14dec2008.lta.3,
+	/rawdata1/14dec/15sda01_14dec2008.ltb.3,
+	/rawdata/14dec/15sda01_14dec2008.lta.4,
+	/rawdata1/14dec/15sda01_14dec2008.ltb.4
+10. LogFlag File : /btemp2/logflags/15SDA01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 243 MHz ,RF2 : 243 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 309 MHz, ILO2 : 309 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 6 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 8000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 243 243 309 309 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C04 : Frequently applying brakes.
+S01 : No fringe.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 18:35 - 13:00
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode :USBpolar  *********
+--------------------------------------------
+18:53 : Started scan on 3C48.
+19:09 : Stopped scan.
+19:22 : /odisk/gtac/cmd/deguchi/obs1.cmd' command file started.
+21:29 : Stopped command file.
+21:33 : '/odisk/gtac/cmd/deguchi/obs2.cmd' command
+ file started.
+
+00:13 : Started new command file
+
+       /odisk/gtac/cmd/deguchi/obs2.cmd
+02:03 : Started scan on phase cal.
+
+02:15 : Started new command file
+
+        /odisk/gtac/cmd/deguchi/obs3.cmd
+
+04:06 : Started scan on fulx cal for 10min.(3C147)
+
+04:20 : Started new command file.
+
+        /odisk/gtac/cmd/deguchi/obs4.cmd
+06:22 : Started new command file.
+
+       /odisk/gtac/cmd/deguchi/obs5p6.cmd
+
+10:00 : C05 taken for maintenance.
+10:50 : C14 parked for painting.
+10:50 : Strong lines in 175 polarization seen.
+11:05 : Now band is clean.
+
+11:30 : C03 got ABC reset.
+
+11:46 : C14 released for observation.
+11:46 : C03 stated working.
+
+13:05 : Command file stopped.
+13:05 : Observation stopped.
+
+

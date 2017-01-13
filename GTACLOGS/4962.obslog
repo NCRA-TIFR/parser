@@ -1,0 +1,70 @@
+		 GTAC Observation Log 
+
+1. Date : 14/07/2010
+2. Observation Sr. No. : 4962
+3. Observer : J Roy
+4. Observer's Email : jroy@ncra.tifr.res.in
+5. Project Name : Pulsar Observation
+6. Project Code : 18_045
+7. Operator(s) : Nilesh,
+	
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /rawdata/14jul/18_045_14jul2010.lta,
+	/rawdata1/14jul/18_045_14jul2010.ltb,
+	
+10. GSB File : /gsbifrdata/13jul/18_045_13jul_gsb.lta
+11. LogFlag File : /odisk/online1/logflags/18_045.FLAGS.17
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+4 dB, 32 MHz,OFF, IF-CH2 : 20+4 dB, 32 MHz,OFF
+15. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C01 : Servo problem.
+C04 : Bad Band-shape.
+C14 : Bad Band-shape.
+
+21. Note for Backup :--
+
+22. Start and End Time of Obs.(IST): 00:30 - 05:00
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+---------------------------------------------------
+00:30: Started power eq. on 1822-096 IF=800 counts
+       (USB only).
+00:55 : Started phasing.
+01:09 : Started pulsar observation.
+
+00:55 : Started scan on 1822-096.
+01:03 : Started scan on 1822-096.
+01:09 : Started scan on B1804-08.
+01:20 : Started scan on J1713+0747.
+01:35 : Started scan on J1744-1134.
+01:48 : Started scan on B1822-09.
+02:00 : Started scan on 1822-096.
+02:03 : Started scan on G21.5-0.9.
+03:39 : Started scan on 1822-096.
+03:44 : Started scan on B1855+09.
+03:59 : Started scan on B1859+01.
+04:15 : Started scan on 2225-049.
+04:22 : Started scan on J1911-1114.
+04:42 : Started scan on J1939+2134.
+
+05:00 : Stopped observation.
+---------------------------------------------------
+

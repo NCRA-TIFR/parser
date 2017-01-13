@@ -1,0 +1,68 @@
+		 GTAC Observation Log 
+
+1. Date : 31/12/2012
+2. Observation Sr. No. : 6300
+3. Observer : Bhaswati Bhattachary,Jayanta Roy
+4. Observer's Email : jroy@ncra.tifr.res.in
+5. Project Name : Multi-frequency follow-up study and timing of the eclipsing Black Widow millisecond  pulsar J1544+4937
+6. Project Code : 23_038
+7. Operator(s) : Deepak,
+	Nilesh,
+	Sachin,
+	
+8. Command File : /odisk/gtac/cmd/jroy/23_038_31dec.2.cmd
+9. LTA File : /gsbifrdata/31dec/23_038_31dec2012.lta,
+	/gsbifrdata/31dec/23_038_31dec2012.lta.1,
+	
+10. LogFlag File : /odisk/online1/logflags/23_038.FLAGS.8,
+	/odisk/online1/logflags/23_038.FLAGS.9,
+	
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1041 MHz ,RF2 : 1041 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 990 MHz, ILO2 : 990 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : OFF 
+17. Stokes : Total_Intensity
+18. Beam - 1 : IA
+19. Beam - 2 : PA
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 512 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 1041 1041 990 990 51 51.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :28
+
+27. Name of Non-Working Antennas (with reason for each) :
+W05 : MECH maintenance.
+S01 : BLDC 
+C06 : Feed Jammed.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 03:15 - 09:40
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+GAC settings
+-----------------------------------------------------------------------------------------------------
+IA-Antennas  : All Antennas except C06,W05,S01 (Total nos 27)
+PA-Antennas :  All Csq + W01,W02,W03,S02,S03,E02,E03, Except C06,W05,S01(Total nos 20)
+
+-----------------------------------------------------------------------------------------------------
+03:25 : Started setting up.
+03:45 : Completed power equalisation and phasing.
+03:47 : Started command file.
+07:00 : Stopped command file, changed settings to 1390MHz.
+07:15 : Power Equalize and Phasing done on 1459+716.
+07:20 : Started command file.
+09:40 : Stopped command file and observation session closed.
+

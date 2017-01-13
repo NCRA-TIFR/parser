@@ -1,0 +1,59 @@
+		 GTAC Observation Log 
+
+1. Date : 18/08/2005
+2. Observation Sr. No. : 2198
+3. Observer : Prof. Gopal Krishna
+4. Observer's Email : krishna@ncra.tifr.res.in
+5. Project Name : MICROQSR
+6. Project Code : 08GKA02
+7. Operator(s) : Sanjay,
+	Santaji,
+	
+8. Command File : /atemp2/cmd/gk/a.cmd
+9. LTA File : /rawdata/18aug/08gka02_18aug05.lta,
+	/rawdata1/18aug/08gka02_18aug05.ltb
+10. LogFlag File : /atemp2/logflags/08GKA01.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1280 MHz ,RF2 : 1280 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1210 MHz, ILO2 : 1210 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 32 MHz,ON, IF-CH2 : 12+12 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1280 1280 1210 1210 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C09 - IF problem
+E05 - phase unstable
+S01 - MCM 5 time out.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 18:30 - 10:16
+
+23. Comments (During Observations) :
+----------------------------------------------------
+--- ONLINE ADITYA -------
+--- AUTH IF @ 1280 MHz.--
+----------------------------------------------------
+18:30 setup started.
+17:42 scan started on 3c286
+18:08 command file started
+       /atemp2/cmd/gk/a.cmd
+23:03 Started cmd file /temp2/data/cmd/gk/b.cmd
+01:09 Started cmd file /temp2/data/cmd/gk/c.cmd
+03:00 Started cmd file /temp2/data/cmd/gk/d.cmd
+05:37 Started cmd file /temp2/data/cmd/gk/e.cmd
+07:47 : Started command file /temp2/data/cmd/gk/f.cmd
+09:58 : Stopped the command file.
+10:06 : Started scan on 3c147 for 10min.
+10:16 : Stopped the scan & obs. session.
+

@@ -1,0 +1,61 @@
+		 GTAC Observation Log 
+
+1. Date : 7/11/2013
+2. Observation Sr. No. : 6772
+3. Observer : arunima banerjee,Jayaram Narayanan Chengalur,Narendranath Patra
+4. Observer's Email : arunima@ncra.tifr.res.in,chengalur@ncra.tifr.res.in,narendra@ncra.tifr.res.in
+5. Project Name : HI observations of superthin galaxies
+6. Project Code : 24_009
+7. Operator(s) : Surender
+8. Command File : /odisk/gtac/cmd/arunima/6nov13/fgc1540.cmd
+9. LTA File : /gsbifrdata/08nov/24_009_08nov2013.lta,
+10. LogFlag File : /odisk/online1/logflags/24_009.FLAGS.15,
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1406.8135 MHz ,RF2 : 1406.8135 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1345 MHz, ILO2 : 1345 MHz , IVLO1 : 61.8135 MHz, IVLO2 : 61.8135 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : Realtime 
+15. GSB LTA : 8 
+16. GSB CTRL : ONLINE 
+17. GSB Fstop : ON 
+18. GAIN EQ : ON 
+19. Stokes : TotIntensity
+20. Beam - 1 : OFF
+21. Beam - 2 : OFF
+22. ACQ BW : 16.67 MHz
+23. Final BW : 4.17 MHz; Step # 2
+24. Maximum Channels : 512 
+25. Channel Numbers : 0:511:1 
+26. LO5 -1  : 138.19 
+27. LO5 -2  : 166.81 
+
+28. Frequency Parameters (TPA) : 1406.8135 1406.8135 1345 1345 61.8135 61.8135.
+29. Integration Time : 16.106112 Sec.
+30. No of Antennas Working(Fringing) at the begining :29
+
+31. Name of Non-Working Antennas (with reason for each) :
+C04 : low fringe@130 pol.
+
+32. Note for Backup :
+
+33. Start and End Time of Obs.(IST): 05:40 - 09:00
+
+34. ONLINE Machine : Lenyadri
+
+35. No of Antennas Working(Fringing) at the end :29
+
+36. Comments (During Observations) :
+05:40 : Started set-up.
+05:49 : Started scan on 3C147 for 15min.
+06:10 : Started command file.
+09:15 : command file stopped.
+09:16 : W04 taken for painting work.
+09:19 : started scan on 3C286 ~15mins.
+09:35 : stopped das & observation session.
+
+

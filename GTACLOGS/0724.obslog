@@ -1,0 +1,48 @@
+1. Date : 26/07/2002
+2. Observation Sr. No. : 0724
+3. Observer : Gopal Krishna, Neeraj Gupta
+4. Observer's Email : krishna@ncra.tifr.res.in,neeraj@ncra.tifr.res.in
+5. Project Name : IR19+11
+6. Project Code : 02GKA03
+7. Operator(s) : Jangam M.S.,Katore S.N.,
+8. Command File : /temp2/data/cmd/neeraj/nlobe.cmd
+9. LTA File : /rawdata/26jul/02gka03_ir19.lta
+
+ANTENNA SETTINGS :
+
+10. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+11. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+12. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 32 MHz,on, IF-CH2 : 12+12 dB, 32 MHz,on
+13. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, on
+
+CORREATOR SETTINGS :
+
+14. CLK_SEL/Samp_Freq : 0
+15. Channels : 0:127:1
+16. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+17. Integration Time : 128 STA ~ 16.908 Sec.
+18. No of Antennas Working(Fringing) :27
+
+19. Name of Non-Working Antennas (with reason for each) :
+C13 - 130 poln very low fringe.
+C01 - Bad antenna.phase   and amplitude is not stable.
+
+20. Start and End Time of Obs.(IST): 18:15 - 05:00
+
+21. Comments (During Observations) :
+18:15 - started scan on 3C286.
+18:30 - Stopped scan on 3c286.
+18:46 - Started command file.
+W06 Delay out of range.
+C12 - 130 poln chan 40 onwards weird bandpass.
+19:45 - E04 eln brake problem.
+20:15 C12 bandpass became ok.
+20:15 C14 chan 30 to 50 RFI.
+20:50 C14 chan 30 to 50 RFI cleared.
+22:10 Stopped command file, antennas moved to 3C286.
+22:18 Started scan on 3C286 for 5 mins.
+22:24 Stopped scan on 3C286.
+22:29 restarted command file.
+05:00 observation session over.
+

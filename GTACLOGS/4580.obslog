@@ -1,0 +1,71 @@
+		 GTAC Observation Log 
+
+1. Date : 07/11/2009
+2. Observation Sr. No. : 4580
+3. Observer : Jroy
+4. Observer's Email : jroy@ncra.tifr.res.in
+5. Project Name : PSR OBS
+6. Project Code : 17_055
+7. Operator(s) : Navanath,
+	Rupsingh,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/uelipen/nov07_final.1.cmd
+9. LTA File : /rawdata/7nov/17_055_07nov09.lta,
+	/rawdata1/7nov/17_055_07nov09.ltb,
+	/rawdata/7nov/17_055_07nov09.lta.1,
+	/rawdata1/7nov/17_055_07nov09.ltb.1
+10. LogFlag File : /odisk/online1/logflags/17_066.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 218 MHz, ILO2 : 218 MHz, IVLO1 : 62 MHz, IVLO2 : 62 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+4 dB, 16 MHz,OFF, IF-CH2 : 16+4 dB, 16 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 156 156 218 218 62 62 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+E03 : Intermittent fringe problem.
+C13 : stopped tracking.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 05:10 - 11:25
+
+23. ONLINE Machine : Lenyadri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+05:10 : Started setup.
+05:30 : Started power eq on 3C147 @ 256 counts in indian polar mode.
+05:45 : Started phasing.
+05:59 : Started wideband phasing.
+06:06 : Started scan on test pulsar.
+06:25 : Stopped scan.
+      : Reconfigured corr to USB Polar mode.
+      : NOISE LOW cal 25 % ON.
+06:35 : Started command file
+        /odisk/gtac/cmd/uelipen/nov07_final.1.cmd
+    
+08:05 : E05 taken for painting.
+
+10:55 : Stopped command file.
+
+11:00 : Started command file.
+        /odisk/gtac/cmd/uelipen/az_ant_rfi.cmd.
+        Started scan in GSB only.
+11:25 : Observing session over.
+
+
+
+       
+ 
+

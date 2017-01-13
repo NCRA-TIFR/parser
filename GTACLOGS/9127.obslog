@@ -1,0 +1,65 @@
+		 GTAC Observation Log
+
+1. Date : 11/01/2017
+2. Observation Sr. No. : 9127
+3. Observer : Sushma Kurapati, Jayaram Narayanan Chengalur
+4. Observer's Email : sushma@ncra.tifr.res.in, chengalur@ncra.tifr.res.in
+5. Project Name : HI as a probe of dwarf galaxy transformations in dense environments
+6. Project Code : 31_086
+7. Operator(s) : Navnath, Sachin
+8. Command File : /odisk/gtac/cmd/sushma/31_086/11jan17/obs.cmd
+9. LTA File : /gsbifrdata1/11jan/31_086_11jan2017.lta
+10. LogFlag File : /odisk/online1/logflags/31_086.FLAGS.5
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1409.8651 MHz ,RF2 : 1409.8651 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1345 MHz, ILO2 : 1345MHz , IVLO1 : 64.8651 MHz, IVLO2 : 64.8651 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 4 MHz; Step # 1
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 135.1349
+28. LO5 -2  : 169.8651
+
+29. Frequency Parameters (TPA) : 1409.8651 1409.8651 1345 1345 64.8651 64.8651
+30. Integration Time : 8.053 Sec
+31. No of Antennas Working(Fringing) at the beginning :27
+
+32. Name of Non-Working Antennas (with reason for each) :
+C08 : : ABC Reset
+S01 : : Servo Brakes
+C03 : : automatically parking.
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 11 Jan 2017 00:00:00 - 11 Jan 2017 09:25:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :27
+
+37. Comments (During Observations) :
+00:00 : Started scan on setup.
+00:39 : Started scan on 3C147 for 20 min.
+01:12 : Started command file.
+
+      
+/odisk/gtac/cmd/sushma/31_086/11jan17/obs.cmd
+
+09:00 : Stopped command file.
+09:01 : Started scan on 3C286 for 15 mins.
+09:16 : Stopped scan and closed observation session.
+

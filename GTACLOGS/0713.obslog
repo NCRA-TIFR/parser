@@ -1,0 +1,63 @@
+1. Date : 21/07/2002
+2. Observation Sr. No. : 0713
+3. Observer : Prof. S. Ananthkrishnan
+4. Observer's Email : ananth@ncra.tifr.res.in
+5. Project Name : galsurvey
+6. Project Code : CALIB
+7. Operator(s) : Umbarje M.S.,
+8. Command File : /temp2/data/cmd/sak/cyga.cmd,/temp2/data/cmd/sak/casa.cmd
+9. LTA File : /rawdata/21jul/cyga_solattn_14db.lta,/rawdata/21jul/cyga_solattn_30db.lta,/rawdata/21jul/casa_solattn_30db.lta,/rawdata/21jul/casa_solattn_14db.lta
+
+ANTENNA SETTINGS :
+
+10. RF Freq(MHz) & Solar Attn(dB)- RF1 : 242 MHz ,RF2 : 242 MHz, SA1 : 0 dB, SA2 : - dB
+11. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 308 MHz, ILO2 : 308 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+12. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,on, IF-CH2 : 16+16 dB, 32 MHz,on
+13. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, on
+
+CORREATOR SETTINGS :
+
+14. CLK_SEL/Samp_Freq : 0
+15. Channels : 0:63:1
+16. Frequency Parameters (TPA) : 242 242 308 308 66 66 
+
+17. Integration Time : 128 STA ~ 16.67 Sec.
+18. No of Antennas Working(Fringing) : 28
+19. Name of Non-Working Antennas (with reason for each) : C04: MCM 5 T. O.<br>
+E06: Down for maintainance.
+20. Start and End Time of Obs.(IST): 03:41 - 04:26
+21. Comments (During Observations) :03:41  With 14 db Sol attenuation, started a lta<br>
+       file /rawdata/21jul/cyga_solattn_14db.lta<br>
+<br>
+14 db Sol attenuation.       <br>
+All ALCs off, power equilised. Lta file /rawdata/21jul/cyga_solattn_14db.lta<br>
+        Scan No.  Start    Stop     Source<br>
+        ------------------------------------------------<br>
+         0        27:41    28:32    5 deg. dec off cyga<br>
+         1        27:48    27:58     On cyga.<br>
+         2        28:00    28:05    -5 deg. dec off cyga<br>
+        -------------------------------------------------<br>
+Changed Sol attn from 14 dB to 30 dB. <br>
+All ALCs off, power equilised. Lta file /rawdata/21jul/cyga_solattn_30db.lta<br>
+        ------------------------------------------------<br>
+         0        27:41    28:32    5 deg. dec off cyga<br>
+         1        27:48    27:58     On cyga.<br>
+         2        28:00    28:05    -5 deg. dec off cyga<br>
+        -------------------------------------------------<br>
+Changed the source to casa.<br>
+All ALCs off, power equilised. Lta file /rawdata/21jul/casa_solattn_30db.lta<br>
+        ------------------------------------------------<br>
+         0        27:41    28:32    5 deg. dec off casa<br>
+         1        27:48    27:58     On casa.<br>
+         2        28:00    28:05    -5 deg. dec off casa<br>
+        -------------------------------------------------<br>
+Changed the sol attenuation to 14 dB.<br>
+All ALCs off, power equilised. Lta file /rawdata/21jul/casa_solattn_14db.lta<br>
+        ------------------------------------------------<br>
+         0        27:41    28:32    5 deg. dec off casa<br>
+         1        27:48    27:58     On casa.<br>
+         2        28:00    28:05    -5 deg. dec off casa<br>
+        -------------------------------------------------<br>
+Closed the observation        
+22. Data Backup files & Tape No. :
+

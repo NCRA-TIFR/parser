@@ -1,0 +1,72 @@
+		 GTAC Observation Log
+
+1. Date : 14/11/2016
+2. Observation Sr. No. : 8992
+3. Observer : Rahul Basu, Jaroslaw Kijak, Wojciech Lewandowski, Karolina Rozko
+4. Observer's Email : rahul@astro.ia.uz.zgora.pl, jkijak@astro.ia.uz.zgora.pl, boe@astro.ia.uz.zgora.pl, krozko@gmail.com
+5. Project Name : Gigahertz-Peaked Spectra in Vela-like Pulsars ... continued.
+6. Project Code : 31_089
+7. Operator(s) : Navnath, Pramod, Rupsing, Sachin
+8. Command File : /odisk/gtac/cmd/31_089/14nov16.cmd
+9. LTA File : /gsbifrdata1/14nov/31_089_14nov2016_2s.lta
+10. LogFlag File : /odisk/online1/logflags/31_099.FLAGS.5
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1281 MHz ,RF2 : 1281 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1230 MHz, ILO2 : 1230MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 0 MHz; Step # 0
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 1281 1281 1230 1230 51 51
+30. Integration Time : 2.0132 Sec
+31. No of Antennas Working(Fringing) at the beginning :28
+
+32. Name of Non-Working Antennas (with reason for each) :
+E05 :Taken for maintenance
+W04 : Taken for painting
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 14 Nov 2016 12:00:00 - 14 Nov 2016 17:00:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :28
+
+37. Comments (During Observations) :
+12:00 : Started set up.
+12:22 : Started scan on 3C286.
+12:30 : Stopped scan and started command file.
+ '/odisk/gtac/cmd/31_089/14nov16.cmd'
+
+16:51 : Started scan on phase cal.
+17:00 : Observation session over.
+ 0 3C286       13h31m55.00 +30d25'21.38" 14/Nov/2016 12:22:52 1281.00  130.208  211
+  1 1714-252    17h15m50.17 -25d15'40.61" 14/Nov/2016 12:35:46 1281.00  130.208   89
+  2 J1702-4128  17h04m03.71 -41d30'10.76" 14/Nov/2016 12:42:00 1281.00  130.208 1668
+  3 1714-252    17h15m50.17 -25d15'40.61" 14/Nov/2016 13:39:12 1281.00  130.208   90
+  4 J1718-3825  17h19m22.98 -38d26'18.45" 14/Nov/2016 13:45:27 1281.00  130.208 1672
+  5 1714-252    17h15m50.17 -25d15'40.61" 14/Nov/2016 14:42:34 1281.00  130.208   90
+  6 J1747-2958  17h48m20.66 -29d58'18.99" 14/Nov/2016 14:48:42 1281.00  130.208 1669
+  7 1714-252    17h15m50.17 -25d15'40.61" 14/Nov/2016 15:45:41 1281.00  130.208   90
+  8 J1809-1917  18h10m42.86 -19d17'23.03" 14/Nov/2016 15:52:02 1281.00  130.208 1673
+  9 1714-252    17h15m50.17 -25d15'40.61" 14/Nov/2016 16:51:50 1281.00  130.208  246
+

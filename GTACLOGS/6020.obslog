@@ -1,0 +1,75 @@
+		 GTAC Observation Log 
+
+1. Date : 04/07/2012
+2. Observation Sr. No. : 6020
+3. Observer : Gregory Paciga,Hans nguyen
+4. Observer's Email : paciga@astro.utoronto.ca,hans.nguyen369@gmail.com
+5. Project Name : The GMRT-EoR Project: Global Sky Model and Earth Occultation mapping for PSR
+6. Project Code : 22_045
+7. Operator(s) : Manisha,
+	Sachin,
+	Santaji,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : 
+10. LogFlag File : 
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 218 MHz, ILO2 : 218 MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 16 MHz,OFF, IF-CH2 : 24+4 dB, 16 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : OFF 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 16 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 16:138000-167000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 156 156 218 218 62 62.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :28
+
+27. Name of Non-Working Antennas (with reason for each) :
+C05 - No fringe.
+C10 - Servo problem.
+
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 01:00 - 09:13
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+01:00 Started the observation.
+----------------------------------------
+The antenna set up is :
+
+           LO1 = 218 MHz
+           LO4 = 62 MHz
+           LO5 = 16 MHz  (138 - 167 MHz)
+           Baseband bandwidth =  16 MHz
+           IF bandwidth = 16 MHz
+           Noise source ON, low cal, 25% duty cycle
+           ALC OFF
+           Antennas : W6, W4,W2, S6,S3,S1,E6,E4,E2 tracking the pulsar B0450+55
+           Rest of antennas : AZ angle = +180 degrees, EL angle = 55:43:41 +19 = 74:43:41 degrees
+------------------------------------------------------
+Servo positions file is kept at
+
+"/odisk/servo/eor/"
+
+----------------------------------------------
+01:00 - 02:40 B1508+55
+02:50 - 03:20 3C48
+03:30 - 09:13 B0329+54
+09:13 - Observing session over.
+---------------------------------------
+

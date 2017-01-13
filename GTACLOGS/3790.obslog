@@ -1,0 +1,53 @@
+		 GTAC Observation Log 
+
+1. Date : 11/06/2008
+2. Observation Sr. No. : 3790
+3. Observer : Imai Kota
+4. Observer's Email : quarter@pparc.geophys.tohoku.ac.jp
+5. Project Name : Jupiter
+6. Project Code : 14KIA01
+7. Operator(s) : Sanjay,
+	
+8. Command File : /odisk/gtac/cmd/misawa/kota20080610b.cmd
+9. LTA File : /rawdata/11jun/14kia01_11jun2008.lta,
+	/rawdata1/11jun/14kia01_11jun2008.ltb
+10. LogFlag File : /btemp2/logflags/14KIA01.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:255:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :25
+
+20. Name of Non-Working Antennas (with reason for each) :
+W04,W05,W06 : NO Power.
+C00 : Feed problem
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 04:01 - 06:30
+
+23. Comments (During Observations) :
+--------------------------------------------
+******** ONLINE Machine : Bhaskar   ******** 
+******** Corr Mode : UsbHighRes Mode *******
+--------------------------------------------
+04:00 : started setting for 14KIA01 observation.
+04:09 : started scan on flux cal.
+04:16 : started commnad file .
+06:07 : started scan on flux cal.
+06:30 : Obsrving session over.
+
+
+
+

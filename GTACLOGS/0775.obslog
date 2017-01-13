@@ -1,0 +1,55 @@
+1. Date : 26/08/2002
+2. Observation Sr. No. : 0775
+3. Observer : A. Omar
+4. Observer's Email : aomar@rri.res.in,aomar@ncra.tifr.res.in
+5. Project Name : Eridanus
+6. Project Code : 02AOA01
+7. Operator(s) : Umbarje M.S.,
+8. Command File : /temp2/data/cmd/aomar/02aoa01.cmd
+9. LTA File : /rawdata/26aug/02aoa01_26aug.lta
+
+ANTENNA SETTINGS :
+
+10. RF Freq(MHz) & Solar Attn(dB)- RF1 : 325 MHz ,RF2 : 325 MHz, SA1 : 0 dB, SA2 : 0 dB
+11. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 255 MHz, ILO2 : 255 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+12. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,on, IF-CH2 : 16+16 dB, 32 MHz,on
+13. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, on
+
+CORREATOR SETTINGS :
+
+14. CLK_SEL/Samp_Freq : 1
+15. Channels : 0:127:1
+16. Frequency Parameters (TPA) : 325 325 255 255 70 70 
+
+17. Integration Time : 128 STA ~ 16.908 Sec.
+18. No of Antennas Working(Fringing) :27
+
+19. Name of Non-Working Antennas (with reason for each) :
+C09:antenna down for P.M.
+C13:Servo Problem.
+S04: MCM 5 T.O.
+W01: Low fring count.
+     Ch#130 Band Oscil.
+
+
+20. Start and End Time of Obs.(IST): 01:01 - 00:45
+
+21. Comments (During Observations) :
+01:00 observations started 
+01:01 scan started on 3C48
+01:14 scan started on Mrk 1
+01:36 scan started on NGC 1052
+01:48 scan started on phase cal 0240-231
+02:36 scan started on 0409-179 phase cal
+      Started the command file 
+             /temp2/data/cmd/aomar/02aoa01.cmd 
+
+04:39 Due to power glitch many antennas( more
+      than 15) started giving timeouts. So stopped
+      the scan and sacfil.
+
+05:03 After setting all the parameters of the antenas
+      again, started the commad file
+         /temp2/data/cmd/aomar/02aoa01.cmd 
+
+

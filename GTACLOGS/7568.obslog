@@ -1,0 +1,114 @@
+		 GTAC Observation Log
+
+1. Date : 25/01/2015
+2. Observation Sr. No. : 7568
+3. Observer : Ramesh Bhat, Poonam Chandra, Evan Keane
+4. Observer's Email : ramesh.bhat@curtin.edu.au, poonam@ncra.tifr.res.in, evan.keane@gmail.com
+
+5. Project Name :  Shadowing the Parkes high time resolution survey with GMRT\r\n
+6. Project Code : 27_062
+7. Operator(s) : Nilesh, Pramod
+8. Command File : /odisk/gtac/cmd/27_062/january/25jan2015.cmd
+9. LTA File : /gsbifrdata/25jan/t.readme
+10. LogFlag File : /odisk/online1/logflags/27_062.FLAGS.9
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 317 MHz ,RF2 : 317 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+14 dB, 32 MHz,OFF, IF-CH2 : 20+14 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 4
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 16.666666 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 138
+28. LO5 -2  : 167
+
+29. Frequency Parameters (TPA) : 317 317 255 255 62 62
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :28
+
+32. Name of Non-Working Antennas (with reason for each) :
+E04 : Taken for BLDC
+W04 : Taken for mechanical work.
+
+33. Note for Backup :GSB data recorded on gsbm2 with 128 ms and 2s integrations.(HTVIS mode observation).
+
+34. Start and End Time of Obs.(IST): 25 Jan 2015 04:00:00 - 25 Jan 2015 15:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :26
+
+37. Comments (During Observations) :
+05:00 : Stared set up.
+05:30 : Power equalised at 250 counts on 3C286 and halt the GSB.
+05:37:49 : Started scan on 3C286 for ~ 4.16071 min.
+05:56:09 : C06 ABC time out.
+05:58:43 : Started scan on 1737+063 for ~ 5.20089 min.
+06:05:10 : Started scan on J1713+0747 for ~ 5.23444 min.
+06:12:44 : Started scan on G032.8+28.8 for ~ 4.29493 min.
+06:17:50 : Started scan on G033.8+27.8 for ~ 9.26094 min.
+06:28:00 : Started scan on G032.3+27.1 for ~ 9.12672 min.
+06:37:58 : Started scan on G032.2+27.3 for ~ 9.12672 min.
+06:47:53 : Started scan on G032.1+27.1 for ~ 9.02606 min.
+06:58:18 : Started scan on G031.9+27.3 for ~ 8.32143 min.
+07:07:22 : Started scan on G031.3+23.9 for ~ 9.42871 min.
+07:17:18 : Started scan on 1737+063 for ~ 7.34836 min.
+07:27:00 : Started scan on G031.1+23.9 for ~ 9.09317 min.
+        (started 128ms file for source after 6min into the scan).
+07:36:26 : Started scan on G032.1+22.9 for ~ 9.86492 min.
+07:47:42 : Started scan on G031.5+14.2 for ~ 9.3616 min.
+07:57:26 : Started scan on G031.6+14.4 for ~ 9.7307 min.
+08:07:29 : Started scan on G031.7+14.2 for ~ 9.7307 min.
+08:18:05 : Started scan on G036.7+04.8 for ~ 9.19383 min.
+08:27:43 : Started scan on G037.5+03.8 for ~ 10.234 min.
+08:40:37 : Started scan on 1751+096 for ~ 5.30155 min.
+08:49:31 : Started scan on 1501-396 for ~ 7.41546 min.
+08:58:35 : Scan no # 20 is BAD.
+09:03:54 : Started scan on 1501-396 for ~ 3.25475 min.
+09:07:38 : Started scan on J1421-4410 for ~ 11.1735 min.
+09:23:44 : Started scan on 2035+109 for ~ 7.34836 min.
+09:32:06 : Started scan on G043.0-10.2 for ~ 6.17396 min.
+09:39:10 : Started scan on G043.0-10.2 for ~ 9.22739 min(here we missed source G042.9-09.9).
+09:48:55 : Started scan on G044.8-13.2 for ~ 8.75763 min.
+09:58:02 : Started scan on G044.9-13.4 for ~ 9.63004 min.
+10:08:05 : Started scan on G043.8-11.2 for ~ 10.0327 min.
+10:15:00 : C01 taken for maintenance.
+10:18:28 : Started scan on G043.9-11.4 for ~ 9.46227 min.
+10:29:00 : Started scan on G046.8-21.9 for ~ 9.7307 min.
+10:39:03 : Started scan on G046.7-21.7 for ~ 9.7307 min.
+10:49:43 : Started scan on 2035+109 for ~ 9.42871 min.
+11:00:09 : Started scan on G045.7-20.5 for ~ 8.5563 min.
+11:08:57 : Started scan on G045.1-22.3 for ~ 9.83136 min.
+11:19:26 : Started scan on G046.0-25.2 for ~ 9.56293 min.
+11:29:37 : Started scan on G045.8-25.2 for ~ 9.12672 min.
+11:39:35 : Started scan on G046.0-28.8 for ~ 9.19383 min.
+11:49:36 : Started scan on G047.5-29.8 for ~ 9.49582 min.
+12:02:07 : Started scan on 2011-067 for ~ 9.49582 min.
+12:14:43 : Started scan on 1626-298 for ~ 8.79118 min.
+12:24:39 : Started scan on J1705-1903 for ~ 10.4018 min.
+12:36:24 : Started scan on 1830-360 for ~ 5.36866 min.
+12:42:29 : Started scan on J1804-2858 for ~ 20.6693 min.
+13:04:28 : Started scan on 1822-096 for ~ 5.40222 min.
+13:10:52 : Started scan on J1754+0036 for ~ 20.77 min.
+13:32:30 : Scan no # 46 is BAD.
+13:40:51 : Started scan on 1830-360 for ~ 5.40222 min.
+13:46:58 : Started scan on J1804-2858 for ~ 20.77 min.
+14:08:54 : Started scan on 1822-096 for ~ 5.40222 min.
+14:15:10 : Started scan on J1754+0036 for ~ 20.77 min.
+14:42:43 : Started scan on 3C48 for ~ 15 min.
+14:58 : Stopped observation.
+

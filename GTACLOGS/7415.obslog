@@ -1,0 +1,64 @@
+		 GTAC Observation Log
+
+1. Date : 09/11/2014
+2. Observation Sr. No. : 7415
+3. Observer : Yvette Chanel Perrott, David Alan Green, Anna Scaife, Keith JB Grainge
+4. Observer's Email : ycp21@mrao.cam.ac.uk, dag@mrao.cam.ac.uk, a.scaife@soton.ac.uk, keith.grainge@manchester.ac.uk
+5. Project Name : %latex%Identification of AMI Galactic Plane Survey Compact H{\\large II} region candidates
+6. Project Code : 27_003
+7. Operator(s) : Navnath, Pramod, Rupsing
+8. Command File : /odisk/gtac/cmd/27_003/obs-early.cmd,odisk/gtac/cmd/27_003/obs-late.cmd
+9. LTA File : /gsbifrdata/08nov/27_003_08nov2014.lta
+10. LogFlag File : /odisk/online1/logflags/27_003.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1281 MHz ,RF2 : 1281 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1230 MHz, ILO2 : 1230MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 1281 1281 1230 1230 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :27
+
+32. Name of Non-Working Antennas (with reason for each) :
+C01 : Feed cage painting.
+E06 : BLDC.
+S04 : 130 pole low fringe.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 08 Nov 2014 20:00:00 - 09 Nov 2014 05:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :27
+
+37. Comments (During Observations) :
+19:48 : Started scan on 3C48.
+20:00 : Stopped scan and started command file.
+       '/odisk/gtac/cmd/27_003/obs-early.cmd'
+23:30 : Stopped command file.
+23:32 : Started scan on 3C48.
+23:45 : Stopped scan.
+23:46 : Started command file
+        'odisk/gtac/cmd/27_003/obs-late.cmd'
+05:00 : Stopped command file and observation session over.

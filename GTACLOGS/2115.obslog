@@ -1,0 +1,58 @@
+		 GTAC Observation Log 
+
+1. Date : 11/07/2005
+2. Observation Sr. No. : 2115
+3. Observer : G C Anupama
+4. Observer's Email : gca@iiap.res.in,ngk@ncra.tifr.res.in
+5. Project Name : GKPER
+6. Project Code : 08GCA01
+7. Operator(s) : Jitendra,
+	Manish G.,
+	Manisha J.,
+	
+8. Command File : /atemp2/cmd/gca/gkper125cm.cmd
+9. LTA File : /rawdata/11jul/08gca01_gkper_235.lta
+10. LogFlag File : /atemp2/logflags/08GCA01.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 244 MHz ,RF2 : 244 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 310 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 18+18 dB, 6 MHz,ON, IF-CH2 : 18+18 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 244 244 310 310 66 66 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+S04 : very low fringe.
+C04-175 : very low fringe.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 02:57 - 13:15
+
+23. Comments (During Observations) :
+***************************************
+------- ONLINE : Adiyta ---------------
+-------- AUTHIF @ 235 ------
+***************************************
+
+02:57 : started scan on 3c48 ~15mins.
+03:15 : command file started.
+
+09:10 : USB-S-arm visibilities shows zero count.
+09:44 : dly_config run, S-Arm problem solved.
+       
+12:41 : Scan stopped.
+12:45 : Phase cal scan started.
+13:15 : Scan stopped, and project over.
+
+

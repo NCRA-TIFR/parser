@@ -1,0 +1,56 @@
+		 GTAC Observation Log 
+
+1. Date : 10/08/2008
+2. Observation Sr. No. : 3922
+3. Observer : Manojendu
+4. Observer's Email : manojendu@gmail.com,nilayb@barc.gov.in
+5. Project Name : LS5039
+6. Project Code : 14SVG02
+7. Operator(s) : Navanath,
+	Nilesh,
+	
+8. Command File : /odisk/gtac/cmd/sagar/ls5039.cmd
+9. LTA File : /rawdata/10aug/14svg02_10aug08.lta,
+	/rawdata1/10aug/14svg02_10aug08.ltb
+10. LogFlag File : /btemp2/logflags/14SVG02.FLAGS.6
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+S01: no fringe.
+S06: fringe fluctuation.
+W04: fringe fluctuation.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 17:15 - 23:40
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+17:15 : Started setup for 14SVG02 project.
+17:27 : Stared scan on 3c286 for 10min.
+17:38 : Scan stopped.
+      : Command file started 
+  /odisk/gtac/cmd/saga/ls5039.cmd
+23:22 : Stopped command file.
+23:30 : Started scan on 3C48.
+23:40 :Stopped scan and observation over.
+
+
+

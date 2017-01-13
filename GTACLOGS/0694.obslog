@@ -1,0 +1,35 @@
+1. Date : 12/07/2002
+2. Observation Sr. No. : 0694
+3. Observer : J.N. Chengalur.
+4. Observer's Email : chengalu@ncra.tifr.res.in
+5. Project Name : 0937+3857
+6. Project Code : 02JNC02
+7. Operator(s) : Galande M.M.,Katore S.N.,
+8. Command File : /temp2/data/cmd/chengalu/16124.cmd
+9. LTA File : /rawdata/12jul/02jnc02_16124.lta
+
+ANTENNA SETTINGS :
+
+10. RF Freq(MHz) & Solar Attn(dB)- RF1 : 970.5 MHz ,RF2 : 970.5 MHz, SA1 : 0 dB, SA2 : 0 dB
+11. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 905 MHz, ILO2 : 905 MHz, IVLO1 : 65.5  MHz, IVLO2 : 65.5 MHz
+12. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+10 dB, 16 MHz,on, IF-CH2 : 10+10 dB, 16 MHz,on
+13. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, on
+
+CORREATOR SETTINGS :
+
+14. CLK_SEL/Samp_Freq : 1
+15. Channels : 0:127:1
+16. Frequency Parameters (TPA) : 970.5 970.5 905 905 65.5  65.5 
+
+17. Integration Time : 256 STA ~ 33.33 Sec.
+18. No of Antennas Working(Fringing) : 28
+19. Name of Non-Working Antennas (with reason for each) : C10 NO fringe.<br>
+S06 NO fringe.
+20. Start and End Time of Obs.(IST): 20:00 - 01:28
+21. Comments (During Observations) :20:12 	started the scan on 3c286<br>
+20:33   started the command file <br>
+	/temp2/data/cmd/chengalu/16124.cmd<br>
+23:08   scan # 8 is bad "flat band shape E06"<br>
+25:28   Stopped the observation.
+22. Data Backup files & Tape No. :
+

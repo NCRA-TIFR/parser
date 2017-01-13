@@ -1,0 +1,65 @@
+		 GTAC Observation Log
+
+1. Date : 26/03/2016
+2. Observation Sr. No. : 8498
+3. Observer : Tiziana Venturi, Gianni Bernardi, Rossella Cassano, Dharam Vir Lal, Daniele Dallacasa, Melanie Johnston-Hollitt, Gianfranco Brunetti
+4. Observer's Email : tventuri@ira.inaf.it, giannibernardi75@gmail.com, rcassano@ira.inaf.it, dharam@ncra.tifr.res.in, daniele.dallacasa@unibo.it, Melanie.Johnston-Hollitt@vuw.ac.nz, brunetti@ira.inaf.it
+5. Project Name :  Hunting for radio halos in low-mass galaxy clusters. Follow-up  observations of KAT-7 candidates
+6. Project Code : 29_012
+7. Operator(s) : Rupsing, Sachin, Surender
+8. Command File : /odisk/gtac/cmd/29_012/obs.cmd
+9. LTA File : /gsbifrdata1/26mar/29_012_26mar16.lta
+10. LogFlag File : /odisk/online1/logflags/29_012.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 591 591 540 540 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :28
+
+32. Name of Non-Working Antennas (with reason for each) :
+C06 : Servo problem.
+S06 : Feed cage painting.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 26 Mar 2016 06:00:00 - 26 Mar 2016 12:13:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :28
+
+37. Comments (During Observations) :
+06:07 : Started scan on 3C286 for ~ 12.348 min.
+06:27 : Started command file.
+08:22 : C04 applied brakes.
+09:18 : C04 released brakes.
+09:22 : S06 released for observation.
+10:02 : E06 taken for Mech work.
+10:02 : C11 taken for cherry picker.
+10:10 : C06 Released for observation.
+11:49 : Stopped command file.
+11:58 : Started scan on 3C48.
+12:13 : Stopped scan and observing session is over.

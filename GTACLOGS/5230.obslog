@@ -1,0 +1,97 @@
+		 GTAC Observation Log 
+
+1. Date : 06/02/2011
+2. Observation Sr. No. : 5230
+3. Observer : B. C. Joshi, Vishal Gajjar
+4. Observer's Email : bcj@ncra.tifr.res.in,gajjar@ncra.tifr.res.in
+5. Project Name : Pulsar Observation
+6. Project Code : 19_022
+7. Operator(s) : Deepak,
+	Manisha,
+	Rupsingh,
+	Santaji,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : 
+10. GSB File : /gsbifrdata/6feb/19_022_suba2_06feb2011_gsb.lta,
+	/gsbifrdata/6feb/19_022_suba4_06feb2011_gsb.lta
+11. LogFlag File : /odisk/online1/logflags/SUBA2.FLAGS.134,
+	/odisk/online1/logflags/SUBA4.FLAGS.136
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 22+22 dB, 32 MHz,OFF, IF-CH2 : 4+4 dB, 32 MHz,OFF
+15. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+GHB Settings :
+16. GHB Channels : 0:127:1
+17. Correlator Mode : IndianPolar
+18. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+GSB Settings :
+19. Maximum Channels : 512 
+20. Final Bandwidth (MHz): OFF MHz; Step # 0
+21. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+22. Stokes : Total_Intensity
+23. Beam - 1 : PA
+24. Beam - 2 : PA
+
+25. Integration Time : 128 LTA ~ 16.908 Sec.
+26. No of Antennas Working(Fringing) :29
+
+27. Name of Non-Working Antennas (with reason for each) :
+C06 : Servo problem.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 10:45 - 20:54
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+Correlator configured in pulsar mode.
+---------------------------------------------------------
+# sub 2 # C01 C02 C04 C05 C06 C08 C09 C10 E02
+ante 9 6 5 3 19 20 24 4 12 17
+cp 0;defs 2;subar 2
+sndsacant
+tpa 315 315 245 245 70 70
+---------------------------------------------------------
+
+# sub 4 # C00 C03 C11 C12 C13 C14 W01 W02 S01 S02
+ante 10 7 1 9 2 11 10 8 13 26 27
+cp 0;defs 4;subar 4
+sndsacant
+tpa 610 610 540 540 70 70
+---------------------------------------------------------
+11:05 : Power equilised on 3C468.1 IF level @ 1000counts.
+11:25 : Phasing done on 3C468.1 for GSB.
+
+11:50:28 : Started scan on B1937+21 for ~ 6.94444min.
+12:00:49 : Started scan on B1929+10 for ~ 7.5min.
+
+12:24 : Phasing done on 3C468.1 for GSB.
+
+12:27:20 : Started scan on B2319+60 for ~ 106.944min.
+14:25:00 : Phasing done on 3C468.1 for GSB.
+14:27:05 : Started scan on B2319+60 for ~ 90min.
+16:02:49 : Started scan on 3C468.1 for ~ 1.38889min.
+16:04:23 : Started scan on 3C468.1 for ~ 0.555556min.
+16:05:09 : Started scan on 3C468.1 for ~ 5min.
+16:11:00 : Started scan on B2319+60 for ~ 91.6667min.
+17:40:58 : Started scan on 3C468.1 for ~ 1.66667min.
+17:43:03 : Started scan on 3C468.1 for ~ 0.277778min.
+17:43:50 : Started scan on 3C468.1 for ~ 4.72222min.
+17:50:14 : Started scan on B2319+60 for ~ 86.6667min.
+19:15:02 : Started scan on 3C468.1 for ~ 1.66667min.
+19:16:54 : Started scan on 3C468.1 for ~ 0.555556min.
+19:17:41 : Started scan on 3C468.1 for ~ 5min.
+19:23:39 : Started scan on B2319+60 for ~ 76.3889min.
+20:40:18 : Started scan on 3C48 for ~ 5.27778min.
+20:46:57 : Started scan on 3C48 for ~ 6.66667min.
+20:54:00 : Stopped scan & observation session over.
+
+

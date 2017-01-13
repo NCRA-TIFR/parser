@@ -1,0 +1,52 @@
+		 GTAC Observation Log 
+
+1. Date : 18/12/2008
+2. Observation Sr. No. : 4095
+3. Observer : J.Roy,Mathew
+4. Observer's Email : mathew@ncra.tifr.res.in,ygupta@ncra.tifr.res.in
+5. Project Name : Pulsar observartion
+6. Project Code : 15RTA01
+7. Operator(s) : Deepak,
+	Jayprakash,
+	
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /rawdata/18dec/15rta01_18dec2008.lta,
+	/rawdata1/18dec/15rta01_18dec2008.ltb
+10. LogFlag File : /btemp2/logflags/15RTA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 325 MHz ,RF2 : 325 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 255 MHz, ILO2 : 255 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+12 dB, 32 MHz,OFF, IF-CH2 : 24+12 dB, 32 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 325 325 255 255 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C04 - Servo problem.
+W03 : Not tracking source.
+
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 04:00 - 08:10
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : Indian Polar    *********
+--------------------------------------------
+
+
+07:24 : phasing on 0837-198
+07:28 : Started scan on B1039-19
+08:10 : Observation finished.
+

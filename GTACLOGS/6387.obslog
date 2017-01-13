@@ -1,0 +1,97 @@
+		 GTAC Observation Log 
+
+1. Date : 19/2/2013
+2. Observation Sr. No. : 6387
+3. Observer : Sandip Sirothia, Ishwar Chandra
+4. Observer's Email : sirothia@ncra.tifr.res.in,ishwar@ncra.tifr.res.in
+5. Project Name :  Candidate High-redshift Radio Galaxies: Compact ultra-steep-spectrum sources from TGSS
+6. Project Code : 23_066
+7. Operator(s) : Navanath,
+	Pramod,
+	Rupsingh,
+	
+8. Command File : /odisk/gtac/cmd/sirothia/23_066_20130219a.cmd,
+	/odisk/gtac/cmd/sirothia/23_066_20130219b.cmd,
+	/odisk/gtac/cmd/sirothia/23_066_20130219c.cmd,
+	/odisk/gtac/cmd/sirothia/23_066_20130219d.cmd,
+	/odisk/gtac/cmd/sirothia/23_066_20130219e.cmd,
+	/odisk/gtac/cmd/sirothia/23_066_20130219f.cmd,
+	
+9. LTA File : /gsbifrdata/19feb/23_066_19feb2013.lta
+10. LogFlag File : /odisk/online1/logflags/23_001.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+12 dB, 32 MHz,ON, IF-CH2 : 10+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : IA
+19. Beam - 2 : PA
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 306 306 255 255 51 51.
+25. Integration Time : 2.013 Sec.
+26. No of Antennas Working(Fringing) :27
+
+27. Name of Non-Working Antennas (with reason for each) :
+C04:Taken for maintenance.
+W02:BLDC
+C03:MCM 5 time out.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 20:20 - 06:19
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+    # 2S data file #
+  /gsbifrdata1/19feb/23_066_19feb2013_2s.lta
+------------------------------------------------------------------------
+22:20 : Started set up of 325MHz.
+........................................................................................................................
+  * Selection of antenna in GAC *
+               IA
+In IA : Total Antenna=27
+C00 C01 C02  C05 C06 C08  C09 C10 C11 C12 C13 C14 W01 W03 W04 W05 W06 E02 E03 E04 E05 E06 S01 S02 S03 S04 S06
+ 
+
+               PA
+In PA : Total antenna=12
+C00 C01 C02 C05 C06 C08 C09  C10 C11 C12 C13 C14
+........................................................................................................................
+
+22:42 : Phasing done on 3C147.
+22:46 : Started scan on 3C147.
+23:01 : Stopped scan on 3C147 and started following command file.
+        '/odisk/gtac/cmd/sirothia/23_066_20130219a.cmd'
+00:24 : Stopped command file and started following file.
+        '/odisk/gtac/cmd/sirothia/23_066_20130219b.cmd'
+Note :  Target source 'T1402-08'and 'T1402-09' is not taken because they get set.
+00:56 : Stopped command file and started following command file.
+        'odisk/gtac/cmd/sirothia/23_066_20130219c.cmd'
+02:09 : Stopped command file and started follwong command file.
+         'odisk/gtac/cmd/sirothia/23_066_20130219d.cmd'
+03:03 : S01 ABC time out.Hence restarted command file by removing S01 from GAC.
+03:28 : Stopped command file and started following command file.
+        'odisk/gtac/cmd/sirothia/23_066_20130219e.cmd'
+03:41 : S01 start working .Hence added in GAC.
+04:47 : Stopped command file and started following command file.
+        'odisk/gtac/cmd/sirothia/23_066_20130219f.cmd'
+05:59 : Stopped command file.
+06:04 : Started scan on 3C286.
+06:19 : Stopped scan on 3C286 and observation session is over.
+
+
+
+
+

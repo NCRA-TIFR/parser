@@ -1,0 +1,56 @@
+		 GTAC Observation Log 
+
+1. Date : 09/07/2006
+2. Observation Sr. No. : 2708
+3. Observer : S. Pal
+4. Observer's Email : spal@ncra.tifr.res.in
+5. Project Name : J1745-3009
+6. Project Code : 10SHA01
+7. Operator(s) : Deepak,
+	Sachin,
+	
+8. Command File : /btemp2/cmd/spal/13jun06gcrt.cmd
+9. LTA File : /rawdata/9jul/10sha01_9jul06.lta,
+	/rawdata1/9jul/10sha01_9jul06.ltb
+10. LogFlag File : /btemp2/logflags/10SHA01.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+17 dB, 32 MHz,OFF, IF-CH2 : 14+16 dB, 6 MHz,OFF
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, OFF
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+W05 - 130 low IF.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 19:30 - 23:30
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+******** IF Attn : AUTHIF @ 610 MHz *********
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+---------------------------------------------
+19:58 : Started scan on 3C286 for 8 mins.
+20:16 : Statrted command file.
+23:30 : Observation session over.
+

@@ -1,0 +1,70 @@
+		 GTAC Observation Log 
+
+1. Date : 18/08/2003
+2. Observation Sr. No. : 1102
+3. Observer : Dr. Ishwar Chandra
+4. Observer's Email : ishwar@ncra.tifr.res.in
+5. Project Name : GRS1915
+6. Project Code : 04JSY01
+7. Operator(s) : Deepak,
+	Mangesh,
+	Jayprakash,
+	Jitendra,
+	
+8. Command File : /btemp2/cmd/ishwar/grs1915.cmd
+9. LTA File : /rawdata/18aug/04jsy01_grs1915.lta,
+	/rawdata1/18aug/04jsy01_grs1915.ltb
+10. LogFlag File : /btemp2/logflags/04JSY01.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1280 MHz ,RF2 : 1280 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1210 MHz, ILO2 : 1210 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+4 dB, 32 MHz,ON, IF-CH2 : 4+4 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1280 1280 1210 1210 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+USB :-
+S03 : Ch. 130 no frine.
+W03 : Ch. 130 no fringe.
+LSB :-
+S03 : Ch. 130 no fringe.
+
+21. Start and End Time of Obs.(IST): 17:57 - 02:23
+
+22. Comments (During Observations) :
+*******ONLINE RUNNING ON BHASKAR *****
+IF ATTN- authif @1280 MHz.
+-----------------------------------------------
+
+17:57 : Started scan on 3c286 for 15min.
+17:59 : C05 started giving flat band shape.
+18:24 : Started command file /temp2/data/cmd/ishwar/grs1915.cmd.
+18:58 : Ran corr_config.
+19:00 : C05 started working.
+XX:XX : C05 flat band shape.
+21:47 : ran corr_config.
+22:16 : W02-LSB- Flat band shape.
+        (* Source is at transit , manually tracking.)
+22:40 : Scan Stopped,corr_config run.
+        C05 applied -afl flag for Az. 
+22:48 : phase cal scan started.
+22:54 : scan stopped.
+22:59 : Command file started.
+23:18 : C05 flat band shape(USB).
+23:38 : C05 recovered after running corr_config.
+24:53 : W02 flat band shape(USB)
+25:05 : After runnng corr_config C05 & W02 recovered.
+25:58 : Command file stopped.
+26:08 : Started scan on 3C48 for 15mins.
+26:23 : Stopped observation session
+

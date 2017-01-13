@@ -1,0 +1,68 @@
+		 GTAC Observation Log 
+
+1. Date : 08/08/2006
+2. Observation Sr. No. : 2767
+3. Observer : NGK
+4. Observer's Email : ngk@ncra.tifr.res.in
+5. Project Name : ugc1378
+6. Project Code : 10MDA01
+7. Operator(s) : Deepak,
+	Jayprakash,
+	Jitendra,
+	
+8. Command File : /btemp2/cmd/ngk/ugc1378.cmd
+9. LTA File : /rawdata/8aug/10mda01_08aug06.lta,
+	/rawdata1/8aug/10mda01_08aug06.ltb
+10. LogFlag File : /btemp2/logflags/10MDA01.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1280 MHz ,RF2 : 1280 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1210 MHz, ILO2 : 1210 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1280 1280 1210 1210 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+C09 - Servo Poblem.
+S03, S04 & S06 ABC. T.O.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 01:30 - 10:45
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+******** IF Attn : AUTHIF @ 1280 MHz *********
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+---------------------------------------------
+01:39 : Stated phasing. [ Note- Scan#1 is used for phasing]
+01:48 : Stared scan on 3C48 for 15mins.
+02:07 : Started command file
+        /btemp2/cmd/ngk/ugc1378.cmd
+04:25 : Antennas C00,C01,C02,C05,C06,C08,C12 showing ABC time out.
+04:40 : Antennas C00,C01,C02,C05,C06,C08,C12 started working.
+10:07 : Command file stopped.
+10:08 : Phase cal scan started for 4m.
+10:16 : Flux calibrator scan started on 3C147
+10:45 : Scan stopped and project over.
+
+
+

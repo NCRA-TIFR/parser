@@ -1,0 +1,55 @@
+		 GTAC Observation Log 
+
+1. Date : 28/12/2007
+2. Observation Sr. No. : 3519
+3. Observer : J. Roy
+4. Observer's Email : jroy@ncra.tifr.res.in
+5. Project Name : pulsar obs.
+6. Project Code : 13JRB01
+7. Operator(s) : Deepak,
+	
+8. Command File : /atemp2/cmd/hold.cmd
+9. LTA File : /rawdata/28dec/13jrb01_28dec2007.lta,
+	/rawdata1/28dec/13jrb01_28dec2007.ltb
+10. LogFlag File : /atemp2/logflags/13JRB01.FLAGS.16
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,OFF, IF-CH2 : 4+12 dB, 32 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+--
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 09:00 - 15:00
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : aditya   ********* 
+******** Corr Mode : IndianPolar    *********
+---------------------------------------------
+
+
+09:21 : Started phasing on 3C286.
+09:40 : wide-band phasing done on 1822-096.
+09:48 : Started scan on 1804-08.
+10:40 : wide-band phasing done on 1822-096.
+10:41 : Started scan on G21.5-0.9.
+12:25 : settings changed to 235MHz.( tpa 244 244 310 310 66 66)
+12:40 : Started phasing on 1830-360.
+
+13:27 : started scan on G21.5-0.9
+
+

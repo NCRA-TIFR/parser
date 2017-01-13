@@ -1,0 +1,64 @@
+		 GTAC Observation Log
+
+1. Date : 10/01/2016
+2. Observation Sr. No. : 8319
+3. Observer : Rocco Coppejans, sjoert vanvelzen, David Cseh, Sandor Frey, Cornelia Mueller, Wendy Williams, Heino Falcke, Elmar Koerding, Huib T Intema
+4. Observer's Email : rocco.coppejans@gmail.com, s.vanvelzen@astro.ru.nl, d.cseh@astro.ru.nl, frey@sgo.fomi.hu, cornelia.mueller@astro.uni-wuerzburg.de, wwilliams@strw.leidenuniv.nl, h.falcke@astro.ru.nl, elmar@koerding.eu, intema@strw.leidenuniv.nl
+5. Project Name : Low-frequency spectral turnovers of high-redshift AGN.
+6. Project Code : 29_007
+7. Operator(s) : Navnath, Rupsing
+8. Command File : /odisk/gtac/cmd/29_007/09jan16/obs.cmd
+9. LTA File : /gsbifrdata1/09jan/29_007_09jan2016_8s.lta
+10. LogFlag File : /odisk/online1/logflags/29_007.FLAGS.10
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 218 MHz, ILO2 : 218MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 16.666666 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 138
+28. LO5 -2  : 167
+
+29. Frequency Parameters (TPA) : 156 156 218 218 62 62
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :28
+
+32. Name of Non-Working Antennas (with reason for each) :
+C03 :  : ABC Time out.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 09 Jan 2016 22:00:00 - 10 Jan 2016 00:00:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :28
+
+37. Comments (During Observations) :
+21:15:00 : Started setup.
+21:30:00 : Started cmd file.
+  
+     /odisk/gtac/cmd/29_007/09jan16/obs.cmd
+ 
+21:39:14 : Started scan on 3C48 for ~ 12.6165 min.
+22:01:57 : Started scan on J0210+0018 for ~ 90.5969 min.
+23:36:21 : Started scan on 3C147 for ~ 9.9321 min.
+23:51:01 : Started scan on J0210+0018 for ~ 8.72414 min.
+00:00:00 : Stopped command file and observation session over.
+

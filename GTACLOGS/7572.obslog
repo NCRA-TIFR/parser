@@ -1,0 +1,104 @@
+		 GTAC Observation Log
+
+1. Date : 26/01/2015
+2. Observation Sr. No. : 7572
+3. Observer :  Ramesh Bhat, Poonam Chandra, Evan Keane
+4. Observer's Email : ramesh.bhat@curtin.edu.au, poonam@ncra.tifr.res.in, evan.keane@gmail.com
+5. Project Name : Shadowing the Parkes high time resolution survey with GMRT
+6. Project Code : 27_062
+7. Operator(s) : Nilesh, Pramod, Shilpa
+8. Command File : /odisk/gtac/cmd/27_062/january/26jan15.list
+9. LTA File : /gsbifrdata/26jan/27_062_26jan2015.lta
+10. LogFlag File : /odisk/online1/logflags/27_062.FLAGS.11,/odisk/online1/logflags/27_062.FLAGS.10
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 317 MHz ,RF2 : 317 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 16 MHz,OFF, IF-CH2 : 24+4 dB, 16 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 4
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 16.666666 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 138
+28. LO5 -2  : 167
+
+29. Frequency Parameters (TPA) : 317 317 255 255 62 62
+30. Integration Time : 2.0132 Sec
+31. No of Antennas Working(Fringing) at the beginning :28
+
+32. Name of Non-Working Antennas (with reason for each) :
+W04 : Taken for mechanical work.
+E04 : Taken for BLDC work.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 26 Jan 2015 05:00:00 - 26 Jan 2015 12:00:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :23
+
+37. Comments (During Observations) :
+05:00 : Started set up.
+05:20 : Power equalized at 250 counts on 3C286 and halt the GSB.
+05:32:14 : Started scan on 3C286 for ~ 4.66402 min.
+05:56:01 : Started scan on 1737+063 for ~ 5.06667 min.
+06:01:51 : Started scan on J1713+0747 for ~ 5.77131 min.
+06:21:05 : Started scan on G035.2-00.0 for ~ 9.89847 min.
+06:31:34 : Started scan on G035.1+00.2 for ~ 8.9254 min.
+07:17:49 : Started scan on 1316-336 for ~ 7.58323 min.
+07:28:03 : Started scan on J1337-44 for ~ 7.71745 min.
+07:36:52 : Started scan on J1421-4410 for ~ 10.4018 min.
+07:48:18 : Started scan on 1501-396 for ~ 5.83842 min.
+07:57:43 : Started scan on 2011-067 for ~ 5.23444 min.
+08:10:05 : Started scan on G040.4-13.0 for ~ 0.40265 min.
+08:12:50 : Started scan on G040.4-13.0 for ~ 9.12672 min.
+08:22:10 : Started scan on G040.3-12.8 for ~ 8.85829 min.
+08:31:10 : Started scan on G041.3-14.0 for ~ 9.3616 min.
+08:40:45 : Started scan on G041.4-14.2 for ~ 9.42871 min.
+08:52:23 : Started scan on G040.8-15.6 for ~ 9.56293 min.
+09:02:26 : Started scan on G040.9-15.8 for ~ 9.32805 min.
+09:12:59 : Started scan on 2011-067 for ~ 6.10685 min.
+09:20:22 : Started scan on G039.9-14.4 for ~ 0.201325 min.
+09:21:56 : Started scan on G039.9-14.4 for ~ 8.08655 min.
+09:30:36 : Started scan on G039.9-18.9 for ~ 9.63004 min.
+09:40:37 : Started scan on G040.0-19.1 for ~ 0.939516 min.
+09:42:10 : Started scan on G039.9-14.4 for ~ 0.369095 min.
+09:42:42 : Started scan on G040.0-19.1 for ~ 9.32805 min.
+09:52:27 : Started scan on G039.0-17.9 for ~ 9.79781 min.
+10:02:34 : Started scan on G040.2-19.1 for ~ 9.79781 min.
+10:13:00 : Started scan on G037.9-25.4 for ~ 9.7307 min.
+10:23:09 : Started scan on G038.1-25.6 for ~ 9.66359 min.
+10:33:34 : Started scan on G038.2-25.7 for ~ 0.838853 min.
+10:35:06 : Started scan on 2011-067 for ~ 6.71083 min.
+10:42:57 : Started scan on G038.4-25.9 for ~ 9.56293 min.
+10:53:10 : Started scan on G040.7-28.2 for ~ 8.5563 min.
+11:02:43 : Started scan on G040.8-28.4 for ~ 9.42871 min.
+11:12:40 : Started scan on G035.4-29.6 for ~ 9.32805 min.
+11:23:26 : Started scan on G006.5-29.4 for ~ 6.5095 min.
+
+11:30 : ELECTRICAL POWER RESET IN ALL ANTENNAS.
+
+11:58 : Consider SCAN NO. 35 AS a BAD SCAN.
+
+C01,W01,W03,E06,S06 : Servo problems after Electrical reset.
+
+12:09:18 : Started scan on 2011-067 for ~ 4.99957 min.
+12:17:36 : Started scan on 2101-423 for ~ 4.99957 min.
+12:25:13 : Started scan on 1822-096 for ~ 5.40222 min.
+12:31:38 : Started scan on J1754+0036 for ~ 15.6362 min.
+
+12:48 : Stopped observation session.

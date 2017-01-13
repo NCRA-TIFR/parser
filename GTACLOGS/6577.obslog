@@ -1,0 +1,76 @@
+		 GTAC Observation Log 
+
+1. Date : 29/6/2013
+2. Observation Sr. No. : 6577
+3. Observer : Ben Stappers,Vishal R Gajjar,Patrick Weltevrede,Geoffrey Wright
+4. Observer's Email : Ben.Stappers@manchester.ac.uk,gajjar@ncra.tifr.res.in,Patrick.Weltevrede@atnf.csiro.au,G.Wright@sussex.ac.uk
+5. Project Name : Nulling properties of individual profile components 
+6. Project Code : 23_058
+7. Operator(s) : Deepak,Navanath,Sachin,
+8. Command File : 
+9. LTA File : /gsbifrdata/29jun/23_058_29jun2013.lta,
+10. LogFlag File : /odisk/online1/logflags/23_058.FLAGS.7,
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 14 dB, SA2 :  dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : Realtime 
+15. GSB LTA : 8 
+16. GSB CTRL : ONLINE 
+17. GSB Fstop : ON 
+18. GAIN EQ : ON 
+19. Stokes : TotIntensity
+20. Beam - 1 : OFF
+21. Beam - 2 : OFF
+22. ACQ BW : 33.33 MHz
+23. Final BW : 33.333333 MHz; Step # 0
+24. Maximum Channels : 256 
+25. Channel Numbers : 0:255:1 
+26. LO5 -1  : 149.00 
+27. LO5 -2  : 156.00 
+28. Frequency Parameters (TPA) : 306 306 255 255 51 51.
+29. Integration Time : 16.106112 Sec.
+30. No of Antennas Working(Fringing) :27
+
+31. Name of Non-Working Antennas (with reason for each) :
+E05 : BLDC work.
+W05 : No fringe.
+S01-130 : very low fringe.
+
+
+32. Note for Backup :
+
+33. Start and End Time of Obs.(IST): 23:00 - 08:00
+
+34. ONLINE Machine : 
+
+35. Comments (During Observations) :
+23:00 : Started setup.
+23:15 : Started power eq at 300 count on 3C286.
+23:30 : Started phasing.
+23:35 :  phasing done.
+
+23:33:39 : Started scan on 3C286 for ~ 10.2005 min.
+23:44:55 : Started scan on 3C286 for ~ 4.5634 min.
+23:56:06 : Started scan on 1941-154 for ~ 0.805306 min.
+23:57:16 : Started scan on 1941-154 for ~ 2.41592 min.
+00:00:11 : Started scan on 1941-154 for ~ 1.34218 min.
+00:02:48 : Started scan on B2045-16 for ~ 9.1268 min.
+00:14:01 : Started scan on B2045-16 for ~ 118.648 min.
+02:14:27 : Started scan on 1941-154 for ~ 0.805306 min.
+02:15:45 : Started scan on 1941-154 for ~ 0.805306 min.
+02:18:11 : Started scan on B2045-16 for ~ 119.185 min.
+04:20:26 : Started scan on 1941-154 for ~ 1.34218 min.
+04:22:04 : Started scan on 1941-154 for ~ 0 min.
+04:24:13 : Started scan on B2045-16 for ~ 119.991 min.
+06:27:07 : Started scan on 2137-207 for ~ 1.34218 min.
+06:28:40 : Started scan on 2137-207 for ~ 1.34218 min.
+06:31:02 : Started scan on B2045-16 for ~ 38.9231 min.
+07:13:00 : Source set and closed observation session.
+
+

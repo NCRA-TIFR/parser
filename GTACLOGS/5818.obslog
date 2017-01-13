@@ -1,0 +1,56 @@
+		 GTAC Observation Log 
+
+1. Date : 12/2/2012
+2. Observation Sr. No. : 5818
+3. Observer : Sjoert van Velzen
+4. Observer's Email : s.vanvelzen@astro.ru.nl
+5. Project Name : Exploring high-redshift radio quasars at low frequencies
+6. Project Code : 21_013
+7. Operator(s) : Manisha,
+	Santaji,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/21_013/svv_obs_dual.cmd
+9. LTA File : /gsbifrdata/12feb/21_013_12feb2012.lta
+10. LogFlag File : /odisk/online1/logflags/21_013.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 629 MHz ,RF2 : 253 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 680 MHz, ILO2 : 304 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+12 dB, 32 MHz,ON, IF-CH2 : 10+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : OFF 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 629 253 680 304 51 51.
+25. Integration Time : 2.013 Sec.
+26. No of Antennas Working(Fringing) :30
+
+27. Name of Non-Working Antennas (with reason for each) :
+--
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 05:00 - 09:00
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+2s lta file
+/gsbifrdata1/12feb/21_013_12feb2012_2s.lta
+------------------------------------------------
+05:00 : Setup started.
+05:18 : Command file started.
+08:17 : S04 taken for painting.
+08:53 : S03 taken for painting.
+09:00 : Stopped command file and observing session over.
+

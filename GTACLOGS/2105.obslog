@@ -1,0 +1,57 @@
+		 GTAC Observation Log 
+
+1. Date : 05/07/2005
+2. Observation Sr. No. : 2105
+3. Observer :  Nazirah Jetha,Somak Raychaudhary
+4. Observer's Email : nnj@star.sr.bham.ac.uk
+5. Project Name :  FOSSIL CAL.G
+6. Project Code : 08HKA01
+7. Operator(s) : Sachin,
+	Santaji,
+	
+8. Command File : /atemp2/cmd/nnj/njetha.cmd
+9. LTA File : /rawdata/5jul/08hka01_5jul05.lta,
+	/rawdata1/5jul/08hka01_5jul05.ltb
+10. LogFlag File : /atemp2/logflags/08HKA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1390 MHz ,RF2 : 1390 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1320 MHz, ILO2 : 1320 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 32 MHz,ON, IF-CH2 : 12+12 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1390 1390 1320 1320 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :25
+
+20. Name of Non-Working Antennas (with reason for each) :
+C01- No fringe.
+C08- servo problem.
+C11- No fringe.
+S04- No fringe.
+W02- LSB no fringe.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 19:50 - 23:26
+
+23. Comments (During Observations) :
+*********  ONLINE ADITYA ********
+********* AUTH IF @ 1390 MHz. ***
+---------------------------------
+20:07 	scan started on 3c286.
+20:26 	command file started.
+	
+	'/temp2/data/cmd/nnj/njetha.cmd'
+23:07   stopped command file.
+23:11   started scan on 3C286 for 15 mins.
+23:26   stopped scan & closed observation.
+
+

@@ -1,0 +1,50 @@
+		 GTAC Observation Log 
+
+1. Date : 17/04/2004
+2. Observation Sr. No. : 1466
+3. Observer : CBA
+4. Observer's Email : chrisb@phys.unsw.edu.au
+5. Project Name : E+A_2135+6
+6. Project Code : 05CBA01
+7. Operator(s) : Mangesh,
+	
+8. Command File : /btemp2/cmd/cba/qso_1450.cmd
+9. LTA File : /rawdata/16apr/05cba01_qso_1450.lta,
+	/rawdata1/16apr/05cba01_qso_1450.ltb
+10. LogFlag File : /btemp2/logflags/05CBA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1034.31 MHz ,RF2 : 1034.31 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 970 MHz, ILO2 : 970 MHz, IVLO1 : 64.31 MHz, IVLO2 : 64.31 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+10 dB, 32 MHz,ON, IF-CH2 : 10+10 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1034.31 1034.31 970 970 64.31 64.31 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+C13 : LO unlock.
+
+
+21. Start and End Time of Obs.(IST): 00:13 - 01:57
+
+22. Comments (During Observations) :
+*** ONLINE: bhaskar ***
+*** AUTHIF: 1060 MHZ, ALC ON **
+--------------------------------------------
+
+00:13 : Started a bp scan on  3c286 for 15 minutes.
+00:35 : Started the command file
+            /btemp2/cmd/cba/qso_1450.cmd.
+01:50 : Stopped the command file and the scan.
+01:51 : Started a scan on phase cal for 5 minutes.
+01:57 : Stopped the scan and closed the file.
+
+

@@ -1,0 +1,59 @@
+		 GTAC Observation Log 
+
+1. Date : 30/5/2013
+2. Observation Sr. No. : 6520
+3. Observer : Yelena Stein
+4. Observer's Email : stein@astro.rub.de
+5. Project Name : Remarkable tidal dwarf galaxy candidate in the halo of NGC 4634
+6. Project Code : 24_003
+7. Operator(s) : Navanath,
+	Rupsingh,
+	Surender
+8. Command File : /odisk/gtac/cmd/24_003/24_003_30may2013.cmd
+9. LTA File : /gsbifrdata1/30may/24_003_30may2013_2s.lta,
+	/gsbifrdata/30may/24_003_30may2013.lta
+10. LogFlag File : /odisk/online1/logflags/24_003.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1408.8835 MHz ,RF2 : 1408.8835 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1350 MHz, ILO2 : 1350 MHz , IVLO1 : 58.8835 MHz, IVLO2 : 58.8835 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 6 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 16 MHz
+21. Maximum Channels : 512 
+22. IFBW (MHz) : LO5 (KHz) : Custom :- 6 : 141.1165 - 163.8835
+23. Final Bandwidth (MHz): 4 MHz; Step # 2
+
+24. Frequency Parameters (TPA) : 1408.8835 1408.8835 1350 1350 58.8835 58.8835.
+25. Integration Time : 2.013 Sec.
+26. No of Antennas Working(Fringing) :28
+
+27. Name of Non-Working Antennas (with reason for each) :
+E03 : BLDC work.
+W03 : Intermittent fringe.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 17:25 - 02:00
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+17:25 : Started set up.
+17:34 : Started scan on 3C286 for ~ 15.3008 min.
+17:51 : Started command file.
+20:00 : W05 not working.
+01:49 : Started scan on 3C286 for 15min.
+02:05 : Observing session over.
+---------------------------------------------------------
+
+
+

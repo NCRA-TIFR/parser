@@ -1,0 +1,85 @@
+		 GTAC Observation Log 
+
+1. Date : 21/07/2008
+2. Observation Sr. No. : 3882
+3. Observer : J H Croston
+4. Observer's Email : J.H.Croston@herts.ac.uk
+5. Project Name : REXCESS
+6. Project Code : 14JHC01
+7. Operator(s) : Deepak,
+	Nilesh,
+	Rupsingh,
+	Sachin,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/14jhc01/21jul_lst20.cmd,
+	/odisk/gtac/cmd/14jhc01/21jul_lst00.cmd,
+	/odisk/gtac/cmd/14jhc01/21jul_lst0430.cmd,
+	/odisk/gtac/cmd/14jhc01/21jul_lst9.cmd,
+	/odisk/gtac/cmd/14jhc01/21jul_lst1330.cmd
+9. LTA File : /rawdata/21jul/14jhc01_21jul2008.lta,
+	/rawdata1/21jul/14jhc01_21jul2008.ltb,
+	/rawdata/21jul/14jhc01_21jul2008.lta.1,
+	/rawdata1/21jul/14jhc01_21jul2008.ltb.1
+10. LogFlag File : /btemp2/logflags/14JHC01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+C10 - Not fringing in USB-175 and in LSB-130
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 00:25 - 03:55
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+00:27 : Started scan on 3C468.1 for 15 mins.
+00:54 : Started first command file.
+04:51 : Stopped first command file and started 
+second one.
+07:42 : W06 not tracking to source.
+07:51 : W06 Started tracking.
+07:58 : W06 not tracking to source.
+08:05 : W06 started tracking
+09:05 : Command file stopped.
+09:06 : Started next command file.
+11:37 : W06 not tracking to source.
+11:40 : W06 Started tracking.
+12:11 : W06 not tracking to source.
+12:25 : W06 Started tracking.
+13:33 : Stopped command file.
+13:34 : Started scan on 0739+016 for 5min.
+13:36 : W03 servo timeout.
+13:41 : Stopped scan.
+13:45 : Started scan on 3C147 for 10min.
+13:56 : Stopped scan.
+14:06 : 21jul_lst9.cmd command file started.
+18:10 : Stopped command file.
+18:12 : New data file created.
+18:17 : Started new command file.
+22:34 : Stopped command file.
+22:35 : Started phase scan on 1445+099.
+22:40 : Stopped scan.
+22:47 : Started new command file.
+03:30 : Stopped command file.
+03:39 : Started scan on 3C48 for 15 mins.
+03:55 : Stopped scan and closed session.
+--------------------------------------------
+

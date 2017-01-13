@@ -1,0 +1,69 @@
+		 GTAC Observation Log
+
+1. Date : 08/05/2015
+2. Observation Sr. No. : 7768
+3. Observer : Mayuresh Surnis, BHAL CHANDRA JOSHI, Maura Ann McLaughlin, Duncan Ross Lorimer, Fernando Camilo, Andrew Lyne, Ben Stappers
+4. Observer's Email : mpsurnis@ncra.tifr.res.in, bcj@ncra.tifr.res.in, maura.mclaughlin@mail.wvu.edu, duncan.lorimer@gmail.com, fernando@astro.columbia.edu, agl@jb.man.ac.uk, Ben.Stappers@manchester.ac.uk
+5. Project Name : Radio Imaging Studies of Intermittent Pulsars
+6. Project Code : 28_023
+7. Operator(s) : Pramod
+8. Command File : /odisk/gtac/cmd/bcj/28_023.080515.cmd
+9. LTA File : /gsbifrdata/08may/28_023_08may2015.lta.1,/gsbifrdata/08may/28_023_08may2015.lta
+10. LogFlag File : /odisk/online1/logflags/28_023.FLAGS.6,/odisk/online1/logflags/28_023.FLAGS.5
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : PA
+22. Beam - 2 : PA
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 591 591 540 540 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :27
+
+32. Name of Non-Working Antennas (with reason for each) :
+C10 : No fringe.
+C13 : 130 pole jumping (Remove from GAC)
+W03 : MCM 5 continuously on.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 08 May 2015 04:00:00 - 08 May 2015 06:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :23
+
+37. Comments (During Observations) :
+GAC : All central Sq.(Except C10 and 130 pole of C13)+W01+S01+E02
+
+03:00 : Started set up.
+03:30 : Power equalized (200 counts) and phasing done on 1822-096.
+03:38 : Started command file.
+
+       '/odisk/gtac/cmd/bcj/28_023.080515.cmd'
+
+06:23 : Fringe vanishes to C04,C05,C06 and C08 antennas for 175 pole and also observed buffer loss in GSB acq. window.Hence remove from GAC.
+06:27 : Halt the GSB and restarted.
+But, problem didn't solve.
+07:00 : Started new command file.
+      'odisk/gtac/cmd/bcj/3c48.cmd'
+07:10 : Stopped command file and observation session is over.

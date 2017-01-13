@@ -1,0 +1,55 @@
+		 GTAC Observation Log 
+
+1. Date : 17/07/2008
+2. Observation Sr. No. : 3875
+3. Observer : APR
+4. Observer's Email : pramesh@ncra.tifr.res.in
+5. Project Name : G338
+6. Project Code : 13GDA01
+7. Operator(s) : Rupsingh,
+	Sanjay,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/13gda01/gda.cmd
+9. LTA File : /rawdata/17jul/13gda01_17jul2008.lta,
+	/rawdata1/17jul/13gda01_17jul2008.ltb
+10. LogFlag File : /btemp2/logflags/13GDA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1280 MHz ,RF2 : 1280 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1210 MHz, ILO2 : 1210 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1280 1280 1210 1210 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+-
+21. Note for Backup :
+-
+
+22. Start and End Time of Obs.(IST): 18:30 - 00:15
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+18:30 : Started observation setting.
+18:48 : Started observation scan on 3C286.
+19:08 : MSEB power failure.
+19:19 : MSEB power resumed.
+19:33 : restarted the observation and started
+        the command file.
+23:57 : Stopped cmd file,
+00:00 : 1830-360 started for BP cal.
+00:15 : Stoped cal, closed observation.
+
+

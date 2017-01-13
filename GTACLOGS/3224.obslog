@@ -1,0 +1,78 @@
+		 GTAC Observation Log 
+
+1. Date : 25/06/2007
+2. Observation Sr. No. : 3224
+3. Observer : Dave Green
+4. Observer's Email : dag@mrao.cam.ac.uk
+5. Project Name : Deep Field
+6. Project Code : 12DAG01
+7. Operator(s) : Deepak,
+	Jayprakash,
+	Jitendra,
+	Manisha,
+	Nilesh,
+	Sachin,
+	
+8. Command File : /btemp2/cmd/dag/12dag01-il3.cmd,
+	/btemp2/cmd/dag/12dag01-vv3.cmd
+9. LTA File : /rawdata/25jun/12dag01_25jun2007.lta,
+	/rawdata1/25jun/12dag01_25jun2007.ltb,
+	/rawdata/25jun/12dag01_25jun2007.lta.1,
+	/rawdata1/25jun/12dag01_25jun2007.ltb.1
+10. LogFlag File : /btemp2/logflags/12DAG01.FLAGS.5,
+	/btemp2/logflags/12DAG01.FLAGS.6
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+4 dB, 32 MHz,ON, IF-CH2 : 16+4 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C11 - Feed Not focused.
+S06 - ABC T.O. (OPF Cut).                   
+E03 - USB Bad-baselines:
+      E03-C13,C14,W-arm                
+W01-USB-130 Low fringe count.
+
+
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 09:31 - 00:22
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : Indian Polar Mode *********
+--------------------------------------------
+09:31 : Started the scan on 3c48 for 15min.
+09:46 : Stopped the scan.
+09:52 : Started the command file.
+NOTE : Please note for scan no. 2 there is a difference 
+between lta files and ltb files records because of 
+disk failure of mithuna, mithuna missed records for scan no. 2.
+Afterwords it started working fine.
+
+16:01 : Command file stopped.
+16:12 : Started scan on 3C286 for 15mins.
+16:28 : Scan stopped, Started new lta files.
+16:30 : Started scan on 3C286 for 15mins.
+16:50 : Started command file
+         /btemp2/cmd/dag/12dag01-vv3.cmd
+24:00 : Command file stopped.
+24:01 : Phase cal scan started.
+24:09 : Scan stopped.
+24:11 : Flux cal scan started on 3C286 source.
+24:22 : Scan stopped. Project over.
+

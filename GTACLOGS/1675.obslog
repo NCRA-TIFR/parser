@@ -1,0 +1,61 @@
+		 GTAC Observation Log 
+
+1. Date : 20/09/2004
+2. Observation Sr. No. : 1675
+3. Observer : Prof.K.R. Subramanian,G.A.Shanmugha Sundaram
+4. Observer's Email : subra@iiap.res.in,visitor6@gmrt.ncra.tifr.res.in
+5. Project Name : Dual Frequency SUN Observation
+6. Project Code : 06KRS01
+7. Operator(s) : Jitendra,
+	Sanjay,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/krs/sun_dual.cmd
+9. LTA File : /rawdata/20sep/06krs01_sun_dual_16s.lta,
+	/rawdata1/20sep/06krs01_sun_dual_16s.ltb
+10. LogFlag File : /btemp2/logflags/06KRS01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 32 MHz,ON, IF-CH2 : 18+18 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+W05 : no fringe.
+
+
+21. Start and End Time of Obs.(IST): 09:08 - 17:35
+
+22. Comments (During Observations) :
+***ONLINE running on bhaskar***
+***IF attn : Authif at 610-235 with ALCS on ****
+----------------------------------------
+
+09:08 	setup started.
+09:34 	scan started on 3c147
+09:57 	command file started.
+
+********** 2 sec integ lta file are **********
+
+/rawdata/20sep/06krs01_sun_dual_2s.lta*
+/rawdata1/20sep/06krs01_sun_dual_2s.ltb*
+
+***********************************************
+15:51 : wind high, parked antennas.
+16:31 : wind slowed down, but S-arm antenna power failed.
+        Restarted cmd file.
+17:09 : Stopped cmd file.
+17:15 : Started record on 3c286.
+17:35 : Stopped 3c286,closed observation.
+

@@ -1,0 +1,75 @@
+		 GTAC Observation Log 
+
+1. Date : 08/12/2012
+2. Observation Sr. No. : 6260
+3. Observer : Susanta Kumar Bisoi
+4. Observer's Email : susanta@prl.res.in,jerry@prl.res.in
+5. Project Name : Synthesis Imaging Using Simultaneous GMRT and NRH Observations at 150 MHz
+6. Project Code : 23_006
+7. Operator(s) : Sachin,
+	Shilpa,Pramod,Surender
+	
+8. Command File : /odisk/gtac/cmd/jerry/08dec12.cmd
+9. LTA File : /gsbifrdata/08dec/23_006_08dec2012_16s.lta
+10. LogFlag File : /odisk/online1/logflags/23_006.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 218 MHz, ILO2 : 218 MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 16 MHz,OFF, IF-CH2 : 24+4 dB, 16 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 2 
+16. GAIN EQ : OFF 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 16 MHz
+21. Maximum Channels : 128 
+22. IFBW (MHz) : LO5 (KHz) : 16:138000-167000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 156 156 218 218 62 62.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :26
+
+27. Name of Non-Working Antennas (with reason for each) :
+C14 : Servo problem.
+E02 : No fringe.
+W05 : Mech. maintenance.
+W02 : Electrical problem.
+
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 09:00 - 17:02
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+08:40 : Started settings.
+0.5s and 2s Data Files :
+/gsbifrdata1/08dec/23_006_08dec2012_0.5s.lta,
+/gsbifrdata1/08dec/23_006_08dec2012_2s.lta
+----------------------------------------------------------------------
+09:00 : Power equilised on 3C286 @ 400counts.
+
+09:04 : Started scan on 3C286.
+09:20 : Stopped scan.
+
+        C08 taken for painting.
+09:30 : Started scan on 1822-096.
+09:36 : Stopped scan.
+
+09:38 : '/odisk/gtac/cmd/jerry/08dec12.cmd' command file started.
+10:10 : C09 taken for maintenance.
+11:13 : C09 released for observation session.
+12:20 : S01 taken for BLDC work.
+12:53 : C14 started working.
+16:36 : Stopped command file .
+16:46 : Started scan on 3C48.
+17:02 : Stopped scan on 3C48 & observation session is over.
+
+

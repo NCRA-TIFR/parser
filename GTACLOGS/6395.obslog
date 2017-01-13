@@ -1,0 +1,67 @@
+		 GTAC Observation Log 
+
+1. Date : 25/2/2013
+2. Observation Sr. No. : 6395
+3. Observer : Dharam Vir Lal
+4. Observer's Email : dharam@ncra.tifr.res.in
+5. Project Name : Identifying Possible Steep-spectrum Radio Counterparts to Unidentified Fermi-LAT Gamma-ray Sources
+6. Project Code : 23_026
+7. Operator(s) : Deepak,
+	Sachin,
+	Shilpa,
+	
+8. Command File : /odisk/gtac/cmd/dharam/23_026_25feb13.cmd
+9. LTA File : /gsbifrdata/25feb/23_026_25feb2013_8s.lta
+10. LogFlag File : /odisk/online1/logflags/23_026.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 629 MHz ,RF2 : 253 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 680 MHz, ILO2 : 304 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 629 253 680 304 51 51.
+25. Integration Time : 8.053 Sec.
+26. No of Antennas Working(Fringing) :25
+
+27. Name of Non-Working Antennas (with reason for each) :
+C04 : Servo motor changing and counter weight rectification.
+W02 : BLDC work.
+C10 : 175pol no fringe.
+W04 : 130pol fringe fluctuation.
+W05 : 130pol fringe fluctuation.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 00:06 - 10:00
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+06:00 : Started settings.
+06:17 : Started scan on 3C286.
+06:32 : Stopped scan.
+
+06:39 : '/odisk/gtac/cmd/dharam/23_026_25feb13.cmd' command file started.
+06:44 : E-arm power failed.
+07:00 : E02 ABC time out.
+07:25 : E-arm started working except E02.
+09:00 : C09 taken for painting.
+09:04 : C06 & C12 taken for painting.
+09:45 : C02 taken for painting.
+09:55 : Command file stopped.
+10:03 : Started scan on 3C468.1 
+10:17 : Stopped scan on 3C468.1 and closed observation session.
+

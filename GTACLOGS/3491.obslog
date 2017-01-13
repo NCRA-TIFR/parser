@@ -1,0 +1,52 @@
+		 GTAC Observation Log 
+
+1. Date : 10/12/2007
+2. Observation Sr. No. : 3491
+3. Observer : Ue Li Pen
+4. Observer's Email : pen@cita.utoronto.ca
+5. Project Name : EoR
+6. Project Code : 13PUL01
+7. Operator(s) : Nilesh,
+	Sachin,
+	
+8. Command File : /atemp2/cmd/hold.cmd
+9. LTA File : /rawdata/10dec/13pul01_10dec2007.lta,
+	/rawdata1/10dec/13pul01_10dec2007.ltb
+10. LogFlag File : /atemp2/logflags/13PUL01.FLAGS.8
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 218 MHz, ILO2 : 218 MHz, IVLO1 : 62 MHz, IVLO2 : 62 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+4 dB, 16 MHz,OFF, IF-CH2 : 16+4 dB, 16 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 156 156 218 218 62 62 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+(E02,E03,W05,W06)X(C04,C05,C06,C08)
+bad baselines in LSB.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 22:00 - 07:37
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Aditya   ********* 
+******** Corr Mode :USbPolar *********
+----------------------------------------
+22:27 : Checked fringes, but found 
+(E02,E03,W05,W06)X(C04,C05,C06,C08)
+bad baselines in LSB. Hence done corr init and 
+corr reconf.
+22:37 : Problem was persisting. Started recording
+on the source.
+07:37 : OBserving session over.
+

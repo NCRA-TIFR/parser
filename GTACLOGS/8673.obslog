@@ -1,0 +1,65 @@
+		 GTAC Observation Log
+
+1. Date : 21/06/2016
+2. Observation Sr. No. : 8673
+3. Observer : Neeraj Gupta, Raghunathan Srianand, Rajeshwari Dutta, Patrick Petitjean, Pasquier Noterdaeme
+4. Observer's Email : ngupta@iucaa.in, anand@iucaa.in, rdutta@iucaa.in, ppetitje@iap.fr, noterdaeme@iap.fr
+5. Project Name : Search for HI 21-cm absorption in outer disks/halos of Local Volume Galaxies
+6. Project Code : 30_071
+7. Operator(s) : Pramod, Rupsing, Surender
+8. Command File : /odisk/gtac/cmd/30_071/21jun16/obs.cmd
+9. LTA File : /gsbifrdata1/21jun/30_071_21jun2016.lta
+10. LogFlag File : /odisk/online1/logflags/30_071.FLAGS.10
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1412.7501 MHz ,RF2 : 1412.7501 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1350 MHz, ILO2 : 1350MHz , IVLO1 : 62.7501 MHz, IVLO2 : 62.7501 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 4 MHz; Step # 1
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 137.2499
+28. LO5 -2  : 167.7501
+
+29. Frequency Parameters (TPA) : 1412.7501 1412.7501 1350 1350 62.7501 62.7501
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :28
+
+32. Name of Non-Working Antennas (with reason for each) :
+C11 : BLDC.
+C12 : BLDC.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 21 Jun 2016 01:00:00 - 21 Jun 2016 09:29:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :27
+
+37. Comments (During Observations) :
+01:12 : Started scan on 3C286.
+01:25 : Stopped scan.
+01:30 : Started command file.
+---------------------------------------------------------------------------
+03:36 : S04 Servo problem.
+05:38 : Fringe problem of C05 antenna. 
+06:35 : S04 Started working.
+---------------------------------------------------------------------------
+09:09 : Stopped command file.
+09:12 : Started scan on 3C48.
+09:29 : Stopped scan and observing session is over.

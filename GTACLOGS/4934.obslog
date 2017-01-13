@@ -1,0 +1,96 @@
+		 GTAC Observation Log 
+
+1. Date : 28/06/2010
+2. Observation Sr. No. : 4934
+3. Observer : Neeraj Gupta
+4. Observer's Email : nrjgupta@gmail.com
+5. Project Name : MG1623
+6. Project Code : 18_044
+7. Operator(s) : Deepak,
+	Navanath,
+	Sachin,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/neeraj/mg1623.cmd,
+	/odisk/gtac/cmd/neeraj/mg2358.cmd
+9. LTA File : /rawdata/28jun/18_044_28jun2010.lta,
+	/rawdata1/28jun/18_044_28jun2010.ltb,
+	/rawdata/28jun/18_044_28jun2010.lta.1,
+	/rawdata1/28jun/18_044_28jun2010.ltb.1
+10. GSB File : /gsbifrdata1/28jun/18_044_28jun2010_gsb.lta.1,
+	/gsbifrdata1/28jun/18_044_28jun2010_gsb.lta.2
+11. LogFlag File : /odisk/online1/logflags/18_044.FLAGS.2
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 607.8335 MHz ,RF2 : 607.8335 MHz, SA1 : 0 dB, SA2 : 0 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 67.8335 MHz, IVLO2 : 67.8335 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 6 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+15. BB BW(KHz) & BB ALC : 500 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 607.8335 607.8335 540 540 67.8335 67.8335 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+C05 : phase jumps.(GHB+GSB).
+C11 : freq. applying brake.
+S01 : No fringe.
+W04 : servo problem.
+
+
+21. Note for Backup :--
+
+22. Start and End Time of Obs.(IST): 17:30 - 10:00
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+# GSB settings:
+Line freq=608.0835 MHz.
+Final Band width=2  ( 2.08333325 ) MHz.
+LO1=540 MHz. (lower)
+LO5=133MHz, 172MHz.
+step=0
+
+----------------------------------------------------
+17:41 : Started scan on 3C286.
+17:12 : Started command file
+        /odisk/gtac/cmd/neeraj/mg1623.cmd
+
+19:30 : W04 started working.
+
+21:13 : Command file stopped.
+21:22 : Started scan on 3C286 for 10mins.
+21:39 : Restarted command file.
+00:35 : scan started on 3c286 for 10mins.
+00:49 : restarted command file.
+02:30 : stopped the command file and changed the 
+        setup.
+---------------------------------------
+tpa 653.5860 585 68.5860.
+BB = 0.25 MHz.
+GSB step = # 6 ( lo5 = 133,172)
+New record files started.
+---------------------------------------
+02:41 : scan started on 3c48.
+02:57 : command file started.
+
+05:55 : scan started on 3c48.
+06:10 : command file restarted.
+09:30 : Command file stopped.
+09:33 : Started scan on phase cal.
+09:43 : Started scan on 3c48 for 10min.
+10:00 : Observation session over.
+
+
+
+
+
+

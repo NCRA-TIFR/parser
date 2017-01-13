@@ -1,0 +1,74 @@
+		 GTAC Observation Log 
+
+1. Date : 24/12/2010
+2. Observation Sr. No. : 5157
+3. Observer : Somak Raychaudhury
+4. Observer's Email : ejos@star.sr.bham.ac.uk,somak@star.sr.bham.ac.uk
+5. Project Name : CLOGS
+6. Project Code : 19_008
+7. Operator(s) : Deepak,
+	Rupsingh,
+	
+8. Command File : /odisk/gtac/cmd/somak/19_008_24dec_s3s4.cmd
+9. LTA File : /rawdata/24dec/19_008_24dec2010.lta,
+	/rawdata1/24dec/19_008_24dec2010.ltb,
+	/rawdata/24dec/19_008_24dec2010_4s.lta,
+	/rawdata1/24dec/19_008_24dec2010_4s.ltb
+10. GSB File : /gsbifrdata/24dec/19_008_24dec2010_gsb.lta,
+	/gsbifrdata/24dec/19_008_24dec2010_4s_gsb.lta
+11. LogFlag File : /odisk/online1/logflags/19_008.FLAGS.1
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+15. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+GHB Settings :
+16. GHB Channels : 0:127:1
+17. Correlator Mode : IndianPolar
+18. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+GSB Settings :
+19. Maximum Channels : 512 
+20. Final Bandwidth (MHz): OFF MHz; Step # 0
+21. IFBW : LO5(KHz) : 32:149000-156000 MHz
+22. Stokes : Total_Intensity
+23. Beam - 1 : OFF
+24. Beam - 2 : OFF
+
+25. Integration Time : 128 LTA ~ 16.908 Sec.
+26. No of Antennas Working(Fringing) :27
+
+27. Name of Non-Working Antennas (with reason for each) :
+E02 : 175 pole no fringe(GHB+GSB).
+W03 : 130 pole no fringe(GHB+GSB)
+C03 : fringe fluctuations.[only GHB]
+C10 : Freq. ABC reset.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 19:00 - 07:00
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+19:13 : Stared scan on 3C48.
+19:28 : Stopped scan.
+19:33 : Started command file
+        '/odisk/gtac/cmd/somak/19_008_24dec_s3s4.cmd'01:04 : Command file stopped.
+01:05 : Started scan on 3C48 for 5mins.
+01:14 : Started scan on NGC1060 for 30mins.
+01:47 : Started scan on 0432+416 for 5mins.
+01:53 : Started scan on NGC978.
+02:20 : Started scan on 0432+416 for 5mins.
+02:30 : Started command file
+        /odisk/gtac/cmd/somak/19_008_24dec_s5.cmd
+
+06:40 : Command file stopped.
+06:47 : Started scan on 3C286.
+07:00 : Observation stopped.
+
+

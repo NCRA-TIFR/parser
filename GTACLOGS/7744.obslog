@@ -1,0 +1,86 @@
+		 GTAC Observation Log
+
+1. Date : 27/04/2015
+2. Observation Sr. No. : 7744
+3. Observer : Ue Li Pen, Robert Main,Marten H vanKerkwijk, John Antoniadis ,Keith Vanderlinde ,Yashwant Gupta ,Maxim Lyutikov ,Jean-Pierre Macquart ,Franz Kirsten 
+
+
+4. Observer's Email : pen@cita.utoronto.ca, main@astro.utoronto.ca, mhvk@astro.utoronto.ca, robamain1@gmail.com, ygupta@ncra.tifr.res.in
+5. Project Name : Separating the Sources of the Robert Main Crab\'s Enigmatic Radio Emission \r\n
+6. Project Code : 28_055
+7. Operator(s) : Shilpa
+8. Command File : /odisk/gtac/cmd
+9. LTA File : /gsbifrdata/27apr/28_055_27apr2015.lta
+10. LogFlag File : /odisk/online1/logflags/28_055.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 602 MHz ,RF2 : 602 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 16 MHz,ON, IF-CH2 : 4+14 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 16.666666 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 138
+28. LO5 -2  : 167
+
+29. Frequency Parameters (TPA) : 602 602 540 540 62 62
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :28
+
+32. Name of Non-Working Antennas (with reason for each) :
+S03 : 175pol Strong RFI lines.
+W03 : PC104 installation.
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 27 Apr 2015 18:00:00 - 27 Apr 2015 21:04:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :28
+
+37. Comments (During Observations) :
+18:00 : Started settings.
+18:20 : Settings done.
+19:00 : Recorded data on B0531+21 for 5min, but it shows buffer loss.
+19:30 : Due to buffer loss, rebooted all node and rebooted the switches.
+20:00 : Recording again gives an error 
+
+8 -- (SHM) buffers lost for RANK 0 for ITR 2045
+CURREC = 8046 SHM_CUR_REC = 8051 CURBLOCK = 6 COUNT = 2045
+#WRITE 0 2045                                    34 ms
+#WRITE 0 2045                                    42 ms
+$DEMUX 0 2045   57 ms
+#WRITE 0 2045                                    500 ms
+#WRITE 0 2045                                   753 ms
+CURREC = 8047 SHM_CUR_REC = 8054 CURBLOCK = 7 COUNT = 2046
+#WRITE 0 2046                                    41 ms
+#WRITE 0 2046                                    42 ms
+$DEMUX 0 2046   58 ms
+#WRITE 0 2046                                    479 ms
+#WRITE 0 2046                                   761 ms
+8 -- (SHM) buffers lost for RANK 0 for ITR 2047
+CURREC = 8056 SHM_CUR_REC = 8057 CURBLOCK = 0 COUNT = 2047
+#WRITE 0 2047                                    67 ms
+#WRITE 0 2047                                    70 ms
+$DEMUX 0 2047   59 ms
+#WRITE 0 2047                                    413 ms
+#WRITE 0 2047                                   825 ms
+
+20:22 : Restarted recording on B0531+21.
+20:54 : At the end again it gives buffer loss.
+20:56 : Restarted recording on B0531+21.
+21:04 : Stopped recording and observing session over.

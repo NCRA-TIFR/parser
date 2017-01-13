@@ -1,0 +1,63 @@
+		 GTAC Observation Log
+
+1. Date : 04/01/2015
+2. Observation Sr. No. : 7537
+3. Observer : Neeraj Gupta, Pasquier Noterdaeme, Rajeshwari Dutta, Raghunathan Srianand, Patrick Petitjean, hadi Rahmani
+4. Observer's Email : ngupta@iucaa.ernet.in, noterdae@iap.fr, rdutta@iucaa.ernet.in, anand@iucaa.ernet.in, ppetitje@iap.fr, hadi@iucaa.ernet.in
+5. Project Name : HI 21-cm absorption follow-up of DLAs from SDSS BOSS
+6. Project Code : 27_054
+7. Operator(s) : Surender
+8. Command File : /odisk/gtac/cmd/27_054_s1/obs.cmd
+9. LTA File : /gsbifrdata/03jan/27_054_03jan2015_s2.lta,/gsbifrdata/03jan/27_054_03jan2015.lta
+10. LogFlag File : /odisk/online1/logflags/27_054.FLAGS.3,/odisk/online1/logflags/27_054.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 321.8518 MHz ,RF2 : 321.8518 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 257 MHz, ILO2 : 257MHz , IVLO1 : 64.8518 MHz, IVLO2 : 64.8518 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 6 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 2 MHz; Step # 2
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 135.1482
+28. LO5 -2  : 169.8518
+
+29. Frequency Parameters (TPA) : 321.8518 321.8518 257 257 64.8518 64.8518
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :26
+
+32. Name of Non-Working Antennas (with reason for each) :
+E04 : : BLDC Work.
+W04 : : Mechanical Work.
+W01 : : Servo time-out.
+S03 : : Freq applying  brakes.
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 03 Jan 2015 23:40:00 - 04 Jan 2015 08:00:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :26
+
+37. Comments (During Observations) :
+23:35 : Started set-up.
+23:43 : Started scan on 3C147.
+00:01 : Started command file.
+ '/odisk/gtac/cmd/27_054_s1/obs.cmd'
+07:48 : Stopped command fule.
+07:50 : Started scan on 3C286.
+08:00 : Stopped scan and observation session is over.
+

@@ -1,0 +1,63 @@
+		 GTAC Observation Log 
+
+1. Date : 17/3/2012
+2. Observation Sr. No. : 5888
+3. Observer : Huib Intema
+4. Observer's Email : hintema@nrao.edu
+5. Project Name :  Follow-up on the Merging Galaxy Cluster Abell 2146
+6. Project Code : 12DT009
+7. Operator(s) : Manisha,
+	Navanath,
+	Sachin,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/intema/17mar2012/cmdfile.cmd
+9. LTA File : /gsbifrdata/17mar/12dt009_17mar2012.lta
+10. LogFlag File : /odisk/online1/logflags/12DT009.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 629 MHz ,RF2 : 629 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 680 MHz, ILO2 : 680 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 629 629 680 680 51 51.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :30
+
+27. Name of Non-Working Antennas (with reason for each) :
+C03-175 Strong RFI line.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 01:00 - 10:00
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+2s data file :-
+/gsbifrdata1/17mar/12dt009_17mar2012_2s.lta
+--------------------------------------------
+01:02 : Started scan on 3C286 for 20 min.
+01:25 : Started command file.
+ 
+/odisk/gtac/cmd/intema/17mar2012/cmdfile.cmd
+
+08:05 : W03 taken for painting.
+09:32 : Stopped command file.
+09:36 : Started scan on 3C48.
+09:49 : E-arm power failed.
+
+10:00 : Stopped scan and observing session over.
+

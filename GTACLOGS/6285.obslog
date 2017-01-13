@@ -1,0 +1,67 @@
+		 GTAC Observation Log 
+
+1. Date : 23/12/2012
+2. Observation Sr. No. : 6285
+3. Observer : Poonam Chandra
+4. Observer's Email : poonam@ncra.tifr.res.in
+5. Project Name : An unbiased census of giant radio halos in clusters of galaxies
+6. Project Code : 23_003
+7. Operator(s) : Deepak,
+	Pramod,
+	Shilpa,
+	
+8. Command File : /odisk/gtac/cmd/poonam/23_003/n4747botfirst.cmd,
+	/odisk/gtac/cmd/poonam/23_003/n4747bot.cmd
+9. LTA File : /gsbifrdata/23dec/23_003_23dec2012.lta
+10. LogFlag File : /odisk/online1/logflags/23_003.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1408.55 MHz ,RF2 : 1408.55 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1345 MHz, ILO2 : 1345 MHz , IVLO1 : 63.55 MHz, IVLO2 : 63.55 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 6 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 16 MHz
+21. Maximum Channels : 512 
+22. IFBW (MHz) : LO5 (KHz) : Custom :- 16 : 136.45 - 168.55
+23. Final Bandwidth (MHz): 4 MHz; Step # 1
+
+24. Frequency Parameters (TPA) : 1408.55 1408.55 1345 1345 63.55 63.55.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :28
+
+27. Name of Non-Working Antennas (with reason for each) :
+S01: Taken for BLDC.
+W05: Taken for MECH. Maintenance.
+
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 00:40 - 07:16
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+00:40 : Started set up for 1390MHz.
+
+00:55 : Started scan on 3C147.
+01:11 : Stopped scan.
+
+01:15 : Started scan on 3C138.
+
+01:45 : Started command file.
+       '/odisk/gtac/cmd/poonam/23_003/n4747botfirst.cmd'
+02:51 : Stopped command file and started another command file.
+        '/odisk/gtac/cmd/poonam/23_003/n4747bot.cmd'
+06:55 : Stopped command file.
+
+06:57 : Started scan on 3C286.
+07:16 : Stopped scan and observing session over.
+

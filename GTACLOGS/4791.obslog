@@ -1,0 +1,65 @@
+		 GTAC Observation Log 
+
+1. Date : 24/02/2010
+2. Observation Sr. No. : 4791
+3. Observer : J. Roy
+4. Observer's Email : jroy@ncra.tifr.res.in
+5. Project Name : Pulsar Observation
+6. Project Code : 17_071
+7. Operator(s) : Manisha,
+	Nilesh,
+	Sachin,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /rawdata/24feb/17_071_24feb2010.lta,
+	/rawdata1/24feb/17_071_24feb2010.ltb
+10. LogFlag File : /odisk/online1/logflags/17_071.FLAGS.12
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+12 dB, 32 MHz,OFF, IF-CH2 : 24+12 dB, 32 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+C01,S02 : No Fringe.
+C14,W05 : servo problem.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 05:45 - 10:09
+
+23. ONLINE Machine : Lenyadri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+05:45 : Started setup.
+05:50 : Started PowerEq on 1822-096.
+06:00 : Started phasing on 1822-096.
+06:49 : Started scan on pulsar 1804-08.
+06:57 : Stopped scan.
+07:01 : Started scan on B1855+09.
+07:21 : Stopped scan.
+07:25 : Started scan on B1859+01.
+07:36 : Stopped scan.
+07:38 : Started scan on B1822-09.
+07:49 : Stopped scan.
+07:57 : Phasing checked on 1822-096.
+07:59 : Started scan on G21.5-0.9.
+08:53 : E04 taken for painting.
+10:01 : Stopped scan.
+10:02 : Started scan on B1818-04.
+10:09 : Stopped scan and observing session over.
+
+

@@ -1,0 +1,66 @@
+		 GTAC Observation Log 
+
+1. Date : 31/08/2010
+2. Observation Sr. No. : 5040
+3. Observer : Sandeep Sirothia, Ishwar
+4. Observer's Email : sirothia@ncra.tifr.res.in,ishwar@ncra.tifr.res.in,ngk@ncra.tifr.res.in
+5. Project Name : Extra Galactic Survey @ 150 MHz Using GMRT
+6. Project Code : 18_031
+7. Operator(s) : Nilesh,
+	Rupsingh,
+	Sachin,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/sirothia/18_031_20100831a.cmd
+9. LTA File : /rawdata/31aug/18_031_31aug2010.lta,
+	/rawdata1/31aug/18_031_31aug2010.ltb,
+	
+10. GSB File : /gsbifrdata/31aug/18_031_31aug2010_gsb.lta,
+	
+11. LogFlag File : /odisk/online1/logflags/18_031.FLAGS.103
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 218 MHz, ILO2 : 218 MHz, IVLO1 : 62 MHz, IVLO2 : 62 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+15. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 156 156 218 218 62 62 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C11,E04 : Servo problems.
+
+21. Note for Backup :--
+
+22. Start and End Time of Obs.(IST): 17:15 - 08:04
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : UsbPolar
+
+25. Comments (During Observations) :
+2s Data Files : 
+/rawdata/31aug/18_031_31aug2010_2s.lta,
+/rawdata1/31aug/18_031_31aug2010_2s.ltb,
+/gsbifrdata1/31aug/18_031_31aug2010_gsb_2s.lta
+--------------------------------------------------
+17:15 : Started setup.
+17:40 : Started scan on 3C286.
+18:54 : Stopped scan.
+19:00 : Started command file.
+06:50 : Stopped command file.
+
+06:54 : Started scan on J0218+4232.
+07:28 : Stopped scan.
+
+07:30 : Started scan on 3C48.
+08:04 : Stopped scan and observing session over.
+
+

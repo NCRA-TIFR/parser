@@ -1,0 +1,75 @@
+		 GTAC Observation Log 
+
+1. Date : 15/04/2004
+2. Observation Sr. No. : 1462
+3. Observer : CBA
+4. Observer's Email : chrisb@phys.unsw.edu.au
+5. Project Name : E+A_2135+6
+6. Project Code : 05CBA01
+7. Operator(s) : Manish G.,
+	Manisha J.,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/cba/e+a_215346.cmd,
+	/btemp2/cmd/cba/e+a_290290.cmd,
+	/btemp2/cmd/cba/gal_to1648.cmd
+9. LTA File : /rawdata/15apr/05cba01_e+a_2153+6.lta,
+	/rawdata1/15apr/05cba01_e+a_2153+6.ltb,
+	/rawdata/15apr/05cba01_e+a_290290.lta,
+	/rawdata1/15apr/05cba01_e+a_290290.ltb,
+	/rawdata/15apr/05cba01_gal_to1648.lta,
+	/rawdata1/15apr/05cba01_gal_to1648.ltb
+10. LogFlag File : /btemp2/logflags/05CBA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1392.07 MHz ,RF2 : 1392.07 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1325 MHz, ILO2 : 1325 MHz, IVLO1 : 67.07 MHz, IVLO2 : 67.07 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+10 dB, 32 MHz,ON, IF-CH2 : 10+10 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1392.07 1392.07 1325 1325 67.07 67.07 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C02 : servo problem.
+C05 : No ele. power.
+
+21. Start and End Time of Obs.(IST): 21:49 - 09:00
+
+22. Comments (During Observations) :
+*** ONLINE: bhaskar ***
+*** IF ATTN : authif (ON) @ 1390 MHZ **
+--------------------------------------------
+
+21:49 : Started BP-cal, 3c286.
+22:05 : Stopped bp-cal.
+22:17 : Started cmd file e+a_215346.cmd
+22:58 : C05 started working.
+23:52 : stopped the command file and record,
+	changed the settings to 
+	LO1 = 1295 MHz.
+        LO4 = 65.8 MHz.
+        tpa 1360.8 1360.8 1295 1295 65.8 65.8
+
+	started the new record files and 
+	command file.
+01:45 : stopped the command file and changed the 
+	settings
+	LO1 = 930 MHz.
+        LO4 = 66.29 MHz.
+        tpa 996.29 996.29 930 930 66.29 66.29
+	new record files started and scan 
+	started on 3c286 for 10 min.
+02:00 	command file started.
+08:15   C06 released for painting.
+08:45   Stopped the command file.
+08:50   Started scan on 3C48.
+09:00   Stopped the scan. Stopped the observation.
+

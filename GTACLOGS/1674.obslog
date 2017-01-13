@@ -1,0 +1,78 @@
+		 GTAC Observation Log 
+
+1. Date : 19/01/2004
+2. Observation Sr. No. : 1674
+3. Observer : Prof. Vasant Kulkarni
+4. Observer's Email : vasant@ncra.tifr.res.in
+5. Project Name : Star forming region
+6. Project Code : 06SKG01
+7. Operator(s) : Jitendra,
+	Sachin,
+	
+8. Command File : /btemp2/cmd/vku/i18507.cmd,
+	/btemp2/cmd/vku/i20178.cmd,
+	/btemp2/cmd/vku/i23116.cmd,
+	/btemp2/cmd/vku/i06117.cmd
+9. LTA File : /rawdata/19sep/06skg01_i18507.lta,
+	/rawdata1/19sep/06skg01_i18507.ltb,
+	/rawdata/20sep/06skg01_i23116.lta,
+	/rawdata1/20sep/06skg01_i23116.ltb
+10. LogFlag File : /btemp2/logflags/06SKG01.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 32 MHz,ON, IF-CH2 : 12+12 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+S01 : 175 MHz no fringe.
+W06 : ABC T.O.
+
+
+21. Start and End Time of Obs.(IST): 14:35 - 09:08
+
+22. Comments (During Observations) :
+***ONLINE running on bhaskar***
+***IF attn : Authif at 610-235 with ALCS on ****
+----------------------------------------
+14:35 : Flux calibrator scan started on 3c286 for 15m
+14:50 : scan stopped.
+15:07 : command file started.
+15:50 : W06 started working.
+17:00 : W05 keep failing and start working after some
+        time automatically.
+19:13 : Stopped cmd file.
+19:20 : started record on 3c286.
+19:31 : Stopped 3c286,
+19:36 : Started cmd file i20178.cmd
+	Record continued in same lta/ltb files.
+22:28 : flat b-shape on E04 & E05-LSB, stopped das,
+        cmd file, corr_config done.
+22:30 : Restarted cmd file., scan# 24 bad.
+00:50 : Stopped the scan & command file.
+00:57 : Started scan on 3c48 for 15min.
+        Started new record file.
+01:14 : Started the command file
+        /btemp2/cmd/vku/i23116.cmd.
+03:57 : Stopped the scan & comand file.
+04:00 : Started scan on 3c48 for 15min.
+04:15 : Stopped the scan.
+04:20 : Started scan on 3c147 for 15min.
+04:35 : Stopped the scan.
+04:48 : Started the command file /btemp2/cmd/vku/i06117.cmd.
+07:03 : command file restarted.
+08:53 : command file stopped.
+08:58 : flux calibrator scan started on 3c147 for 10m
+09:08 : scan stopped and observation over.
+

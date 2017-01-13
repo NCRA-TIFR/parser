@@ -1,0 +1,57 @@
+		 GTAC Observation Log 
+
+1. Date : 08/10/2005
+2. Observation Sr. No. : 2284
+3. Observer : anish roshi
+4. Observer's Email : anish@rri.res.in,ishwar@ncra.tifr.res.in,atish@rri.res.in,dipankar@rri.res.in
+5. Project Name : GRB
+6. Project Code : 08DBA01
+7. Operator(s) : Deepak,
+	
+8. Command File : /atemp2/cmd/ishwar/dba.cmd
+9. LTA File : /rawdata/8oct/08dba01_8oct05.lta,
+	/rawdata1/8oct/08dba01_8oct05.ltb
+10. LogFlag File : /atemp2/logflags/08DBA01.FLAGS.8
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1280 MHz ,RF2 : 1280 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1210 MHz, ILO2 : 1210 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1280 1280 1210 1210 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+C02- fringe fluctuations
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 07:30 - 12:45
+
+23. Comments (During Observations) :
+*** ONLINE ADITYA ***
+*** AUTH IF AT 1280 MHz.**
+--------------------------
+
+*** Phase jumps in almost all antennas **
+
+07:37 : Started scan on 3C147 for 15mins.
+08:22 : Started command file. 
+        /atemp2/cmd/ishwar/dba.cmd
+10:01 : Command file stopped. and changed track.
+10:17 : Started scan on 1125+261 for  6mins.
+10:33 : Started scan on GRB03032 for 30mins.
+10:44 : C05 ABC Time out.
+11:50 : S02 servo problem.
+11:54 : C05 Started tracking.
+12:28 : Started scan on 3C286 for 15mins.
+12:45 : Observation stopped.
+

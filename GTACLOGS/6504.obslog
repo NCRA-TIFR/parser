@@ -1,0 +1,74 @@
+		 GTAC Observation Log 
+
+1. Date : 19/5/2013
+2. Observation Sr. No. : 6504
+3. Observer : Susanta Kumar Bisoi
+4. Observer's Email : susanta@prl.res.in,jerry@prl.res.in
+5. Project Name :  Investigations of Solar Radio Activity and its Association with X-ray Microflares
+6. Project Code : 24_027
+7. Operator(s) : Pramod,
+	Rupsingh,
+	Sachin,
+	
+8. Command File : /odisk/gtac/cmd/jerry/19may13.cmd
+9. LTA File : /gsbifrdata1/19may/24_027_19may13_2s.lta,
+	/gsbifrdata1/19may/24_027_19may13_16s.lta
+10. LogFlag File : /odisk/online1/logflags/24_027.FLAGS.6
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1272 MHz ,RF2 : 1272 MHz, SA1 : 30 dB, SA2 : 30 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1210 MHz, ILO2 : 1210 MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 2 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 16 MHz
+21. Maximum Channels : 128 
+22. IFBW (MHz) : LO5 (KHz) : 16:138000-167000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 1272 1272 1210 1210 62 62.
+25. Integration Time : 2.013 Sec.
+26. No of Antennas Working(Fringing) :26
+
+27. Name of Non-Working Antennas (with reason for each) :
+E03 : BLDC work
+E04 : Servo Work.
+C12 : Low cross amplitude counts.
+E02 : No fringe.
+
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 09:35 - 18:05
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+0.5 sec  recording .ta file is given bellow ,
+
+/gsbifrdata1/19may/24_027_19may13_0.5s.lta 
+-------------------------------------------------------------------------
+09:35:32 - 09:50:18 Recorded data on 3C48
+09:55:40 - 10:02:06 Recorded data on 0521+166
+10:04:31 - 11:05:27 Recorded data on SUN00023
+11:08 : S01 stopped tracking.
+11:08:41 - 11:15:07 Recorded data on 0521+166
+11:17:32 - 12:18:44 Recorded data on SUN00029
+12:21:58 - 12:28:24 Recorded data on 0521+166
+12:29 : Changed track from inner to outer due to sun transit.
+12:48:00 - 13:49:12 Recorded data on SUN00037
+12:57 : C02 ABC time out.
+13:55:39 - 14:02:05 Recorded data on 0521+166 and started command file.
+17:45 : C02 Started working and taken for observation. 
+17:50 : Stooped command file.
+17:53 : Started scan on 3C147.
+18:05 : Stopped scan on 3C147 and observation session is over.
+
+

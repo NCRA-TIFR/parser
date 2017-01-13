@@ -1,0 +1,73 @@
+		 GTAC Observation Log
+
+1. Date : 22/06/2016
+2. Observation Sr. No. : 8674
+3. Observer : Ewan O`Sullivan, Nimisha Kantharia
+4. Observer's Email : eosullivan@cfa.harvard.edu, ngk@ncra.tifr.res.in
+5. Project Name : The origin of the HI trail and ultra-steep radio structure in the NGC 5903/NGC 5898 group
+6. Project Code : 30_020
+7. Operator(s) : Navnath, Nilesh, Rupsing
+8. Command File : /odisk/gtac/cmd/ngk/30_020/obs.cmd
+9. LTA File : /gsbifrdata1/21jun/30_020_21jun2016.lta.1, /gsbifrdata1/21jun/30_020_21jun2016.lta
+10. LogFlag File : /odisk/online1/logflags/30_020.FLAGS.7, /odisk/online1/logflags/30_020.FLAGS.6
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1402 MHz ,RF2 : 1402 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1340 MHz, ILO2 : 1340MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 16 MHz,OFF, IF-CH2 : 4+14 dB, 16 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 0 MHz; Step # 0
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 138
+28. LO5 -2  : 167
+
+29. Frequency Parameters (TPA) : 1402 1402 1340 1340 62 62
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :27
+
+32. Name of Non-Working Antennas (with reason for each) :
+C02 : : Mech Work
+C11 : : BLDC Work
+C12 : : BLDC work
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 21 Jun 2016 18:00:00 - 22 Jun 2016 02:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :27
+
+37. Comments (During Observations) :
+17:30 : Started setup.
+17:45 : Started power eq on 3c286 at 300 counts.
+17:56 : Started scan on 3c286.
+          phase ramp...GSB Chain stopped.
+18:09 : Restarted scan on 3C286. 
+18:25 : Started cmd file.
+
+         /odisk/gtac/cmd/ngk/30_020/obs.cmd
+
+18:45 : S-arm Power failure.
+19:01 : E-arm Power Failure.
+19:19 : Restarted command file. E-arm and S-arm power resumed.
+01:42 : Stopped command file.
+01:48 : Started scan on 3C468.1(3C286 set)
+02:00 : Stopped scan and observation session over.
+
+
+

@@ -1,0 +1,59 @@
+		 GTAC Observation Log 
+
+1. Date : 06/07/2006
+2. Observation Sr. No. : 2700
+3. Observer : Hans
+4. Observer's Email : hrk@astro.ox.ac.uk
+5. Project Name : Hunting down the Cluster Population
+6. Project Code : 10HRK01
+7. Operator(s) : Jitendra,
+	Manish G.,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/hrk/hrkd12.cmd
+9. LTA File : /rawdata/6jul/10hrk01_6jul06.lta,
+	/rawdata1/6jul/10hrk01_6jul06.ltb
+10. LogFlag File : /btemp2/logflags/10HRK01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 608 MHz ,RF2 : 608 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 68 MHz, IVLO2 : 68 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 608 608 540 540 68 68 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+S04 - Servo problem.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 23:10 - 08:37
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode :IndianPolar     *********
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+---------------------------------------------
+23:28 scan started on 3c286.
+23:57 command file started.
+05:50 S01 ABC time out.
+08:13 Command file stopped.
+08:22 Flux calibrator scan started for 10m
+08:37 Scan stopped and project over.
+

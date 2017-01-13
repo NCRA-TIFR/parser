@@ -1,0 +1,43 @@
+		 GTAC Observation Log 
+
+1. Date : 22/12/2002
+2. Observation Sr. No. : 0908
+3. Observer : Dharam Vir Lal
+4. Observer's Email : dharam@ncra.tifr.res.in
+5. Project Name : Dual freq. Obs.
+6. Project Code : 03DVL02
+7. Operator(s) : Sanjay,
+	
+8. Command File : /temp2/data/cmd/dharam/n6109.cmd
+9. LTA File : /rawdata/22dec/03dvl02_n6109.lta
+10. LogFlag File : /temp2/data/logflags/03DVL02.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 244 MHz ,RF2 : 614 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 310 MHz, ILO2 : 680 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 18+18 dB, 6 MHz,ON, IF-CH2 : 10+10 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:63:1
+17. Frequency Parameters (TPA) : 244 614 310 680 66 66 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+C03,C06,W02: P1(235 MHz) no fringe.
+S03 : Servo prob.
+
+21. Start and End Time of Obs.(IST): 04:44 - 00:00
+
+22. Comments (During Observations) :
+04:44 : Started record on 3c286.
+05:12 : Stopped record on 3c286.
+05:33 : Started cmd file /temp2/data/cmd/dharam/n6109.cmd
+07:30 : Power failed. Stopped the scan and
+         observation
+

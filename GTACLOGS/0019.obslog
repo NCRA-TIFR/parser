@@ -1,0 +1,41 @@
+1. Date : 11/01/2002
+2. Observation Sr. No. : 19
+3. Observer & email : V.K.Kulkarni/vasant@ncra.tifr.res.in
+4. Project Name & Code : xclusters/01VKK02
+5. Operator(s) : Mangesh(1),Jprakash(2) & Manish(2).
+6. Command File/Source  & Lta File : /temp2/data/cmd/vkk/j2237.cmd
+                                   : /d3/11jan/01vkk02_2237.lta
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 : 610 MHz., 0 dB., OFF.
+8. Ist LO (MHz) & IVth LO (MHz) : 540 MHz., 70 MHz.
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : 10 + 10 dB., 32 MHz., ON.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status :16 MHz., 0 dB., ON.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 0 / 0
+12. Channels : 0,127,1
+13. Frequency Parameters (TPA) : 610 610 540 540 70 70
+
+14. Integration Time (Sec.) : 16 sec (16*8m)
+15. No of Antennas Working(Fringing) : 28.5
+16. Name of Non-Working Antennas (with reason for each) :
+
+	W04     MCM 5 T. O.
+	W06     130 pol low self, no fringe
+
+17. Starting and Ending time of Observations (IST) : 12:41 - 20:05
+
+18. Comments (During Observations) :
+   
+    12:41  Started the command file /temp2/data/cmd/vkk/j2237.cmd
+    13:54  Stopped the command file and das scan. Moved the antennas
+           to 3c48 for flux calibrator scan.
+    14:00  Started scan on 3c48.
+    14:10  Stopped the scan on 3c48.
+    14:23  Started the command file /temp2/data/cmd/vkk/j2237.cmd
+    16:12  C06 Started giving frnges.
+
+19. Data Backup files & Tape No. :

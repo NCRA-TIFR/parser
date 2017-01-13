@@ -1,0 +1,57 @@
+		 GTAC Observation Log 
+
+1. Date : 26/12/2003
+2. Observation Sr. No. : 1245
+3. Observer : Neeraj Gupta
+4. Observer's Email : neeraj@ncra.tifr.res.in
+5. Project Name : H1_MRC
+6. Project Code : 05NGA02
+7. Operator(s) : Manisha J.,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/neeraj/0253.cmd
+9. LTA File : /rawdata/26dec/05nga02_0253.lta
+10. LogFlag File : /btemp2/logflags/05NGA02.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1274 MHz ,RF2 : 1274 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1205 MHz, ILO2 : 1205 MHz, IVLO1 : 69 MHz, IVLO2 : 69 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 6+6 dB, 6 MHz,ON, IF-CH2 : 4+4 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 4000 KHz, 6 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 2
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1274 1274 1205 1205 69 69 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C12 : Feed jammed.
+C13 : Low fringe.
+W06 : Servo Problem.
+
+
+21. Start and End Time of Obs.(IST): 18:54 - 00:15
+
+22. Comments (During Observations) :
+**** ONLINE ON BHASKAR  ****
+***** AUTHIF @ 1280 MHz ****
+------------------------------
+18:54 : Flux cal scan started on 3C48.
+19:15 : Stopped record 3c48.
+19:26 : W02, applied brakes, -afl limit problem.
+19:27 : Started cmd file 0253.cmd
+20:10 : W06 started working.
+21:34 : Stopped cmd file.
+21:40 : Started record on 3c48.
+22:01 : Stopped record on 3c48.
+22:06 : Restarted cmd file.
+00:01	stopped cmd file.
+00:05	started scan on 3C48 ~ 10mins.
+00:15	stopped das and observation over.
+
+

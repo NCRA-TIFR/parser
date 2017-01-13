@@ -1,0 +1,54 @@
+1. Date : 18/06/2002
+2. Observation Sr. No. : 637
+3. Observer & email :  Minchin, pramesh@ncra.tifr.res.in
+4. Project Name & Code :  1447 @ 1020/01SEA01
+5. Operator(s) : Sanjay, Manisha(2), Mangesh(3)
+6. Command File/Source  & Lta File : /temp2/data/cmd/minchin/1447a.cmd
+                                   : /rawdata/18jun/01sea01_1447.lta
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 :  1060 MHz.,  0 dB., OFF.
+8. Ist LO (MHz) & IVth LO (MHz) : 950 MHz., 70 MHz.  
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : 4+4 dB., 32 MHz., ON.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status : 16 MHz., 0 dB., ON.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 0 / 0 
+12. Channels : 0,127,1 
+13. Frequency Parameters (TPA) : 1020 1020 950 950 70 70
+
+14. Integration Time (Sec.) : 16 sec (16*8m)
+15. No of Antennas Working(Fringing/tracking):27 
+16. Name of Non-Working Antennas (with reason for each) :
+
+	E02		ILO UNLOCK.
+	E04     Painting work.
+	S06     FE problem.
+
+17. Starting and Ending time of Observations (IST) : 17:00-03:57
+	
+18. Comments (During Observations) :
+	17:00	Started scan on 3C286.
+	17:20	Stopped scan on 3C286.
+	17:35	Started command file.
+	17:35	C13 started showing +afl flag in az.
+	17:40	E02 started working.
+	18:40   E04 started tracking.
+	21:00	Scan # 7 bad ( antenna did not reach source)
+	22:16	Stopped command file.
+	22:22	Started das scan on 4U1547.
+	22:50	Stopped scan. antennas moved to 1554-270.
+	22:52	Started scan on 1554-270.
+	23:00	Stopped scan on 1554-270.
+	23:05	Started command file /temp2/data/cmd/minchin/1447a.cmd.
+    01:28   Scan 17, source 1347+122 set, only 7 records on the source.
+    01:30   Started the scan on 1447+09.
+    03:17   Last scan on 1447+09(Scan no. 18) stopped at 03:17 but source
+            was set at 02:20.
+    03:27   Started a scan on 3c48.
+    03:57   Stopped the scan on 3c48. Closed the observation.
+    
+   
+19. Data Backup files & Tape No. :

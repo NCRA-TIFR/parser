@@ -1,0 +1,66 @@
+		 GTAC Observation Log
+
+1. Date : 31/08/2014
+2. Observation Sr. No. : 7322
+3. Observer : Sarita Vig, Anandmayee Tej, Veena V.S., Swarna Kanti Ghosh, C.H. IshwaraChandra, Alvaro Sanchez-Monge
+4. Observer's Email : sarita@iist.ac.in, anandmayee.tej@gmail.com, veenagangothri@gmail.com, swarna@ncra.tifr.res.in, ishwar@ncra.tifr.res.in, sanchez@ph1.uni-koeln.de
+5. Project Name : High resolution radio investigation of early phases in the formation of massive stars
+6. Project Code : 26_043
+7. Operator(s) : Pramod, Rupsing
+8. Command File : /odisk/gtac/cmd/26_043/obs31aug.cmd
+9. LTA File : /gsbifrdata/31aug/26_043_31aug2014.lta
+10. LogFlag File : /odisk/online1/logflags/26_043.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1281 MHz ,RF2 : 1281 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1230 MHz, ILO2 : 1230MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333 MHz
+24. Final BW : 33.333 MHz; Step # 0
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 139
+28. LO5 -2  : 166
+
+29. Frequency Parameters (TPA) : 1281 1281 1230 1230 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :27
+
+32. Name of Non-Working Antennas (with reason for each) :
+C00 : Servo Problem.
+C12 : MCM 5 time out.
+C10 : Low fringe at 130 pole of C10.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 31 Aug 2014 16:00:00 - 31 Aug 2014 21:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :28
+
+37. Comments (During Observations) :
+16:00 : Started set up.
+16:10 : Started scan on 3C286 for 15 min.
+16:30 : Started command file.
+       '/odisk/gtac/cmd/26_043/obs31aug.cmd'
+
+17:23 : C12 Started working.
+20:17 : Stopped command file because of source set early.
+20:22 : Started scan on 3C48.
+21:00 : Stopped scan and observation session is over.
+
+

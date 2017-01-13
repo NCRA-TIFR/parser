@@ -1,0 +1,72 @@
+		 GTAC Observation Log 
+
+1. Date : 05/8/2011
+2. Observation Sr. No. : 5489
+3. Observer : Philip Lah
+4. Observer's Email : philiplah@ncra.tifr.res.in,plah@mso.anu.edu.au
+5. Project Name : The HI gas distribution in post-starburst merger remnants
+6. Project Code : 20_054
+7. Operator(s) : Deepak,
+	Navanath,
+	Sachin,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/philiplah/ea_galaxies.cmd,
+	/odisk/gtac/cmd/philiplah/ea6.cmd
+9. LTA File : /gsbifrdata/05aug/20_054_05aug2011.lta
+10. LogFlag File : /odisk/online1/logflags/20_054.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1402 MHz ,RF2 : 1402 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1340 MHz, ILO2 : 1340 MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 16 MHz
+21. Maximum Channels : 512 
+22. IFBW (MHz) : LO5 (KHz) : 16:138000-167000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 1402 1402 1340 1340 62 62.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :28
+
+27. Name of Non-Working Antennas (with reason for each) :
+C13 : For maintenance.
+C02 : Maintenance.
+C09 : 130 Pol low amplitude.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 10:45 - 21:22
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+10:45 : Started setup
+10:51 : Started scan on 3C147 for 15 min.
+11:06 : Stopped scan.
+
+11:10 : Started command file.
+        /odisk/gtac/cmd/philiplah/ea_galaxies.cmd
+12:36 : C13 Released for observation
+15:53 : Stopped command file.
+
+15:59 : Started scan on 3C286.
+16:15 : Stopped scan.
+
+16:17 : '/odisk/gtac/cmd/philiplah/ea6.cmd' command file started.
+17:18 : C02 started working.
+21:04 : Stopped command file.
+
+21:06 : Started scan on 3C286.
+21:22 : Stopped scan and observing session over.
+
+
+

@@ -1,0 +1,58 @@
+		 GTAC Observation Log 
+
+1. Date : 02/08/2009
+2. Observation Sr. No. : 4445
+3. Observer : Amitesh Omar
+4. Observer's Email : aomar@aries.ernet.in
+5. Project Name :  	HI Imaging of Wolf-Rayet Galaxies
+6. Project Code : 16_281
+7. Operator(s) : Deepak,
+	Manisha,
+	Nilesh,
+	Sachin,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/aomar/2aug.cmd
+9. LTA File : /rawdata/2aug/16_281_02aug2009.lta,
+	/rawdata1/2aug/16_281_02aug2009.ltb
+10. LogFlag File : /odisk/online1/logflags/16_281.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1406.37 MHz ,RF2 : 1406.37 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1335 MHz, ILO2 : 1335 MHz, IVLO1 : 71.37 MHz, IVLO2 : 71.37 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 8000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:128:1
+17. Frequency Parameters (TPA) : 1406.37 1406.37 1335 1335 71.37 71.37 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C02 : 175 pol no fringe.
+S06 : Polarised RFI lines at 175pol.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 12:00 - 20:00
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : UsbHighRes
+
+25. Comments (During Observations) :
+12:00 : Started settings.
+12:13 : Started scan on 3C147.
+12:25 : Stopped scan.
+12:36 : '/odisk/gtac/cmd/aomar/2aug.cmd' command file started.
+14:11 : E04 servo problem.
+16:55 : E04 released for observation and started working.
+19:31 : Stopped command file and stopped scan on source.
+19:32 : Started scan on phase cal.
+19:37 : Stopped scan.
+19:42 : Started scan on 3c286 for 15 min.
+19:58 : Stopped scan and closed observation session.
+

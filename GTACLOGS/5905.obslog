@@ -1,0 +1,63 @@
+		 GTAC Observation Log 
+
+1. Date : 25/4/2012
+2. Observation Sr. No. : 5905
+3. Observer : Ruta Kale
+4. Observer's Email : rkale@ira.inaf.it
+5. Project Name : GMRT Radio Halo Survey
+6. Project Code : 22_029
+7. Operator(s) : Nilesh,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/22_029/22_029_rxcj1504.cmd
+9. LTA File : /gsbifrdata/25apr/22_029_25apr2012.lta
+10. LogFlag File : /odisk/online1/logflags/22_029.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 629 MHz ,RF2 : 253 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 680 MHz, ILO2 : 304 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 629 253 680 304 51 51.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :25
+
+27. Name of Non-Working Antennas (with reason for each) :
+C08 : Electrical Maintenance.
+C10 : Servo Maintenance (BLDC).
+S01 : Servo OFF by Painting Group.
+C09 : 130 Pol Zero self and zero Cross.
+W04 : 130 Pol Zero self and low Cross.
+
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 21:00 - 05:30
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+21:00 : Started settings.
+21:10 : Started scan on 3c147 ~10min.
+21:23 : Started command file.
+01:00 : E04 not working ( servo problem)
+04:35 : stopped the command file and scan started
+        on 3c286.
+04:50 : restarted the command file.
+05:30 : stopped the command file and observation 
+        session over.
+
+

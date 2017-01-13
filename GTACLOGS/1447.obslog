@@ -1,0 +1,60 @@
+		 GTAC Observation Log 
+
+1. Date : 06/04/2004
+2. Observation Sr. No. : 1447
+3. Observer : BCJ
+4. Observer's Email : bcj@ncra.tifr.res.in
+5. Project Name : PULSAR
+6. Project Code : 05BCJ01
+7. Operator(s) : Mangesh,
+	Manish G.,
+	Jitendra,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/hold.cmd
+9. LTA File : /rawdata/6apr/05bcj01_casa_on_off.lta,
+	/rawdata1/6apr/05bcj01_casa_on_off.ltb,
+	/rawdata/6apr/05bcj01_pulsar.lta,
+	/rawdata/6apr/05bcj01_pulsar.lta.1,
+	/rawdata1/6apr/05bcj01_pulsar.ltb,
+	/rawdata1/6apr/05bcj01_pulsar.ltb.1
+10. LogFlag File : /btemp2/logflags/05BCJ01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 32 MHz,OFF, IF-CH2 : 12+12 dB, 32 MHz,OFF
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, OFF
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+C02 : Servo in OFF mode.
+
+21. Start and End Time of Obs.(IST): 05:58 - 20:00
+
+22. Comments (During Observations) :
+*** ONLINE BHASKAR ******
+*** AUTH IF @ 610 MHz. **
+-------------------------
+
+05:58  Antennas are tracking CASA. Started scan on CASA.
+06:03  Antennas moved to 5d off in elevation.
+06:10  Stopped the scan.
+06:18  Antennas moved to 1830-36.
+06:30  Started phasing...
+
+*************************************
+files more that 2 GB ****
+/rawdata/6apr/05bcj01_pulsar.lta.1
+/rawdata1/6apr/05bcj01_pulsar.ltb.1
+*************************************
+

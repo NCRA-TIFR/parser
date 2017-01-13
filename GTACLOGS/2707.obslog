@@ -1,0 +1,63 @@
+		 GTAC Observation Log 
+
+1. Date : 09/07/2006
+2. Observation Sr. No. : 2707
+3. Observer : Hans
+4. Observer's Email : hrk@astro.ox.ac.uk
+5. Project Name :  Hunting down the Cluster Population
+6. Project Code : 10HRK01
+7. Operator(s) : Deepak,
+	Jayprakash,
+	Manish G.,
+	Sachin,
+	
+8. Command File : /btemp2/cmd/hrk/hrkd4.cmd
+9. LTA File : /rawdata/9jul/10hrk01_9jul06.lta,
+	/rawdata1/9jul/10hrk01_9jul06.ltb
+10. LogFlag File : /btemp2/logflags/10HRK01.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 608 MHz ,RF2 : 608 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 68 MHz, IVLO2 : 68 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+17 dB, 32 MHz,ON, IF-CH2 : 14+16 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 608 608 540 540 68 68 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+E04 - MCM-5 time out.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 09:30 - 19:30
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+******** IF Attn : AUTHIF @ 610 MHz *********
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+---------------------------------------------
+10:08 : Started scan on 3C48 for 15 mins.
+10:25 : Started scan on 3C48 for 8 mins.
+10:49 : Started command file.
+11:37 : S-arm power failed.
+13:30 : S-arm started working.
+18:54 : Stopped command file.
+19:02 : Started scan on 3C286 for 22 mins.
+19:25 : Stopped scan on 3C286 and closed project.
+

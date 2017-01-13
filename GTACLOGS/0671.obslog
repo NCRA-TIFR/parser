@@ -1,0 +1,54 @@
+1. Date : 30/06/2002
+2. Observation Sr. No. : 671
+3. Observer & email : DJS , djs@ncra.tifr.res.in
+4. Project Name & Code : "ngc5506 Obs " / 02CGM01
+5. Operator(s) : Jitendra(2), Sanjay(3)
+6. Command File/Source  & Lta File : /temp2/data/cmd/djs/n5506.cmd
+								   : /rawdata/30jun/02cgm01_n5506a.lta
+								   : /rawdata/30jun/02cgm01_n5506a.lta.1
+								   : /rawdata/1jul/02cgm01_ic1623.lta
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 : 1390 MHz., 0 dB., OFF.
+8. Ist LO (MHz) & IVth LO (MHz) : 1340 MHz.,68.20 MHz.
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : 0+0 dB., 16 MHz., ON.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status : 8 MHz., 3 , ON.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 1/1
+12. Channels : 0:127:1
+13. Frequency Parameters (TPA) : tpa 1408.2 1408.2 1340 1340 68.20 68.20
+
+14. Integration Time (Sec.) : 16sec. (16*8m)
+15. No of Antennas Working(Fringing) : 26 + 2*(1/2) = 27
+
+16. Name of Non-Working Antennas (with reason for each) : 
+
+		C01	No fringe
+		S06	ABC T.O.
+        E06 175 poln no fringe.
+        S01 175 poln no fringe.
+
+17. Starting and Ending time of Observations (IST) : 15:13
+18. Comments (During Observations) :
+
+	15:13 	started scan on 3C147
+    15:43   Stopped scan on 3c147.
+    16:15   Started command file /temp2/data/cmd/djs/n5506.cmd.
+    16:35   Scan = 3, 4 bad scan ( Source lists more than 10 in subar)
+    16:40   Started command file /temp2/data/cmd/djs/n5506.cmd.
+    17:21   Scan = 7 bad , tmp 100 %full.
+    18:20   /tmp swap problem ( dhanishtha machine up time is since 6 days)
+            machine rebooted.
+    18:28   command file restarted with new record file.
+ 	00:20   Stopped cmd file
+	00:24   Started das scan on 3c286.     
+   
+    Note: This log also lists the lta file (/rawdata/1jul/02cgm01_ic1623.lta) for 
+          the object IC1623 which was done on 01-07-2002 after NGC5506 has set.
+
+
+19. Data Backup files & Tape No. :
+

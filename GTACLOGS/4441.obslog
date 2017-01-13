@@ -1,0 +1,63 @@
+		 GTAC Observation Log 
+
+1. Date : 31/07/2009
+2. Observation Sr. No. : 4441
+3. Observer : Ishwar Chandra
+4. Observer's Email : ishwar@ncra.tifr.res.in
+5. Project Name : Radio Monitoring of GRB030329 Afterglow
+6. Project Code : 16_266
+7. Operator(s) : Deepak,
+	Jayprakash,
+	Rupsingh,
+	Sachin,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/ishwar/16_266_31jul.cmd
+9. LTA File : /rawdata/31jul/16_266_31jul2009.lta,
+	/rawdata1/31jul/16_266_31jul2009.ltb,
+	/rawdata/31jul/16_266_31jul2009.lta.1,
+	/rawdata1/31jul/16_266_31jul2009.ltb.1
+10. LogFlag File : /odisk/online1/logflags/16_266.FLAGS.2,
+	/odisk/online1/logflags/16_266.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1280 MHz ,RF2 : 1280 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1210 MHz, ILO2 : 1210 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1280 1280 1210 1210 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+E04 : Servo problem.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 08:55 - 20:17
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+08:55 : Started settings.
+09:13 : Started scan on 3C147.
+09:31 : Stopped scan.
+09:41 : '/odisk/gtac/cmd/ishwar/16_266_31jul.cmd' command file started.
+12:00 : Frontend group taken W01.
+12:10 : W01 released.
+14:40 : Due to high wind stopped observation and parked all antennas.
+14:53 : Wind speed looks normal, restarted command file.
+14:58 : Stopped command file due to source transit and fstop was giving error
+        " Ignoring updates ". 
+15:26 : Restarted command file.
+19:59 : Stopped command file.
+20:01 : Started scan on 3C286.
+20:17 : Stopped scan and observation session.
+

@@ -1,0 +1,67 @@
+		 GTAC Observation Log 
+
+1. Date : 12/8/2011
+2. Observation Sr. No. : 5503
+3. Observer : Sumana Nandi
+4. Observer's Email : sumana1981@gmail.com,djs@ncra.tifr.res.in,nsigh@aries.res.in
+5. Project Name : Low-frequency observations of the double-double radio galaxy 3C236 
+6. Project Code : 20_085
+7. Operator(s) : Navanath,
+	Rupsingh,
+	Sachin,
+	
+8. Command File : /odisk/gtac/cmd/20_085/20_085s18.cmd
+9. LTA File : /gsbifrdata/12aug/20_085_12aug2011_8s.lta
+10. LogFlag File : /odisk/online1/logflags/20_085.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 629 MHz ,RF2 : 259 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 680 MHz, ILO2 : 310 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+4 dB, 32 MHz,ON, IF-CH2 : 20+4 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : OFF 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 16 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 16:138000-167000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 629 259 680 310 51 51.
+25. Integration Time : 8.053 Sec.
+26. No of Antennas Working(Fringing) :30
+
+27. Name of Non-Working Antennas (with reason for each) :
+--
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 10:00 - 19:06
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+10:00 : Started setup for 20_085
+10:12 : Started scan on 3C147 for 15min.
+10:28 : Stopped scan.
+10:34 : Started command file.
+10:45 : Stopped observation due to high wind.
+-----------------------------------------------------------------
+10:45:52 SpotWind >= 35.0 kmph : E05 (35.0,1.0), S04 (19.0,35.0) 
+ ### WARNING !!! #### PARK ARRAY : Wind speed high
+-----------------------------------------------------------------
+ ### WIND NORMAL 17:03:17 USE ARRAY
+-----------------------------------------------------------------
+17:04 : Restarted command file.
+17:06 : S-arm power failure. 
+18:43 : S-arm power resumed.
+18:47 : Stopped command file.
+18:51 : Started scan on 3C286.
+19:06 : Stopped scan & observation session over.
+
+

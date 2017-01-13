@@ -1,0 +1,77 @@
+		 GTAC Observation Log 
+
+1. Date : 23/6/2013
+2. Observation Sr. No. : 6568
+3. Observer : ChiranjibKonar,RonaldTaam,Wei-HaoWang
+4. Observer's Email : chiranjib.konar@gmail.com,taam@asiaa.sinica.edu.tw,whwang@asiaa.sinica.edu.tw
+5. Project Name : Which accretion mode is on during quiescent phase of jet activity in AGN?
+6. Project Code : 24_042
+7. Operator(s) : Pramod,Rupsingh,Sachin,Surender
+8. Command File : /odisk/gtac/cmd/konar/rrg-j0927_du.cmd,/odisk/gtac/cmd/konar/rrg-j1436_du.cmd
+9. LTA File : /gsbifrdata/23jun/24_042_23jun2013.lta,/gsbifrdata/23jun/24_042_23jun2013.lta.1,/gsbifrdata1/23jun/24_042_23jun2013_2s.lta,/gsbifrdata1/23jun/24_042_23jun2013_2s.lta.1,
+10. LogFlag File : /odisk/online1/logflags/24_042.FLAGS.3,
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 629 MHz ,RF2 : 253 MHz, SA1 : 0 dB, SA2 :  dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 680 MHz, ILO2 : 304 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : Realtime 
+15. GSB LTA : 8 
+16. GSB CTRL : ONLINE 
+17. GSB Fstop : ON 
+18. GAIN EQ : ON 
+19. Stokes : TotIntensity
+20. Beam - 1 : OFF
+21. Beam - 2 : OFF
+22. ACQ BW : 33.33 MHz
+23. Final BW : 33.333333 MHz; Step # 0
+24. Maximum Channels : 256 
+25. Channel Numbers : 0:255:1 
+26. LO5 -1  : 149.00 
+27. LO5 -2  : 156.00 
+28. Frequency Parameters (TPA) : 629 253 680 304 51 51.
+29. Integration Time : 8.053056 Sec.
+30. No of Antennas Working(Fringing) :24
+
+31. Name of Non-Working Antennas (with reason for each) :
+C02: Servo problem.<br>
+C09: Servo problem.<br>
+C10: 175 pol no fringe.<br>
+W05: No fringe.<br>
+S04: Electrical problem.<br>
+C04: Maintenance.<br>
+
+32. Note for Backup :
+
+33. Start and End Time of Obs.(IST): 09:35 - 02:00
+
+34. ONLINE Machine : 
+
+35. Comments (During Observations) :
+09:35 : Started set up.<br>
+09:43 : Started scan on 3C147.<br>
+10:35 : Started command file.<br>
+11:15 : C04 started working.<br>
+11:30 : C10 taken for maintenance.<br>
+12:52 : C02 & C10 started working.<br>
+12:52 : W05 servo problem.<br>
+-----------------------------------------------------------------------<br>
+16:16 : Stopped command file.<br>
+16:19 : Started scan on 3C147.<br>
+16:34 : Stopped scan on 3C147 and restarted following command file.<br>
+       '/odisk/gtac/cmd/konar/rrg-j0927_du.cmd'<br>
+17:50 : S04 electrical problem has  solved and taken for observation.<br>
+18:00 : Stopped command file.<br>
+-------------------------------------------------------------------------------------------<br>
+18:10 : Started scan on 3C286.<br>
+18:25 : Stopped scan on 3C286 and started following command file.<br>
+        '/odisk/gtac/cmd/konar/rrg-j1436_du.cmd'<br>
+01:40 : command file stopped.<br>
+01:45 : Started scan on 3C468.1 for 15mins.<br>
+02:00 : Observation stopped.<br>
+
+

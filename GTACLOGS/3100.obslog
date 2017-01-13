@@ -1,0 +1,57 @@
+		 GTAC Observation Log 
+
+1. Date : 19/03/2007
+2. Observation Sr. No. : 3100
+3. Observer : Nirupam
+4. Observer's Email : nirupam@ncra.tifr.res.in
+5. Project Name : 0440
+6. Project Code : 07DT007
+7. Operator(s) : Deepak,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/nirupam/0440.cmd
+9. LTA File : /rawdata/19mar/07dt009_0440.lta,
+	/rawdata1/19mar/07dt009_0440.ltb
+10. LogFlag File : /btemp2/logflags/07DT008.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1419.992 MHz ,RF2 : 1419.992 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1355 MHz, ILO2 : 1355 MHz, IVLO1 : 64.992 MHz, IVLO2 : 64.992 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+14. BB BW(KHz) & BB ALC : 500 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:255:1
+17. Frequency Parameters (TPA) : 1419.992 1419.992 1355 1355 64.992 64.992 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+C01 - fringe fluctuation.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 17:00 - 22:00
+
+23. Comments (During Observations) :
+---------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : UsbHighRes   ***********
+---------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+---------------------------------------------
+17:17 : command file started.
+21:53 : Command file stopped.
+21:57 : Started scan on 3C286 for 7mins
+22:10 : Observation stopped.
+
+

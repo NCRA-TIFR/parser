@@ -1,0 +1,43 @@
+1. Date : 29/11/2002
+2. Observation Sr. No. : 0877
+3. Observer : Sarita
+4. Observer's Email : sarita@tifr.res.in,visitor3
+5. Project Name : ORION_1
+6. Project Code : 03SVA01
+7. Operator(s) : Manisha J.,
+	
+8. Command File : /temp2/data/cmd/sarita/orion.cmd
+9. LTA File : /rawdata/29nov/03sva01_orion_1.lta
+
+ANTENNA SETTINGS :
+
+10. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1064 MHz ,RF2 : 1064 MHz, SA1 : 0 dB, SA2 : 0 dB
+11. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 995 MHz, ILO2 : 995 MHz, IVLO1 : 69 MHz, IVLO2 : 69 MHz
+12. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 6+6 dB, 6 MHz,ON, IF-CH2 : 6+6 dB, 6 MHz,ON
+13. BB BW(KHz), BB Gain(dB) & BB ALC : 2000 KHz, 9 dB, ON
+
+CORREATOR SETTINGS :
+
+14. CLK_SEL/Samp_Freq : 3
+15. Channels : 0:127:1
+16. Frequency Parameters (TPA) : 1064 1064 995 995 69 69 
+
+17. Integration Time : 128 STA ~ 16.908 Sec.
+18. No of Antennas Working(Fringing) :28
+
+19. Name of Non-Working Antennas (with reason for each) :
+C00 : low fringe.
+W04 : Maint.
+
+20. Start and End Time of Obs.(IST): 23:38 - 05:00
+
+21. Comments (During Observations) :
+23:38	: started scan on 3C48 for ~ 15mins.
+00:08	: started command file.
+04:34	: stopped command file.
+04:44	: started scan on 3C286 for ~ 15 mins.
+05:00	: stopped obs.
+
+
+
+

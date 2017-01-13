@@ -1,0 +1,64 @@
+		 GTAC Observation Log 
+
+1. Date : 11/12/2006
+2. Observation Sr. No. : 2934
+3. Observer : ishwar@ncra.tifr.res.in,spal@gmrt.ncra.tifr.res.in
+4. Observer's Email : Ishwar
+5. Project Name : deep3
+6. Project Code : 11CHI01
+7. Operator(s) : Jayprakash,
+	Navanath,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/spal/deep3.cmd
+9. LTA File : /rawdata/11dec/11chi01_11dec06.lta,
+	/rawdata/11dec/11chi01_11dec06.lta.1
+10. LogFlag File : /btemp2/logflags/11CHI01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 157 MHz ,RF2 : 157 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 223 MHz, ILO2 : 223 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+4 dB, 6 MHz,ON, IF-CH2 : 12+4 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 8000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 157 157 223 223 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :23
+
+20. Name of Non-Working Antennas (with reason for each) :
+USB :
+C04;175: Unstable phase.
+C11 : No fringe.
+S03: ABC T.O.
+W02 : Unstable phase.
+W05 : no fringe.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 17:00 - 01:00
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+---------------------------------------------
+16:42 : Started scan on 3c48 for 15min.
+16:57 : Stopped the scan.
+17:09 : Started the command file.
+12:36 : Stated scan on 3c147 for 30 min.
+01:06 : Observation session closed.
+
+

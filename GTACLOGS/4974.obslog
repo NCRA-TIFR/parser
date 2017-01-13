@@ -1,0 +1,99 @@
+		 GTAC Observation Log 
+
+1. Date : 22/07/2010
+2. Observation Sr. No. : 4974
+3. Observer : Sandeep Sirothia
+4. Observer's Email : sirothia@ncra.tifr.res.in,ishwar@ncra.tifr.res.in,ngk@ncra.tifr.res.in
+5. Project Name : Extra Galactic Survey @ 150 MHz Using GMRT
+6. Project Code : 18_031
+7. Operator(s) : Amruta,
+	Navanath,
+	Nilesh,
+	Sachin,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/sirothia/18_031_20100722.loop1.cmd,
+	/odisk/gtac/cmd/sirothia/18_031_20100722.loop2to5.cmd
+9. LTA File : /rawdata/22jul/18_031_22jul2010.lta,
+	/rawdata1/22jul/18_031_22jul2010.ltb,
+	
+10. GSB File : /gsbifrdata/22jul/18_031_22jul2010_gsb.lta,
+	
+11. LogFlag File : /odisk/online1/logflags/18_031.FLAGS.74
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 218 MHz, ILO2 : 218 MHz, IVLO1 : 62 MHz, IVLO2 : 62 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+15. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 156 156 218 218 62 62 
+
+18. Integration Time : 16 LTA ~ 2.114 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+C08 : Maintenance.
+E04 : RFI lines @ bingining.
+E06 : ABC Time-out.
+W04 : servo problem.
+21. Note for Backup :--
+
+22. Start and End Time of Obs.(IST): 17:15 - 07:35
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : UsbPolar
+
+25. Comments (During Observations) :
+-------------------------------------------------
+GSB settings : Full Stokes
+               ACQ BW : 16MHz.
+               Final BW : OFF.
+               256 channels.
+-------------------------------------------------
+2s Data Files :
+/rawdata/22jul/18_031_22jul2010_2s.lta,
+/rawdata1/22jul/18_031_22jul2010_2s.ltb,
+/gsbifrdata1/22jul/18_031_22jul2010_2s_gsb.lta,
+-------------------------------------------------
+17:15 : Started setup.
+17:40 : Started scan on 3C286.
+18:00 : RFI @ E04 antenna vanished.
+
+18:11 : Stopped scan.
+18:12 : C08 Released for observation
+
+18:18 : Started command file.
+/odisk/gtac/cmd/sirothia/18_031_20100722.loop1.cmd.
+
+18:47 : Electrical power failure.
+18:55 : Electrical power resumed.
+        Started setup.
+
+Note : scan# 8 to scan#13 are affected by power failure.
+
+19:15 : Setup finished. antennas started working.
+20:49 : C06 ABC time-out.
+
+20:59 : '/odisk/gtac/cmd/sirothia/loop2to5.cmd' command file started.
+
+21:30 : Power glitch.
+        C02,E04 got reset. and most of the antennas applied brakes.
+        scan#48 is bad.
+        C03 and W02 : Servo problems.
+02:35 : S01 abc timeout.
+04:36 : Scan no. 155,156.157 bad.(source set)
+        R57D52,R58D53 are removed from command file.
+06:53 : Stopped command file.
+07:14 : Stated scan on 3c147 for 20min.
+07:35 : Observation session over.
+
+
+
+
+-------------------------------------------------
+

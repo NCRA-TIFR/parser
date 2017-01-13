@@ -1,0 +1,71 @@
+		 GTAC Observation Log
+
+1. Date : 27/09/2015
+2. Observation Sr. No. : 8095
+3. Observer : O.Ivy Wong, Chandreyee Sengupta, Gyula I.G. Józsa, Kevin Schawinski, Karen Masters
+4. Observer's Email : ivy.wong@csiro.au, sengupta.chandreyee@gmail.com, gjozsa@ska.ac.za, kevin.schawinski@phys.ethz.ch, karen.masters@port.ac.uk
+5. Project Name :  Probing the cause of rapid star formation truncation in galaxies
+6. Project Code : 28_086
+7. Operator(s) : Nilesh, Surender
+8. Command File : /odisk/gtac/cmd/28_086/obs1.cmd
+9. LTA File : /gsbifrdata/27sep/28_086_27sep2015.lta
+10. LogFlag File : /odisk/online1/logflags/28_086.FLAGS.6, /odisk/online1/logflags/28_086.FLAGS.5
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1372 MHz ,RF2 : 1372 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1310 MHz, ILO2 : 1310MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 16 MHz,ON, IF-CH2 : 4+14 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 16.666666 MHz; Step # 
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 138
+28. LO5 -2  : 167
+
+29. Frequency Parameters (TPA) : 1372 1372 1310 1310 62 62
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :28
+
+32. Name of Non-Working Antennas (with reason for each) :
+C00 : Painting.
+S02 : BLDC installation
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 27 Sep 2015 09:00:00 - 27 Sep 2015 19:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :27
+
+37. Comments (During Observations) :
+09:00 : Started settings.
+09:16 : Started scan on 3C286 for ~ 11 min.
+09:28 : Started scan on 3C286 for ~ 15 min.
+09:32 : C00 taken for Painting.
+09:44 : Started command file.
+        '/odisk/gtac/cmd/28_086/obs1.cmd'
+
+10:08 : C02 taken for Maintenance.
+10:13 : C03 taken for Painting.
+10:34 : C02 released for observation.
+14:00 : C11 servo problem (not tracking properly).
+14:37 : C11 Not releasing brakes.
+15:00 : C03 released for observation.
+16:40 : C00 released for observation.
+18:40 : Stopped command file.
+18:42 : Started scan on 3C286.
+19:00 : Stopped scan and observing session is over.

@@ -1,0 +1,58 @@
+		 GTAC Observation Log 
+
+1. Date : 29/02/2004
+2. Observation Sr. No. : 1366
+3. Observer : ISHWAR
+4. Observer's Email : ishwar@ncra.tifr.res.in
+5. Project Name : GRS 1915.
+6. Project Code : 04DT020
+7. Operator(s) : Manish G.,
+	Jayprakash,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/ishwar/grs1915.cmd
+9. LTA File : /rawdata/29feb/04dt020_grs1915.lta,
+	/rawdata1/29feb/04dt020_grs1915.ltb
+10. LogFlag File : /btemp2/logflags/04DT020.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 613 MHz ,RF2 : 243 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 67 MHz, IVLO2 : 67 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+10 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 613 243 680 310 67 67 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+W01 : Painting - servo work.
+
+
+21. Start and End Time of Obs.(IST): 18:47 - 13:54
+
+22. Comments (During Observations) :
+*** ONLINE: bhaskar            ***
+*** AUTHIF: @ 610-235 MHz, ALC ON, Power equalise. ***
+----------------------------------
+
+04:05  Started the project 04DT020.
+       Did power equalise.
+04:09  Started scan on 3C286.
+04:22  Stopped the scan. Antennas moved to 1822-096.
+04:32  Started the command file  /temp2/data/cmd/ishwar/grs1915.cmd
+09:14  C06 parked (painting).
+11:15  Found data recording was not on, sacfile was 
+       stopped for upgrading the subarry(@09:20), forgot to start, 
+       cmd file after that, noticed @ 11:15, Started cmd file.
+13:00  Stopped cmd file.
+13:11  Started record on 3c48.
+13:54  Stopped das, stopped observation
+
+

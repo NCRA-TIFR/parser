@@ -1,0 +1,56 @@
+		 GTAC Observation Log 
+
+1. Date : 23/10/2008
+2. Observation Sr. No. : 4003
+3. Observer : R. Srianand
+4. Observer's Email : anand@iucaa.ernet.in
+5. Project Name : Constants
+6. Project Code : 15RSA02
+7. Operator(s) : Deepak,
+	Jayprakash,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/srianand/mg2340.cmd
+9. LTA File : /rawdata/23oct/15rsa02_23oct2008.lta,
+	/rawdata1/23oct/15rsa02_23oct2008.ltb
+10. LogFlag File : /btemp2/logflags/15RSA02.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 601.504 MHz ,RF2 : 601.504 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 530 MHz, ILO2 : 530 MHz, IVLO1 : 71.504 MHz, IVLO2 : 71.504 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 6 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 250 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 601.504 601.504 530 530 71.504 71.504 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+C08 - feed jam
+W03 - servo work.
+C05 - maintenance
+W03,S01 - bad band shapes LSB.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 18:30 - 03:10
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+---------------------------------------------
+18:33 : Started command file.
+19:30 : Started scan on 3C48.
+19:51 : Restarted command file.
+21:51 : Started scan on 3C48 for 10mins.
+22:05 : Restarted command file.
+01:00 : C04  applied brakes.
+03:10 : observation session over.
+

@@ -1,0 +1,41 @@
+1. Date : 27/04/2002
+2. Observation Sr. No. : 547
+3. Observer & email :  Minchin
+4. Project Name & Code :  1447+099/01SEA01
+5. Operator(s) :   Mangesh(2), Jayprakash(2) , Jitendra(3)
+6. Command File/Source  & Lta File : /temp2/data/cmd/minchin/1447.cmd
+                                   : /rawdata/27apr/01sea01_1447.lta
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 :  1060 MHz.,  0 dB., OFF.
+8. Ist LO (MHz) & IVth LO (MHz) : 950 MHz.,  70 MHz.  
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : 4+4 dB., 32 MHz., ON.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status : 16 MHz., 0 dB., ON.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 0 / 0 
+12. Channels : 0,127,1 
+13. Frequency Parameters (TPA) : 1020 1020 950 950 70 70
+
+14. Integration Time (Sec.) : 16 sec (16*8m)
+15. No of Antennas Working(Fringing/tracking):  26
+16. Name of Non-Working Antennas (with reason for each) :
+
+	C03	 Az brake problem
+    C04  MCM 5 T. O.
+    W04  Not tracking
+    E06  No fringe
+
+17. Starting and Ending time of Observations (IST) : 20:06 -
+	
+18. Comments (During Observations) :
+    
+     20:06  Started first scan on 3c147 for 10 minutes.
+     25:04  command file restarted with outer track.
+     05:30  Source set , sacfile stopped and phase cal scan started
+            for 8m.
+	 07:10  started scan on 3c48 for 20 min
+
+19. Data Backup files & Tape No. :

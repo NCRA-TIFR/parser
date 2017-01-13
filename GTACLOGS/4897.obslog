@@ -1,0 +1,62 @@
+		 GTAC Observation Log 
+
+1. Date : 04/06/2010
+2. Observation Sr. No. : 4897
+3. Observer : ekta 
+4. Observer's Email : ekta@ncra.tifr.res.in
+5. Project Name : S1428+457
+6. Project Code : 18_055
+7. Operator(s) : Navanath,
+	
+8. Command File : /odisk/gtac/cmd/ekta/sbs1428+457.cmd
+9. LTA File : /rawdata/4jun/18_055_04jun2010.lta,
+	/rawdata1/4jun/18_055_04jun2010.ltb
+10. GSB File : /gsbifrdata/4jun/18_055_04jun2010_gsb.lta.1
+11. LogFlag File : /odisk/online1/logflags/18_055.FLAGS
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1408.18 MHz ,RF2 : 1408.18 MHz, SA1 : 0 dB, SA2 : 0 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1340 MHz, ILO2 : 1340 MHz, IVLO1 : 68.18 MHz, IVLO2 : 68.18 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+4 dB, 16 MHz,ON, IF-CH2 : 16+4 dB, 16 MHz,ON
+15. BB BW(KHz) & BB ALC : 2000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1408.18 1408.18 1340 1340 68.18 68.18 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+GHB - problem with arm attns - no self no cross
+C01 - Off.
+C03 - phase not stable
+E03 - no fringe
+S01 - mcm time out
+S03 - servo problem
+21. Note for Backup :--
+
+22. Start and End Time of Obs.(IST): 23:00 - 05:00
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+23:00 : Started setup.
+        GHB - problem with arm attns - no self no cross
+00:00 : Started setup for GSB..
+
+         settings :- ASQ bandwidth=16mhz
+                           channal=256
+                     Final bw = 2Mhz
+                     fractional bw=0.375
+00:22 : Started scan on 3c48 for 5 min.
+00:35 : Started command file.
+04:07 : Started scan on 3c48 for 20min
+05:00 : Observing session over.
+
+                 
+

@@ -1,0 +1,75 @@
+		 GTAC Observation Log 
+
+1. Date : 09/2/2013
+2. Observation Sr. No. : 6368
+3. Observer : Marek Jamrozy
+4. Observer's Email : jamrozy@oa.uj.edu.pl,iwan@oa.uj.edu.pl,urb@oa.uj.edu.pl,soida@oa.uj.edu.pl
+5. Project Name : Magnetic field and galaxy interactions - from loose groups to mergers
+6. Project Code : 23_025
+7. Operator(s) : Deepak,
+	Navanath,
+	Sachin,
+	Shilpa,
+	
+8. Command File : /odisk/gtac/cmd/marek/23_025_s2.cmd
+9. LTA File : /gsbifrdata/09feb/23_025_09feb2013_16s.lta
+10. LogFlag File : /odisk/online1/logflags/23_025.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Full_Polar
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 591 591 540 540 51 51.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :27
+
+27. Name of Non-Working Antennas (with reason for each) :
+C04 : Taken for Servo motor replacement.
+W05 : Servo problem.
+S03 : Intermittent fringing.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 01:00 - 09:33
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+2s data file :-
+  
+/gsbifrdata1/09feb/23_025_09feb2013_2s.lta
+--------------------------------------------------
+01:00 : Started set up.
+01:07 : Started scan on 3C286.
+01:22 : Stopped scan.
+01:24 : Started command file.
+
+      /odisk/gtac/cmd/marek/23_025_s2.cmd
+
+04:01 : S03 not fringing.
+06:38 : S03 started working.
+
+08:50 : Stopped command file.
+
+08:56 : Started scan on J2018+2839.
+09:11 : Stopped scan.
+
+09:17 : Started scan on 3C286.
+09:33 : Stopped scan and observing session over.
+
+-----------------------------------------------------------
+

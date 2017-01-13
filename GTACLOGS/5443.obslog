@@ -1,0 +1,92 @@
+		 GTAC Observation Log 
+
+1. Date : 12/7/2011
+2. Observation Sr. No. : 5443
+3. Observer : Mikhail Popov, Safutdinov Egor
+4. Observer's Email : YegorSaf@mail.ru,mpopov@asc.rssi.ru
+5. Project Name : Pular Observation
+6. Project Code : 20_079
+7. Operator(s) : Navanath,
+	Rupsingh,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /gsbifrdata/12jul/20_079_12jul2011.lta
+10. LogFlag File : /odisk/online1/logflags/20_079.FLAGS,
+	/odisk/online1/logflags/20_079.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1401 MHz ,RF2 : 1401 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1350 MHz, ILO2 : 1350 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+10 dB, 32 MHz,OFF, IF-CH2 : 20+10 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : PA
+19. Beam - 2 : PA
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 512 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 1401 1401 1350 1350 51 51.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :27
+
+27. Name of Non-Working Antennas (with reason for each) :
+C03 : No fringe.
+C09 : Low fringe @130 pol.
+C05 : No power eq.@175 pol.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 19:20 - 04:05
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+19:30 : Started power eq. @ 250 counts & phasing on 1822-096
+20:00 : Phasing done.
+20:04 : Started observation
+20:04:27 : Started scan on 1822-096 for ~ 1.61061 min.
+20:06:40 : Started scan on 1822-096 for ~ 8.32149 min.
+20:17:31 : Started scan on 1822-096 for ~ 1.61061 min.
+20:20:36 : Started scan on 1822-096 for ~ 1.87905 min.
+20:23:41 : Started scan on 1822-096 for ~ 1.61061 min.
+20:27:21 : Started scan on B1822-09 for ~ 71.9406 min.
+21:46:21 : Stopped scan
+------------------------------------------------------
+21:48:00 : Setting  changed
+           IF-16MHz
+           LO4-62MHz
+tpa 1412 1412 1320 1320 62 62
+22:11:48 : Started scan on 1822-096 for ~ 0.805306 min.
+22:13:06 : Started scan on 1822-096 for ~ 0.805306 min.
+22:17:09 : Started scan on B1556-44 for ~ 70.33 min.
+23:30:53 : Started scan on 1822-096 for ~ 1.61061 min.
+23:32:49 : Started scan on 1822-096 for ~ 0 min.
+23:35:25 : Started scan on 1822-096 for ~ 1.87905 min.
+23:38:28 : Started scan on 1822-096 for ~ 1.87905 min.
+23:41:32 : Started scan on 1822-096 for ~ 0.805306 min.
+23:44:57 : Started scan on B1642-03 for ~ 80.5306 min.
+01:07:36 : Started scan on 1822-096 for ~ 1.61061 min.
+01:09:23 : Started scan on 1822-096 for ~ 1.61061 min.
+01:12:54 : Started scan on B1749-28 for ~ 70.33 min.
+02:33:20 : Started scan on 2202+422 for ~ 1.34218 min.
+02:35:10 : Started scan on 2202+422 for ~ 0 min.
+02:37:57 : Started scan on 2202+422 for ~ 1.87905 min.
+02:41:38 : Started scan on 2202+422 for ~ 1.61061 min.
+02:45:28 : Started scan on 2202+422 for ~ 0.805306 min.
+02:48:07 : Started scan on B2154+40 for ~ 77.5778 min.
+04:05:00 : Observation session over.
+
+
+
+           
+
+
+

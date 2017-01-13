@@ -1,0 +1,48 @@
+1. Date : 24/02/2002
+2. Observation Sr. No. : 476
+3. Observer & email : Jayram , chengalu@ncra.tifr.res.in
+4. Project Name & Code : PKS0201 / 01JNC01
+5. Operator(s) :Jitendra(1),Mangesh(1),Santaji(2).
+6. Command File/Source  & Lta File : /temp2/data/cmd/chengalu/0201.cmd
+						             /rawdata/24feb/01jnc01_0201.lta
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 : 325 MHz., 0 dB., OFF
+8. Ist LO (MHz) & IVth LO (MHz) : 254 MHz.,69.320 MHz.,
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : 16+16, 6 MHz., ON
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status : 1 MHz., 12 dB., ON
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 4 / 4
+12. Channels : 0,127,1
+13. Frequency Parameters (TPA) : tpa 323.32 323.32 254 254 69.32 69.32
+
+14. Integration Time (Sec.) : 32 sec (16*16m)
+15. No of Antennas Working(Fringing) :  28 
+16. Name of Non-Working Antennas (with reason for each) : 
+
+	S03     175 Pol not fringing
+    W04     Azimuth brake pro.
+
+17. Starting and Ending time of Observations (IST) : 10:56 - 16:10
+
+    10:56 Started scan on 3C286 for 20min.
+    11:20 Scan stopped.
+    
+    11:43 cmdfile started.
+    14:05 Found that C09 got stowed automatically. Released the stow and
+          put on the source.
+
+    14:07 Power reset occured at C00,C01,C02,C05,C06,C08,C12.
+    14:22 Again power reset occured at C00,C01,C02,C05,C06,C08,C12.
+    14:40 cmdfile started.
+          C00 autoparked , C02 : ABC .T.O.
+
+    14:46 C00 , C02 are recovered.
+	16:10 stopped the observation session.
+
+
+
+19. Data Backup files & Tape No. :

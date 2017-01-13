@@ -1,0 +1,62 @@
+		 GTAC Observation Log
+
+1. Date : 30/08/2014
+2. Observation Sr. No. : 7317
+3. Observer : Nimisha Kantharia, Jamie Stephen Farnes, David Alan Green, Ewan O Sullivan, Jan M. Vrtilek, Somak Raychaudhury
+4. Observer's Email : ngk@ncra.tifr.res.in, jsf31@mrao.cam.ac.uk, dag@mrao.cam.ac.uk, ejos@star.sr.bham.ac.uk, jvrtilek@cfa.harvard.edu, somak@star.sr.bham.ac.uk
+5. Project Name : Effect of environment on radio continuum and polarised emission of star forming galaxies in groups
+6. Project Code : 26_011
+7. Operator(s) : Deepak
+8. Command File : /odisk/gtac/cmd/ngk/26_011-30aug14.cmd
+9. LTA File : /gsbifrdata/30aug/26_011_30aug2014.lta
+10. LogFlag File : /odisk/online1/logflags/26_011.FLAGS.8,/odisk/online1/logflags/26_011.FLAGS.9
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Full_Stokes
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 0
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 591 591 540 540 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :27
+
+32. Name of Non-Working Antennas (with reason for each) :
+C00 : ALL MCM time out.
+C01 : servo problem
+E06 : 130 low fringe.
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 30 Aug 2014 00:00:00 - 30 Aug 2014 05:54:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :27
+
+37. Comments (During Observations) :
+00:00 : Started scan on 3C48 for 15mins.
+00:21 : Started command file.
+04:26 : Target source is below horizon.
+04:35 : Command file stopped.
+04:44 : Started scan on 3C48 for 15mins.
+05:07 : started scan on 3C147 for 15mins.
+05:38 : Started scan on 3C138 for 15mins.
+05:54 : Observation stopped.

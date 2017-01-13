@@ -1,0 +1,66 @@
+		 GTAC Observation Log 
+
+1. Date : 14/02/2008
+2. Observation Sr. No. : 3620
+3. Observer : George Hallinan
+4. Observer's Email : gregg@it.nuigalway.ie
+5. Project Name :  Exoplanet Search
+6. Project Code : 13GHA01
+7. Operator(s) : Jitendra,
+	Nilesh,
+	
+8. Command File : /atemp2/cmd/13gha01/gh.cmd
+9. LTA File : /rawdata/14feb/13gha01_14feb08.lta,
+	/rawdata/14feb/13gha01_14feb08.lta.1,
+	
+10. LogFlag File : /atemp2/logflags/13GHA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 157 MHz ,RF2 : 157 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 223 MHz, ILO2 : 223 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 6 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 8000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 157 157 223 223 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+W02 : 130 : No fringe.
+S01 : No Fringe.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 23:30 - 09:00
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Aditya   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+23:35 : Started FE termination setup.(ALC's OFF)
+23:50 : power equalisation.
+00:10 : Started recording with FE termination.(scan # 0)
+00:15 : Stopped recording.
+00:20 : Started phasing iterations.(ALC's ON)
+01:20 : Phasing done.
+01:28 : Started record for 20 in on 3C286.
+01:48 : Stopped record.
+02:00 : Started command file.
+ONLINE GIVING PROBLEM.
+02:05 : Stopped command file.
+02:21 : Restarted online and command file.
+04:14 : Stopped command file.
+(ONLINE CRASHED AGAIN AND FORCEFULLY KILLED THE DAS CHAIN)
+05:05 : Restarted online.
+F.E. TERM TEST SKIPPED.
+05:11 : Started scan on 3c286.
+05:32 : Stopped scan.
+05:35 : Started command file.
+08:41 : Stopped observation.
+

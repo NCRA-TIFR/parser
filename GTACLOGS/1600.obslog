@@ -1,0 +1,75 @@
+		 GTAC Observation Log 
+
+1. Date : 09/08/2004
+2. Observation Sr. No. : 1600
+3. Observer : G Swarup, S K Sirothia, K Maeda
+4. Observer's Email : gswarup@ncra.tifr.res.in,sirothia@ncra.tifr.res.in,maeda@hcmern.hyo-med.ac.jp
+5. Project Name : GAL SURVEY
+6. Project Code : 06KMA01
+7. Operator(s) : Mangesh,
+	Manish G.,
+	Manisha J.,
+	Jayprakash,
+	Jitendra,
+	Sachin,
+	Sanjay,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/gswarup/sky_survey.cmd
+9. LTA File : /rawdata/9aug/06kma01_gal_survey.lta
+10. LogFlag File : /btemp2/logflags/06KMA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 244 MHz ,RF2 : 244 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 310 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+20 dB, 6 MHz,ON, IF-CH2 : 20+20 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 244 244 310 310 66 66 
+
+18. Integration Time : 16 STA ~ 2.114 Sec.
+19. No of Antennas Working(Fringing) :06
+
+20. Name of Non-Working Antennas (with reason for each) :
+Not using other antennas.
+
+21. Start and End Time of Obs.(IST): 12:24 - 16:00
+
+22. Comments (During Observations) :
+ONLINE : Bhaskar
+ATTN : AUTHIF @ 235 MHz.
+----------------------------
+09Aug04 : 12:24 Hrs
+
+Following antennas are using :
+C02, C03, C04, C05, C08 & C14.
+
+* Online Az & El encoder counts are being recorded in :
+/temp2/data/servo/azel.dat.
+
+* command file started.
+
+20:00 Stopped the ltafile & restarted new ltafile.
+	/rawdata/9aug/06kma01_gal_survey.lta.1
+
+10Aug04 :
+
+17:36 stopped the ltafile & restarted new ltafile :
+	/rawdata/9aug/06kma01_gal_survey.lta.2
+
+21:55 C08 showing High currents in Elevation axis.
+       and showing very less tacho.
+	stopped the antenna C08 & applied brakes.
+	Position : Az : 180d, Eln : 54d.
+	(Data is being acquired for C08 at this posn).
+
+11Aug04 :
+16:00 stopped observation.
+
+
+

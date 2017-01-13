@@ -1,0 +1,48 @@
+		 GTAC Observation Log 
+
+1. Date : 06/03/2004
+2. Observation Sr. No. : 1383
+3. Observer : Neeraj Gupta, T Venturi, D Dallacasa
+4. Observer's Email : neeraj@ncra.tifr.res.in,tventuri@ira.cnr.it,ddallaca@ira.cnr.it
+5. Project Name : compact group
+6. Project Code : 05PFA01
+7. Operator(s) : Manisha J.,
+	
+8. Command File : /btemp2/cmd/neeraj/ngc3668.cmd
+9. LTA File : /rawdata/6mar/05pfa01_ngc3668.lta,
+	/rawdata1/6mar/05pfa01_ngc3668.ltb
+10. LogFlag File : /btemp2/logflags/05PFA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1399.98 MHz ,RF2 : 1399.98 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1330 MHz, ILO2 : 1330 MHz, IVLO1 : 69.98 MHz, IVLO2 : 69.98 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+10 dB, 16 MHz,ON, IF-CH2 : 10+10 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1399.98 1399.98 1330 1330 69.98 69.98 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C13 : ILO UNLOCK.
+W05 & W06 : ABC Time Out (Fiber Optic Cut.)
+
+21. Start and End Time of Obs.(IST): 23:40 - 05:25
+
+22. Comments (During Observations) :
+*** ONLINE: bhaskar    ***
+*** AUTHIF: @ 1390 MHz ***
+--------------------------
+C02 frequently appling brakes in Az due to 'acok' problem.
+23:40	Started scan on 3C286 ~15mins.
+23:59	cmdfile started.
+05:06	stopped cmdfile.
+05:10	started scan on 3C286 ~15mins.
+05:25	stopped das and observation.
+

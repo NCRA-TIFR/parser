@@ -1,0 +1,63 @@
+		 GTAC Observation Log
+
+1. Date : 24/08/2016
+2. Observation Sr. No. : 8845
+3. Observer : Jagadheep D Pandian, Dharam Vir Lal
+4. Observer's Email : jagadheep@iist.ac.in, dharam@ncra.tifr.res.in
+5. Project Name : Probing the ionized gas environment around ultracompact HII regions
+6. Project Code : 30_054
+7. Operator(s) : Nilesh, Rupsing
+8. Command File : /odisk/gtac/cmd/30_054/23aug16/obs_23aug.cmd
+9. LTA File : /gsbifrdata1/23aug/30_054_23aug2016.lta
+10. LogFlag File : /odisk/online1/logflags/30_013.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1393.0345 MHz ,RF2 : 1393.0345 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1330 MHz, ILO2 : 1330MHz , IVLO1 : 63.0345 MHz, IVLO2 : 63.0345 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 4 MHz; Step # 1
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 136.9655
+28. LO5 -2  : 168.0345
+
+29. Frequency Parameters (TPA) : 1393.0345 1393.0345 1330 1330 63.0345 63.0345
+30. Integration Time : 2.0132 Sec
+31. No of Antennas Working(Fringing) at the beginning :28
+
+32. Name of Non-Working Antennas (with reason for each) :
+E06 : Servo problem
+W03 : Servo problem.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 23 Aug 2016 21:00:00 - 24 Aug 2016 02:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :28
+
+37. Comments (During Observations) :
+21:13 : Started scan on 3C286.
+21:20 : Stopped scan(flux cal set)
+21:24 : Started command file.
+00:55 : Changed phase cal to 1822-096, and restarted command file.
+01:27 : Stopped command file.
+01:36 : Started scan on phase cal (1923-210), 1822-096 also set.
+01:49 : Started scan on 3C48 for ~ 12 min.
+02:02 : Stopped scan and observation closed.
+

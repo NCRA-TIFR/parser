@@ -1,0 +1,55 @@
+		 GTAC Observation Log 
+
+1. Date : 21/01/2006
+2. Observation Sr. No. : 2429
+3. Observer : Mamta
+4. Observer's Email : mamta@ncra.tifr.res.in
+5. Project Name : LSI61303
+6. Project Code : 09PDA01
+7. Operator(s) : Jayprakash,
+	Manish G.,
+	
+8. Command File : /atemp2/cmd/mamta/lsi.cmd
+9. LTA File : /rawdata/21jan/09pda01_21jan06.lta,
+	/rawdata1/21jan/09pda01_21jan06.ltb
+10. LogFlag File : /atemp2/logflags/09PDA01.FLAGS.26
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 16 LTA ~ 2.114 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C11 - Taken for experiment.
+C12-USB-175 Low power.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 13:38 - 00:00
+
+23. Comments (During Observations) :
+********************************************
+* CRR : OLD TST MODE
+* ONL : ADITYA
+* ATTN: AUTHIF @ 610-235. 
+********************************************
+
+13:38 : Started scan on 3c48.
+*** Pl. note that last few minites on 3c48 are bad do not use for calibration.
+** Antennas were not tracking 3c48.
+13:57 : Started scan on lsi+61303.
+14:21 : MSEB power failed.
+14:57 : Started scan on phase cal for 5 minutes.
+15:02 : Stopped the observation.

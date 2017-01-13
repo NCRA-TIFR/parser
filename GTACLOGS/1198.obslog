@@ -1,0 +1,61 @@
+		 GTAC Observation Log 
+
+1. Date : 27/10/2003
+2. Observation Sr. No. : 1198
+3. Observer : Prof. SAK/Dr. NGK
+4. Observer's Email : ananth@ncra.tifr.res.in,ngk@ncra.tifr.res.in
+5. Project Name : UGC6964
+6. Project Code : 04SAK01
+7. Operator(s) : Santaji,
+	
+8. Command File : /btemp2/cmd/ngk/ugc6964.cmd
+9. LTA File : /rawdata/27oct/04sak01_ugc6964.lta,
+	/rawdata1/27oct/04sak01_ugc6964.ltb
+10. LogFlag File : /btemp2/logflags/04SAK01.FLAGS.9
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 32 MHz,ON, IF-CH2 : 18+18 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C12:Rf problem.
+C03:Painting work.
+W06:130(USB) low fringe.
+
+
+21. Start and End Time of Obs.(IST): 10:50 - 00:00
+
+22. Comments (During Observations) :
+*** ONLINE:BHASKAR ***
+*** IF-ANT:AUTHIF  ***
+----------------------
+*** DUAL FREQUENCY ***
+CH1(130)=610(USB+LSB).
+CH2(175)=235(USB).
+
+10:54 scan started on 3c286 for 15 min.
+11:12 command file started 
+	/temp2/data/cmd/ngk/ugc6964.cmd
+11:50 Huge RFI found in 235 Band .
+      after 10 min it vanished .
+	At the same time Planes were
+	 moving in the sky.
+13:56 C05:USB flat band shape.
+14:06 run corr_confing C05 recovered.
+14:20 MSEB power failed to E-arm.
+15:15 MSEB power resume to E-arm.
+15:36 Started scan on 3c286 for 15min.
+15:50 E-arm power failed.
+

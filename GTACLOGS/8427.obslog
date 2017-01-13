@@ -1,0 +1,74 @@
+		 GTAC Observation Log
+
+1. Date : 20/02/2016
+2. Observation Sr. No. : 8427
+3. Observer : Watson Paul Varricatt, Sarita Vig, Anandmayee Tej
+4. Observer's Email : w.varricatt@ukirt.hawaii.edu, sarita@iist.ac.in, anandmayee.tej@gmail.com
+5. Project Name : Radio mapping of three Massive star forming regions
+6. Project Code : 29_027
+7. Operator(s) : Deepak, Navnath, Rupsing, Surender
+8. Command File : /odisk/gtac/cmd/29_027/20feb2016.cmd
+9. LTA File : /gsbifrdata1/20feb/29_027_20feb2016.lta
+10. LogFlag File : /odisk/online1/logflags/29_027.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1281 MHz ,RF2 : 1281 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1230 MHz, ILO2 : 1230MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 1281 1281 1230 1230 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :26
+
+32. Name of Non-Working Antennas (with reason for each) :
+C02 : MCM:5
+C08 : BLDC.
+E05 : Feed cage painting.
+E06 : Low fringe.
+
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 20 Feb 2016 09:50:00 - 20 Feb 2016 16:30:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :26
+
+37. Comments (During Observations) :
+09:57 : Started command file.
+10:51 : Stopped command file.
+--------------------------------------------------------------------------
+10:53 : C03 servo problem.
+--------------------------------------------------------------------------
+10:55 : Started scan on 3C48.
+11:10 : Stopped scan.
+11:13 : Restarted command file.
+-------------------------------------------------------------------------
+14:40 : C03 started working.
+-------------------------------------------------------------------------
+16:12 : Started scan on 3C147 for 20min.
+16:30 : Observation session over.
+--------------------------------------------------
+ 
+
+

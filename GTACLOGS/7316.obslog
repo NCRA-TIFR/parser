@@ -1,0 +1,60 @@
+		 GTAC Observation Log
+
+1. Date : 29/08/2014
+2. Observation Sr. No. : 7316
+3. Observer : Rajeshwari Dutta, Raghunathan Srianand, Neeraj Gupta, Patrick Petitjean, Pasquier Noterdaeme, hadi Rahmani
+4. Observer's Email : rdutta@iucaa.ernet.in, anand@iucaa.ernet.in, nrjgupta@gmail.com, ppetitje@iap.fr, noterdaeme@iap.fr, hadi@iucaa.ernet.in
+5. Project Name : CHITALS: Cold HI 21-cm Absorption Line Survey
+6. Project Code : 26_029
+7. Operator(s) : Navnath, Pramod, Surender
+8. Command File : /odisk/gtac/cmd/26_029/obs.cmd
+9. LTA File : /gsbifrdata/29aug/26_029_29aug2014.lta
+10. LogFlag File : /odisk/online1/logflags/26_029.FLAGS.25
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1375.8835 MHz ,RF2 : 1375.8835 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1315 MHz, ILO2 : 1315MHz , IVLO1 : 60.8835 MHz, IVLO2 : 60.8835 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 16 MHz,ON, IF-CH2 : 4+14 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 33.333332 MHz; Step # 0.5
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 139.1165
+28. LO5 -2  : 165.8835
+
+29. Frequency Parameters (TPA) : 1375.8835 1375.8835 1315 1315 60.8835 60.8835
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :29
+
+32. Name of Non-Working Antennas (with reason for each) :
+C04 : MCM time-out.
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 29 Aug 2014 10:00:00 - 29 Aug 2014 19:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :27
+
+37. Comments (During Observations) :
+09:10 : Started set-up.
+09:20 : Started scan on 3C147.
+10:00 : Stopped scan and started command file.
+11:04 : C04 released for observation but having low fringe.
+15:53 : C00 and C01 Servo problem.
+18:58 : Stopped command file.
+19:00 : Started scan on 3C286.
+19:15 : Stopped scan and observation session is over.

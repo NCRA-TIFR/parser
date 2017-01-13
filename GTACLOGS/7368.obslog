@@ -1,0 +1,142 @@
+		 GTAC Observation Log
+
+1. Date : 18/10/2014
+2. Observation Sr. No. : 7368
+3. Observer : Rajeshwari Dutta, Raghunathan Srianand, Neeraj Gupta, Patrick Petitjean, Pasquier Noterdaeme, hadi Rahmani
+4. Observer's Email : rdutta@iucaa.ernet.in, anand@iucaa.ernet.in, nrjgupta@gmail.com, ppetitje@iap.fr, noterdaeme@iap.fr, hadi@iucaa.ernet.in
+5. Project Name : CHITALS: Cold HI 21-cm Absorption Line Survey 
+6. Project Code : 27_015
+7. Operator(s) : Deepak, Navnath, Pramod, Surender
+8. Command File : /odisk/gtac/cmd/rdutta/qgpj0041m01.cmd,/odisk/gtac/cmd/rdutta/qgpj0134p00.cmd,/odisk/gtac/cmd/rdutta/qgpj0911p19.cmd,
+9. LTA File : /gsbifrdata/17oct/27_015_17oct2014.lta.1,/gsbifrdata/17oct/27_015_17oct2014.lta,/gsbifrdata/18oct/27_015_18oct2014.lta.1,/gsbifrdata/18oct/27_015_18oct2014.lta
+10. LogFlag File : /odisk/online1/logflags/27_015.FLAGS.4,/odisk/online1/logflags/27_015.FLAGS.3,/odisk/online1/logflags/27_015.FLAGS.2,/odisk/online1/logflags/27_015.FLAGS.1,/odisk/online1/logflags/27_015.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1385.3278 MHz ,RF2 : 1385.3278 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1325 MHz, ILO2 : 1325MHz , IVLO1 : 60.3278 MHz, IVLO2 : 60.3278 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 4 MHz; Step # 2
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 139.6722
+28. LO5 -2  : 165.3278
+
+29. Frequency Parameters (TPA) : 1385.3278 1385.3278 1325 1325 60.3278 60.3278
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :25
+
+32. Name of Non-Working Antennas (with reason for each) :
+C06 : No L band feed
+E06 : upgradation work
+W03 : feed Trush Painting 
+W06 : very Low fringe.
+C01 : low fringe@130pol.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 17 Oct 2014 19:00:00 - 18 Oct 2014 15:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :25
+
+37. Comments (During Observations) :
+#####
+Run-1
+#####
+18:30 : Started setup.
+19:09 : Started scan on 3C48 fro 10min.
+19:21 : Started cmd file.
+          /odisk/gtac/cmd/rdutta/qgpj0041m01.cmd
+22:46 : Started scan on phase cal.
+22:56 : Stopped scan on phase cal.
+23:01 : Started scan on 3C48.
+23:11 : Stopped scan on 3C48.
+#####
+Run-2
+#####
+RF band= 1390 (1330 - 1450)
+LO1= 1280 (lower)
+IFBW= 6
+GSB [ACQ] BW= 16.6666
+Total Channel= 512Digital SubBand/step#= 2 is USEABLE ###
+GSB_CONFIG LO5= 140.19  164.81
+LTA_FILE   L05= 131.8568  173.1432
+BASE_BAND  LO4= 59.81  59.81
+tpa 1339.81 1339.81 1280 1280 59.81 59.81
+
+23:22 : Started scan on 3C48.
+23:32 : Stopped scan on 3C48.
+23:37 : Started command file.
+02:43 : Stopped command file after phase cal.
+02:46 : Started scan on 3C48.
+02:56 : Stopped scan on 3C48.
+
+#####
+Run-3
+#####
+RF band= 1390 (1330 - 1450)
+LO1= 1320 (lower)
+IFBW= 18
+GSB [ACQ] BW= 16.6666
+Total Channel= 512
+GSB_CONFIG LO5= 141.8451  163.1549
+LTA_FILE   L05= 133.5119  171.4881
+BASE_BAND  LO4= 58.1549  58.1549
+tpa 1378.1549 1378.1549 1320 1320 58.1549 58.1549
+
+03:11 : Started scan on 3C147.
+03:21 : Stopped scan on 3C147.
+03:34 : Started command file.
+06:39 : Stopped command file.
+06:45 : Started scan on 3C147.
+06:55 : Stopped scan on 3C147.
+07:00 : Restarted command file.
+10:17 : C01 Taken for FE work.
+11:50 : C01 released for observation.
+11:42 : Stopped command file.
+11:47 : Started scan on 3C286
+12:00 : Stopped scan.
+
+#####
+Run-4
+#####
+GSB line observation setup
+RF band= 1390 (1330 - 1450)
+LO1= 1345 (lower)
+IFBW= 18
+GSB [ACQ] BW= 16.6666
+Total Channel= 512
+
+Line/Center Frequency= 1416.6827
+CH#[0]= 1414.5994
+CH#[512]= 1418.766
+BW= +4.1666
+CW= 8.14 (KHz.)
+
+Digital SubBand/step#= 2 is USEABLE ###
+GSB_CONFIG LO5= 138.7338  166.2662
+LTA_FILE   L05= 130.4006  174.5994
+BASE_BAND  LO4= 61.2662  61.2662
+tpa 1406.2662 1406.2662 1345 1345 61.2662 61.2662
+
+12:23 : Started scan on 3C286.
+12:34 : Stopped scan.
+12:35 : Started command file.
+14:44 : Stopped command file.
+14:45 : Started scan on 3C286.
+15:00 : Stopped scan and observing session is over.

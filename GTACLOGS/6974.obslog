@@ -1,0 +1,63 @@
+		 GTAC Observation Log 
+
+1. Date : 24/2/2014
+2. Observation Sr. No. : 6974
+3. Observer : Eric Wilcots,Danielle M. Nielsen
+4. Observer's Email : ewilcots@astro.wisc.edu,nielsen@astro.wisc.edu
+5. Project Name : Probing the Baryon Content of Galaxy Groups Using Bent Double Radio Sources
+6. Project Code : 25_033
+7. Operator(s) : Sachin,Surender
+8. Command File : /odisk/gtac/cmd/25_033/24feb2014/obs.cmd
+9. LTA File : /gsbifrdata/24feb/25_033_24feb2014.lta,
+10. LogFlag File : /odisk/online1/logflags/25_033.FLAGS.5,
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 629 MHz ,RF2 : 253 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 680 MHz, ILO2 : 304 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : Realtime 
+15. GSB LTA : 8 
+16. GSB CTRL : ONLINE 
+17. GSB Fstop : ON 
+18. GAIN EQ : ON 
+19. Stokes : TotIntensity
+20. Beam - 1 : OFF
+21. Beam - 2 : OFF
+22. ACQ BW : 33.33 MHz
+23. Final BW : 33.333333 MHz; Step # 0
+24. Maximum Channels : 256 
+25. Channel Numbers : 0:255:1 
+26. LO5 -1  : 149.00 
+27. LO5 -2  : 156.00 
+
+28. Frequency Parameters (TPA) : 629 253 680 304 51 51.
+29. Integration Time : 16.106112 Sec.
+30. No of Antennas Working(Fringing) at the begining :26
+
+31. Name of Non-Working Antennas (with reason for each) :
+C00 : Low fringe @175pol.
+S04 : Low fringe@175pol.
+W01 : Servo problem.
+C10 : No feed@235MHz
+32. Note for Backup :
+
+33. Start and End Time of Obs.(IST): 00:10 - 09:00
+
+34. ONLINE Machine : Lenyadri
+
+35. No of Antennas Working(Fringing) at the end :26
+
+36. Comments (During Observations) :
+00:10 : Started set-up.
+00:15 : Started scan on 3C147.
+00:54 : Started command file.
+08:39 : Stopped command file on source.
+08:40 : Started scan on phase cal.
+08:51 : Stopped scan on phase cal.
+08:53 : Started scan on 3C286.
+09:03 : W02 parked for painting.
+09:08 : Stopped scan on 3C286.

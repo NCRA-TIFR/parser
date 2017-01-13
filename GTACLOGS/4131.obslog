@@ -1,0 +1,64 @@
+		 GTAC Observation Log 
+
+1. Date : 07/01/2009
+2. Observation Sr. No. : 4131
+3. Observer : J. Roy
+4. Observer's Email : jroy@ncra.tifr.res.in
+5. Project Name : Pulsar observation
+6. Project Code : 15PUL01
+7. Operator(s) : Nilesh,
+	Rupsingh,
+	Santaji,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /rawdata/7jan/15pul01_07jan2009.lta,
+	/rawdata/7jan/15pul01_07jan2009.lta.1,
+	/rawdata1/7jan/15pul01_07jan2009.ltb.1
+10. LogFlag File : /btemp2/logflags/15PUL01.FLAGS.5,
+	/btemp2/logflags/15PUL01.FLAGS.6,
+	/btemp2/logflags/15PUL01.FLAGS.7
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 218 MHz, ILO2 : 218 MHz, IVLO1 : 62 MHz, IVLO2 : 62 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+4 dB, 16 MHz,OFF, IF-CH2 : 20+4 dB, 16 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 156 156 218 218 62 62 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+C02,C05,S01 : No Fringe.
+E06 : Servo problem.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 20:00 - 07:00
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : USB-Polar    *********
+--------------------------------------------
+20:00 : Started settings for 15PUL01.
+        Feed focused @ 150 MHz.
+        RF : 156 MHz. LO1 : 218 MHz. LO4 : 62 MHz.
+        IFBW : 16MHz. BBBW : 16MHz.  ALC's OFF
+        tpa 156 156 218 218 62 62
+        CORR : USB-Polar Mode.
+20:35 : Power Eq @ 300 Counts on 3c147.
+21:10 : Phasing done on 3c147.
+21:30 : Started data aquisition on pulsar 'B0823+26'.
+
+        C14 : Servo problem. 
+07:00 : Observation session over.
+
+---------------------------------------------
+
+

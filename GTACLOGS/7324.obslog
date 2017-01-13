@@ -1,0 +1,127 @@
+		 GTAC Observation Log
+
+1. Date : 01/09/2014
+2. Observation Sr. No. : 7324
+3. Observer : Nissim Kanekar, Aditya JNHS
+4. Observer's Email : nkanekar@ncra.tifr.res.in, aditya@ncra.tifr.res.in
+5. Project Name : A search for associated HI 21cm absorption at high redshifts.
+6. Project Code : 26_052
+7. Operator(s) : Deepak, Nilesh, Sachin
+8. Command File : /odisk/gtac/cmd/aditya/0248\+430.cmd,/odisk/gtac/cmd/aditya/0249\+383.cmd,/odisk/gtac/cmd/aditya/0833\+416.cmd,/odisk/gtac/cmd/aditya/0859\+681.cmd
+9. LTA File : /gsbifrdata/01sep/26_052_01sep2014_0248\\+430.lta,/gsbifrdata/01sep/26_052_01sep2014_0249\\+383.lta,/gsbifrdata/01sep/26_052_01sep2014_0833\\+416.lta,/gsbifrdata/01sep/26_052_01sep2014_0859\\+681.lta
+10. LogFlag File : /odisk/online1/logflags/26_052.FLAGS.40,/odisk/online1/logflags/26_052.FLAGS.41,/odisk/online1/logflags/26_052.FLAGS.42,/odisk/online1/logflags/26_052.FLAGS.43
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 598 MHz ,RF2 : 598 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 545 MHz, ILO2 : 545MHz , IVLO1 : 53 MHz, IVLO2 : 53 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 0
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 147
+28. LO5 -2  : 158
+
+29. Frequency Parameters (TPA) : 598 598 545 545 53 53
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :28
+
+32. Name of Non-Working Antennas (with reason for each) :
+C00 : ALL MCM timeout
+E06 : 130 pol low fringe.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 01 Sep 2014 03:00:00 - 01 Sep 2014 09:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :28
+
+37. Comments (During Observations) :
+03:00 : Started setup.
+   RF Band     : 610
+   IF BW       : 34 MHz
+   Baseband BW : 33.33 MHz
+   LO(1)       : 545 MHz
+   LO(5)       : 147, 158 MHz
+   LO(4)       : 53, 53 MHz
+   Step        : 0
+
+   Channels    : 512
+   lta         : 8m
+
+TPA 598 598 545 545 53 53
+
+The observing band will cover 598.0 MHz - 631.3 MHz
+
+03:20 : Started command file /odisk/gtac/cmd/aditya/0248+430.cmd
+---------------------------------------------------------
+04:50 : Settings changed to
+   RF Band     : 610
+   IF BW       : 34 MHz
+   Baseband BW : 33.33 MHz
+   LO(1)       : 600 MHz
+   LO(5)       : 147, 158 MHz
+   LO(4)       : 53, 53 MHz
+   Step        : 0
+
+   Channels    : 512
+   lta         : 8m
+
+TPA 653 653 600 600 53 53
+
+The observing band will cover 653.0 MHz - 683.3 MHz
+
+05:00 : Started command file /odisk/gtac/cmd/aditya/0249+383.cmd
+---------------------------------------------------------
+06:35 : Settings changed to 
+   RF Band     : 610
+   IF BW       : 34 MHz
+   Baseband BW : 33.33 MHz
+   LO(1)       : 550 MHz
+   LO(5)       : 147, 158 MHz
+   LO(4)       : 53, 53 MHz
+   Step        : 0
+
+   Channels    : 512
+   lta         : 8m
+
+TPA 603 603 550 550 53 53
+
+The observing band will cover 603.0 MHz - 636.3 MHz
+
+06:43 : Started command file /odisk/gtac/cmd/aditya/0833+416.cmd
+---------------------------------------------------------
+08:17 : Settings changed to 
+   RF Band     : 610
+   IF BW       : 34 MHz
+   Baseband BW : 33.33 MHz
+   LO(1)       : 500 MHz
+   LO(5)       : 147, 158 MHz
+   LO(4)       : 53, 53 MHz
+   Step        : 0
+
+   Channels    : 512
+   lta         : 8m
+
+TPA 553 553 500 500 53 53
+
+The observing band will cover 553.0 MHz - 586.3 MHz
+
+08:23 : Started command file /odisk/gtac/cmd/aditya/0859+681.cmd
+09:45 : Stopped command file and observation closed.
+---------------------------------------------------------

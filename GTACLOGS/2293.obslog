@@ -1,0 +1,62 @@
+		 GTAC Observation Log 
+
+1. Date : 19/11/2005
+2. Observation Sr. No. : 2293
+3. Observer : Ekta
+4. Observer's Email : ekta@ncra.tifr.res.in
+5. Project Name : Metal poor
+6. Project Code : 09EKA01
+7. Operator(s) : Deepak,
+	Jayprakash,
+	
+8. Command File : /atemp2/cmd/ekta/ddo068.cmd
+9. LTA File : /rawdata/19nov/09eka01_metalpoor.lta,
+	/rawdata/19nov/09eka01_metalpoor.lta.1,
+	/rawdata1/19nov/09eka01_metalpoor.ltb,
+	/rawdata1/19nov/09eka01_metalpoor.ltb.1
+10. LogFlag File : /atemp2/logflags/09EKA01.FLAGS.5
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1417.164 MHz ,RF2 : 1417.164 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1345 MHz, ILO2 : 1345 MHz, IVLO1 : 72.164 MHz, IVLO2 : 72.164 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 16 MHz,ON, IF-CH2 : 12+12 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 2000 KHz, 9 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 3
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1417.164 1417.164 1345 1345 72.164 72.164 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+C13 : Servo Time Out.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 02:12 - 11:10
+
+23. Comments (During Observations) :
+*********************************************
+******* ONLINE RUNNING ON ADITYA  ***********
+******* AUTHIF AT 1390 MHz. ALC ON **********
+******* CORR RUNNNING IN INDIA POLAR Mode ****
+*********************************************
+
+02:12 : Started scan on 3c48 for 10min.
+02:33 : Started the command file /atemp2/cmd/ekta/ddo068.cmd.
+06:12 : Changed the track.
+        C11 : Azimuth brake prob.
+06:23 : Restarted the command file.
+08:30 : c11 started tracking.
+08:50 : C06 AC problem.
+09:10 : C13 started tracking.
+10:25 : S04 taken for maintenance.
+10:45 : Command file stopped.
+10:50 : Started scan on 3C286 for 20mins.
+11:10 : Observation stopped.
+
+

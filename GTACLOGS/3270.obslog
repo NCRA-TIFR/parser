@@ -1,0 +1,60 @@
+		 GTAC Observation Log 
+
+1. Date : 23/07/2007
+2. Observation Sr. No. : 3270
+3. Observer : J. H. Croston
+4. Observer's Email : j.h.croston@herts.ac.uk
+5. Project Name : Clusters
+6. Project Code : 12JHC01
+7. Operator(s) : Deepak,
+	Nilesh,
+	Sachin,
+	
+8. Command File : /btemp2/cmd/croston/12jhc01_23julam1.cmd,
+	/btemp2/cmd/croston/12jhc01_23julam2.cmd
+9. LTA File : /rawdata/23jul/12jhc01_23jul2007.lta,
+	/rawdata1/23jul/12jhc01_23jul2007.ltb
+10. LogFlag File : /btemp2/logflags/12JHC01.FLAGS.10
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+8 dB, 32 MHz,ON, IF-CH2 : 10+8 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+W01 - 175 no fringe(235).
+W06 - No Fringe
+C01 - 175 low fringe(235).
+21. Note for Backup :
+  
+
+22. Start and End Time of Obs.(IST): 09:55 - 18:43
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   *******
+******** Corr Mode : IndianPolar    *******
+------------------------------------------
+09:55 Flux cal scan started on 3C286 for 10m.
+10:12 Command file '12jhc01_23julam1.cmd' started.
+13:55 scan stopped on target source, command file stopped.
+
+13:58 Command file '12jhc01_23julam2.cmd' started.
+18:21 Command file stopped.
+18:28 Started scan on flux cal for 15 minutes.
+18:43 Stopped scan and observation session over.
+
+**Note : 
+   S06 was under maintenance from 15:30 to 16:45.
+
+

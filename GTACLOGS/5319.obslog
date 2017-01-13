@@ -1,0 +1,55 @@
+		 GTAC Observation Log 
+
+1. Date : 09/5/2011
+2. Observation Sr. No. : 5319
+3. Observer : Nissim Kanekar
+4. Observer's Email : nkanekar@ncra.tifr.res.in
+5. Project Name : Deep HI absorption observations towards 0440-435
+6. Project Code : 20_027
+7. Operator(s) : Manisha,
+	
+8. Command File : /odisk/gtac/cmd/nissim/0438-436.cmd
+9. LTA File : /gsbifrdata/09may/20_027_09may2011.lta
+10. LogFlag File : /odisk/online1/logflags/20_027.FLAGS.7
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1415.5 MHz ,RF2 : 1415.5 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1355 MHz, ILO2 : 1355 MHz , IVLO1 : 60.5 MHz, IVLO2 : 60.5 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 2+28 dB, 16 MHz,ON, IF-CH2 : 2+28 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. Maximum Channels : 512 
+15. Final Bandwidth (MHz): 1 MHz; Step # 4
+16. IFBW (MHz) : LO5 (KHz) : Custom :- 16 : 139.5 - 165.5
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+
+20. Frequency Parameters (TPA) : 1415.5 1415.5 1355 1355 60.5 60.5.
+21. Integration Time : 16.106 Sec.
+22. No of Antennas Working(Fringing) :26
+
+23. Name of Non-Working Antennas (with reason for each) :
+S01 : ILO Unlock
+C14 : ILO Unlock
+C11 : Painting.
+C09-130 : Low fringe.
+W01 : Frequently applying EL brakes.
+24. Note for Backup :--
+
+25. Start and End Time of Obs.(IST): 11:00 - 17:00
+
+26. ONLINE Machine : Shivneri
+
+27. Comments (During Observations) :
+11:00 : started scan on 3C147 ~25mins.
+11:30 : started command file.
+
+14:45 : Command file stopped.
+14:46 : Started command file
+        /odisk/gtac/cmd/nissim/0438-436_cal.cmd
+17:10 : Observation stopped.
+
+

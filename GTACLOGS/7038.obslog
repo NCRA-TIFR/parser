@@ -1,0 +1,98 @@
+		 GTAC Observation Log 
+
+1. Date : 28/3/2014
+2. Observation Sr. No. : 7038
+3. Observer : Dipanjan Mitra,Krzysztof Maciesiak,Rahul Basu,Anna Maria Skrzypczak,Janusz Gil
+4. Observer's Email : dmitra@ncra.tifr.res.in,jezyk@astro.ia.uz.zgora.pl,rbasu@ncra.tifr.res.in,ania.skrzypczak@hotmail.com,jag@astro.ia.uz.zgora.pl
+5. Project Name : %latex% A Metrewavelength Survey of Pulsar Emission: ( -50  $<$ Dec $<$ 25 )
+6. Project Code : 25_038
+7. Operator(s) : Pramod,
+8. Command File : 
+9. LTA File : /gsbifrdata1/28mar/25_038_28mar2014.lta,
+10. LogFlag File : /odisk/online1/logflags/25_038.FLAGS.29,
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 317 MHz ,RF2 : 317 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255 MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 16 MHz,OFF, IF-CH2 : 24+4 dB, 16 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : Realtime 
+15. GSB LTA : 8 
+16. GSB CTRL : ONLINE 
+17. GSB Fstop : ON 
+18. GAIN EQ : OFF, 
+19. Stokes : FullStokes
+20. Beam - 1 : IA
+21. Beam - 2 : PA
+22. ACQ BW : 16.67 MHz
+23. Final BW : 16.666666 MHz; Step # 0
+24. Maximum Channels : 256 
+25. Channel Numbers : 0:255:1 
+26. LO5 -1  : 138.00 
+27. LO5 -2  : 167.00 
+
+28. Frequency Parameters (TPA) : 317 317 255 255 62 62.
+29. Integration Time : 2.013264 Sec.
+30. No of Antennas Working(Fringing) at the begining :27
+
+31. Name of Non-Working Antennas (with reason for each) :
+C04 : Bad band shape.
+E06 : Very low fringe.
+W04 : No fringe.
+
+32. Note for Backup :
+
+33. Start and End Time of Obs.(IST): 00:30 - 06:00
+
+34. ONLINE Machine : Lenyadri
+
+35. No of Antennas Working(Fringing) at the end :27
+
+36. Comments (During Observations) :
+00:30 : Started set up.
+00:45 : Power equalised at 150 counts and phasing  done on 1021+219.
+00:50:35 : Started scan on 1021+219 for ~ 1.24151 min.
+00:53:47 : Started scan on B0950+08 for ~ 10.3348 min.
+01:05:36 : Started scan on 1021+219 for ~ 1.07374 min.
+01:11:12 : Started scan on 1311-222 for ~ 1.34218 min.
+01:12:41 : Started scan on 1311-222 for ~ 1.20796 min.
+01:14:03 : Started scan on 1311-222 for ~ 1.20796 min.
+01:15:23 : Started scan on 1311-222 for ~ 1.07374 min.
+01:17:24 : Started scan on B1254-10 for ~ 24.2934 min.
+01:42:57 : Started scan on 1311-222 for ~ 1.00663 min.
+01:46:03 : Started scan on 1625-311 for ~ 1.47639 min.
+01:47:40 : Started scan on 1625-311 for ~ 1.20796 min.
+01:49:04 : Started scan on 1625-311 for ~ 0.83886 min.
+01:52:36 : Started scan on 1510-057 for ~ 1.04019 min.
+01:53:47 : Started scan on 1510-057 for ~ 1.07374 min.
+01:56:29 : Started scan on B1534+12 for ~ 5.26804 min.
+02:03:03 : Started scan on B1604-00 for ~ 15.2001 min.
+02:20:05 : Started scan on J1603-2531 for ~ 10.5361 min.
+02:32:30 : Started scan on 1510-057 for ~ 1.04019 min.
+02:36:21 : Started scan on 1822-096 for ~ 1.1744 min.
+02:37:40 : Started scan on 1822-096 for ~ 1.14085 min.
+02:38:55 : Started scan on 1822-096 for ~ 1.07374 min.
+02:40:39 : Started scan on B1758-03 for ~ 33.286 min.
+03:14:47 : Started scan on 1822-096 for ~ 1.71127 min.
+03:16:39 : Started scan on 1822-096 for ~ 1.04019 min.
+03:18:45 : Started scan on B1804-08 for ~ 7.07998 min.
+03:26:33 : Started scan on B1818-04 for ~ 21.3742 min.
+03:48:58 : Started scan on 1822-096 for ~ 1.24151 min.
+03:50:23 : Started scan on 1822-096 for ~ 1.04019 min.
+03:52:13 : Started scan on J1808-0813 for ~ 32.2793 min.
+04:25:28 : Started scan on 1822-096 for ~ 1.37573 min.
+04:26:59 : Started scan on 1822-096 for ~ 2.24814 min.
+04:29:22 : Started scan on 1822-096 for ~ 1.04019 min.
+04:31:46 : Started scan on J1823-0154 for ~ 27.9508 min.
+05:00:37 : Started scan on 1822-096 for ~ 1.40928 min.
+05:02:12 : Started scan on 1822-096 for ~ 1.5435 min.
+05:05:28 : Started scan on 1830-360 for ~ 1.77838 min.
+05:07:22 : Started scan on 1830-360 for ~ 1.07374 min.
+05:09:35 : Started scan on B1747-46 for ~ 27.5482 min.
+05:38:22 : Started scan on B1820-31 for ~ 10.2341 min.
+05:49:40 : Started scan on 1830-360 for ~ 1.1073 min.
+05:56:37 : Started scan on 3C286 for ~ 4 min.
+

@@ -1,0 +1,93 @@
+		 GTAC Observation Log 
+
+1. Date : 27/11/2006
+2. Observation Sr. No. : 2903
+3. Observer : Hota
+4. Observer's Email : hota@ncra.tifr.res.in
+5. Project Name : Tails
+6. Project Code : 11AHA01
+7. Operator(s) : Deepak,
+	Jayprakash,
+	Navanath,
+	
+8. Command File : /btemp2/cmd/hota/
+9. LTA File : /rawdata/27nov/11aha01_27nov06.lta,
+	/rawdata1/27nov/11aha01_27nov06.ltb,
+	/rawdata/27nov/11aha01_ngc7619.lta,
+	/rawdata1/27nov/11aha01_ngc7619.ltb,
+	/rawdata/27nov/11aha01_ngc7619.lta.1,
+	/rawdata1/27nov/11aha01_ngc7619.ltb.1,
+	/rawdata/27nov/11aha01_ngc7619.lta.2,
+	/rawdata1/27nov/11aha01_ngc7619.ltb.2
+10. LogFlag File : /btemp2/logflags/11AHA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1130 MHz ,RF2 : 1130 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1065 MHz, ILO2 : 1065 MHz, IVLO1 : 65 MHz, IVLO2 : 65 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 32 MHz,ON, IF-CH2 : 12+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 8000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1130 1130 1065 1065 65 65 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+C02 : No fringe in lsb-130
+W05 : LSB bad band shape.
+C05 : Encoder problem.
+W02 : lsb-175 high cross
+C08 : Painting. 
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 10:10 - 20:08
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+------------------------------------------
+**Observation session fisrt:-
+-------------------------------------------
+10:10 Observation session started.
+10:21 Started scan on flux cal.
+11:25 Co4 back in observation.
+10:41 Started command file.
+13:55 Command file stopped.
+14:00 Started scan on flux cal 3c286 for 15min.
+15:15 first observation session over
+---------------------------------------------
+**Observation session second.:-
+----------------------------------------------
+
+TPA 1398.8024 1398.8024 1335 1335 63.8024 63.8024
+BBW-8MHz IFBW-32MHz. USBHighRes Mode.
+
+In /rawdata/27nov/11aha01_ngc7619.lta & .lta.1
+BB ALCs was OFF.
+16:10 : BB ALC turned ON. And started new lta file
+/rawdata/27nov/11aha01_ngc7619.lta.2
+/rawdata1/27nov/11aha01_ngc7619.ltb.2
+
+18:18 : Command file stopped.
+18:21 : Started scan on 3C48 for 10mins.
+18:40 : Restarted command file.
+E04 - servo problem.
+19:50 : Command file stopped.
+19:58 : Started scan on 3C48 for 10mins.
+20:08 : Observation stopped.
+
+

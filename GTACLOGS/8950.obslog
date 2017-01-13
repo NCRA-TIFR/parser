@@ -1,0 +1,67 @@
+		 GTAC Observation Log
+
+1. Date : 28/10/2016
+2. Observation Sr. No. : 8950
+3. Observer : Sarita Vig
+4. Observer's Email : sarita.vig@gmail.com, sarita@iist.ac.in
+5. Project Name : Non-thermal spectral indices of a jet from a massive protostar
+6. Project Code : DDTB250
+7. Operator(s) : Nilesh, Rupsing, Sachin, Shilpa
+8. Command File : /odisk/gtac/cmd/ddtb250/obs_28oct.cmd
+9. LTA File : /gsbifrdata1/28oct/ddtb250_28oct2016.lta
+10. LogFlag File : /odisk/online1/logflags/DDTB250.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_lenyadri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 0 MHz; Step # 0
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 591 591 540 540 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :29
+
+32. Name of Non-Working Antennas (with reason for each) :
+W04 : Painting work.
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 28 Oct 2016 13:50:00 - 28 Oct 2016 20:10:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :29
+
+37. Comments (During Observations) :
+13:50 : Started settings.
+13:55 : Started scan on 3C286 for ~ 15min.
+14:15 : Started command file.
+16:42 : W02 got abc reset.
+16:47 : S02 got abc reset.
+16:50 : E02 and W03 got abc reset.
+
+16:58 : E02, W02, W03, S02 started working.
+17:23 : C06 frequently applying elevation brakes.
+17:53 : W04 started working.
+
+19:52 : Stopped command file.
+
+20:00 : Started scan on 3C48.
+20:10 : Stopped scan and observing session over.

@@ -1,0 +1,105 @@
+		 GTAC Observation Log 
+
+1. Date : 17/10/2003
+2. Observation Sr. No. : 1183
+3. Observer : Harriet Cullen, Dave Green
+4. Observer's Email : harriet@maro.cam.ac.uk,dag@maro.cam.ac.uk,visitor4@gmrt.ncra.tifr.res.in
+5. Project Name : NGC3227
+6. Project Code : 04HCA01
+7. Operator(s) : Mangesh,
+	Manish G.,
+	Manisha J.,
+	Jitendra,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/harriet/ngc3227.cmd,
+	/btemp2/cmd/harriet/ngc4649.cmd,
+	/btemp2/cmd/harriet/ngc5218.cmd
+9. LTA File : /rawdata/17oct/04hca01_ngc3227.lta,
+	/rawdata1/17oct/04hca01_ngc3227.ltb,
+	/rawdata/17oct/04hca01_ngc4649.lta,
+	/rawdata1/17oct/04hca01_ngc4649.ltb,
+	/rawdata/17oct/04hca01_ngc5218.lta,
+	/rawdata1/17oct/04hca01_ngc5218.ltb
+10. LogFlag File : /btemp2/logflags/04HCA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1416.9487 MHz ,RF2 : 1416.9487 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1345 MHz, ILO2 : 1345 MHz, IVLO1 : 71.9487 MHz, IVLO2 : 71.9487 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 2+2 dB, 16 MHz,ON, IF-CH2 : 2+2 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 4000 KHz, 6 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 2
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1416.9487 1416.9487 1345 1345 71.9487 71.9487 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+S04 : Low fringe.
+
+21. Start and End Time of Obs.(IST): 04:48 - 18:04
+
+22. Comments (During Observations) :
+*****************************
+ONLINE: bhaskar
+AuthIF: 1390 MHz.
+--------------------------------
+04:48	Started scan on 3C48 ~ 15mins.
+05:14	started command file.
+07:02   cmd file stopped,
+        closed data files.
+------------------------------------------
+LO4 changed to LO4=70.7048
+TPA = 1415.7048 1415.7048 1345 1345 70.7048 70.7048
+
+07:06  Started record on bpass cal, 3c286.(15mins)
+        new record in files:04hca01_ngc4649.lta,04hca01_ngc4649.ltb
+
+07:09  Flat Bshape on C05-LSB, ran corr_config, 
+07:30  Scan stopped.
+07:32  Command file started.
+08:30  C03 parked for painting.
+09:05  Power failed.
+09:10  Power for CSQ antennas resumed.
+09:25  Power for all resumed.
+09:57  command file started.
+       * Antenna problems
+        C04 - Servo time out.
+        W05 - Servo Telemtry problem.
+        C12 - mcm 5 T.O.
+        C05 - Flat band shape problem.
+10:04  C04 started tracking , servo problem recovered.
+10:31  W02,W04,W06 Fringe restored after resettings
+       antenna.
+
+12:47  command file stopped.
+12:57  Flux cal scan started on 3C286 source.
+13:14  Scan stopped.
+------------------------------------------------
+IVLO : 73.8995 MHz , ILO : 1335 MHz
+TPA  1408.8995 1408.8995 1335 1335 73.8995 73.8995
+New lta/b file started.
+
+13:19 : Flux cal scan started on 3C286 source for 20m.
+13:40 : Stopped the scan.
+        Antennas moved to source 1313+675.
+13:40 : Started command file  /temp2/data/cmd/harriet/ngc5218.cmd
+14:20 : Power Glitch at S-arm antenna , all s-arm
+        antenna got power reset.
+
+14:22 : Command file stopped.
+14:32 : Command file restarted.
+        C06-USB-FLAT BAND
+        S03 - No Fringe, tried setting again.
+16:49 : Stopped cmd file,
+16:54 : Started record on 3c286(bpass).(20mins)
+17:14 : Stopped record on 3c286
+17:16 : restarted  cmd file.
+18:04 : Stopped cmd file, closed observation.
+
+

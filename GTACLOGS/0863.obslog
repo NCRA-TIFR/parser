@@ -1,0 +1,51 @@
+1. Date : 21/11/2002
+2. Observation Sr. No. : 0863
+3. Observer : Prof. A. P. Rao
+4. Observer's Email : pramesh@ncra.tifr.res.in
+5. Project Name : Test Obs.
+6. Project Code : TEST
+7. Operator(s) : Kamble J.R.,
+	
+8. Command File : /temp2/data/cmd/pramesh/grb021.cmd
+9. LTA File : /rawdata/21nov/grb021.lta,
+	/rawdata/21nov/03apr01_grb021.lta.1
+
+ANTENNA SETTINGS :
+
+10. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1280 MHz ,RF2 : 1280 MHz, SA1 : 0 dB, SA2 : 0 dB
+11. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1210 MHz, ILO2 : 1210 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+12. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 2+2 dB, 32 MHz,ON, IF-CH2 : 2+2 dB, 32 MHz,ON
+13. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+14. CLK_SEL/Samp_Freq : 0
+15. Channels : 0:127:1
+16. Frequency Parameters (TPA) : 1280 1280 1210 1210 70 70 
+
+17. Integration Time : 128 STA ~ 16.908 Sec.
+18. No of Antennas Working(Fringing) :25
+
+19. Name of Non-Working Antennas (with reason for each) :
+C00 : No cross, self OK.
+C01 : Not tracking.
+C11 : No cross, both self s are very low.
+S01 : Feed jammed.
+W05 : aovl flag in ele axis.
+
+20. Start and End Time of Obs.(IST): 19:05 - 00:00
+
+21. Comments (During Observations) :
+19:05 : Started Observation.
+        Started scan on 3c48 for 20min.
+19:25 : Stopped scan.
+19:30 : User 4 was getting wrong co-ordinates for 0022+002,
+        so restarted ONLINE.After sometime dhanishtha became slow,
+        so rebooted dhanishtha.        
+20:13 : Restarted observation, started scan on 3c48 for 10min.
+20:26 : Started command file
+        /temp2/data/cmd/pramesh/grb021.cmd.
+        /rawdata/21nov/grb021.lta.1
+21:03 : Stopped scan(Tracking prob. source was at transite)& changed track.
+
+

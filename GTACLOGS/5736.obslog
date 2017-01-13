@@ -1,0 +1,61 @@
+		 GTAC Observation Log 
+
+1. Date : 5/1/2012
+2. Observation Sr. No. : 5736
+3. Observer : Sandeep Sirothia
+4. Observer's Email : sirothia@ncra.tifr.res.in
+5. Project Name : The GMRT extra-galactic sky survey at 150 MHz - TGSS
+6. Project Code : 21_057
+7. Operator(s) : Navanath,
+	
+8. Command File : /odisk/gtac/cmd/sirothia/21_057_20120105a.cmd
+9. LTA File : /gsbifrdata/05jan/21_057_05jan2011.lta
+10. LogFlag File : /odisk/online1/logflags/21_057.FLAGS.23
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 218 MHz, ILO2 : 218 MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Full_Polar
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 16 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 16:138000-167000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 156 156 218 218 62 62.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :29
+
+27. Name of Non-Working Antennas (with reason for each) :
+C13 : Strong RFI NO fringe.
+
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 12:05 - 06:30
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+2s data file :
+/gsbifrdata1/05jan/21_057_05jan2011_2s.lta
+--------------------------------------------------
+12:02 : Started scan on 3C48 for 15min.
+12:18 : Started scan on J cal.
+12:37 : Started scan on 3C147 for 15min.
+01:12 : Started cmd file.
+/odisk/gtac/cmd/sirothia/21_057_20120105a.cmd
+05:55 : cmd file stopped.
+05:58 : Started scan on J cal.
+06:16 : Started scan on 3C286 for 15min.
+06:30 : Observation session over.
+---------------------------------------------
+

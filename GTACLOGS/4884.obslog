@@ -1,0 +1,75 @@
+		 GTAC Observation Log 
+
+1. Date : 24/05/2010
+2. Observation Sr. No. : 4884
+3. Observer : Rahul Basu, Somak Raychaudhury
+4. Observer's Email : rbasu@ncra.tifr.res.in,somak@star.sr.bham.ac.uk
+5. Project Name : Cluster of Galaxies
+6. Project Code : 18_015
+7. Operator(s) : Deepak,
+	Nilesh,
+	Rupsingh,
+	
+8. Command File : /odisk/gtac/cmd/rahul/18_015/24may/a.cmd,
+	/odisk/gtac/cmd/rahul/18_015/24may/b.cmd
+9. LTA File : /rawdata/24may/18_015_24may2010.lta,
+	/rawdata1/24may/18_015_24may2010.ltb
+10. GSB File : /gsbifrdata/24may/18_015_24may2010_gsb.lta,
+	/gsbifrdata/24may/18_015_24may2010_gsb.lta.1,
+	
+11. LogFlag File : /odisk/online1/logflags/18_015.FLAGS.1
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+15. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C01 - OFF
+C14 - SSI work.
+C08 - fringe fluctuations in hardware correlator.
+
+21. Note for Backup :--
+
+22. Start and End Time of Obs.(IST): 20:00 - 06:45
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+# 2sec files
+/rawdata/24may/18_015_24may2010_2s.lta,
+/rawdata1/24may/18_015_24may2010_2s.ltb
+# 2sec GSB files
+/gsbifrdata1/24may/18_015_24may2010_gsb_2s.lta
+/gsbifrdata1/24may/18_015_24may2010_gsb_2s.lta.1
+---------------------------------------------------
+20:26 : Started scan on 3C286.
+21:01 : Started command file
+        /odisk/gtac/cmd/rahul/18_015/24may/a.cmd
+
+22:52 : Started scan on 3C286 for 10mins.
+23:05 : Started command file
+        /odisk/gtac/cmd/rahul/18_015/24may/b.cmd
+
+01:25 : Restarted GSB.
+02:32 : S02 high temperature.
+
+06:07 : Command file stopped.
+06:08 : Started scan on 1822-096' for 5mins.
+06:24 : Started scan on 3C48.
+06:45 : Observation stopped.
+
+
+

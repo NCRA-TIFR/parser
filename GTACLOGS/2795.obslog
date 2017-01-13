@@ -1,0 +1,56 @@
+		 GTAC Observation Log 
+
+1. Date : 22/08/2006
+2. Observation Sr. No. : 2795
+3. Observer : Neeraj
+4. Observer's Email : neeraj@ncra.tifr.res.in
+5. Project Name : mg0804
+6. Project Code : 10RSA01
+7. Operator(s) : Jayprakash,
+	Manish G.,
+	Manisha J.,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/neeraj/mg0804.cmd
+9. LTA File : /rawdata/22aug/10rsa01_J0804.lta,
+	/rawdata1/22aug/10rsa01_J0804.ltb
+10. LogFlag File : /btemp2/logflags/10RSA01.FLAGS.17
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 647.958 MHz ,RF2 : 647.958 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 580 MHz, ILO2 : 580 MHz, IVLO1 : 67.958  MHz, IVLO2 : 67.958 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 6+5 dB, 6 MHz,ON, IF-CH2 : 6+5 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 1000 KHz, 12 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 4
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 647.958 647.958 580 580 67.958  67.958 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+S03 : badbaselines with res to CSQ.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 16:00 - 14:30
+
+23. Comments (During Observations) :
+--------------------------------------------------------------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : indian polar  *********
+---------------------------------------------------------------------------------------------------
+03:41 : Started scan on 3c147.
+04:33 : Stopped the scan & restarted on 3c147.
+05:11 : Stopped the scan.
+05:12 : Started the command file.
+14:02 : Stopped cmd file
+14:08 : Started flux cal, 3c286
+14:30 : Stopped flux cal, closed observation.
+
+

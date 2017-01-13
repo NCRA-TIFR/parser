@@ -1,0 +1,70 @@
+		 GTAC Observation Log
+
+1. Date : 15/02/2016
+2. Observation Sr. No. : 8415
+3. Observer : Yogesh Maan, Mayuresh Surnis, B. C. Joshi
+
+4. Observer's Email : ymaan@ncra.tifr.res.in,bcj@ncra.tifr.res.in,mpsurnis@ncra.tifr.res.in
+
+5. Project Name : Giant Pulse Search\r\n
+6. Project Code : DDTB210
+7. Operator(s) : Nilesh, Shilpa
+8. Command File : /odisk/gtac/cmd/ymaan/ddtb210.cmd
+9. LTA File : /gsbifrdata/15feb/ddtb210_15feb2016.lta
+10. LogFlag File : /odisk/online1/logflags/DDTB210.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1371 MHz ,RF2 : 1371 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1320 MHz, ILO2 : 1320MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_lenyadri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : IA
+22. Beam - 2 : PA
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 1371 1371 1320 1320 51 51
+30. Integration Time : 4.0265 Sec
+31. No of Antennas Working(Fringing) at the beginning :26
+
+32. Name of Non-Working Antennas (with reason for each) :
+C08 : BLDC work.
+C11 : abc timeout.
+E04 : Feed cage painting.
+E06 : Low fringe.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 15 Feb 2016 08:00:00 - 15 Feb 2016 13:01:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :24
+
+37. Comments (During Observations) :
+08:00 : Started settings.
+08:40 : Power equalized on 1830-360 @ 250counts.
+08:42 : Halted GSB and restarted with on GAINEQ ON.
+08:46 : Phasing done on 1830-360.
+08:50 : Started command file.
+09:14 : C04 taken for painting.
+09:43 : W04 taken for painting.
+
+11:15 : S-arm power failed, so removed from GAC at 11:42.
+13:01 : Stopped command file and observing session over.
+
+

@@ -1,0 +1,62 @@
+		 GTAC Observation Log 
+
+1. Date : 01/02/2009
+2. Observation Sr. No. : 4221
+3. Observer : Nissim
+4. Observer's Email : nkanekar@nrao.edu
+5. Project Name : 1015+359
+6. Project Code : 15NKA01
+7. Operator(s) : Navanath,
+	Nilesh,
+	
+8. Command File : /odisk/gtac/cmd/nissim/1015+359.cmd
+9. LTA File : /rawdata/1mar/15NKA01_01mar2009.lta,
+	/rawdata1/1mar/15NKA01_01mar2009.ltb,
+  /rawdata/1mar/15NKA01_01mar2009_diffstop.lta,
+	/rawdata1/1mar/15NKA01_01mar2009_diffstop.ltb
+10. LogFlag File : /btemp2/logflags/15NKA01.FLAGS.5
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 633.5 MHz ,RF2 : 633.5 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 570 MHz, ILO2 : 570 MHz, IVLO1 : 63.5 MHz, IVLO2 : 63.5 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 8000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 633.5 633.5 570 570 63.5 63.5 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+S06 : Servo problem
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 20:00 - 00:15
+
+23. ONLINE Machine : Bhaskar
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+--------------------------------------------
+NOTE FOR THE USER :
+"The online fringe stopping algorithm was found to be in error by about 2s
+after 1Jan2009. This differential fringe rate was applied using the program
+diffstop. The fringe rate was corrected for an error of +2.0s, and the
+timestamps were also updated by the same amount."
+---------------------------------------------
+20:00 Started setup for 15NKA01.
+20:19 : Started scan on 3c147 for 10min.
+23:04 : changed LO1, TPA and Started command file.
+23:14 : power glitch, stopped command file.
+23:27 : Restarted command file.
+23:59 : Stopped command file.
+00:00 : Started scan on phase cal ~5min.
+00:08 : Started scan on 3c147 ~5min.
+00:15 : closed observation.
+

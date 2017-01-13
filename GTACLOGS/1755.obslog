@@ -1,0 +1,66 @@
+		 GTAC Observation Log 
+
+1. Date : 13/12/2004
+2. Observation Sr. No. : 1755
+3. Observer : Ekta
+4. Observer's Email : ekta@ncra.tifr.res.in
+5. Project Name : SBS0335-052
+6. Project Code : 07EKA01
+7. Operator(s) : Manish G.,
+	Jitendra,
+	Sachin,
+	
+8. Command File : /btemp2/cmd/ekta/j1105+6022.cmd
+9. LTA File : /rawdata/13dec/07eka01_j1105+6022.lta,
+	/rawdata1/13dec/07eka01_j1105+6022.ltb
+10. LogFlag File : /btemp2/logflags/07EKA01.FLAGS.13
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1413.28 MHz ,RF2 : 1413.28 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1340 MHz, ILO2 : 1340 MHz, IVLO1 : 73.28 MHz, IVLO2 : 73.28 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+10 dB, 16 MHz,ON, IF-CH2 : 10+10 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 2000 KHz, 9 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 3
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1413.28 1413.28 1340 1340 73.28 73.28 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+W04-LO unlock also not fringing.
+S03-LSB : Self 0.
+W02,W03,W04,W05,W06 : No fringe in LSB.
+
+21. Start and End Time of Obs.(IST): 00:17 - 11:05
+
+22. Comments (During Observations) :
+**** ONLINE:bhaskara    ****
+**** IF:  AUTH@1390MHz. ****
+---------------------------------
+
+00:17  Started scan on 3C147.
+       Phase for all arm antennas is random. Phase for
+       extreme arm antennas is varying a lot.
+       May be scintillation.
+00:28  Stopped the scan. Ran corr_config and newdly_config.
+00:32  Started scan on 3C147.
+       Phase for all antennas looks OK.
+00:42  Stopped the scan. Started command file:
+06:10  Stopped the command file.
+06:13  Started scan on 3C147.
+06:15  Antennas not tracking properly.
+       SCAN-16 BAD.
+06:18  Stopped the scan. Antennas moved to 3C286.
+06:29  Started scan on 3C286.
+06:37  Stopped the scan.
+06:40  Started command file:
+          /btemp2/cmd/ekta/j1105+6022.cmd
+10:50  Command file stopped.
+10:53  started scan on 3C286 for 10mins.
+11:05  Observation stopped.
+

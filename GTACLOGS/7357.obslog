@@ -1,0 +1,62 @@
+		 GTAC Observation Log
+
+1. Date : 17/09/2014
+2. Observation Sr. No. : 7357
+3. Observer : ARUN KUMAR NAIDU, BHAL CHANDRA JOSHI, Periasamy K. Manoharan
+4. Observer's Email : arun@ncra.tifr.res.in, bcj@ncra.tifr.res.in, mano@ncra.tifr.res.in
+5. Project Name : Simultaneous dual frequency single pulse observations of four drifting pulsars
+6. Project Code : 26_056
+7. Operator(s) : Nilesh, Sachin, Shilpa
+8. Command File : /odisk/gtac/cmd/arun/obs2.cmd
+9. LTA File : /gsbifrdata/17sep/26_056_17sep2014.lta
+10. LogFlag File : /odisk/online1/logflags/26_056.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : IA
+22. Beam - 2 : PA
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 306 306 255 255 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :28
+
+32. Name of Non-Working Antennas (with reason for each) :
+C11 : All MCM time out.
+S04 : MCM 0,2 time out.
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 17 Sep 2014 01:00:00 - 17 Sep 2014 10:18:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :27
+
+37. Comments (During Observations) :
+01:00 : Started settings for observation.
+01:32 : Power Eq on 3C147 @ 200 counts done.
+01:45 : Phasing on 3C147 done, started observation.
+
+02:45 : node34 - /mnt/pulsar/gsbuser disk gives I/O Error.
+
+02:55 : Changed data dir to /mnt/a/gsbuser for both node33 and node34.
+03:00 : S03 not fringing.
+10:18 : Stopped command file and observing session over.

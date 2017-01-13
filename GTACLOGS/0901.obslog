@@ -1,0 +1,46 @@
+1. Date : 16/12/2002
+2. Observation Sr. No. : 0901
+3. Observer : Prof. G. Swarup
+4. Observer's Email : gswarup@ncra.tifr.res.in
+5. Project Name : 3C268
+6. Project Code : 03GSA01
+7. Operator(s) : Mangesh,
+	
+8. Command File : /temp2/data/cmd/sirothia/3c268b.cmd
+9. LTA File : /rawdata/16dec/03gsa01_3c268_HI.lta
+10. LogFlag File : /temp2/data/logflags/03GSA01.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1037 MHz ,RF2 : 1037 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1105 MHz, ILO2 : 1105 MHz, IVLO1 : 68 MHz, IVLO2 : 68 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 8+8 dB, 16 MHz,ON, IF-CH2 : 8+8 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 4000 KHz, 6 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 2
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1037 1037 1105 1105 68 68 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+W04 : MCM 2,3,5,9 time outs.
+S03 : MCM 5 time out.
+W06 : Large RFI accross band
+
+21. Start and End Time of Obs.(IST): 00:45 - 09:15
+
+22. Comments (During Observations) :
+00:45  Started a scan on 3c147.
+01:15  Stopped the scan on 3c147.
+01:20  Started the command file.
+       C02(-C09) showing phase jumps in tax output.
+01:31  E02 had applied brakes for 2 minutes.
+05:12  Found that C13 got reset. Reset it.
+09:00  Stopped the command file. Antennas moved to soruce 3C286.
+09:07  Scan started on 3C286.
+09:15  Stopped the scan. Stopped the observation.
+

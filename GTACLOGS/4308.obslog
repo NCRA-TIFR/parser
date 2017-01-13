@@ -1,0 +1,64 @@
+		 GTAC Observation Log 
+
+1. Date : 24/05/2009
+2. Observation Sr. No. : 4308
+3. Observer : Sandeep Sirothia
+4. Observer's Email : sirothia@ncra.tifr.res.in
+5. Project Name : Survey
+6. Project Code : 16_279
+7. Operator(s) : Deepak,
+	Jayprakash,
+	Manisha,
+	Navanath,
+	Nilesh,
+	Sachin,
+	
+8. Command File : /odisk/gtac/cmd/sirothia/16_279_24may09.cmd
+9. LTA File : /rawdata/24may/16_279_24may09.lta,
+	/rawdata1/24may/16_279_24may09.ltb
+	
+10. LogFlag File : /odisk/online1/logflags/16_279.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 218 MHz, ILO2 : 218 MHz, IVLO1 : 62 MHz, IVLO2 : 62 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:255:1
+17. Frequency Parameters (TPA) : 156 156 218 218 62 62 
+
+18. Integration Time : 16 LTA ~ 2.114 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+E06 : Servo problem.
+C12 : Phase unstable.
+W04 : Feed Jam.
+S04X(C00,C01),S06X(C00,C01,C02,C03),W01X(C09,C10,C11,C12) bad baselines in USB.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 21:00 - 09:20
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : UsbHighRes
+
+25. Comments (During Observations) :
+21:18 : Started scan on 3c286 for 15 min.
+21:48 : Started command file.
+        /odisk/gtac/cmd/sirothia/16_279_24may09.cmd
+
+07:30 : C08 getting ABC reset because of Low Voltage.
+07:40 : S01 servo time out.
+08:00 : few csq antennas getting reset because of low voltage.
+08:15 : command file stopped.
+08:27 : started scan on 3C48 ~30 mins.
+09:20 : stopped scan & observation session.
+
+

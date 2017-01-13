@@ -1,0 +1,76 @@
+		 GTAC Observation Log 
+
+1. Date : 06/08/2010
+2. Observation Sr. No. : 4999
+3. Observer : Ujjwal Kumar
+4. Observer's Email : ujjwal@ncra.tifr.res.in
+5. Project Name : Pulsar Observation
+6. Project Code : 18_068
+7. Operator(s) : Rupsingh,
+	
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /rawdata/6aug/18_068_325_suba2_06aug10.lta,
+	/rawdata1/6aug/18_068_325_suba2_06aug10.ltb,
+	/rawdata/6aug/18_068_610_suba4_06aug10.lta,
+	/rawdata1/6aug/18_068_610_suba4_06aug10.ltb
+10. GSB File : /gsbifrdata/6aug/18_068_sub2_gsb.lta.1,
+	/gsbifrdata/6aug/18_068_sub4_gsb.lta.1
+11. LogFlag File : /odisk/online1/logflags/SUBA4.FLAGS.58,
+	/odisk/online1/logflags/SUBA2.FLAGS.52,
+	
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+4 dB, 32 MHz,OFF, IF-CH2 : 20+4 dB, 32 MHz,OFF
+15. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+E02 : Feed jam.
+E05 : No Fringe.
+S01 : MCM-0,2 time out.
+21. Note for Backup :--
+
+22. Start and End Time of Obs.(IST): 18:30 - 22:30
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+
+Suba 2 @ 325MHz
+C01 C02 C03 C05 C10 C12 C13 E02 S01 W01
+
+suba 4 @ 610MHz
+C00 C04 C06 C08 C09 C11 C14 E03 E04 E05 E06 S02 S03 S04 S06 W02 W03 W04 W05 W06
+-------------------------------------------------------------------------------
+
+18:30 : Started power eq. @ IF-600 & BB-1000 counts(3C286).
+18:45 : Power eq. done.
+18:46 : Started phasing(1822-096).
+17:10 : Phasing done.
+17:11 : Started observation
+        J1939+2134
+        J1713+0747
+        B1642-03
+        J1643-1224
+        1822-096(phase is ok)
+        J1744-1134.
+        J1730-2304.
+        J1909-3744.
+        J1730-2304.
+        J2145-0750.
+        B1642-03.
+22:30 : Stopped scan & observation closed.
+
+

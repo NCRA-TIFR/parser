@@ -1,0 +1,63 @@
+		 GTAC Observation Log
+
+1. Date : 10/11/2015
+2. Observation Sr. No. : 8160
+3. Observer : Bhaswati Bhattacharyya, Jayanta Roy, Ben Stappers, Michael Keith, Sally Cooper, Mateusz Malenta, Maura Ann McLaughlin, Duncan Ross Lorimer, Paul Ray, Scott M. Ransom, Jayaram Narayanan Chengalur
+4. Observer's Email : bhaswati.bhattacharyya@manchester.ac.uk, jayanta.roy@manchester.ac.uk, Ben.Stappers@manchester.ac.uk, mkeith@pulsarastronomy.net, sally.cooper@postgrad.manchester.ac.uk, mateusz.malenta@student.manchester.ac.uk, maura.mclaughlin@mail.wvu.edu, Duncan.Lorimer@mail.wvu.edu, paul.ray@nrl.navy.mil, sransom@nrao.edu, chengalur@ncra.tifr.res.in
+5. Project Name : Regular timing of the pulsars discovered in the GMRT High Resolution Southern Sky (GHRSS) survey
+6. Project Code : 29_026
+7. Operator(s) : Navnath
+8. Command File : /odisk/gtac/cmd/jroy/29_026_8nov.1.cmd
+9. LTA File : /gsbifrdata/10nov/29_026_10nov2015_2s.lta, /gsbifrdata1/10nov/29_026_10nov2015.lta
+10. LogFlag File : /odisk/online1/logflags/29_026.FLAGS.9
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,OFF, IF-CH2 : 4+14 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : PA
+22. Beam - 2 : PA
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 306 306 255 255 51 51
+30. Integration Time : 2.0132 Sec
+31. No of Antennas Working(Fringing) at the beginning :28
+
+32. Name of Non-Working Antennas (with reason for each) :
+C11 : : Feed at L Band
+W03 : : BLDC work
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 10 Nov 2015 18:00:00 - 10 Nov 2015 19:35:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :27
+
+37. Comments (During Observations) :
+17:00 : Started setup.
+17:15 : Started power eq.
+17:40 : Phasing done.
+17:59 : Started cmd file.
+
+         /odisk/gtac/cmd/jroy/29_026_8nov.1.cmd
+18:15 : S03 stowed.
+19:35 : Observation session closed.
+------------------------------------------------------

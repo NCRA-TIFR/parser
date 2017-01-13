@@ -1,0 +1,64 @@
+		 GTAC Observation Log 
+
+1. Date : 30/03/2003
+2. Observation Sr. No. : 1022
+3. Observer : Prof. SAK
+4. Observer's Email : ananth@ncra.tifr.res.in
+5. Project Name : Sun 1280 MHz.
+6. Project Code : 03PSA01
+7. Operator(s) : Deepak,
+	Manish G.,
+	Jayprakash,
+	Jitendra,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/psubrama/sun1280.cmd
+9. LTA File : /rawdata/30mar/03psa01_sun0027_2s.lta,
+	/rawdata/30mar/03psa01_sun0031_2s.lta,
+	/rawdata/30mar/03psa01_sun0034_2s.lta,
+	/rawdata/30mar/03psa01_sun0038_2s.lta,
+	/rawdata/30mar/03psa01_sun0042_2s.lta,
+	/rawdata/30mar/03psa01_sun0046_2s.lta,
+	/rawdata/30mar/03psa01_sun0049_2s.lta,
+	/rawdata/30mar/03psa01_sun0053_2s.lta,
+	/rawdata/30mar/03psa01_sun0057_2s.lta,
+	/rawdata/30mar/03psa01_sun3003.lta,
+	/rawdata/30mar/03psa01_sun3003.lta.1
+10. LogFlag File : /btemp2/logflags/03PSA01.FLAGS.6
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1280 MHz ,RF2 : 1280 MHz, SA1 : 30 dB, SA2 : 30 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1210 MHz, ILO2 : 1210 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 6+6 dB, 32 MHz,ON, IF-CH2 : 6+6 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1280 1280 1210 1210 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C03 : Servo Time Out.
+S06 : No fringe 
+
+21. Start and End Time of Obs.(IST): 08:35 - 17:50
+
+22. Comments (During Observations) :
+**** ONLINE ON BHASKAR ****
+----------------------------
+IF Attn Authentified.
+08:35 : Flux cal scan started on 3C48 source
+08:55 : Flux cal scan stopped.
+09:19 : Command file started.
+10:56 : New record file started.
+11:10 : C04 flat band shape.
+14:40 : C04 released for servo.
+17:30 : stopped command file .
+17:35 : started scan on 3C48 for 15 minutes.
+17:50 :stopped observation.
+

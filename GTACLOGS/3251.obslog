@@ -1,0 +1,53 @@
+		 GTAC Observation Log 
+
+1. Date : 13/07/2007
+2. Observation Sr. No. : 3251
+3. Observer : Bhashawati
+4. Observer's Email : bhaswati@ncra.tifr.res.in
+5. Project Name : PSR OBS
+6. Project Code : 12BBB01
+7. Operator(s) : Jayprakash,
+	Navanath,
+	Nilesh,
+	Sachin,
+	
+8. Command File : /btemp2/cmd/hold.cmd
+9. LTA File : /rawdata/13jul/12bbb01_13jul2007.lta
+10. LogFlag File : /btemp2/logflags/12BBB01.FLAGS.7
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1170 MHz ,RF2 : 1170 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1100 MHz, ILO2 : 1100 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 6+0 dB, 32 MHz,OFF, IF-CH2 : 6+0 dB, 32 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1170 1170 1100 1100 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+W01 : low fringe.
+S06 : low fringe.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 20:30 - 03:34
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar  *********
+---------------------------------------------
+20:30 : Started sttings for 12BBB01 
+-----Power eq-----
+      : IF and base band power equ. on fulx cal.
+-----Phasing------
+21:15 : Started phasing scan on 1822-096.
+21:28 : Started scan on pulsar.
+03:34 : Stopped observation.
+

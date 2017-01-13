@@ -1,0 +1,116 @@
+		 GTAC Observation Log 
+
+1. Date : 12/02/2004
+2. Observation Sr. No. : 1342
+3. Observer : Poonam Chandra.
+4. Observer's Email : poonam@tifr.res.in
+5. Project Name : RECENT SUPERNOVA
+6. Project Code : 05PCA02
+7. Operator(s) : Mangesh,
+	Manish G.,
+	Manisha J.,
+	Jitendra,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/poonam/13feb04/sn1979c.cmd,
+	/btemp2/cmd/poonam/13feb04/sn2001gd.cmd,
+	/btemp2/cmd/poonam/13feb04/sn1995n.cmd,
+	/btemp2/cmd/poonam/13feb04/sn2001em.cmd,
+	/btemp2/cmd/poonam/13feb04/sn2001ig.cmd,
+	/btemp2/cmd/poonam/13feb04/sn2003gd.cmd
+9. LTA File : /rawdata/12feb/05pca02_sn1979c.lta,
+	/rawdata1/12feb/05pca02_sn1979c.ltb,
+	/rawdata/13feb/05pca02_sn2001gd.lta,
+	/rawdata1/13feb/05pca02_sn2001gd.ltb,
+	/rawdata/13feb/05pca02_sn1995n.lta,
+	/rawdata1/13feb/05pca02_sn1995n.ltb,
+	/rawdata/13feb/05pca02_sn2001em.lta,
+	/rawdata1/13feb/05pca02_sn2001em.ltb,
+	/rawdata/13feb/05pca02_sn2001ig.lta,
+	/rawdata1/13feb/05pca02_sn2001ig.ltb,
+	/rawdata/13feb/05pca02_sn2003gd.lta,
+	/rawdata1/13feb/05pca02_sn2003gd.ltb
+10. LogFlag File : /btemp2/logflags/05PCA02.FLAGS.6
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1280 MHz ,RF2 : 1280 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1210 MHz, ILO2 : 1210 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1280 1280 1210 1210 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+C13 : No fringe.
+E02 : No fringe.
+W05 : Painting.
+W06 : Freq ABC T.O. error
+
+
+21. Start and End Time of Obs.(IST): 23:24 - 00:00
+
+22. Comments (During Observations) :
+*** ONLINE  : bhaskar ****
+*** IF ATTH : authif@1280 ***
+===============================================
+23:24 : Started record on 3c147.
+23:36 : Stopped record on 3c147.
+23:48 : Started cmd file sn1979c.cmd
+02:20 : Stopped cmd file.
+02:25 : C05 ABC T.O.
+02:35 : New record started, 05pca02_sn2001gd.lta,05pca02_sn2001gd.ltb
+02:36 : Started cmd file sn2001gd.cmd
+02:42 : C05 recovered automatically.
+02:47 : Closed file 05pca02_sn1979c.lta & 05pca02_sn1979c.ltb
+05:05 : Started record in file 05pca02_sn1995n.lta,05pca02_sn1995n.ltb
+05:17 : Stopped record file 05pca02_sn2001gd.lta,05pca02_sn2001gd.ltb
+05:26 : Started cmd file sn1995n.cmd'
+07:57 : stopped command file.
+08:02 : started scan on 3C286 ~10mins.
+	started new ltafiles :
+	/rawdata/13feb/05pca02_sn2001em.lta
+	/rawdata1/13feb/05pca02_sn2001em.ltb
+08:27 : command file /temp2/data/cmd/poonam/13feb04/sn2001em.cmd
+	started. previous ltafiles closed.
+08:55 : C01 parked for Painting.
+11:15 : stopped commnand file.
+11:20	started scan on 3C48 ~10mins.
+	started new ltafiles :
+	/rawdata/13feb/05pca02_sn2001ig.lta,
+	/rawdata1/13feb/05pca02_sn2001ig.ltb
+11:40	started command file /temp2/data/cmd/poonam/13feb04/sn2001ig.cmd
+	previous ltafiles closed.
+14:07	stopped command file.
+14:13	started scan on 3C48 ~10mins.
+	started new ltafiles :
+	/rawdata/13feb/05pca02_sn2003gd.lta
+	/rawdata1/13feb/05pca02_sn2003gd.ltb
+14:15	In USB C02 cross with E-arm and S-arm antennas
+	giving high cross.
+	stopped das, ran corr_config.
+14:17	restarted scan on 3C48.
+	problem of high cross solved.
+14:30	started command file /temp2/data/cmd/poonam/13feb04/sn2003gd.lta
+	previous ltafile closed.
+
+17:05   scan#11 Bad , source at transit.
+17:10   scan started manually.
+17:35   scan stopped.
+17:41   scan started for phase cal 
+(phase cal is at transit)
+17:48   scan stopped.
+17:51   command file started.
+19:04   command file stopped.
+19:06   flux cal scan started.
+19:16   scan stopped & project over.
+
+
+

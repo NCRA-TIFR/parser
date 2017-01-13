@@ -1,0 +1,66 @@
+		 GTAC Observation Log 
+
+1. Date : 12/02/2005
+2. Observation Sr. No. : 1878
+3. Observer : Ramana
+4. Observer's Email : rathreya@gmrt.tifr.res.in
+5. Project Name : RED QSO
+6. Project Code : 07SCA01
+7. Operator(s) : Jayprakash,
+	Jitendra,
+	Sachin,
+	
+8. Command File : /btemp2/cmd/rathreya/redqso4.cmd
+9. LTA File : /rawdata/12feb/07sca01_0114+074.lta
+10. LogFlag File : /btemp2/logflags/07SCA01.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1238.44 MHz ,RF2 : 1238.44 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1170 MHz, ILO2 : 1170 MHz, IVLO1 : 68.44 MHz, IVLO2 : 68.44 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 16 MHz,ON, IF-CH2 : 12+12 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1238.44 1238.44 1170 1170 68.44 68.44 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C12 : Painting.
+C14 : Phase not stable, also amplitude flucuations.
+
+21. Start and End Time of Obs.(IST): 14:20 - 21:35
+
+22. Comments (During Observations) :
+******ONLINE:BHASKAR********
+****** AUTHIF @ 1280 MHz ******
+****************************
+14:20 : Started scan on 3c48.
+14:33 : Stopped the sca.
+14:50 : Started the command file
+        /btemp2/rathreya/redqso4.cmd.
+16:50 : Due to transit of the phase cal stopped command file.
+16:53 : Started record on phase cal for 5mins.
+16:58 : Stopped the scan on phase cal.
+16:58 : To save the time while setting the sources 
+edited command file,with change in the tracks i.e.
+inner to outer.
+17:09 : Started scan on 3c48 for 10mins.
+17:19 : Stopped scan on 3c48.
+17:25 : Started same command file.
+19:32 : Stopped the command file.
+19:35 : Started scan on 3c48 for 10mins.
+19:45 : Stopped scan on 3c48.
+19:47 : Started command file.
+21:16 : Stopped command file.
+21:20 : Started scan on 3c48 for 15mins.
+21:35 : Stopped scan & closed observation.
+
+
+
+

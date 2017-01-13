@@ -1,0 +1,56 @@
+		 GTAC Observation Log 
+
+1. Date : 19/05/2008
+2. Observation Sr. No. : 3741
+3. Observer : L Chomiuk
+4. Observer's Email : chomiuk@astro.wisc.edu,sengupta@ncra.tifr.res.in
+5. Project Name : N2366_20cm
+6. Project Code : 14LCA01
+7. Operator(s) : Deepak,
+	Nilesh,
+	Sachin,
+	
+8. Command File : /odisk/gtac/cmd/14lca01/laura-may2008.cmd
+9. LTA File : /rawdata/19may/14lca01_19may2008.lta,
+	/rawdata1/19may/14lca01_19may2008.ltb
+10. LogFlag File : /odisk/online1/logflags/14LCA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1390 MHz ,RF2 : 1390 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1320 MHz, ILO2 : 1320 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1390 1390 1320 1320 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :24
+
+20. Name of Non-Working Antennas (with reason for each) :
+C04 - Painting.
+C14 - Low fringe.
+S01 - phase unstable.
+W01 - phase unstable.
+W03 - ABC time out.
+W04 - Painting.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 11:45 - 21:10
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+11:45 : started settings.
+11:57 : started scan on flux cal for 10 min.
+12:12 : cmd file started.
+20:48 : Stopped command file.
+20:55 : Started scan on 3C286 for 15 mins.
+21:10 : Stopped scan and observation session.
+

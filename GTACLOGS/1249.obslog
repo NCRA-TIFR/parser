@@ -1,0 +1,56 @@
+		 GTAC Observation Log 
+
+1. Date : 28/12/2003
+2. Observation Sr. No. : 1249
+3. Observer : J N Chengalur, Ayesha Begum
+4. Observer's Email : chengalu@ncra.tifr.res.in,ayesha@ncra.tifr.res.in
+5. Project Name : SDF
+6. Project Code : 05JNC01
+7. Operator(s) : Manish G.,
+	Manisha J.,
+	Jayprakash,
+	
+8. Command File : /btemp2/cmd/chengalu/sdf.cmd
+9. LTA File : /rawdata/28dec/05jnc01_28dec03.lta,
+	/rawdata1/28dec/05jnc01_28dec03.ltb
+10. LogFlag File : /btemp2/logflags/05JNC01.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1150 MHz ,RF2 : 1150 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1080 MHz, ILO2 : 1080 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+10 dB, 32 MHz,ON, IF-CH2 : 10+10 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1150 1150 1080 1080 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C12 : Feed jammed(not in focus)
+E02 : ABC Time outs.
+W05 : 175 chan. no fringe
+
+
+21. Start and End Time of Obs.(IST): 00:31 - 09:30
+
+22. Comments (During Observations) :
+**** ONLINE ON BHASKAR  ****
+***** AUTHIF @ 1170 MHz ****
+------------------------------
+00:31	started scan on 3C48 ~ 15mins.
+00:50	command file started.
+01:00	W02 applied brakes in Az. (+afl flag).
+07:14   C00 got telemetry reset.
+07:21   After initialising ABC C00 started working.
+08:45   W05 parked for painting.
+09:02   Stopped command file.
+09:04   Started scan on phase cal. 1130-148 for 7min.
+09:15   Started scan on 3c286 for 15min.
+09:30   Stopped scan & closed the obs.
+

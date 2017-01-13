@@ -1,0 +1,67 @@
+		 GTAC Observation Log 
+
+1. Date : 10/07/2005
+2. Observation Sr. No. : 2113
+3. Observer : B C Joshi
+4. Observer's Email : bcj@ncra.tifr.res.in
+5. Project Name : Pulsar Obs.
+6. Project Code : 08BCJ01
+7. Operator(s) : Jitendra,
+	Manish G.,
+	Manisha J.,
+	
+8. Command File : /atemp2/cmd/hold.cmd
+9. LTA File : /rawdata/10jul/08bcj01_10jul.lta,
+	/rawdata1/10jul/08bcj01_10jul.ltb
+10. LogFlag File : /atemp2/logflags/08BCJ01.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 18+18 dB, 32 MHz,OFF, IF-CH2 : 18+18 dB, 32 MHz,OFF
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+C13 : servo problem.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 06:00 - 13:00
+
+23. Comments (During Observations) :
+***************************************
+------- ONLINE : Adiyta ---------------
+-------- IF & BB Power Equalised ------
+***************************************
+
+06:15 : IF & BB Power Equalised on source J0218+4232.
+07:16 : scan stopped.
+07:24 : Scan started on 3C48 for ~20 min.
+07:54 : Phasing done on scan#2
+        scan#3 - 3C48 ON
+        scan#4 - 3C48 OFF
+09:01 : HLPSR14 : TEST
+09:03 : Scan#6,7,8,9 Phasing and on off done
+        on 3C147.
+10:02 : scan#10 B0740-28 Psr test
+10:10 : Scan#11 HLPSR14
+10:22 : 0837-198 Phasing, scan#12,13
+10:38 : HLPSR14 Scan for on hour.
+11:22 : 0837-198 Phasing checked.
+11:34 : HLPSR14 scan#16
+11:52 : Scan#17,18,19 - Phasing done on 0827-198
+12:23 : Scan#20 B040-28
+12:27 : HLPSR14
+13:00 : SCan stopped and project over.
+

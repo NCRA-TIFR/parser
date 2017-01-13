@@ -1,0 +1,56 @@
+		 GTAC Observation Log 
+
+1. Date : 29/06/2009
+2. Observation Sr. No. : 4375
+3. Observer : J Roy
+4. Observer's Email : jroy@ncra.tifr.res.in
+5. Project Name : B2217+47
+6. Project Code : 16_132
+7. Operator(s) : Manisha,
+	Navanath,
+	Rupsingh,
+	Sachin,
+	
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /rawdata/29jun/16_132_29jun2009.lta,
+	/rawdata1/29jun/16_132_29jun2009.ltb
+10. LogFlag File : /odisk/online1/logflags/16_132.FLAGS,
+	/odisk/online1/logflags/16_132.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 218 MHz, ILO2 : 218 MHz, IVLO1 : 62 MHz, IVLO2 : 62 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+4 dB, 16 MHz,OFF, IF-CH2 : 16+4 dB, 16 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 156 156 218 218 62 62 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+E04 : servo problem
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 00:02 - 09:25
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : UsbPolar
+
+25. Comments (During Observations) :
+00:02 : Started setup.
+Noise source on : Low cal -> 25% duty cycle.
+
+C00,C14,W01,S04,E03,E05 : 610 Feed focus + 150 MHz feed 
+towards CEB, parked.
+
+01:14 : started scan on B2217+47.
+
+09:25 : Stopped scan and observation session
+

@@ -1,0 +1,97 @@
+		 GTAC Observation Log 
+
+1. Date : 26/11/2009
+2. Observation Sr. No. : 4614
+3. Observer : Ramana Athreya
+4. Observer's Email : rathreya@iiserpune.ac.in
+5. Project Name : 0036-216
+6. Project Code : 17_009
+7. Operator(s) : Nilesh,
+	Sachin,
+	
+8. Command File : /odisk/gtac/cmd/nissim/0036-216_ramana.cmd,
+	/odisk/gtac/cmd/rathreya/17c009b.cmd
+9. LTA File : /rawdata/26nov/17_009_26nov2009.lta,
+	/rawdata1/26nov/17_009_26nov2009.ltb,
+	/rawdata/26nov/17_009_26nov2009.lta.1,
+	/rawdata1/26nov/17_009_26nov2009.ltb.1,
+	/rawdata/26nov/17_009_26nov2009.lta.2,
+	/rawdata1/26nov/17_009_26nov2009.ltb.2
+10. LogFlag File : /odisk/online1/logflags/17_009.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1057.3 MHz ,RF2 : 1057.3 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 990 MHz, ILO2 : 990 MHz, IVLO1 : 67.3 MHz, IVLO2 : 67.3 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+14. BB BW(KHz) & BB ALC : 8000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:255:1
+17. Frequency Parameters (TPA) : 1057.3 1057.3 990 990 67.3 67.3 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+E05 - Servo maintenance.
+C13 - ABC time-out.
+W05 - Fringe fluctuations.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 18:45 - 23:55
+
+23. ONLINE Machine : Lenyadri
+
+24. Correlator Mode : UsbHighRes
+
+25. Comments (During Observations) :
+18:40 : Started settings.
+
+Command file : /odisk/gtac/cmd/nissim/0036-216_ramana.cmd
+Source list  : /odisk/gtac/source/nk.list
+
+RF	   	: 1060 
+Edge frequency 	: 1057.3 MHz
+LO(1)          	: 990 MHz
+LO(4)		: 67.3 MHz
+IF BW		: 16 MHz
+Baseband BW 	: 8 MHz
+Correlator	: Indian polar
+
+tpa 1057.3 1057.3 990 990 67.3 67.3
+*************************************************
+GSB data file : 
+/gsbifrdata/26nov/17_009_26nov09_gsb.lta,
+/gsbifrdata/26nov/17_009_26nov09_gsb.lta.1,
+/gsbifrdata/26nov/17_009_26nov09_gsb.lta.2,
+*************************************************
+19:14 : Started scan on 3c48.
+19:40 : Das Halted, Changed corr mode to USBHighRes.
+19:50 : Started command file.
+20:51 : C14 got ABC reset.
+21:04 : C14 started working.
+21:08 : Stopped command file.
+21:10 : Changed settings.
+
+RF	   	: 1170 
+Edge frequency 	: 1154.78 MHz
+LO(1)          	: 1090 MHz
+LO(4)		: 64.78 MHz
+IF BW		: 16 MHz
+Baseband BW 	: 8 MHz
+
+tpa 1154.78 1154.78 1090 1090 64.78 64.78 
+*************************************************
+GSB data file : 
+/gsbifrdata/26nov/17_009_26nov09_gsb.lta.3
+*************************************************
+21:16 : Started next command file.
+        '/odisk/gtac/cmd/rathreya/17c009b.cmd'.
+
+23:40 : Stopped command file.
+23:45 : Started scan on 3C48 for 10 mins.
+23:55 : Stopped scan and observation session.
+

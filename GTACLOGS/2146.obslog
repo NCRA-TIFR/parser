@@ -1,0 +1,47 @@
+		 GTAC Observation Log 
+
+1. Date : 26/07/2005
+2. Observation Sr. No. : 2146
+3. Observer : B.C. Joshi
+4. Observer's Email : bcj@ncra.tifr.res.in
+5. Project Name : pulsar obs.
+6. Project Code : 08MMA01
+7. Operator(s) : Deepak,
+	
+8. Command File : /atemp2/cmd/bcj/lpsr.260705.cmd
+9. LTA File : /rawdata/26jul/08mma01_26jul.lta,
+	/rawdata1/26jul/08mma01_26jul.ltb
+10. LogFlag File : /atemp2/logflags/08MMA01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,OFF, IF-CH2 : 16+16 dB, 32 MHz,OFF
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, OFF
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C09 - Power jumps in IF.
+S01 - MCM 5 time out.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 01:18 - 07:00
+
+23. Comments (During Observations) :
+***************************************
+------- ONLINE: adiyta ----------------
+------- power eq @ 610MHz ---------
+***************************************
+
+

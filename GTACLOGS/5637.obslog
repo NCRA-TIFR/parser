@@ -1,0 +1,63 @@
+		 GTAC Observation Log 
+
+1. Date : 15/11/2011
+2. Observation Sr. No. : 5637
+3. Observer : Kshitiz Mallick, Devendra Kumar Ojha
+4. Observer's Email : kshitiz@tifr.res.in,ojha@tifr.res.in
+5. Project Name : Radio continuum study of W40 star-forming complex 
+6. Project Code : 21_015
+7. Operator(s) : Manisha,
+	Navanath,
+	Rupsingh,
+	Sachin,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/21_015/21_015_15nov11.cmd
+9. LTA File : /gsbifrdata/15nov/21_015_15nov2011.lta
+10. LogFlag File : /odisk/online1/logflags/21_015.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1261 MHz ,RF2 : 1261 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1210 MHz, ILO2 : 1210 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 14+10 dB, 32 MHz,OFF, IF-CH2 : 14+10 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : OFF 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 512 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 1261 1261 1210 1210 51 51.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :28
+
+27. Name of Non-Working Antennas (with reason for each) :
+W06 : Painting.
+S02 : Painting.
+C09-130 : Low fringe.
+
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 10:00 - 20:00
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+10:45 : started power equalising on W40.
+11:10   Power Eq. done on W40 @ 300 counts.
+11:14 : Started scan on 3C286 ~ 10mins.
+11:30 : Command file started.
+16:55 : S02 released for observation.
+18:26 : W06 released for observation.
+19:35 : Stopped command file.
+19:44 : Started scan on 3C48.
+20:00 : Stopped scan & observation session over.
+

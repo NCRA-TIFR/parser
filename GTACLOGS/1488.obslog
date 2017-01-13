@@ -1,0 +1,61 @@
+		 GTAC Observation Log 
+
+1. Date : 30/04/2004
+2. Observation Sr. No. : 1488
+3. Observer : SANDEEP
+4. Observer's Email : sirothia@ncra.tifr.res.in
+5. Project Name : 1428+422
+6. Project Code : 05GSA01
+7. Operator(s) : Manish G.,
+	
+8. Command File : /btemp2/cmd/sirothia/1428.cmd
+9. LTA File : /rawdata/30apr/05gsa01_1428.lta,
+	/rawdata1/30apr/05gsa01_1428.ltb
+10. LogFlag File : /btemp2/logflags/05GSA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 246.5 MHz ,RF2 : 246.5 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 319 MHz, ILO2 : 319 MHz, IVLO1 : 72.5 MHz, IVLO2 : 72.5 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 14+14 dB, 16 MHz,ON, IF-CH2 : 14+14 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 4000 KHz, 6 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 2
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 246.5 246.5 319 319 72.5 72.5 
+
+18. Integration Time : 32 STA ~ 4.227 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+C06: Not available.
+W02-LSB-175 : No self, no fringe.
+
+21. Start and End Time of Obs.(IST): 17:37 - 03:10
+
+22. Comments (During Observations) :
+ONLINE: bhaskar
+AUTHIF: 235 MHz
+-------------------------------------
+
+17:37  Started scan on 3C147.
+17:58  Stopped the scan.
+18:05  Started scan on 3C147.
+       Changed LO1 and LO4 to resolve RFI cause.
+       Resetting done to above mentioned values.
+18:32  Stopped the scan. Antennas moved to 3C286.
+18:37  Started scan on 3C286.
+18:55  Stopped the scan. MAC reset done by Kiran.
+19:00  Started command file:
+         /btemp2/cmd/sirothia/1428.cmd
+23:14  Power glitch occured , command file & scan
+       stopped.
+
+00:01  command file started.
+       C02,W05 not fringing , after power failure.
+02:51  command file stopped.
+02:54  flux cal scan started for 15m
+03:15  scan stopped & project over.
+

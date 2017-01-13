@@ -1,0 +1,51 @@
+		 GTAC Observation Log 
+
+1. Date : 06/08/2007
+2. Observation Sr. No. : 3298
+3. Observer : nirupam
+4. Observer's Email : nirupam@ncra.tifr.res.in
+5. Project Name : 2321-163
+6. Project Code : 12NKA01
+7. Operator(s) : Jayprakash,
+	
+8. Command File : /btemp2/cmd/nissim/2358-102.cmd
+9. LTA File : /rawdata/5aug/12nka01_05aug07.lta.3,
+	/rawdata1/5aug/12nka01_05aug07.ltb.3,
+	
+10. LogFlag File : /btemp2/logflags/12NKA01.FLAGS.7
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 653.25 MHz ,RF2 : 653.25 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 585 MHz, ILO2 : 585 MHz, IVLO1 : 68.25 MHz, IVLO2 : 68.25 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 6 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 1000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:255:1
+17. Frequency Parameters (TPA) : 653.25 653.25 585 585 68.25 68.25 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+W2,W3,W4,W5,W6 - USB : No fringe.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 23:57 - 05:35
+
+23. Comments (During Observations) :
+-------------------------------------------------
+******** ONLINE Machine : Bhaskar        ******* 
+******** Corr Mode : USB High resolution.*******
+-------------------------------------------------
+
+23:57 : Started scan on 3c48 for 10min.
+00:07 : Stopped the scan.
+00:20 : Started the command file.
+05:12 : Stopped the command file.
+05:20 : Started scan on 3c48.
+05:35 : Stopped the scan & obs. session.
+

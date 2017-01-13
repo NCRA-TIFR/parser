@@ -1,0 +1,69 @@
+		 GTAC Observation Log
+
+1. Date : 15/01/2016
+2. Observation Sr. No. : 8332
+3. Observer : Nissim Kanekar, Sambit Roychowdhury, Jason X. Prochaska, Jayaram Narayanan Chengalur, Marcel Neeleman, Tapasi Ghosh
+4. Observer's Email : nkanekar@ncra.tifr.res.in, sambit@mpa-garching.mpg.de, xavier@ucolick.org, chengalur@ncra.tifr.res.in, mneeleman@physics.ucsd.edu, tghosh@naic.edu
+5. Project Name : Mapping HI 21cm emission from low-redshift damped Lyman-alpha systems.
+6. Project Code : 29_075
+7. Operator(s) : Sachin, Shilpa, Surender
+8. Command File : /odisk/gtac/cmd/nissim/j0951\+3307.cmd
+9. LTA File : /gsbifrdata/14jan/29_075_14jan2016.lta
+10. LogFlag File : /odisk/online1/logflags/29_075.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1406 MHz ,RF2 : 1406 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1345 MHz, ILO2 : 1345MHz , IVLO1 : 61 MHz, IVLO2 : 61 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 16 MHz,ON, IF-CH2 : 4+14 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_lenyadri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 16.666666 MHz; Step # 
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 139
+28. LO5 -2  : 166
+
+29. Frequency Parameters (TPA) : 1406 1406 1345 1345 61 61
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :26
+
+32. Name of Non-Working Antennas (with reason for each) :
+C03 : BLDC.
+C06 : MCM-14 timed out. Feed not rotated.
+C09 : ABC time out.
+C12 : Feed cage painting.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 14 Jan 2016 23:00:00 - 15 Jan 2016 09:04:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :25
+
+37. Comments (During Observations) :
+23:19 : Setup completed and started command file.
+05:49 : W06 fringe vanished.
+
+06:47 : W03 ABC timed out.
+06:54 : W03 got ABC reset.
+07:38 : W03 started working.
+
+08:24 : Stopped command file.
+
+08:27 : Started scan on 3C286.
+09:04 : Stopped scan and observing session over.
+
+

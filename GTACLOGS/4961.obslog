@@ -1,0 +1,65 @@
+		 GTAC Observation Log 
+
+1. Date : 13/07/2010
+2. Observation Sr. No. : 4961
+3. Observer : Ujjwal Kumar
+4. Observer's Email : ujjwal@ncra.tifr.res.in
+5. Project Name : Pulsar Observation
+6. Project Code : 18_068
+7. Operator(s) : Nilesh,
+	Rupsingh,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /rawdata/13jul/18_068_13jul10_sub4.lta,
+	/rawdata1/13jul/18_068_13jul10_sub4.ltb,
+	/rawdata/13jul/18_068_13jul10_sub2.lta,
+	/rawdata1/13jul/18_068_13jul10_sub2.ltb,
+	
+10. GSB File : /gsbifrdata/13jul/18_068_suba4_gsb.lta.2,
+	/gsbifrdata/13jul/18_068_suba2_gsb.lta.2,
+	
+11. LogFlag File : /odisk/online1/logflags/SUBA2.FLAGS.10,
+	/odisk/online1/logflags/SUBA4.FLAGS.13
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+4 dB, 32 MHz,OFF, IF-CH2 : 20+4 dB, 32 MHz,OFF
+15. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+C01 : Servo problem
+21. Note for Backup :--
+
+22. Start and End Time of Obs.(IST): 21:00 - 00:00
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+# SUBA 2  RF= 325MHZ # 
+# C01 C02 C03 C05 C10 C12 C13 W01 E02 S01#,
+
+# SUBA 4 RF= 610MHz  
+# C00 C04 C06 C08 C09 C11 C14 W02 W03 W04 
+  W05 W06 E03 E04 E05 E06 S02 S03 S04 S06
+-------------------------------------------
+20:30: Started power eq. on 3C286 IF=600 counts
+        and BB=1000
+21:00 : Started phasing.
+22:55 : Started pulsar observation.
+
+00:15 : Stopped observation.
+
+

@@ -1,0 +1,60 @@
+		 GTAC Observation Log
+
+1. Date : 17/02/2015
+2. Observation Sr. No. : 7618
+3. Observer : Gabriela Castelletti, Elsa Giacani, BHAL CHANDRA JOSHI, Jorge Leonardo Supán, Mayuresh Surnis
+4. Observer's Email : gcastell@iafe.uba.ar, egiacani@iafe.uba.ar, bcj@ncra.tifr.res.in, lsupan@iafe.uba.ar, mpsurnis@ncra.tifr.res.in
+5. Project Name : A low frequency view of the gamma-ray SNR G353.6-0.7/HESS J1731-347 system
+6. Project Code : 27_028
+7. Operator(s) : Manisha, Rupsing
+8. Command File : /odisk/gtac/cmd/bcj/27_028.170215.1.cmd,,/odisk/gtac/cmd/bcj/27_028.170215.2.cmd,,/odisk/gtac/cmd/bcj/27_028.170215.3.cmd
+9. LTA File : /gsbifrdata/17feb/27_028_17feb2015_8s.lta
+10. LogFlag File : /odisk/online1/logflags/27_028.FLAGS.5
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : IA
+22. Beam - 2 : PA
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 591 591 540 540 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :27
+
+32. Name of Non-Working Antennas (with reason for each) :
+C11 : Low fringe @130 pol.
+W05 : No feed(610MHz).
+W06 : ABC time out.
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 17 Feb 2015 04:30:00 - 17 Feb 2015 10:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :27
+
+37. Comments (During Observations) :
+04:45 : Power eq. on 3C286
+04:51 : Started first command file.
+05:25 : Stopped command file.
+06:00 : Started second command file.
+10:10 : stopped command file and observation session.
+

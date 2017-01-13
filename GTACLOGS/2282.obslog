@@ -1,0 +1,48 @@
+		 GTAC Observation Log 
+
+1. Date : 01/01/2005
+2. Observation Sr. No. : 2282
+3. Observer : Ayesha
+4. Observer's Email : ayesha@ncra.tifr.res.in
+5. Project Name : Dwarfs
+6. Project Code : 08ABA01
+7. Operator(s) : Sachin,
+	Santaji,
+	
+8. Command File : /atemp2/cmd/ash/e321.cmd
+9. LTA File : /rawdata/7oct/08aba01_e321-014.lta,
+	/rawdata1/7oct/08aba01_e321-014.ltb
+10. LogFlag File : /atemp2/logflags/08ABA01.FLAGS.8
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1417 MHz ,RF2 : 1417 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1350 MHz, ILO2 : 1350 MHz, IVLO1 : 67 MHz, IVLO2 : 67 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 1000 KHz, 12 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 4
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1417 1417 1350 1350 67 67 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+C05 - servo time out.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 09:00 - 15:14
+
+23. Comments (During Observations) :
+*** ONLINE ADITYA ***
+*** AUTH IF AT 1390 MHz.**
+--------------------------
+09:00 corr problem .
+10:29 scan started on 3c286.
+10:53 command file started.
+15:214 stopped the observation session
+

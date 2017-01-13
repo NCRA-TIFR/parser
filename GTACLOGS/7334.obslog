@@ -1,0 +1,117 @@
+		 GTAC Observation Log
+
+1. Date : 06/09/2014
+2. Observation Sr. No. : 7334
+3. Observer : Rajeshwari Dutta, Raghunathan Srianand, Neeraj Gupta, Patrick Petitjean, Pasquier Noterdaeme, hadi Rahmani
+4. Observer's Email : rdutta@iucaa.ernet.in, anand@iucaa.ernet.in, nrjgupta@gmail.com, ppetitje@iap.fr, noterdaeme@iap.fr, hadi@iucaa.ernet.in
+5. Project Name : CHITALS: Cold HI 21-cm Absorption Line Survey
+6. Project Code : 26_029
+7. Operator(s) : Nilesh, Pramod, Surender
+8. Command File : /odisk/gtac/cmd/rdutta/qgpj0817p19.cmd,,/odisk/gtac/cmd/rdutta/qgpj0043p00.cmd,
+9. LTA File : /gsbifrdata/06sep/26_029_06sep2014.lta.1,/gsbifrdata/06sep/26_029_06sep2014.lta
+10. LogFlag File : /odisk/online1/logflags/26_029.FLAGS.30,/odisk/online1/logflags/26_029.FLAGS.29,/odisk/online1/logflags/26_029.FLAGS.28
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1350.6035 MHz ,RF2 : 1350.6035 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1285 MHz, ILO2 : 1285MHz , IVLO1 : 65.6035 MHz, IVLO2 : 65.6035 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 16 MHz,ON, IF-CH2 : 4+14 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 4 MHz; Step # 2
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 134.3965
+28. LO5 -2  : 170.6035
+
+29. Frequency Parameters (TPA) : 1350.6035 1350.6035 1285 1285 65.6035 65.6035
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :26
+
+32. Name of Non-Working Antennas (with reason for each) :
+C01 : No fringe.
+C12 : Servo time out
+W05 : Servo problem
+C10 : No fringe.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 06 Sep 2014 01:00:00 - 06 Sep 2014 09:35:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :26
+
+37. Comments (During Observations) :
+01:00 : Started set-up.
+RF band= 1280 (1220 - 1340)
+LO1= 1245 (lower)
+IFBW= 6
+GSB [ACQ] BW= 16.6666
+Total Channel= 512
+
+Line/Center Frequency= 1315.49
+CH#[0]= 1313.4067
+CH#[512]= 1317.5733
+BW= +4.1666
+CW= 8.14 (KHz.)
+
+Digital SubBand/step#= 2 is USEABLE ###
+GSB_CONFIG LO5= 139.9265  165.0735
+LTA_FILE   L05= 131.5933  173.4067
+BASE_BAND  LO4= 60.0735  60.0735
+tpa 1305.0735 1305.0735 1245 1245 60.0735 60.0735
+----------------------------------------------------------------
+00:46:12 : Started scan on 3C48 for ~ 10.2005 min.
+01:08:31 : Started scan on 0059+001 for ~ 6.97932 min.
+01:18:48 : Started scan on QJ0043+002 for ~ 48.5868 min.
+02:08:47 : Started scan on 0059+001 for ~ 6.71088 min.
+02:19:04 : Started scan on QJ0043+002 for ~ 48.8552 min.
+03:08:51 : Started scan on 0059+001 for ~ 6.71088 min.
+03:19:11 : Started scan on QJ0043+002 for ~ 48.8552 min.
+04:09:06 : Started scan on 0059+001 for ~ 6.71088 min.
+04:19:24 : Started scan on QJ0043+002 for ~ 21.2064 min.
+04:42:01 : Started scan on 0059+001 for ~ 6.97932 min.
+04:51:58 : Started scan on 3C48 for ~ 9.9321 min.
+---------------------------------------------------------
+05:00:00 : Setting change to 
+RF band= 1390 (1330 - 1450)
+LO1= 1285 (lower)
+IFBW= 18
+GSB [ACQ] BW= 16.6666
+Total Channel= 512
+
+Line/Center Frequency= 1361.02
+CH#[0]= 1358.9367
+CH#[512]= 1363.1033
+BW= +4.1666
+CW= 8.14 (KHz.)
+
+Digital SubBand/step#= 2 is USEABLE ###
+GSB_CONFIG LO5= 134.3965  170.6035
+LTA_FILE   L05= 126.0633  178.9367
+BASE_BAND  LO4= 65.6035  65.6035
+tpa 1350.6035 1350.6035 1285 1285 65.6035 65.6035
+----------------------------------------------------------------
+05:39:50 : Started scan on 3C147 for ~ 12.0796 min.
+06:03:58 : Started scan on 0745+101 for ~ 6.71088 min.
+06:14:23 : Started scan on QJ0817+195 for ~ 48.3183 min.
+07:04:03 : Started scan on 0745+101 for ~ 6.71088 min.
+07:14:30 : Started scan on QJ0817+195 for ~ 48.3183 min.
+08:04:40 : Started scan on 0745+101 for ~ 6.71088 min.
+08:14:56 : Started scan on QJ0817+195 for ~ 48.8552 min.
+09:07:23 : Started scan on 0745+101 for ~ 6.44244 min.
+09:22:37 : Started scan on 3C147 for ~ 12.348 min.
+09:35:00 : Stopped scan and observing session over.
+

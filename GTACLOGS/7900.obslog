@@ -1,0 +1,71 @@
+		 GTAC Observation Log
+
+1. Date : 09/07/2015
+2. Observation Sr. No. : 7900
+3. Observer : Subhashis Roy
+
+4. Observer's Email : roy@ncra.tifr.res.in
+5. Project Name : DDT Observation 
+6. Project Code : ddtb173
+7. Operator(s) : Navnath, Pramod, Rupsing
+8. Command File : /odisk/gtac/cmd/roy/ddtb173.cmd
+9. LTA File : /gsbifrdata/08jul/ddtb173_08jul2015.lta
+10. LogFlag File : /odisk/online1/logflags/DDTB173.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : IA
+22. Beam - 2 : PA
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 306 306 255 255 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :26
+
+32. Name of Non-Working Antennas (with reason for each) :
+C13 : : BLDC WORK
+E03 : : ABC Time out.
+C08 : : 175 chann No Fringe.
+W06 : : No Fringe @ 175 pol
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 08 Jul 2015 19:40:00 - 09 Jul 2015 01:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :26
+
+37. Comments (During Observations) :
+19:40 : Started setup.
+10:45 : Power eq on 3C286 at 100 counts.
+19:50 : Started scan on 3C286 for 6 min.
+20:05 : Started scan on  NV1627-3953
+20:10 : Started power eq on G337.5-0.1 at 250 counts.
+20:20 : Started cmd file.
+ 
+    /odisk/gtac/cmd/roy/ddtb173.cmd
+
+21:40 : C03 ABC Time out.
+23:03 : C03 started working
+00:29 : Stopped command file due to source set.
+00:30 : Started scan on 1830-360
+00:45 : Stopped scan and observation closed(flux cal not available).

@@ -1,0 +1,75 @@
+		 GTAC Observation Log 
+
+1. Date : 12/08/2007
+2. Observation Sr. No. : 3310
+3. Observer : Laura Chomiuk
+4. Observer's Email : chomiuk@astro.wisc.edu
+5. Project Name : SNRs
+6. Project Code : 12LCA01
+7. Operator(s) : Deepak,
+	Jayprakash,
+	Jitendra,
+	Manisha,
+	Sanjay,
+	
+8. Command File : /btemp2/obs/12lca01/ngc3077_12aug.cmd
+9. LTA File : /rawdata/12aug/12lca01_12aug2007.lta,
+	/rawdata1/12aug/12lca01_12aug2007.ltb,
+	/rawdata/12aug/12lca01_12aug2007.lta.1,
+	/rawdata1/12aug/12lca01_12aug2007.ltb.1,
+	/rawdata/12aug/12lca01_ngc3631.lta,
+	/rawdata1/12aug/12lca01_ngc3631.ltb
+10. LogFlag File : /btemp2/logflags/12LCA01.FLAGS,
+	/btemp2/logflags/12LCA01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 325 MHz ,RF2 : 325 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 255 MHz, ILO2 : 255 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+4 dB, 32 MHz,ON, IF-CH2 : 10+4 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 325 325 255 255 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :23
+
+20. Name of Non-Working Antennas (with reason for each) :
+C10 - fringe fluctuations.
+W03,W04,W05,W06 : ABC Time out(OFC cut)
+E05 - phase jumps
+S03,S06 low fringe.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 08:30 - 20:17
+
+23. Comments (During Observations) :
+---------------------------------------------
+******** ONLINE Machine : Bhaskar   *********
+******** Corr Mode : IndianPolar ************
+---------------------------------------------
+08:30 : Started scan on 3C147 for 10mins.
+08:41 : Started command file
+        /btemp2/obs/12lca01/ngc3077_12aug.cmd
+11:00 : Fstop got killed.
+11:30 : Restarted observation, started new data files.
+14:00 : Command file stopped.
+14:01 : Started new data files 
+        /rawdata/12aug/12lca01_ngc3631.lta, 
+        /rawdata1/12aug/12lca01_ngc3631.ltb
+14:01 : Started scan on 3C147 for 10mins.
+14:13 : Started command file
+         /btemp2/obs/12lca01/ngc3631_12aug.cmd
+16:05 : S-arm Power failed.
+16:42 : S-arm Power restored, observing settings done.
+20:03 : Command file stopped.
+20:05 : Flux cal scan started on 3C286.
+20:17 : Scan stopped, observing session over.
+
+
+
+

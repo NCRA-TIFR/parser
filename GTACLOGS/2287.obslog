@@ -1,0 +1,55 @@
+		 GTAC Observation Log 
+
+1. Date : 09/10/2005
+2. Observation Sr. No. : 2287
+3. Observer : Konar
+4. Observer's Email : sckonar@ncra.tifr.res.in
+5. Project Name : DDRG
+6. Project Code : 08CKA01
+7. Operator(s) : Jitendra,
+	
+8. Command File : /atemp2/cmd/konar/b0936_oct09.cmd,
+	/atemp2/cmd/konar/j0313_oct9.cmd
+9. LTA File : /rawdata/9oct/08cka01_b0936_l.lta,
+	/rawdata1/9oct/08cka01_b0936_l.ltb
+10. LogFlag File : /atemp2/logflags/08CKA01.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1280 MHz ,RF2 : 1280 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1210 MHz, ILO2 : 1210 MHz, IVLO1 : 70.00 MHz, IVLO2 : 70.00 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1280 1280 1210 1210 70.00 70.00 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+C02- fringe fluctuations
+S06 - low fringe.
+* Abrupt phase changes
+has seen on scan
+of 3C48
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 03:39 - 12:25
+
+23. Comments (During Observations) :
+*** ONLINE ADITYA         ***
+*** AUTHIF @1280 MHz.   **
+-----------------------------
+03:39 : Command file j0313_oct9.cmd started.
+04:52 : command file stopped.
+04:54 : Flux cal scan started.
+05:26 : command file started.
+12:05 : Command file stopped.
+12:11 : STarted scan on 3C286 for 15mins.
+12:25 : observation stopped.
+

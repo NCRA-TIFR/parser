@@ -1,0 +1,55 @@
+		 GTAC Observation Log 
+
+1. Date : 22/06/2004
+2. Observation Sr. No. : 1518
+3. Observer : Ananda Hota
+4. Observer's Email : hota@ncra.tifr.res.in
+5. Project Name : LIRGHI
+6. Project Code : 06AHA01
+7. Operator(s) : Manish G.,
+	Manisha J.,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/hota/ngc7674.cmd
+9. LTA File : /rawdata/23jun/06aha01_ngc7674_HI.lta
+10. LogFlag File : /btemp2/logflags/06AHA01.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1376.61 MHz ,RF2 : 1376.61 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1310 MHz, ILO2 : 1310 MHz, IVLO1 : 66.61 MHz, IVLO2 : 66.61 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 8+8 dB, 16 MHz,ON, IF-CH2 : 8+8 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1376.61 1376.61 1310 1310 66.61 66.61 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+W06 - Servo OFF mode.
+C06 - No fringe.
+
+
+21. Start and End Time of Obs.(IST): 00:30 - 09:20
+
+22. Comments (During Observations) :
+ONLINE BHASKAR
+AUTH IF @ 1390  MHz.
+----------------------------------------
+00:30 scan started on 3c286
+00:53 Stopped scan on 3c286
+01:02 Started cmd file
+04:17 Stopped cmd file,
+04:26 Started record on 3c48.
+04:48 Restarted cmd file.
+08:49 Stopped command file.
+08:52 Started scan on 3C286 ~20mins.
+09:20 Stopped das & observation.
+
+
+

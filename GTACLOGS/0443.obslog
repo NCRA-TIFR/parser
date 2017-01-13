@@ -1,0 +1,56 @@
+1. Date : 20/01/2002
+2. Observation Sr. No. : 443
+3. Observer & email : APR / pramesh@ncra.tifr.res.in
+4. Project Name & Code : coins / 01SKS03 
+5. Operator(s) : Mangesh(1).
+6. Command File/Source  & Lta File : /temp2/data/cmd/pramesh/coins/coins_6_4.cmd
+								   : /rawdata/20jan/01sks03_coins_6_4.lta
+                                   : /temp2/data/cmd/pramesh/coins/coins_6_1.cmd
+								   : /rawdata/20jan/01sks03_coins_6_1.lta.1
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 : 610 MHz., 0 dB., OFF
+8. Ist LO (MHz) & IVth LO (MHz) : 530 MHz., 74.75 MHz. 
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status :10 + 10 dB., ON.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status :4 MHz., 6 dB., ON.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 2 / 2 
+12. Channels :0,127,1
+13. Frequency Parameters (TPA) : 604.75 604.75 530 530 74.75 74.75
+
+14. Integration Time (Sec.) : 16 sec (16*8m)
+15. No of Antennas Working(Fringing) : 29 
+16. Name of Non-Working Antennas (with reason for each) : 12:31
+
+	E06 	P.M. antenna down
+
+17. Starting and Ending time of Observations (IST) :  
+18. Comments (During Observations) :
+
+    12:31  Started the first scan on 2202+422 (phase calibrator)
+           for 20 minutes.
+
+    12:52  Stopped the scan on 2202+422. Moved antennas to 2212+018
+    12:55  Started the command file 
+           /temp2/data/cmd/pramesh/coins/coins_6_4.cmd
+	15:00  MSEB power failed  , stopped das scan and command file 
+	15:15  MSEB power resumed 
+	15:30  started command file
+	15:30  C14 has Az. Brk prob.
+	16:08  Az. Brk prob solved (Ref NVN)
+	18:22  staeted scan on 3c48 for 20 min
+	
+	18:45  changed settings 
+		   LO1 = 710 MHz. LO4 = 70.50 MHz.,
+		   tpa 639.5 639.5 710 710 70.5 70.5
+	18:52  started scan on 3c48
+	19:19  started scan on 0238+166
+	19:35  started scan on 0207+3152
+	20:00  stopped observation
+
+19. Data Backup files & Tape No. :
+
+

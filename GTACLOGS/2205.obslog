@@ -1,0 +1,57 @@
+		 GTAC Observation Log 
+
+1. Date : 22/08/2005
+2. Observation Sr. No. : 2205
+3. Observer : Ishwarchandra
+4. Observer's Email : ishwar@ncra.tifr.res.in
+5. Project Name : XOPLANNET.
+6. Project Code : 08DWA01
+7. Operator(s) : Manish G.,
+	Sanjay,
+	
+8. Command File : /atemp2/cmd/hold.cmd
+9. LTA File : /rawdata/21aug/08dwa01_phs.lta,
+	/rawdata/21aug/08dwa01_phs.lta.1
+10. LogFlag File : /atemp2/logflags/08DWA01.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 157 MHz ,RF2 : 157 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 223 MHz, ILO2 : 223 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+24 dB, 6 MHz,OFF, IF-CH2 : 24+24 dB, 6 MHz,OFF
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, OFF
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 157 157 223 223 66 66 
+
+18. Integration Time : 8 STA ~ 1.057 Sec.
+19. No of Antennas Working(Fringing) :25
+
+20. Name of Non-Working Antennas (with reason for each) :
+C04 - unstable power/phs 
+C09 - IF problem.
+E05 - phase unstable.
+E03 - phase unstable.
+S01 - MCM 5 time out.
+S02 - weak fringe.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 00:41 - 08:00
+
+23. Comments (During Observations) :
+-----------------------------
+--- ONLINE ADITYA -----------
+-----------------------------
+
+00:41 : Started phasing array on 3c48.
+01:10 : Started record on HD179949.
+01:40 : Stopped record.
+02:14 : Started calibration off-on-off.
+02:24 : stopped calibration.
+08:00 : Stopped the observation.
+
+*** Note: No LTA files archived due to very low integration (1.04 sec).

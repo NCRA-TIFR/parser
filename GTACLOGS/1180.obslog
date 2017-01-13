@@ -1,0 +1,63 @@
+		 GTAC Observation Log 
+
+1. Date : 14/10/2003
+2. Observation Sr. No. : 1180
+3. Observer : Prof. S. Rawlings
+4. Observer's Email : visitor2@gmrt.ncra.tifr.res.in,s.rawlings1@physics.ox.ac.uk
+5. Project Name : TONS OF HI
+6. Project Code : 04SRB01
+7. Operator(s) : Manish G.,
+	Jayprakash,
+	Jitendra,
+	
+8. Command File : /btemp2/cmd/rawlings/filipe3.cmd
+9. LTA File : /rawdata/14oct/04srb01_5c7p170.lta,
+	/rawdata1/14oct/04srb01_5c7p170.ltb
+10. LogFlag File : /btemp2/logflags/04SRB01.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1124.2 MHz ,RF2 : 1124.2 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1050 MHz, ILO2 : 1050 MHz, IVLO1 : 74.2 MHz, IVLO2 : 74.2 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 2+2 dB, 16 MHz,ON, IF-CH2 : 2+2 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1124.2 1124.2 1050 1050 74.2 74.2 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+E06 : Servo Problem.
+C12 : No fringe.
+
+
+21. Start and End Time of Obs.(IST): 02:25 - 11:19
+
+22. Comments (During Observations) :
+*****************************
+ONLINE: bhaskar
+AuthIF: 1170 MHz.
+--------------------------------
+02:25  Started scan on 3C48, 10 mins.
+02:40  Started commnad file  /temp2/data/cmd/rawlings/filipe3.cmd
+07:07 : C05 flat band shape for both USB & LSB.
+        Ran Corr_config for C05 
+        USB : Not recovered the flat band, LSB : Recovered the flat band.
+07:13 : USB-C04 flat band shape.
+07:16 : Ran Corr_config for both C04 & C05, both recovered.
+07:39 : USB-C05 flat band shape.
+08:40 : Ran Corr_config for C05.
+08:49 : Started scan on 3c147 for 10min.
+08:50 : C03 released for painting.
+09:00 : C12 started working.
+10:57 : Started scan on 3c286 for 10min.
+11:13 : Started scan on phase cal.
+11:19 : Stopped observation.
+
+
+

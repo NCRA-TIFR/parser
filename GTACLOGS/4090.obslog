@@ -1,0 +1,57 @@
+		 GTAC Observation Log 
+
+1. Date : 15/12/2008
+2. Observation Sr. No. : 4090
+3. Observer : Nitin Wadnerkar
+4. Observer's Email : wernernorbi@gmail.com,joydeep@iucaa.ernet.in,wadnerkar_nitin@yahoo.com
+5. Project Name : A222/223
+6. Project Code : 15NWA01
+7. Operator(s) : Manisha,
+	Rupsingh,
+	Sachin,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/15nwa01/nwa.cmd
+9. LTA File : /rawdata/15dec/15nwa01_15dec2008.lta
+10. LogFlag File : /btemp2/logflags/15NWA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 244 MHz ,RF2 : 244 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 310 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 6 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 8000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 244 244 310 310 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C04 : For painting and servo problem.
+W03 : No fringe.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 15:55 - 23:55
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar  *********
+--------------------------------------------
+15:55 : Started setting.
+16:08 : Started scan on 3C48.
+16:27 : Stopped scan.
+16:39 : Started command file.
+19:40 : Stopped command file.
+19:46 : Started scan on 3C48.
+20:02 : Stopped scan.
+20:09 : Restarted command file.
+23:37 : Stopped the command file.
+23:41 : Started scan on 3c48.
+23:54 : Stopped the scan & obs session.
+

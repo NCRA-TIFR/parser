@@ -1,0 +1,76 @@
+		 GTAC Observation Log
+
+1. Date : 03/05/2015
+2. Observation Sr. No. : 7759
+3. Observer : Pratik Dabhade, Joydeep Bagchi, Madhuri Gaikwad
+4. Observer's Email : pratikdabhade13@gmail.com, joydeep@iucaa.ernet.in, madhuri.explorer@gmail.com
+5. Project Name : GMRT observations of 3 new giant radio quasars
+6. Project Code : 28_007
+7. Operator(s) : Pramod, Surender
+8. Command File : /odisk/gtac/cmd/28_007/03may15_s1/obs.cmd,,/odisk/gtac/cmd/28_007/03may15_s2/obs.cmd
+9. LTA File : /gsbifrdata/03may/28_007_03may2015.lta.1,/gsbifrdata/03may/28_007_03may2015.lta
+10. LogFlag File : /odisk/online1/logflags/28_007.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 591 591 540 540 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :27
+
+32. Name of Non-Working Antennas (with reason for each) :
+C11 : : ABC time-out.
+W05 : taken for Maintenance.
+S04 : servo time-out.
+
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 03 May 2015 10:00:00 - 03 May 2015 22:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :29
+
+37. Comments (During Observations) :
+10:00 : Started set-up.
+10:18 : Started scan on 3c48 for 30min.
+10:50 : Started command file.
+      '/odisk/gtac/cmd/28_007/03may15_s1/obs.cmd'
+11:10 : C12 ABC reset.
+15:45 : C12 Started working.
+15:50 : Stopped command file.
+15:57 : Started scan on 3C48.(Common for both .lta file)
+16:27 : Stopped scan and started next command file.
+      '/odisk/gtac/cmd/28_007/03may15_s2/obs.cmd'
+18:35 : S04 Started working.
+19:15 : W05 Started working.
+21:23 : Stopped command file.
+21:30 : Started scan on 3C286.
+22:00 : Stopped scan and observation session is over.
+
+
+
+
+

@@ -1,0 +1,55 @@
+1. Date : 22/06/2002
+2. Observation Sr. No. : 0647
+3. Observer & email : Jayaram Chengalur/Ayesha Begum, chengalur@ncra.tifr.res.in,ayesha@ncra.tifr.res.in
+4. Project Name & Code : M81SWA/02ABA01
+5. Operator(s) : Jprakash(1),Manisha,Jitendra(2)
+6. Command File/Source  & Lta File : /temp2/data/cmd/chengalu/m81dwa.cmd
+                                   : /rawdata/22jun/02aba01_m81dwa.lta
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 : 1390 MHz , 0dB , OFF
+8. Ist LO (MHz) & IVth LO (MHz) : 1350 MHz , 69.35 MHz
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : 2+2 dB , 32 MHz , ON
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status : 1000 KHz , 12 dB , ON
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 4
+12. Channels : 0:127:1
+13. Frequency Parameters (TPA) : 1419.35 1419.35 1350 1350 69.35 69.35
+
+14. Integration Time (Sec.) : 32 Sec ( LTA : 16 X 16m)
+15. No of Antennas Working(Fringing) : 29 1/2
+16. Name of Non-Working Antennas (with reason for each) :
+
+    W03 : Channel 130 not fringing.
+
+17. Starting and Ending time of Observations (IST) : 09:27
+18. Comments (During Observations) :
+
+    09:27  Flux cal scan started on 3C48 source for 15min.
+    09:54  Started commad file /temp2/data/cmd/chengalu/m81dwa.cmd.
+    10:10  MSEB Power failed, stopped command file.
+    11:30  Started command file /temp2/data/cmd/chengalu/m81dwa.cmd.
+           The following antennas are giving ABC T.O.
+           C00,C01,C02,C05,C06,C08,C09 & C12. ( Scan = 3 )
+    11:45  The following antennas are started communicating.
+           C00,C01,C02,C05,C06,C08,C09 & C12
+    11:54  Stopped command file.And started scan on phase cal.
+    12:00  C13 not tracking the source.
+    12:08  C13 +apl flag in azim. axis.
+    12:38  C13 started tracking the source.
+    13:45  S04 got parked due to high wind.
+    14:00  C12 got parked due to high wind.
+    14:05  C12 started tracking the source.
+    14:05  W04 got parked due to high wind.
+    14:09  W04 started tracking the source.
+    14:21  E06 got parked due to high wind.
+    14:44  E06 started tracking the source.
+	19:40	Stopped command file.
+	19:46	Started scan on 3C286.
+
+
+19. Data Backup files & Tape No. :
+

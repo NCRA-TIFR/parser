@@ -1,0 +1,110 @@
+		 GTAC Observation Log 
+
+1. Date : 04/01/2011
+2. Observation Sr. No. : 5180
+3. Observer : Betsey Adams
+4. Observer's Email : betsey@astro.cornell.edu
+5. Project Name : Very Massive Underluminous Galaxies from ALFALFA
+6. Project Code : 19_005
+7. Operator(s) : Nilesh,
+	
+8. Command File : /odisk/gtac/cmd/19_005/agc7686.cmd,
+	/odisk/gtac/cmd/19_005/agc213964.cmd
+9. LTA File : 
+10. GSB File : /gsbifrdata/5jan/19_005_5jan2011_gsb.lta,
+	/gsbifrdata/5jan/19_005_5jan2011_gsb.lta.1
+11. LogFlag File : /odisk/online1/logflags/19_005.FLAGS.17,
+	/odisk/online1/logflags/19_005.FLAGS.19
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1385 MHz ,RF2 : 1385 MHz, SA1 : 0 dB, SA2 : 0 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1315 MHz, ILO2 : 1315 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+12 dB, 16 MHz,ON, IF-CH2 : 10+12 dB, 16 MHz,ON
+15. BB BW(KHz) & BB ALC : 4000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+GHB Settings :
+16. GHB Channels : 0:127:1
+17. Correlator Mode : IndianPolar
+18. Frequency Parameters (TPA) : 1385 1385 1315 1315 70 70 
+
+GSB Settings :
+19. Maximum Channels : 512 
+20. Final Bandwidth (MHz): 4 MHz; Step # 2
+21. IFBW (MHz) : LO5 (KHz) : Custom :- 16 : 139500 - 165500
+22. Stokes : Total_Intensity
+23. Beam - 1 : OFF
+24. Beam - 2 : OFF
+
+25. Integration Time : 128 LTA ~ 16.908 Sec.
+26. No of Antennas Working(Fringing) :29
+
+27. Name of Non-Working Antennas (with reason for each) :
+E02 : Maintenance. 
+
+**NOTE :
+HARDWARE CORRELATOR NOT USED FOR OBSERVATION.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 03:30 - 07:00
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+03:30 : Started settings for project.
+-------------------------------------------------
+Project code : 19_005
+Project title: LargeGalaxies
+Source list  : /odisk/gtac/cmd/19_005/19_005.list
+Command file : /odisk/gtac/cmd/19_005/agc7686.cmd
+
+RF band	       : 1390 
+LO (1)	       : 1315
+IF BW          : 16
+BB BW          : 4    
+
+GHB_TPA Not USED
+lta Not USED
+
+GSB: 4 MHz.
+LO5 = 139.5, 165.5 MHz. 
+The line is in the 3rd quadrant. Use step # 2.
+Band starts at 1368.833
+-------------------------------------------------
+03:41 : Started scan on 3c286 for ~10min.
+03:53 : Started command file.
+        '/odisk/gtac/cmd/19_005/agc7686.cmd'.
+04:24 : C14 ABC reset.
+04:35 : C14 started working.
+04:47 : Stopped scan and command file, and changed settings.
+-------------------------------------------------
+Source list  :  /odisk/gtac/cmd/19_005/19_005.list
+Command file :  /odisk/gtac/cmd/19_005/agc213964.cmd
+Project code : 19_005
+Project title: LargeGalaxies
+
+RF band	       : 1390 
+LO (1)	       : 1305
+LO (4)         :   68.1
+IF BW          :   16
+BB BW          :    4    
+
+GHB_TPA Not USED.
+lta  Not USED.
+
+GSB: 4 MHz.
+LO5 = 140.5, 164.5 MHz. 
+The line is in the 3rd quadrant. Use step # 2.
+Band starts at 1372.833
+-------------------------------------------------
+04:58 : Started scan on 3c286 for ~8min.
+05:10 : Started command file.
+06:45 : Stopped scan and command file.
+06:46 : Started scan on 1120+143 for ~5min.
+06:56 : Started scan on 3c286 for ~8min.
+07:05 : Stopped scan and observation session closed.
+
+-------------------------------------------------
+

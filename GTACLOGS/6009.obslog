@@ -1,0 +1,59 @@
+		 GTAC Observation Log 
+
+1. Date : 29/6/2012
+2. Observation Sr. No. : 6009
+3. Observer : Marco Grossi
+4. Observer's Email : grossi@oal.ul.pt
+5. Project Name : Environmental effects on HI and dust  in Virgo cluster star-forming dwarf galaxies
+6. Project Code : 22_043
+7. Operator(s) : Deepak,
+	Nilesh,
+	Rupsingh,
+	
+8. Command File : /odisk/gtac/cmd/22_043/obs29jun.cmd
+9. LTA File : /gsbifrdata/29jun/22_043_29jun2012.lta
+10. LogFlag File : /odisk/online1/logflags/22_043.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1407 MHz ,RF2 : 1407 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1345 MHz, ILO2 : 1345 MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+12 dB, 16 MHz,ON, IF-CH2 : 10+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 16 MHz
+21. Maximum Channels : 512 
+22. IFBW (MHz) : LO5 (KHz) : 16:138000-167000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 1407 1407 1345 1345 62 62.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :27
+
+27. Name of Non-Working Antennas (with reason for each) :
+C06 : 175Mhz no Fringe.
+W02 : No Fringe.
+W03 : Servo prblem.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 16:30 - 00:05
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+16:39 : Started command file.
+16:55 : Stopped scan.
+17:03 : Command file started.
+
+23:38 : Stopped command file.
+23:40 : Started scan on 1254+116.
+23:47 : Started scan on 3c48.
+00:05 : Stopped scan and closed observation session.
+

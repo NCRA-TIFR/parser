@@ -1,0 +1,101 @@
+		 GTAC Observation Log 
+
+1. Date : 4/7/2014
+2. Observation Sr. No. : 7204
+3. Observer : Nissim Kanekar,Aditya JNHS
+4. Observer's Email : nkanekar@ncra.tifr.res.in,aditya@ncra.tifr.res.in
+5. Project Name : A search for associated HI 21cm absorption at high redshifts.
+6. Project Code : 26_052
+7. Operator(s) : Manisha,Pramod,Sachin,Shilpa,
+8. Command File : /odisk/gtac/cmd/aditya/0003+380.cmd,/odisk/gtac/cmd/aditya/0110+495.cmd,/odisk/gtac/cmd/aditya/0344+405.cmd
+9. LTA File : /gsbifrdata/04jul/26_052_04jul2014_0003+380.lta,/gsbifrdata/04jul/26_052_04jul2014_0110+495.lta,/gsbifrdata/04jul/26_052_04jul2014_0344+405.lta,
+10. LogFlag File : /odisk/online1/logflags/26_052.FLAGS.32,/odisk/online1/logflags/26_052.FLAGS.33,/odisk/online1/logflags/26_052.FLAGS.31,
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1138 MHz ,RF2 : 1138 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1085 MHz, ILO2 : 1085 MHz , IVLO1 : 53 MHz, IVLO2 : 53 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : Realtime 
+15. GSB LTA : 8 
+16. GSB CTRL : ONLINE 
+17. GSB Fstop : ON 
+18. GAIN EQ : ON 
+19. Stokes : TotIntensity
+20. Beam - 1 : OFF
+21. Beam - 2 : OFF
+22. ACQ BW : 33.33 MHz
+23. Final BW : 33.333333 MHz; Step # 0
+24. Maximum Channels : 512 
+25. Channel Numbers : 0:511:1 
+26. LO5 -1  : 147.00 
+27. LO5 -2  : 158.00 
+
+28. Frequency Parameters (TPA) : 1138 1138 1085 1085 53 53.
+29. Integration Time : 16.106112 Sec.
+30. No of Antennas Working(Fringing) at the begining :28
+
+31. Name of Non-Working Antennas (with reason for each) :
+W06 : MCM-5 timeout.
+S02 : No feed.
+32. Note for Backup :
+
+33. Start and End Time of Obs.(IST): 01:40 - 08:00
+
+34. ONLINE Machine : Shivneri
+
+35. No of Antennas Working(Fringing) at the end :28
+
+36. Comments (During Observations) :
+01:40 : Started settings.
+----------------------------------------------------------------------
+   RF Band     : 1170
+   IF BW       : 34 MHz
+   Baseband BW : 33.33 MHz
+   LO(1)       : 1085 MHz
+   LO(5)       : 147, 158 MHz
+   LO(4)       : 53, 53 MHz
+   Step        : 0
+   Channels    : 512
+   TPA 1138 1138 1085 1085 53 53
+
+02:01 : '/odisk/gtac/cmd/aditya/0003+380.cmd' command file started.
+03:15 : C08 and C12 automatically got abc timeout.
+04:03 : C12 started working.
+04:11 : Stopped command file.
+----------------------------------------------------------------------
+04:11 : Started settings.
+   RF Band     : 1060
+   IF BW       : 34 MHz
+   Baseband BW : 33.33 MHz
+   LO(1)       : 955 MHz
+   LO(5)       : 147, 158 MHz
+   LO(4)       : 53, 53 MHz
+   Step        : 0
+   Channels    : 512
+   TPA 1008 1008 955 955 53 53
+04:20 : '/odisk/gtac/cmd/aditya/0110+495.cmd' command file started.
+        C08 : Started working.
+        E05 : Bad bandshape @ 175pol.
+05:55 : Stopped command file.
+----------------------------------------------------------------------  
+05:55 : Started settings.   
+   RF Band     : 1390
+   IF BW       : 34 MHz
+   Baseband BW : 33.33 MHz
+   LO(1)       : 1300 MHz
+   LO(5)       : 147, 158 MHz
+   LO(4)       : 53, 53 MHz
+   Step        : 0
+   Channels    : 512
+   TPA 1353 1353 1300 1300 53 53
+06:03 : '/odisk/gtac/cmd/aditya/0344+405.cmd' command file started.
+        C12 : MCM-5 timeout.
+07:41 : Stopped command file.
+07:41 : Started scan on 0432+416 for 7m.
+07:51 : Started scan 3C48.
+08:00 : Stopped scan and observation session is over. 
+

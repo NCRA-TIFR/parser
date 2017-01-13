@@ -1,0 +1,71 @@
+		 GTAC Observation Log 
+
+1. Date : 14/04/2005
+2. Observation Sr. No. : 2005
+3. Observer : Prof.Y.Gupta,dmitra
+4. Observer's Email : ygupta@ncra.tifr.res.in,dmitra@ncra.tifr.res.in,bhaswati@ncra.tifr.res.in
+5. Project Name : Pulsar Observation
+6. Project Code : 07YGA03
+7. Operator(s) : Deepak,
+	Jitendra,
+	Sachin,
+	
+8. Command File : /btemp2/cmd/hold.cmd
+9. LTA File : /rawdata/13apr/07yga03_phs.lta,
+	/rawdata1/13apr/07yga03_phs.ltb
+10. LogFlag File : /btemp2/logflags/07YGA03.FLAGS.9
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 32 MHz,OFF, IF-CH2 : 12+12 dB, 32 MHz,OFF
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, OFF
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+W02-LSB-* No fringe
+
+
+21. Start and End Time of Obs.(IST): 22:43 - 11:23
+
+22. Comments (During Observations) :
+*** ONLINE  BHASKAR ****
+*** Psr powerEq 610 MHz ****
+*** BBGain Eq. For both USB and LSB ***
+-----------------------------
+22:43 : 1311-22 Phasing 0,1
+23:01 : B1133+16
+00:31 : 1311-22 Phasing 3,4,5
+01:24 : 1626-298 : phase check.
+01:27 : B1740-13
+01:43 : B1804-08
+02:06 : g20.0-0.2d scan started.
+04:24 : scan stopped.
+04:25 : 1822-096 phasing.
+04:45 : G63.7+1.1A (IF power reduced by 2dB).
+04:56 : Scan started on G63.7+1.1A
+05:37 : C12-USB-175 band power level dropped.
+06:00 : Power level updated correctly.
+07:16 : MSEB power failed.
+Reconfigured all central sq. antennae on generator power supply.
+07:42 : MSEB power supply came.
+Done all settings for all antennae once again.
+08:15 : Started phasing on 1822-096.
+08:22 : Checked phasing on 1822-096.
+08:30 : Parked C10 for painting.
+08:31 : Started scan on G63.7+1.1B.
+11:03 : Stopped scan on G63.7+1.1B.
+11:10 : Checked phases on 3C48.
+11:23 : Stopped scan & closed observation.
+
+
+

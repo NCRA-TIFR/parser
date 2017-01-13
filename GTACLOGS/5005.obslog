@@ -1,0 +1,62 @@
+		 GTAC Observation Log 
+
+1. Date : 09/08/2010
+2. Observation Sr. No. : 5005
+3. Observer : Narendra Patra, Jayaram Chengalur
+4. Observer's Email : narendra@ncra.tifr.res.in,chengalu@ncra.tifr.res.in
+5. Project Name : Gas and star Formation in Dwarfs
+6. Project Code : 18_035
+7. Operator(s) : Manisha,
+	Nilesh,
+	Rupsingh,
+	Sachin,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/narendra/vcc0381.cmd
+9. LTA File : /rawdata/9aug/18_035_09aug2010.lta,
+	/rawdata1/9aug/18_035_09aug2010.ltb
+10. GSB File : /gsbifrdata/9aug/18_035_09aug2010_gsb.lta
+11. LogFlag File : /odisk/online1/logflags/18_035.FLAGS.3
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1417.5331 MHz ,RF2 : 1417.5331 MHz, SA1 : 0 dB, SA2 : 0 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1345 MHz, ILO2 : 1345 MHz, IVLO1 : 72.5331 MHz, IVLO2 : 72.5331 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+15. BB BW(KHz) & BB ALC : 1000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1417.5331 1417.5331 1345 1345 72.5331 72.5331 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+C03 - No fringe.
+C14 - No fringe.
+C13 - 175pol No fringe.
+S01 - 175pol low fringe.
+21. Note for Backup :--
+
+22. Start and End Time of Obs.(IST): 12:00 - 18:35
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+11:57 : Started scan on 3C286 for 10 mins.
+12:23 : Started command file.
+15:18 : Command file stopped.
+15:21 : Started scan on 3c286 for ~10min.
+15:34 : Started command file.
+17:12 : Stopped command file.
+        changed phase cal to '1150-003'.
+17:14 : Restarted command file.
+18:19 : Stopped command file.
+18:21 : Started scan on 3C286.
+18:35 : Stopped scan and observation closed.
+
+

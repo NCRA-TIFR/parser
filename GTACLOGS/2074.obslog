@@ -1,0 +1,60 @@
+		 GTAC Observation Log 
+
+1. Date : 18/06/2005
+2. Observation Sr. No. : 2074
+3. Observer : Gopal krishna
+4. Observer's Email : krishna@ncra.tifr.res.in
+5. Project Name : Blazar
+6. Project Code : 08TPK01
+7. Operator(s) : Deepak,
+	Jayprakash,
+	Jitendra,
+	Sanjay,
+	
+8. Command File : /atemp2/cmd/gk/bl1803.cmd
+9. LTA File : /rawdata/18jun/08tpk01_bl1803.lta,
+	/rawdata1/18jun/08tpk01_bl1803.ltb
+10. LogFlag File : /atemp2/logflags/08TPK01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 32 MHz,ON, IF-CH2 : 12+12 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+C10 - No fringe LSB:130 (610 MHz.)
+
+
+21. Start and End Time of Obs.(IST): 18:35 - 07:25
+
+22. Comments (During Observations) :
+*** ONLINE RUNNING ON ADITYA ***
+*** IF ATTN : NAUTH@610 MHZ  ***
+----------------------------------
+18:35 : Started scan on 3c286 for 5min.
+18:40 : Stopped the scan.
+18:43 : Started the command file /temp2/data/cmd/gk/bl1803.cmd.
+22:58 : Stopped the command file.
+23:03 : Started scan on 3c286 for 15min.
+23:23 : command file started.
+29:05 : Scan stopped.
+29:07 : scan started on phase cal 1638+625.
+29:10 : Scan stopped.
+29:11 : command file restarted without the
+        phase cal 1638+625.
+30:59 : Command file stopped.
+31:05 : Started scan on 3C48 for 15mins.
+31:25 : Observation stopped.
+
+

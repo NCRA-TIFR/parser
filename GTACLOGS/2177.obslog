@@ -1,0 +1,67 @@
+		 GTAC Observation Log 
+
+1. Date : 08/08/2005
+2. Observation Sr. No. : 2177
+3. Observer : NEERAJ
+4. Observer's Email : neeraj@ncra.tifr.res.in,djs@ncra.tifr.res.in,sr@astro.ox.ac.uk,mjj@astro.ox.ac.uk,hrk@astro.ox.ac.uk
+5. Project Name : HI_CLUSTER
+6. Project Code : 08SRB01
+7. Operator(s) : Manish G.,
+	
+8. Command File : /atemp2/cmd/neeraj/n479.cmd
+9. LTA File : /rawdata/8aug/08srb01_n479_1060_8aug.lta,
+	/rawdata1/8aug/08srb01_n479_1060_8aug.ltb
+10. LogFlag File : /atemp2/logflags/08SRB01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1108 MHz ,RF2 : 1108 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1040 MHz, ILO2 : 1040 MHz, IVLO1 : 68 MHz, IVLO2 : 68 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 32 MHz,ON, IF-CH2 : 12+12 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1108 1108 1040 1040 68 68 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :24
+
+20. Name of Non-Working Antennas (with reason for each) :
+S03 - Servo problem.
+W01 - Feed not in focus.
+W03 - ABC timeout.
+W05 - MCM-5 timeout.
+C02 - Unstable fringe.
+S06 - Unstable fringe.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 01:00 - 10:30
+
+23. Comments (During Observations) :
+****** ONLINE ADITYA *******
+***** IF ATTN=POWER EQ *****
+****************************
+
+01:00  Started scan on 3C48.
+01:06  Stopped the scan. Antennas moved to source N479
+       in INNER-TRACK.
+01:25  Started command file:
+         /atemp2/cmd/neeraj/n479.cmd
+05:13  Stopped the command file. Taken one scan on 3C147 for 15 mins.
+05:40  Re-started command file:
+         /atemp2/cmd/neeraj/n479.cmd
+
+08:44  Command file stopped.
+08:48  Started scan on 3C147 for 15mins.
+09:07  Restarted command file.
+09:48  E05- ABC time  out.
+10:20  Command file stopped.
+10:23  Started scan on 3C147 for 10mins.
+10:33  Observation stopped.
+
+
+

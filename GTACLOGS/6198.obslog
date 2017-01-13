@@ -1,0 +1,64 @@
+		 GTAC Observation Log 
+
+1. Date : 02/11/2012
+2. Observation Sr. No. : 6198
+3. Observer : Dwarakanath, Sethi
+4. Observer's Email : dwaraka@rri.res.in,sethi@rri.res.in
+5. Project Name : Detecting HI in emission at z~1
+6. Project Code : 23_048
+7. Operator(s) : Rupsingh,
+	Surender
+8. Command File : /odisk/gtac/cmd/ksd/23_048.cmd
+9. LTA File : /gsbifrdata/02nov/23_048_02nov2012.lta
+10. LogFlag File : /odisk/online1/logflags/23_048.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 621 MHz ,RF2 : 621 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 570 MHz, ILO2 : 570 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,ON, IF-CH2 : 24+4 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 512 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 621 621 570 570 51 51.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :28
+
+27. Name of Non-Working Antennas (with reason for each) :
+C00 : BLDC work.
+W05 : Servo problem.
+
+
+  
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 18:55 - 02:35
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+18:55 : Started scan on 3C48.
+19:06 : Stopped scan.
+19:07 : Started command file.
+19:37 : Antenna W05 started working.
+
+23:00 : Command file stopped.
+23:07 : Started new LTA file.
+23:07 : Started scan on 3C48 for 10mins.
+23:18 : Started command file with target source changed to DEEP2_4.
+02:11 : Command file stopped.
+02:14 : Started scan on 3C48 for 20mins.
+02:35 : Observation stopped.
+
+

@@ -1,0 +1,64 @@
+		 GTAC Observation Log 
+
+1. Date : 17/05/2008
+2. Observation Sr. No. : 3735
+3. Observer : Ekta
+4. Observer's Email : ekta@ncra.tifr.res.in
+5. Project Name : 14eka01
+6. Project Code : 14EKA01
+7. Operator(s) : Deepak,
+	Navanath,
+	Nilesh,
+	
+8. Command File : /odisk/gtac/cmd/ekta/01.cmd
+9. LTA File : /rawdata/17may/14eka02_17may2008.lta,
+	/rawdata1/17may/14eka02_17may2008.ltb
+10. LogFlag File : /odisk/online1/logflags/14EFA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1410.74 MHz ,RF2 : 1410.74 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1340 MHz, ILO2 : 1340 MHz, IVLO1 : 70.74 MHz, IVLO2 : 70.74 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+14. BB BW(KHz) & BB ALC : 2000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1410.74 1410.74 1340 1340 70.74 70.74 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+W04 - ABC time out.
+S01 - unstable phase.
+W01 - unstable phase.
+
+USB - E05 130 bad bandshape.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 05:30 - 15:06
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+05:30 : started setttings for 14EKA02.
+05:45 : started scan on 3c48 for 10 min.
+06:04 : started command file.
+07:45 : C04 realeased for painting work. 
+10:10 : S03 ABC time out.
+10:23 : S03 and E03 power reset.
+10:38 : S02 abc time out.
+11:59 : S03 and E03 started fringing.
+11:10 : W04 power reset.
+11:22 : S02 and W04 power reset.
+11:44 : W03 ABC time out.
+11:50 : S02 and W04 started fringing.
+14:42 : command file stopped.
+14:46 : scan started on 3c48.
+15:06 : stopped the scan and observation over.
+

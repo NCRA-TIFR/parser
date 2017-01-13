@@ -1,0 +1,41 @@
+1. Date : 04/08/2002
+2. Observation Sr. No. : 0741
+3. Observer : Ishwar Chandra
+4. Observer's Email : ishwar@ncra.tifr.res.in
+5. Project Name : Micro Quasar
+6. Project Code : 02NSK01
+7. Operator(s) : Kamble J.R.,Umbarje M.S.,
+8. Command File : /temp2/data/cmd/ishwar/mcqa.cmd
+9. LTA File : /rawdata/4aug/02nsk01_mcqa.lta
+
+ANTENNA SETTINGS :
+
+10. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+11. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+12. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 6 MHz,on, IF-CH2 : 18+18 dB, 6 MHz,on
+13. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, on
+
+CORREATOR SETTINGS :
+
+14. CLK_SEL/Samp_Freq : 0
+15. Channels : 0:63:1
+16. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+17. Integration Time : 128 STA ~ 16.908 Sec.
+18. No of Antennas Working(Fringing) :27
+
+19. Name of Non-Working Antennas (with reason for each) :
+C00 Correlator prob.
+S04 Pol 130 bad.
+C13 Pol 130 bad.
+W02 Pol 175 low.
+
+20. Start and End Time of Obs.(IST): 13:20 - 15:15
+
+21. Comments (During Observations) :
+13:20 Started scan on 3c286 for 15min.
+13:40 Started command file /temp2/data/cmd/ishwar/mcqa.cmd.
+
+15:15 Stopped observations
+
+

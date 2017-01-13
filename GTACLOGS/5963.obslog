@@ -1,0 +1,82 @@
+		 GTAC Observation Log 
+
+1. Date : 30/5/2012
+2. Observation Sr. No. : 5963
+3. Observer : Jayanta  Roy
+4. Observer's Email : jroy@ncra.tifr.res.in
+5. Project Name : DDT
+6. Project Code : 12DT013
+7. Operator(s) : Navanath,
+	Nilesh,
+	
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /gsbifrdata/30may/12dt013_30may2012_235.lta,
+	/gsbifrdata/30may/12dt013_30may2012_325.lta
+10. LogFlag File : /odisk/online1/logflags/SUBA2.FLAGS.375,
+	/odisk/online1/logflags/SUBA4.FLAGS.341
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 307 MHz ,RF2 : 307 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 245 MHz, ILO2 : 245 MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+12 dB, 16 MHz,OFF, IF-CH2 : 10+12 dB, 16 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : Voltage
+20. ACQ BW : 16 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 16:138000-167000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 307 307 245 245 62 62.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :26
+
+27. Name of Non-Working Antennas (with reason for each) :
+C10 : Upgrade BLDC work.
+E06 : Servo OFF.
+S06 : No fringe 235Mhz.
+
+
+
+
+
+
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 18:00 - 02:00
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+# sub 2 # C00 C02 C03 C05 C06 C08 C09 C12 C13 C14 W01 W02 W03 W04 W05 W06 E02 E03 E04 E05 S01 S02 S03 S04 S06 
+ante 25 7 5 1 19 20 24 4 2 11 10 8 13 14 15 16 25 17 18 21 22 26 27 28 29 30 
+cp 0;defs 2;subar 2
+tpa 244 244 306 306 62 62
+
+# sub 4 # C01 C04 C10 C11 E06 
+ante 5 6 3 12 9 23 
+cp 0;defs 4;subar 4
+tpa 307 307 245 62 62
+-----------------------------------------------
+18:00 : Started setup.
+      : power eq and phasing done.
+-----------------------------------------------------------------------
+20:09:03 : Started scan on J1544+4937.
+21:44:45 : Started phasing on 1459+716.
+21:46:46 : Started scan on J1544+4937.
+22:05:00 : Intermittent and Strong RFI Noticed.
+-----------------------------------------------------------------------
+
+00:24 : Phasing on 1459+716.
+00:30 : Started scan on J1544+4937.
+02:00 : Observation stopped.
+
+
+

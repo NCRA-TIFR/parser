@@ -1,0 +1,111 @@
+		 GTAC Observation Log
+
+1. Date : 31/07/2016
+2. Observation Sr. No. : 8787
+3. Observer : Nissim Kanekar, Jayaram Narayanan Chengalur, Jason X. Prochaska
+4. Observer's Email : nkanekar@ncra.tifr.res.in, chengalur@ncra.tifr.res.in, xavier@ucolick.org
+5. Project Name : %latex% The Spin Temperature of High-Redshift Damped Lyman-$\\\\\\\\alpha$ systems
+6. Project Code : 30_068
+7. Operator(s) : Sachin
+8. Command File : /odisk/gtac/cmd/nissim/1522\+2119.cmd, /odisk/gtac/cmd/nissim/2039\+187.cmd
+9. LTA File : /gsbifrdata/31jul/30_068_31jul2016.lta.1, /gsbifrdata/31jul/30_068_31jul2016.lta, /gwbifrdata1/31jul/30_068_31jul2016_gwb.lta
+10. LogFlag File : /odisk/online1/logflags/30_068.FLAGS.14, /odisk/online1/logflags/30_068.FLAGS.13
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 451.2 MHz ,RF2 : 451.2 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 520 MHz, ILO2 : 520MHz , IVLO1 : 68.8 MHz, IVLO2 : 68.8 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 2 MHz; Step # 1
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 131.2
+28. LO5 -2  : 173.8
+
+29. Frequency Parameters (TPA) : 451.2 451.2 520 520 68.8 68.8
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :28
+
+32. Name of Non-Working Antennas (with reason for each) :
+C12 : MCM 5 timed out.
+W04 : No fringe.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 31 Jul 2016 18:00:00 - 31 Jul 2016 23:00:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :28
+
+37. Comments (During Observations) :
+18:05 : Competed setup.
+Line frequency : 448.0 MHz
+
+All ALCs ON
+
+   RF Band     : 327 MHz
+   LO(1)       : 520 MHz
+   IF BW       : 6 MHz
+   LO(5)       : 131.2 173.8 MHz
+   LO(4)       : 68.8 68.8 MHz
+   Baseband BW : 2.08 MHz
+   Step        : 1
+
+   Channels    : 512
+
+   lta         : 8m
+
+TPA 451.2 451.2 520 520 68.8 68.8
+
+The band should cover 447.03 - 449.12 MHz
+18:03:09 : Started scan on 3C286 for ~ 6.97932 min.
+18:20:43 : Started scan on 1549+214 for ~ 5.63714 min.
+18:30:02 : Started scan on 1522+2119 for ~ 40.2653 min.
+19:12:27 : Started scan on 1549+214 for ~ 5.63714 min.
+19:21:49 : Started scan on 1522+2119 for ~ 39.7284 min.
+20:16:50 : Started scan on 1549+214 for ~ 5.90557 min.
+20:25:56 : Started scan on 1522+2119 for ~ 39.9968 min.
+21:08:45 : Started scan on 1549+214 for ~ 5.63714 min.
+21:17:39 : Started scan on 3C286 for ~ 4.5634 min.
+
+21:35 : Completed second setup.
+Line frequency : 378.57 MHz
+
+All ALCs ON
+
+   RF Band     : 327 MHz
+   LO(1)       : 309 MHz
+   IF BW       : 6 MHz
+   LO(5)       : 133.5 171.5 MHz
+   LO(4)       : 66.5 66.5 MHz
+   Baseband BW : 2.08 MHz
+   Step        : 1
+
+   Channels    : 512
+
+   lta         : 8m
+
+TPA 375.5 375.5 309 309 66.5 66.5
+
+The band should cover 379.67 - 377.58 MHz
+
+21:38:20 : Started scan on 3C286 for ~ 6.71088 min.
+21:54:36 : Started scan on 2035+189 for ~ 6.97932 min.
+22:04:44 : Started scan on 2039+187 for ~ 39.9968 min.
+22:45:53 : Started scan on 2035+189 for ~ 6.71088 min.
+22:55 : Stopped command file and closed observation session.
+

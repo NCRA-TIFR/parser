@@ -1,0 +1,76 @@
+		 GTAC Observation Log
+
+1. Date : 22/08/2014
+2. Observation Sr. No. : 7305
+3. Observer : Jayanta Roy, Maura Ann McLaughlin, Scott M. Ransom, Bhaswati Bhattacharyya, Duncan Ross Lorimer, Lina Levin
+4. Observer's Email : jroy@ncra.tifr.res.in, maura.mclaughlin@mail.wvu.edu, sransom@nrao.edu, bhaswati@ncra.tifr.res.in, Duncan.Lorimer@mail.wvu.edu, lina.s.levin@gmail.com
+5. Project Name : Coherently dedispersed timing studies at the GMRT for IPTA MSPs
+6. Project Code : 26_039
+7. Operator(s) : Deepak, Pramod
+8. Command File : /odisk/gtac/cmd/jroy/26_039_22aug.cmd
+9. LTA File : /gsbifrdata/22aug/26_039_22aug2014_610.lta,/gsbifrdata/22aug/26_039_22aug2014_325.lta,/gsbifrdata/22aug/26_039_22aug2014_610.lta.1,/gsbifrdata/22aug/26_039_22aug2014_325.lta.1,/gsbifrdata/22aug/26_039_22aug2014_610.lta.2,/gsbifrdata/22aug/26_039_22aug2014_325.lta.2
+10. LogFlag File : /odisk/online1/logflags/26_039.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : Volt
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 0
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 306 306 255 255 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :27
+
+32. Name of Non-Working Antennas (with reason for each) :
+C03 : Taken for mechanical work.
+W05 : Taken for BLDC
+C12 : MCM 5 time out
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 22 Aug 2014 18:00:00 - 22 Aug 2014 23:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :27
+
+37. Comments (During Observations) :
+Antenna Configuration,
+
+# 610MHz # sub 2 # C00 C08 C09 C10 C11 C12 C13 C14 W02 W03 W04 E03 S01 S02 S03 S04 
+ante 16 7 24 4 12 9 2 11 10 13 14 15 18 26 27 28 29 
+cp 0;defs 2;subar 2
+
+# 325MHz # sub 4 # C01 C02 C03 C04 C05 C06 W01 W05 W06 E02 E04 E05 E06 S06 
+ante 14 6 5 1 3 19 20 8 16 25 17 21 22 23 30 
+cp 0;defs 4;subar 4
+
+
+---------------------------------------------------
+17:00 : Started set up.
+17:45 : Phasing and Power equalized done on 1830-360.
+18:00 : Started command file.
+       ' /odisk/gtac/cmd/jroy/26_039_22aug.cmd '
+19:22 : Restarted command file.
+20:26 : Again restarted command file.
+23:00 : Stopped command file and observation session is over.
+
+

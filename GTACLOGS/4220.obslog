@@ -1,0 +1,64 @@
+		 GTAC Observation Log 
+
+1. Date : 28/02/2009
+2. Observation Sr. No. : 4220
+3. Observer : Chandreyee Sengupta
+4. Observer's Email : sengupta@ncra.tifr.res.in
+5. Project Name : ARP104
+6. Project Code : 15CSG01
+7. Operator(s) : Deepak,
+	Navanath,
+	Nilesh,
+	Rupsingh,
+	Sachin,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/csg/arp104.cmd
+9. LTA File : /rawdata/28feb/15csg01_28feb2009.lta,
+	/rawdata1/28feb/15csg01_28feb2009.ltb,
+	/rawdata/28feb/15csg01_28feb2009_diffstop.lta,
+	/rawdata1/28feb/15csg01_28feb2009_diffstop.ltb
+10. LogFlag File : /btemp2/logflags/15CSG01.FLAGS.10
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1402.653 MHz ,RF2 : 1402.653 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1335 MHz, ILO2 : 1335 MHz, IVLO1 : 67.653 MHz, IVLO2 : 67.653 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 8000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1402.653 1402.653 1335 1335 67.653 67.653 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+E06,S01,C05 - Low fringe.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 20:00 - 08:08
+
+23. ONLINE Machine : Bhaskar
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+--------------------------------------------
+NOTE FOR THE USER :
+"The online fringe stopping algorithm was found to be in error by about 2s
+after 1Jan2009. This differential fringe rate was applied using the program
+diffstop. The fringe rate was corrected for an error of +2.0s, and the
+timestamps were also updated by the same amount."
+---------------------------------------------
+22:00 :Started setup 15CSG01
+22:04 :Started scan on 3C147 for 15min.
+22:26 :Started command file.
+05:56 : Started scan on 3C286 for 10min.
+06:07 : Started command file.
+07:54 : Stopped command file.
+07:58 : Started scan on 3C286.
+08:08 : Stopped scan and observing session over.
+

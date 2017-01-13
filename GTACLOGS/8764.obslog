@@ -1,0 +1,88 @@
+		 GTAC Observation Log
+
+1. Date : 23/07/2016
+2. Observation Sr. No. : 8764
+3. Observer : Ramesh Bhat, Avinash Anant Deshpande, Samuel James McSweeney, Stephen Ord, Steven Tremblay
+4. Observer's Email : ramesh.bhat@curtin.edu.au, desh@rri.res.in, sammy.mcsweeney@gmail.com, ord@physics.usyd.edu.au, steven.tremblay@curtin.edu.au
+5. Project Name : Chasing the pulsar emission mechanism via sub-pulse drifting
+6. Project Code : 30_086
+7. Operator(s) : Pramod, Sachin
+8. Command File : /odisk/gtac/cmd
+9. LTA File : /gsbifrdata1/23jul/30_086_23jul2016_2s.lta
+10. LogFlag File : /odisk/online1/logflags/30_086.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : IA
+22. Beam - 2 : PA
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 0 MHz; Step # 0
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 591 591 540 540 51 51
+30. Integration Time : 2.0132 Sec
+31. No of Antennas Working(Fringing) at the beginning :26
+
+32. Name of Non-Working Antennas (with reason for each) :
+C10 : Servo time out
+C12 : MCM time out
+S04 : Taken for mechanical work
+C11 : Feed problem.
+
+ 
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 23 Jul 2016 09:03:00 - 23 Jul 2016 12:01:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :27
+
+37. Comments (During Observations) :
+09:00 : Started set up.
+09:15 : Power equalized and phasing done on 3C48.
+10:00 : C11 started working and hence added in GAC
+
+Antennas selected in GAC :
+IA : All working antennas.
+PA : Central square (Except C12 and C10)+W01,W02+E02,E03+S01,S02 = 15
+
+09:17:41 : Started scan on 3C48 for ~ 0.805306 min.
+09:25:37 : Started scan on 0837-198 for ~ 1.47639 min.
+09:27:17 : Started scan on 0837-198 for ~ 3.79165 min.
+09:31:15 : Started scan on 0837-198 for ~ 3.75809 min.
+09:35:18 : Started scan on 0837-198 for ~ 0.335544 min.
+09:38:19 : Started scan on B0740-28 for ~ 5.26804 min.
+09:45:04 : Started scan on 0837-198 for ~ 1.57706 min.
+09:46:56 : Started scan on 0837-198 for ~ 0.570425 min.
+09:49:06 : Started scan on B0740-28 for ~ 3.59032 min.
+09:54:28 : Started scan on 0837-198 for ~ 1.34218 min.
+09:55:55 : Started scan on 0837-198 for ~ 3.18767 min.
+09:59:23 : Started scan on 0837-198 for ~ 1.81194 min.
+10:01:23 : Started scan on 0837-198 for ~ 1.24151 min.
+10:04:04 : Started scan on J0820-4114 for ~ 41.1712 min.
+10:46:46 : Started scan on 0837-198 for ~ 2.6508 min.
+10:49:38 : Started scan on 0837-198 for ~ 0.503316 min.
+10:51:02 : Started scan on J0828-3417 for ~ 38.8895 min.
+11:31:31 : Started scan on 0837-198 for ~ 2.55013 min.
+11:34:15 : Started scan on 0837-198 for ~ 0.234881 min.
+11:35:58 : Started scan on J0820-4114 for ~ 24.1256 min.
+12:00 : Stopped scan and observation is over.
+

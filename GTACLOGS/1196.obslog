@@ -1,0 +1,83 @@
+		 GTAC Observation Log 
+
+1. Date : 25/10/2003
+2. Observation Sr. No. : 1196
+3. Observer : Sandep Sirothia
+4. Observer's Email : sirothia@ncra.tifr.res.in
+5. Project Name : 1227
+6. Project Code : 04SKS01
+7. Operator(s) : Deepak,
+	Mangesh,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/sirothia/1227_1.cmd,
+	/btemp2/cmd/sirothia/1227_2.cmd
+9. LTA File : /rawdata/25oct/04sks01_1227.lta,
+	/rawdata1/25oct/04sks01_1227.ltb,
+	/rawdata/25oct/04sks01_1227.lta.1,
+	/rawdata1/25oct/04sks01_1227.ltb.1,
+	/rawdata/25oct/04sks01_1227.lta.2,
+	/rawdata1/25oct/04sks01_1227.ltb.2
+10. LogFlag File : /btemp2/logflags/04SAK01.FLAGS.3,
+	/btemp2/logflags/04SKS01.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 235 MHz ,RF2 : 235 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 305 MHz, ILO2 : 305 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 18+18 dB, 16 MHz,ON, IF-CH2 : 18+18 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 235 235 305 305 70 70 
+
+18. Integration Time : 64 STA ~ 8.454 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C12:Rf problem.
+C14:130 - no fringe.
+C08:First LO 305 not locked
+
+21. Start and End Time of Obs.(IST): 03:17 - 16:28
+
+22. Comments (During Observations) :
+*** ONLINE:BHASKAR ***
+*** IF-ANT:AUTHIF  ***
+----------------------
+03:17 Started scan on 3C295 for 15mins.
+03:28 Started the command file
+        /btemp2/cmd/sirothia/1227_1.cmd
+03:37 C03 servo 'acok' flag absent it has applied 
+      brakes in elevation( not tracking in eleavtion.)
+05:19 C03 started working.
+
+06:16 C09 elevation flag 'dnfl' at 25 deg. elevation.
+      So elevation brakes are on and it is not 
+      tracking in elevation.
+
+***** First 2 scans on 1227 i. e. scan no. 2 and 4
+***** are junk as the source was not risen. Third
+***** scan on source and onward i. e. scan no. 6 
+***** and onward scans on source are okey.
+
+07:16 Command file stopped. and closed data files
+07:21 Started new ltafiles
+      /rawdata/25oct/04sks01_1227.lta.1
+      /rawdata1/25oct/04sks01_1227.ltb.1
+07:22 Started new command file
+       /btemp2/cmd/sirothia/1227_2.cmd
+09:00 C08 started working.
+12:20 Command file stopped and closed lta files
+      Started new lta files
+      /rawdata/25oct/04sks01_1227.lta.2
+      /rawdata1/25oct/04sks01_1227.ltb.2
+12:21 Restarted command file.
+16:03 Stopped cmd file
+16:07 Started record on 3c286.
+16:28 Stopped record on 3c286, stopped obs.
+
+

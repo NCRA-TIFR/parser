@@ -1,0 +1,58 @@
+		 GTAC Observation Log 
+
+1. Date : 29/12/2008
+2. Observation Sr. No. : 4119
+3. Observer : Neeraj Gupta
+4. Observer's Email : Neeraj.Gupta@atnf.csiro.au
+5. Project Name : Search for H21 cm absorption
+6. Project Code : 15RSA01
+7. Operator(s) : Deepak,
+	Jayprakash,
+	Nilesh,
+	
+8. Command File : /odisk/gtac/cmd/neeraj/dla0816.cmd
+9. LTA File : /rawdata/29dec/15rsa01_29dec08.lta,
+	/rawdata1/29dec/15rsa01_29dec08.ltb
+10. LogFlag File : /btemp2/logflags/15RSA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 319.9954 MHz ,RF2 : 319.9954 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 250 MHz, ILO2 : 250 MHz, IVLO1 : 69.9954 MHz, IVLO2 : 69.9954 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 6 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 500 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 319.9954 319.9954 250 250 69.9954 69.9954 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+S01 - No Fringe.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 21:00 - 06:05
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+21:07 : Started scan on 3C147 ~ 15min.
+21:31 : Started command file.
+        /odisk/gtac/cmd/neeraj/dla0816.cmd
+
+01:30 : Command file stopped.
+01:33 : Started scan on 3C147 for 10mins.
+01:44 : Restarted command file.
+02:00 : W03 frequently applying brake.
+
+05:43 : Command file stopped.
+05:47 : Started scan on 3C286 for 15mins.
+06:03 : Observation stopped.
+
+

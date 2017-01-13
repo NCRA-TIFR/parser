@@ -1,0 +1,56 @@
+		 GTAC Observation Log 
+
+1. Date : 30/01/2004
+2. Observation Sr. No. : 1316
+3. Observer : Ishwara Chandra
+4. Observer's Email : ishwar@ncra.tifr.res.in
+5. Project Name : GRS1915
+6. Project Code : 04DT007
+7. Operator(s) : Manish G.,
+	Manisha J.,
+	Jitendra,
+	
+8. Command File : /btemp2/cmd/ishwar/grs1915.cmd
+9. LTA File : /rawdata/30jan/04dt007_grs1915.lta,
+	/rawdata1/30jan/04dt007_grs1915.ltb,
+	/rawdata/30jan/04dt007_2052.lta,
+	/rawdata1/30jan/04dt007_2052.ltb
+10. LogFlag File : /btemp2/logflags/04DT007.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1280 MHz ,RF2 : 1280 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1210 MHz, ILO2 : 1210 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+10 dB, 32 MHz,ON, IF-CH2 : 10+10 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1280 1280 1210 1210 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+W03 : ABC T.O.
+W04 : ABC T.O.
+
+
+21. Start and End Time of Obs.(IST): 06:54 - 14:53
+
+22. Comments (During Observations) :
+*** ONLINE : bhaskara     ***
+*** IF ATTN: AUTHIF@1280. ***
+============================================
+06:54	started scan on 3C286 ~15mins.
+07:21   Command file started.
+08:10   command file stopped.
+
+08:37   command file with new lta/b record started.
+09:30   W01,W05 Parked for painting.
+
+10:00   S-arm power reset occured.
+11:25   W-arm power shutdown.
+

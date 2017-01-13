@@ -1,0 +1,75 @@
+		 GTAC Observation Log 
+
+1. Date : 11/10/2003
+2. Observation Sr. No. : 1174
+3. Observer : Prof. Vasant Kulkarni
+4. Observer's Email : vasant@ncra.tifr.res.in
+5. Project Name : galactic gamma ray
+6. Project Code : 04GKA02
+7. Operator(s) : Deepak,
+	Mangesh,
+	Manish G.,
+	Jayprakash,
+	
+8. Command File : /btemp2/cmd/vku/gx17.cmd,
+	/btemp2/cmd/vku/cygx2.cmd
+9. LTA File : /rawdata/11oct/04gka02_gx17.lta,
+	/rawdata1/11oct/04gka02_gx17.ltb,
+	/rawdata/11oct/04gka02_cygx2.lta,
+	/rawdata1/11oct/04gka02_cygx2.ltb
+10. LogFlag File : /btemp2/logflags/04GKA02.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1280 MHz ,RF2 : 1280 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1210 MHz, ILO2 : 1210 MHz, IVLO1 : 70  MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+4 dB, 32 MHz,ON, IF-CH2 : 4+4 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1280 1280 1210 1210 70  70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+C03: Taking painting work
+
+
+
+21. Start and End Time of Obs.(IST): 15:30 - 02:20
+
+22. Comments (During Observations) :
+*****************************
+ONLINE: bhaskar
+AUTHIF: 1280 MHz.
+*****************************
+15:31 Started scan on 3C286 for 10mins
+15:49 command file started.
+17:05 C06-USB flat band shape.
+17:34 Ran Corr_config for C06-USB.
+18:02 C06-USB flat band shape.
+18:05 scan stopped for 1min and ran corr_config C06-USB recovered.
+18:16 C05-USB flat band shape.
+18:23 E06 elevation brake prob.
+19:20 C03 released for observation
+19:51 Stopped command file.
+19:52 Started scan on 1743-038 for 10min.
+20:11 Started scan on 3c48 for 10min.
+20:22 Stopped observation.
+20:25 Started new command file & record file.
+      Cmd File : /temp2/data/cmd/vku/cygx2.cmd.
+      USB : /rawdata/11oct/04gka02_cygx3.lta.
+      LSB : /rawdata/11oct/04gka02_cygx3.ltb.
+21:21 C05-USB flat band shape.
+21:22 C05-USB recoverd after running corr_config.
+21:29 C06-USB flat band shape.
+21:34 After runnig corr_config C06-USB recoverd.
+21:53 C05-USB flat band shape.
+02:03 Stopped the command file. Antennas moved to 3C48.
+02:09 Started scan on 3C48, 10 mins.
+02:20 Stopped the scan. Stopped the observation.
+

@@ -1,0 +1,69 @@
+		 GTAC Observation Log 
+
+1. Date : 13/12/2011
+2. Observation Sr. No. : 5698
+3. Observer : Abhirup Datta
+4. Observer's Email : aritra@ncra.tifr.res.in
+5. Project Name : Southern Sky Flux Calibrator Survey for Low Frequency Radio Astronomy Experiments
+6. Project Code : 21_062
+7. Operator(s) : Manisha,
+	Rupsingh,
+	Sachin,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/aritra/21_062.cmd
+9. LTA File : /gsbifrdata/13dec/21_062_13dec2011.lta
+10. LogFlag File : /odisk/online1/logflags/21_062.FLAGS.5
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 218 MHz, ILO2 : 218 MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 16 MHz
+21. Maximum Channels : 512 
+22. IFBW (MHz) : LO5 (KHz) : 16:138000-167000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 156 156 218 218 62 62.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :29
+
+27. Name of Non-Working Antennas (with reason for each) :
+W06 - servo problem.
+
+
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 19:15 - 05:20
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+2s lta file
+/gsbifrdata1/13dec/21_062_13dec2011_2s.lta
+--------------------------------------------
+19:02:45 : Started scan on 3C48 for ~ 6.44244 min.
+19:16:54 : Started scan on CYGA for ~ 23.6223 min.
+19:46:35 : Started scan on 3C147 for ~ 14.4955 min.
+20:13:36 : Started scan on CYGA for ~ 26.5751 min.
+20:44:44 : Started scan on 3C147 for ~ 45.0971 min.
+21:34:47 : Started scan on 0521-365 for ~ 81.8727 min.
+22:58:12 : Started scan on PICA for ~ 81.8727 min.
+00:26:21 : Started scan on 3C48A for ~ 6.71088 min.
+00:35:17 : Started scan on 3C48 for ~ 27.3804 min.
+01:06:51 : Started scan on 3C196 for ~ 50.4658 min.
+02:07:11 : Started scan on 0859-257 for ~ 80.5306 min.
+03:35:02 : Started scan on 1151-348 for ~ 80.2621 min.
+04:59:52 : Started scan on 3C286 for ~ 21.2064 min.
+05:20:00 : Stopped observation session.
+

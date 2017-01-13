@@ -1,0 +1,67 @@
+		 GTAC Observation Log
+
+1. Date : 20/08/2014
+2. Observation Sr. No. : 7302
+3. Observer : Francesco deGasperin, Huib Intema, Annalisa Bonafede, Marcus Bruggen, Reinout Johannes vanWeeren
+4. Observer's Email : fdg@hs.uni-hamburg.de, hintema@nrao.edu, annalisa.bonafede@hs.uni-hamburg.de, mbrueggen@hs.uni-hamburg.de, rvanweeren@cfa.harvard.edu
+5. Project Name : Study of the newly discovered radio-halo and double radio-relic in PSZ1G 108.18-11.53
+6. Project Code : 26_049
+7. Operator(s) : Navnath, Sachin, Shilpa
+8. Command File : /odisk/gtac/cmd/26_049/26_049.cmd
+9. LTA File : /gsbifrdata1/20aug/26_049_20aug2014_8s.lta
+10. LogFlag File : /odisk/online1/logflags/26_049.FLAGS.9
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 218 MHz, ILO2 : 218MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 16 MHz,ON, IF-CH2 : 4+14 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Full_Stokes
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 16.666666 MHz; Step # 0
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 138
+28. LO5 -2  : 167
+
+29. Frequency Parameters (TPA) : 156 156 218 218 62 62
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :26
+
+32. Name of Non-Working Antennas (with reason for each) :
+C03 : Mechanical work.
+W01 : MCM-5 time out.
+W05 : BLDC.
+S02 : PC104.
+
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 20 Aug 2014 00:30:00 - 20 Aug 2014 08:13:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :26
+
+37. Comments (During Observations) :
+00:30 : Started setup.
+00:15 : started scan on 3C48 for 15min.
+01:00 : Started command file.
+        /odisk/gtac/cmd/26_049/26_049.cmd
+
+07:54 : Stopped command file.
+
+07:57 : Started scan on 3C48.
+08:13 : Stopped scan and observing session over.
+

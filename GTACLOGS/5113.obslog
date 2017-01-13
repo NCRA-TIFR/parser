@@ -1,0 +1,79 @@
+		 GTAC Observation Log 
+
+1. Date : 22/11/2010
+2. Observation Sr. No. : 5113
+3. Observer : Julie Hlavacek-Larrondo
+4. Observer's Email : juliehl@ast.cam.ac.uk
+5. Project Name : complementary low-radio-frequency/X-ray view of giant powerful classical double radio sources: a definitive calibration of their magnetic field strengths
+6. Project Code : 19_033
+7. Operator(s) : Deepak,
+	Manisha,
+	Navanath,
+	
+8. Command File : /odisk/gtac/cmd/katherine/s1.cmd,
+	/odisk/gtac/cmd/katherine/s2.cmd,
+	/odisk/gtac/cmd/katherine/s3.cmd
+9. LTA File : /rawdata/22nov/19_033_22nov2010.lta,
+	
+10. GSB File : /gsbifrdata/22nov/19_033_22nov2010_gsb.lta,
+	/gsbifrdata/22nov/19_033_22nov2010_gsb.lta.1
+11. LogFlag File : /odisk/online1/logflags/19_033.FLAGS
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 243 MHz ,RF2 : 243 MHz, SA1 : 14 dB, SA2 : 14 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 305 MHz, ILO2 : 305 MHz, IVLO1 : 62 MHz, IVLO2 : 62 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+15. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+GHB Settings :
+16. GHB Channels : 0:127:1
+17. Correlator Mode : IndianPolar
+18. Frequency Parameters (TPA) : 243 243 305 305 62 62 
+
+GSB Settings :
+19. Maximum Channels : 256 
+20. Final Bandwidth (MHz): OFF MHz; Steps : 0
+21. IFBW : LO5(MHz) : 16:138-167 MHz
+22. Stokes : Total_Intensity
+23. Beam - 1 : OFF
+24. Beam - 2 : OFF
+
+25. Integration Time : 128 LTA ~ 16.908 Sec.
+26. No of Antennas Working(Fringing) :24
+
+27. Name of Non-Working Antennas (with reason for each) :
+E05 : ABC Time Out
+C11,C12,C13,C14,W01: not fringing in hardware correlator.
+
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 23:30 - 08:30
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+23:53 : Started scan on 3C147 for 15mins.
+00:12 : Started command file
+        /odisk/gta/cmd/katherine/s1.cmd
+
+02:12 : GSB stopped working around 01:53. rebooted astro8 machin.
+02:25 : Restarted GSB.
+02:28 : Scan # 7 in GSB data file '19_033_22nov2010_gsb.lta' is bad.
+02:29 : Restarted command file s1.cmd.
+02:30 : Started new lta file only for GSB
+        19_033_22nov2010_gsb.lta.1
+
+03:50 : Started new command file
+        /odisk/gtac/cmd/katherine/s2.cmd
+
+05:52 : Command file stopped.
+06:01 : Started command file
+        /odisk/gtac/cmd/katherine/s3.cmd
+08:15 : Started scan on 3C286 for 15min.
+08:30 : Observing session over.
+
+
+

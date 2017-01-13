@@ -1,0 +1,116 @@
+		 GTAC Observation Log 
+
+1. Date : 03/03/2009
+2. Observation Sr. No. : 4226
+3. Observer : Nissim
+4. Observer's Email : nkanekar@nrao.edu
+5. Project Name : 1305+80
+6. Project Code : 15NKA01
+7. Operator(s) : Jayprakash,
+	Nilesh,
+	Rupsingh,
+	Sachin,
+	Santaji,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/nissim/0820+560.cmd,
+	/odisk/gtac/cmd/nissim/1044+71.cmd,
+	/odisk/gtac/cmd/nissim/1058+726.cmd,
+	/odisk/gtac/cmd/nissim/1039+811.cmd,
+	/odisk/gtac/cmd/nissim/1150+812.cmd,
+	/odisk/gtac/cmd/nissim/1305+80.cmd,
+	/odisk/gtac/cmd/nissim/1543+480.cmd,
+	/odisk/gtac/cmd/nissim/1656+571.cmd,
+	/odisk/gtac/cmd/nissim/1739+522.cmd,
+	/odisk/gtac/cmd/nissim/2007+659.cmd
+9. LTA File : /rawdata/3mar/15nka01_03mar2009.lta,
+	/rawdata1/3mar/15nka01_03mar2009.ltb,
+	/rawdata/3mar/15nka01_03mar2009_diffstop.lta,
+	/rawdata1/3mar/15nka01_03mar2009_diffstop.ltb
+10. LogFlag File : /btemp2/logflags/15NKA01.FLAGS.6
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 656.654 MHz ,RF2 : 656.654 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 590 MHz, ILO2 : 590 MHz, IVLO1 : 66.654 MHz, IVLO2 : 66.654 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 8000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:255:1
+17. Frequency Parameters (TPA) : 656.654 656.654 590 590 66.654 66.654 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C09 : 130 pol No fringe.
+C06 : High Cross in LSB. 
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 18:45 - 08:03
+
+23. ONLINE Machine : Bhaskar
+
+24. Correlator Mode : UsbHighRes
+
+25. Comments (During Observations) :
+--------------------------------------------
+NOTE FOR THE USER :
+"The online fringe stopping algorithm was found to be in error by about 2s
+after 1Jan2009. This differential fringe rate was applied using the program
+diffstop. The fringe rate was corrected for an error of +2.0s, and the
+timestamps were also updated by the same amount."
+---------------------------------------------
+18:59 : Started scan on 3C147.
+19:21 : Started command file 0820+560.cmd.
+20:00 : Changed settings
+        tpa 656.654 65.654 590 590 66.654 66.654
+20:04 : Started scan on 3C147.
+20:17 : Started command file 1044+71.cmd.
+
+21:32 : Changed settings 
+        tpa 573.4 573.4 590 590 63.4 63.4
+        Started command file 1058+726.cmd.
+22:22 : Started scan on 3C147.
+
+Note : From scan no. 13 turned 14dB solar attenuator off.
+It was ON accidentally.
+
+22:37 : Changed settings and turned 14dB solar attenuator off
+        tpa 624.5 624.5 560 560 64.5 64.5
+22:49 : Started command file 1039+811.cmd.
+
+23:58 : changed settings.
+        tpa 627.29 627.29 560 560 67.29 67.29
+00:00 : Started command file 1150+812.cmd.
+01:05 : Started scan on 3C286 ~5min.
+
+01:10 : changed settings.
+        tpa 646.7 646.7 580 580 66.7 66.7
+01:13 : Started scan on 3C286 ~6min.
+01:25 : Started command file 1305+80.cmd.
+
+02:19 : changed settings.
+        tpa 619.8 619.8 555 555 64.8 64.8
+02:26 : Started command file 1543.48.cmd.
+
+03:40 : Changed settings.
+        tpa 618.7 618.7 555 555 63.7 63.7
+03:56 : Started command file 1656+571.cmd
+
+        W01 : No fringe. 
+
+04:55 : changed settings.
+        tpa 594.1 594.1 530 530 64.1 64.1
+04:59 : Started command file 1739+522.cmd.
+
+07:08 : Changed settings.
+        tpa 606.9 606.9 540 540 66.9 66.9
+07:11 : Started command file 2007+659.cmd. 
+08:03 : Stopped command file and observing session over.
+
+
+
+

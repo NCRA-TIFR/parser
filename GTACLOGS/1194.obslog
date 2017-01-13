@@ -1,0 +1,66 @@
+		 GTAC Observation Log 
+
+1. Date : 24/10/2003
+2. Observation Sr. No. : 1194
+3. Observer : S.K.Sirothia.
+4. Observer's Email : sirothia@ncra.tifr.res.in
+5. Project Name : 1227
+6. Project Code : 04SKS01
+7. Operator(s) : Deepak,
+	Manish G.,
+	Manisha J.,
+	Sanjay,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/sirothia/1227_1.cmd,
+	/btemp2/cmd/sirothia/1227_2.cmd
+9. LTA File : /rawdata/24oct/04sks01_1227.lta,
+	/rawdata1/24oct/04sks01_1227.ltb
+10. LogFlag File : /btemp2/logflags/04SKS01.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 235 MHz ,RF2 : 235 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 305 MHz, ILO2 : 305 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 18+18 dB, 16 MHz,ON, IF-CH2 : 18+18 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 235 235 305 305 70 70 
+
+18. Integration Time : 64 STA ~ 8.454 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+C06:servo off mode.
+C08:LO1 unlock.
+C12:Rf problem.
+C14:130 - no fringe.
+
+
+21. Start and End Time of Obs.(IST): 04:00 - 17:00
+
+22. Comments (During Observations) :
+*** ONLINE:BHASKAR ***
+*** IF-ANT:AUTHIF  ***
+----------------------
+04:00 scan started on 3c147.
+04:50 command file started
+	/temp2/data/cmd/sirothia/1227_1.cmd
+07:13	W06 got ABC Power Reset.
+07:24	W06 started working.
+07:56	stopped command file and started command file :
+	/temp2/data/cmd/sirothia/1227_2.cmd.
+09:04	C03 Parked (for Painting.)
+09:50  C08 LO1 is locked .
+11:50  C06 released for observation.
+14:56  C05-USB flat band shape
+15:00  C05-USB recovered after running corr_config.
+16:35  command file stopped.
+16:38  Started scan on 3C286 for 30mins.
+17:10  Observation stopped.
+
+

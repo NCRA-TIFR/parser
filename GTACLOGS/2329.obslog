@@ -1,0 +1,81 @@
+		 GTAC Observation Log 
+
+1. Date : 04/12/2005
+2. Observation Sr. No. : 2329
+3. Observer : Sarita
+4. Observer's Email : sarita@tifr.res.in
+5. Project Name : i17504
+6. Project Code : 09SKG01
+7. Operator(s) : Deepak,
+	Jitendra,
+	Manish G.,
+	Manisha J.,
+	
+8. Command File : /atemp2/cmd/sarita/i17504.cmd
+9. LTA File : /rawdata/4dec/09skg01_i17504.lta,
+	/rawdata1/4dec/09skg01_i17504.ltb,
+	/rawdata/4dec/09skg01_i17504.lta.1,
+	/rawdata1/4dec/09skg01_i17504.ltb.1
+10. LogFlag File : /atemp2/logflags/09SKG01.FLAGS.15
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1280 MHz ,RF2 : 1280 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1210 MHz, ILO2 : 1210 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1280 1280 1210 1210 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C09 - Painting
+S02 - LSB No fringe
+C11,C12,C13,C14,W01,S02- LSB no fringe
+
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 10:30 - 16:57
+
+23. Comments (During Observations) :
+* CRR Config : Indian Polar Mode
+* Online     : aditya
+* IF-attenuation : AuthIF @ 1280MHz.
+***************************************
+
+10:43 : Started scan on 3C286 for 15mins.
+11:08 : Started command file
+        /atemp2/cmd/sarita/i17504.cmd
+
+13:08 : USB- c09,c10,c11,c12,c14,w01,w02,w03,w04 unstable self and cross.
+13:10 : Command file stopped,and ran reset correlator.
+      problem got solved.
+13:15 : Restarted command file.
+14:10 : MSEB power failed.
+14:20 : MSEB power came back.
+14:47 : MSEB power failed.
+14:57 : MSEB power came back and started setting up antennas.
+
+15:00 : corr given for some tests.
+15:25 : correlator released for observation.
+15:25 : started observation 09skg01_i17504.lta.1
+        ltafiles are : /rawdata/4dec/09skg01_i17504.lta.1,
+        /rawdata1/4dec/09skg01_i17504.ltb.1
+
+16:08 : Again MSEB Power Failed.
+16:15 : power resumed.
+        started resetting antennas.
+16:38 : started scan on phase cal 1830-360 ~ 3mins.
+16:52 : started scan on 3c48 ~5mins.
+16:57 : stopped das & observation session.
+ 
+
+

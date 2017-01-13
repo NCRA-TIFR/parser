@@ -1,0 +1,61 @@
+		 GTAC Observation Log 
+
+1. Date : 30/11/2004
+2. Observation Sr. No. : 1728
+3. Observer : Ekta
+4. Observer's Email : ekta@ncra.tifr.res.in
+5. Project Name : sbs0335
+6. Project Code : 07EKA01
+7. Operator(s) : Deepak,
+	Manish G.,
+	
+8. Command File : /btemp2/cmd/ekta/sbs0335-052.cmd
+9. LTA File : /rawdata/30nov/07eka01_sbs0335.lta,
+	/rawdata1/30nov/07eka01_sbs0335.ltb
+10. LogFlag File : /btemp2/logflags/07EKA01.FLAGS.7
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1400.479 MHz ,RF2 : 1400.479 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1330 MHz, ILO2 : 1330 MHz, IVLO1 : 70.479 MHz, IVLO2 : 70.479 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 16 MHz,ON, IF-CH2 : 16+16 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 2000 KHz, 9 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 3
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1400.479 1400.479 1330 1330 70.479 70.479 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C09: ABC time out.
+E05: ABC time out
+S01: ABC time out.
+
+21. Start and End Time of Obs.(IST): 17:50 - 04:05
+
+22. Comments (During Observations) :
+* ONLINE: bhaskar
+* AUTHIF: 1390 MHz.
+*
+#########################
+
+
+17:50 : Started scan on 3C48. 
+       In first scan records from 100 are bad.
+18:40 : C06 started working.
+18:55 : Started command file
+       /btemp2/cmd/ekta/sbs0335-052.cmd
+18:40 : C09 self power very low.
+21:40 : W04 not showing stable phase.
+24:23 : Stopped the command file.
+24:00 : Observer 3C147, for 10 mins.
+24:47 : Re-started command file:
+         /btemp2/cmd/ekta/sbs0335-052.cmd
+27:57 : Stopped the command file.
+28:00 : Observed 3C147 for 5 mins.
+28:05 : Stopped the scan. Stopped the observation.
+

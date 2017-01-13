@@ -1,0 +1,54 @@
+		 GTAC Observation Log 
+
+1. Date : 04/03/2003
+2. Observation Sr. No. : 1003
+3. Observer : Dr. Acharya, prof. V. K. Kulkarni.
+4. Observer's Email : vasant@ncra.tifr.res.in
+5. Project Name : MKN421
+6. Project Code : 03TOO01
+7. Operator(s) : Manish G.,
+	Manisha J.,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/vku/mkn421.cmd
+9. LTA File : /rawdata/4mar/03too01_mkn421.lta
+10. LogFlag File : /btemp2/logflags/03TOO01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:63:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :23
+
+20. Name of Non-Working Antennas (with reason for each) :
+C00 : 150 MHz system test
+C02 : -----||-----
+C04 : -----||-----
+E02 : -----||-----
+W01 : -----||-----
+S01 : -----||-----
+C03 : Ele. Brake problem.
+
+21. Start and End Time of Obs.(IST): 19:45 - 05:07
+
+22. Comments (During Observations) :
+*** ONLINE : bhaskar ***
+*** IF ATTN: POWER EQUIALIZED. ***
+-----------------------------------
+19:45  Started cmd file /temp2/data/cmd/vku/mnk421.cmd
+22:38  Phase cal changed to 3c286, and restarted cmd file.
+23:15  E05 wind high, getting parked.
+02:44  W02 flat bshap, stopped das, corr_config done, restarted das.
+05:07  Stopped cmd file & project.
+
+

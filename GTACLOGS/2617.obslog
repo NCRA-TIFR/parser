@@ -1,0 +1,55 @@
+		 GTAC Observation Log 
+
+1. Date : 22/05/2006
+2. Observation Sr. No. : 2617
+3. Observer : P. S
+4. Observer's Email : psubrama@iiap.res.in,jerry@prl.res.in
+5. Project Name : sun obs.
+6. Project Code : 10PSA01
+7. Operator(s) : Deepak,
+	Manisha J.,
+	
+8. Command File : /btemp2/cmd/psubrama/may22_2006.cmd
+9. LTA File : /rawdata/22may/10psa01_22may06_16s.lta
+10. LogFlag File : /btemp2/logflags/10PSA01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 244 MHz ,RF2 : 244 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 310 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 6 MHz,ON, IF-CH2 : 16+16 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 40:80:1
+17. Frequency Parameters (TPA) : 244 244 310 310 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+W02 - painting.
+
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 13:00 - 17:55
+
+23. Comments (During Observations) :
+*** ONLINE : bhaskar ***
+*** IndianPolar MODE ***
+*** Nauth 235 MHz ****
+---------------------------------
+LTAfiles:
+/rawdata/22may/10psa01_22may06_2s.lta   : 2sec
+/rawdata/22may/10psa01_22may06_16s.lta  : 16sec
+
+13:27 : Started scan on 3C48 for 15mins.
+13:48 : Started command file
+        /btemp2/cmd/psubrama/may2206.cmd
+17:55 : observation session over.
+
+

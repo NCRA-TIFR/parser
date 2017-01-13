@@ -1,0 +1,54 @@
+		 GTAC Observation Log 
+
+1. Date : 20/08/2004
+2. Observation Sr. No. : 1614
+3. Observer : Poonam Chandra
+4. Observer's Email : poonam@tifr.res.in
+5. Project Name : sn2003bg
+6. Project Code : 06PCA01
+7. Operator(s) : Deepak,
+	Jayprakash,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/poonam/sn2003bg.cmd
+9. LTA File : /rawdata/20aug/06pca01_sn2003bg.lta,
+	/rawdata1/20aug/06pca01_sn2003bg.ltb
+10. LogFlag File : /btemp2/logflags/06PCA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1390 MHz ,RF2 : 1390 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1320 MHz, ILO2 : 1320 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1390 1390 1320 1320 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C02 : Fringe fluctuation.
+E02 : Servo work.
+C03 : Servo problem
+
+
+21. Start and End Time of Obs.(IST): 05:00 - 09:25
+
+22. Comments (During Observations) :
+ONLINE running on bhaskar
+IF attenuation AUTH IF @ 1390 ALC ON
+-----------------------------------------------
+
+05:00 : Started scan on 3C48 for 15mins.
+05:28 : Started command file
+        /btemp2/cmd/poonam/sn2003bg.cmd
+09:10 : command file stopped and scan started 
+	on 3c48 for 10 min.
+09:25 : stopped the scan and observation.
+
+

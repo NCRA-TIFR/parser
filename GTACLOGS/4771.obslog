@@ -1,0 +1,62 @@
+		 GTAC Observation Log 
+
+1. Date : 14/02/2009
+2. Observation Sr. No. : 4771
+3. Observer : Rahul Basu, Ramana Athreya
+4. Observer's Email : rbasu@ncra.tifr.res.in,rathreya@iiserpune.ac.in
+5. Project Name : cluster of galaxies A1351
+6. Project Code : 17_019
+7. Operator(s) : Deepak,
+	Jayprakash,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/rathreya/17_019/17_019_14feb.cmd
+9. LTA File : /rawdata/14feb/17_019_14feb2010.lta,
+	/rawdata1/14feb/17_019_14feb2010.ltb
+10. LogFlag File : /odisk/online1/logflags/17_019.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+W05 - low fringe@610MHz.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 20:19 - 07:03
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+GHB 2s data files.
+/rawdata/14feb/17_019_14feb2010_2s.lta,
+/rawdata1/14feb/17_019_14feb2010_2s.ltb
+
+GSB 2s data file.
+/gsbifrdata/14feb/17_019_14feb2010_gsb_2s.lta
+-----------------------------------------------
+19:19 : scan started on 3c48.
+20:58 : command file started.
+23:27 : phase cal changed to 1313+675. Restarted command file.
+
+06:41 : command file stopped.
+06:42 : Started scan 1313+675 for 5mins.
+06:49 : Started scan on 3C286 for 13mins.
+07:03 : Observation stopped.
+
+

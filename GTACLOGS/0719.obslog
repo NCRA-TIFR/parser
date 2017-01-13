@@ -1,0 +1,42 @@
+1. Date : 23/07/2002
+2. Observation Sr. No. : 0719
+3. Observer : Poonam Chandra
+4. Observer's Email : poonam@tifr.res.in
+5. Project Name : SN1993J
+6. Project Code : 02PCA01
+7. Operator(s) : Galande M.M.,Jangam M.S.,Kodilkar J.P.,Kudale S.S.,
+8. Command File : /temp2/data/cmd/poonam/sn1979_243.cmd
+9. LTA File : /rawdata/23jul/02pca01_sn1979c.lta
+
+ANTENNA SETTINGS :
+
+10. RF Freq(MHz) & Solar Attn(dB)- RF1 : 244 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 0 dB
+11. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 310 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+12. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 6 MHz,on, IF-CH2 : 18+18 dB, 6 MHz,on
+13. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, on
+
+CORREATOR SETTINGS :
+
+14. CLK_SEL/Samp_Freq : 1
+15. Channels : 0:127:1
+16. Frequency Parameters (TPA) : 244 244 310 310 66 66 
+
+17. Integration Time : 128 STA ~ 16.67 Sec.
+18. No of Antennas Working(Fringing) : 29
+19. Name of Non-Working Antennas (with reason for each) : C04 - MCM 05 T.O.
+20. Start and End Time of Obs.(IST): 13:25 - 17:17
+21. Comments (During Observations) :13:25 Flux cal scan started on 3c147 source<br>
+13:40 scan stopped.<br>
+13:52 phase cal scan for 5m<br>
+14:00 * RFI S04 antenna.<br>
+14:18 SN1979C scan started for 20m<br>
+      (E02 not tracking.)<br>
+14:23 E02 started tracking.<br>
+16:00 E02 Applied brakes.<br>
+17:00 Stopped command file and antennas moved to 3C286.<br>
+17:04 Started scan on 3C286.<br>
+17:17 stopped das and observation.<br>
+<br>
+   
+22. Data Backup files & Tape No. :
+

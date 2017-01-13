@@ -1,0 +1,55 @@
+		 GTAC Observation Log 
+
+1. Date : 02/03/2007
+2. Observation Sr. No. : 3073
+3. Observer : neeraj
+4. Observer's Email : neeraj@ncra.tifr.res.in
+5. Project Name : MG2
+6. Project Code : 11RSA01
+7. Operator(s) : Sanjay,
+	
+8. Command File : /btemp2/cmd/neeraj/mg1607.cmd
+9. LTA File : /rawdata/2mar/11rsa01_2mar07.lta,
+	/rawdata1/2mar/11rsa01_2mar07.ltb
+10. LogFlag File : /btemp2/logflags/11RSA01.FLAGS.8
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 670.5936 MHz ,RF2 : 670.5936 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 600 MHz, ILO2 : 600 MHz, IVLO1 : 70.5936 MHz, IVLO2 : 70.5936 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 14+0 dB, 6 MHz,ON, IF-CH2 : 14+0 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 1000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 670.5936 670.5936 600 600 70.5936 70.5936 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C11 - Servo problem.
+E03 - Servo problem.
+W05 - No fringe.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 18:45 - 00:00
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+---------------------------------------------
+03:06 : Started BF-cal on 3C286.
+03:22 Started cmd file.
+
+

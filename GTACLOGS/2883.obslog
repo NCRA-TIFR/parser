@@ -1,0 +1,68 @@
+		 GTAC Observation Log 
+
+1. Date : 18/11/2006
+2. Observation Sr. No. : 2883
+3. Observer : BCJ
+4. Observer's Email : bcj@ncra.tifr.res.in
+5. Project Name : PSR
+6. Project Code : 11NOA01
+7. Operator(s) : Jitendra,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/hold.cmd
+9. LTA File : /rawdata/18nov/11noab1_235.lta,
+	/rawdata1/18nov/11noaa1_610.ltb
+10. LogFlag File : /btemp2/logflags/11NOAA1.FLAGS.1,
+	/btemp2/logflags/11NOAB1.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 612 MHz ,RF2 : 612 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 545 MHz, ILO2 : 545 MHz, IVLO1 : 67 MHz, IVLO2 : 67 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+4 dB, 32 MHz,OFF, IF-CH2 : 4+4 dB, 32 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 612 612 545 545 67 67 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+
+
+
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 03:25 - 08:05
+
+23. Comments (During Observations) :
+-------------------------------------------
+********    ONLINE Machine : Bhaskar        ********* 
+********  Corr Mode : Indian Polar Mode    *********
+--------------------------------------------
+subarray splitted in two suba:
+suba 3 = C01,C11,E03,E04,E05,E06,S01,S03,S04,S06,W02,
+         W03,W04,W05,W06(total 15)
+suba 4 = C00,C02,C03,C04,C05,C06,C08,C09,C10,C12,C13,C14
+         W01,E02,S02(total 15).
+
+suba 4 setting = RF=610MHz. LO1=545MHz, IF=32MHz
+                 ALC=OFF, gain eq done.
+suba 3 setting = RF=235MHz, LO1=311MHz, OF=6MHz,
+                 ALC=OFF, gain eq done.
+
+  BBBW = 16 MHz, 67MHz, ALC OFF
+
+Suba 4 project = 11NOAA1
+Suba 3 project = 11NOAB1
+
+-----------------------
+
+08:05 observation over.
+
+

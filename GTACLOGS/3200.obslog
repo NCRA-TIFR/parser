@@ -1,0 +1,66 @@
+		 GTAC Observation Log 
+
+1. Date : 14/06/2007
+2. Observation Sr. No. : 3200
+3. Observer : Nirupam
+4. Observer's Email : nirupam@ncra.tifr.res.in
+5. Project Name : FUJITA
+6. Project Code : 12PLA01
+7. Operator(s) : Jitendra,
+	Navanath,
+	Sachin,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/plah/fujita1.cmd,
+	/btemp2/cmd/plah/fujita2.cmd
+9. LTA File : /rawdata/14jun/12pla01_14jun2007.lta,
+	/rawdata1/14jun/12pla01_14jun2007.ltb,
+	/rawdata/14jun/12pla01_14jun2007.lta.1,
+	/rawdata1/14jun/12pla01_14jun2007.ltb.1,
+	/rawdata/14jun/12pla01_14jun2007.lta.2,
+	/rawdata1/14jun/12pla01_14jun2007.ltb.2
+10. LogFlag File : /btemp2/logflags/12PLA01.FLAGS.2,
+	/btemp2/logflags/12PLA01.FLAGS.3,
+	/btemp2/logflags/12PLA01.FLAGS.4,
+	/btemp2/logflags/12PLA01.FLAGS.5
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1152.4 MHz ,RF2 : 1152.4 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1220 MHz, ILO2 : 1220 MHz, IVLO1 : 67.6 MHz, IVLO2 : 67.6 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 6+0 dB, 32 MHz,ON, IF-CH2 : 6+0 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1152.4 1152.4 1220 1220 67.6 67.6 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :24
+
+20. Name of Non-Working Antennas (with reason for each) :
+C01 : servo problem.
+C08 : painting.
+W01 : PM.
+S01 : AC problem.
+S06 : OFC cut.
+C12 : LO1 UNLOCK.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 12:50 - 00:00
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+12:50 : scan started on 3c147.
+13:20 : command file started.
+16:30 : All antennae parked (high wind).
+17:45 : fstop giving error.
+18:00 : Restarted corr chain.
+18:15 : Started command file on phase cal.
+23:00 : observation session over.
+

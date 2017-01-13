@@ -1,0 +1,68 @@
+		 GTAC Observation Log 
+
+1. Date : 14/2/2014
+2. Observation Sr. No. : 6959
+3. Observer : Paulina Anna Sowicka,Marek Jamrozy,Sandeep K. Sirothia
+4. Observer's Email : paula695@gmail.com,jamrozy@oa.uj.edu.pl,sirothia@ncra.tifr.res.in
+5. Project Name : Low-frequency high-dynamical range radio observations of a new double-double radio galaxy candidate
+6. Project Code : 25_001
+7. Operator(s) : Deepak,Navanath,Shilpa,Surender
+8. Command File : /odisk/gtac/cmd/sirothia/25_001_20140214.cmd
+9. LTA File : /gsbifrdata1/14feb/25_001_14feb2014_2s.lta,/gsbifrdata/14feb/25_001_14feb2014_16s.lta,
+10. LogFlag File : /odisk/online1/logflags/25_001.FLAGS.1,
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : Realtime 
+15. GSB LTA : 8 
+16. GSB CTRL : ONLINE 
+17. GSB Fstop : ON 
+18. GAIN EQ : ON 
+19. Stokes : FullStokes
+20. Beam - 1 : OFF
+21. Beam - 2 : OFF
+22. ACQ BW : 33.33 MHz
+23. Final BW : 33.333333 MHz; Step # 0
+24. Maximum Channels : 256 
+25. Channel Numbers : 0:255:1 
+26. LO5 -1  : 149.00 
+27. LO5 -2  : 156.00 
+
+28. Frequency Parameters (TPA) : 306 306 255 255 51 51.
+29. Integration Time : 2.013264 Sec.
+30. No of Antennas Working(Fringing) at the begining :26
+
+31. Name of Non-Working Antennas (with reason for each) :
+S01 : PC104
+W03 : MCM-10 time out.
+W06 : 175pol low fringe.
+C12 : MCM-5 time out.
+32. Note for Backup :
+
+33. Start and End Time of Obs.(IST): 22:00 - 07:41
+
+34. ONLINE Machine : Lenyadri
+
+35. No of Antennas Working(Fringing) at the end :24
+
+36. Comments (During Observations) :
+21:55 : Started scan on 3C147 for 15mins.
+22:12 : Started scan on J0218+4232.
+22:30 : Started command file.
+03:28 : E06 frequent getting abc reset.
+04:25 : Stopped command file and changed the track.
+04:45 : Restarted command file.
+07:20 : C10 low fringe@175pol.
+07:25 : Stopped command file.
+07:26 : Started scan on 3c286.
+07:41 : Stopped scan & observing session is over.
+
+ 
+
+       

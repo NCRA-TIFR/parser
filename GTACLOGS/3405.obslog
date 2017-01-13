@@ -1,0 +1,71 @@
+		 GTAC Observation Log 
+
+1. Date : 21/10/2007
+2. Observation Sr. No. : 3405
+3. Observer :  djs
+4. Observer's Email : acgupta30@gmail.com,djs@ncra.tifr.res.in
+5. Project Name : j2154
+6. Project Code : 12ACG01
+7. Operator(s) : Deepak,
+	Jayprakash,
+	Manisha,
+	Navanath,
+	Nilesh,
+	
+8. Command File : /atemp2/cmd/12acg01/12acg1.cmd,
+	/atemp2/cmd/12acg01/12acg2.cmd,
+	/atemp2/cmd/12acg01/12acg3.cmd,
+	/atemp2/cmd/12acg01/12acg4.cmd
+9. LTA File : /rawdata/21oct/12acg01_21oct2007.lta,
+	/rawdata1/21oct/12acg01_21oct2007.ltb,
+	/rawdata/21oct/12acg01_21oct2007.lta.1,
+	/rawdata1/21oct/12acg01_21oct2007.ltb.1,
+	/rawdata1/21oct/12acg01_21oct2007.ltb.3,
+	/rawdata/21oct/12acg01_21oct2007.lta.3,
+	/rawdata/21oct/12acg01_21oct2007.lta.2,
+	/rawdata1/21oct/12acg01_21oct2007.ltb.2
+10. LogFlag File : /btemp2/logflags/12ACG01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+4 dB, 32 MHz,ON, IF-CH2 : 10+4 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C09:130 pol low self
+S03:    low fringe.
+W03X(C00,C01,C02,C03) LSB bad baselines.
+C13X(C09,C11,C12) LSB bad baselines.
+C12X(C10,C11) LSB bad baselines.
+C00,C01,C02,C03,C04 : no fringe.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 17:35 - 07:33
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Aditya   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+17:39 : Flux cal is not available so started scan on 3c468.1 for 0min.
+17:49 : Stopped the scan.
+17:59 : Started command file. ( 12acg1.cmd )
+21:00 : Started next command file. (12acg2.cmd)
+00:44 : Started next command file. (12acg3.cmd) 
+04:44 : Started next command file. (12acg4.cmd)
+07:22 : Stopped command file.
+07:23 : Started scan on 3C147.
+07:33 : Stopped scan and observation session over.
+

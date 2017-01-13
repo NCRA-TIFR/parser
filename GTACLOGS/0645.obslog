@@ -1,0 +1,50 @@
+1. Date : 21/06/2002
+2. Observation Sr. No. : 645
+3. Observer & email : CRS
+4. Project Name & Code : MRC sources / 02CRS01
+5. Operator(s) :Jitendra(2),Manisha(2),Santaji(3).
+6. Command File/Source  & Lta File : /temp2/data/cmd/mrc/mrc_1jy21jun.cmd
+                                   : /temp2/data/cmd/mrc/mrc_1jy21bjun.cmd
+                                   : /temp2/data/cmd/mrc/mrc_1jy21cjun.cmd
+                                   : /temp2/data/cmd/mrc/mrc_1jy21c1jun.cmd
+                                   : /temp2/data/cmd/mrc/mrc_1jy21djun.cmd
+								   : /rawdata/21jun/02crs01_mrc21.lta
+								   : /rawdata/21jun/02crs01_mrc21_b.lta
+								   : /rawdata/21jun/02crs01_mrc21_c1.lta
+								   : /rawdata/21jun/02crs01_mrc21_c1.lta.1
+								   : /rawdata/21jun/02crs01_mrc21_d.lta
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 : 1280 MHz., 0 dB., OFF.
+8. Ist LO (MHz) & IVth LO (MHz) : 1210 MHz., 70 MHz.
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : 4+4 dB.,32 MHz., ON.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status : 16 MHz., 0 dB., ON.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 0 / 0 
+12. Channels : 0,127,1
+13. Frequency Parameters (TPA) : 1280 1280 1210 1210 70 70 
+
+14. Integration Time (Sec.) : 16 sec (16*8m).
+15. No of Antennas Working(Fringing) :   28
+16. Name of Non-Working Antennas (with reason for each) :
+
+	W03 Pole 130 low.
+
+17. Starting and Ending time of Observations (IST) : 
+18. Comments (During Observations) :
+
+
+	01:41 	started the command file
+			/temp2/data/cmd/mrc/mrc_1jy21cjun.cmd
+	03:12   started the command file
+			/temp2/data/cmd/mrc/mrc_1jy21c1jun.cmd
+	04:37   started the command file
+			/temp2/data/cmd/mrc/mrc_1jy21djun.cmd
+
+19. Data Backup files & Tape No. :
+
+
+

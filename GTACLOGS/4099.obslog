@@ -1,0 +1,60 @@
+		 GTAC Observation Log 
+
+1. Date : 19/12/2008
+2. Observation Sr. No. : 4099
+3. Observer : Ue-Li Pen
+4. Observer's Email : pen@cita.utoronto.ca
+5. Project Name : EoR Project
+6. Project Code : 15PUL01
+7. Operator(s) : Manisha,
+	Navanath,
+	
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /rawdata/19dec/15pul01_19dec08.lta,
+	/rawdata1/19dec/15pul01_19dec08.ltb,
+	/rawdata/19dec/15pul01_19dec08.lta.1,
+	/rawdata1/19dec/15pul01_19dec08.ltb.1
+10. LogFlag File : /btemp2/logflags/15PUL01.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 218 MHz, ILO2 : 218 MHz, IVLO1 : 62 MHz, IVLO2 : 62 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,OFF, IF-CH2 : 4+12 dB, 16 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 156 156 218 218 62 62 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C04 : No fringe.
+C05 : No fringe.
+E04 : No fringe(srong RFI)
+
+
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 22:00 - 07:40
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode :  UsbPolar    *********
+--------------------------------------------
+22:00 : Started setup for 15PUL01.
+      : Power eq and phasing.
+22:43 : Started scan on B0823+26
+23:50 : Correlator configured in USB polar mode.
+        & started scan on B0823+26.
+
+07:40 : Scan stopped. Observation stopped.
+
+
+

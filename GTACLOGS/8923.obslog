@@ -1,0 +1,62 @@
+		 GTAC Observation Log
+
+1. Date : 02/10/2016
+2. Observation Sr. No. : 8923
+3. Observer : Lokesh Kumar Dewangan, Devendra Kumar Ojha, Igor Zinchenko
+4. Observer's Email : lokeshd@prl.res.in, ojha@tifr.res.in, zin@appl.sci-nnov.ru
+5. Project Name : High-Resolution Radio Continuum Observations of Galactic mid-infrared bubbles
+6. Project Code : 30_015
+7. Operator(s) : Deepak, Rupsing, Shilpa
+8. Command File : /odisk/gtac/cmd/30_015/01oct16/obs_01oct.cmd
+9. LTA File : /gsbifrdata1/01oct/30_015_01oct2016.lta
+10. LogFlag File : /odisk/online1/logflags/PNTG.FLAGS.2135, /odisk/online1/logflags/30_015.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1281 MHz ,RF2 : 1281 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1230 MHz, ILO2 : 1230MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 0 MHz; Step # 0
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 1281 1281 1230 1230 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :26
+
+32. Name of Non-Working Antennas (with reason for each) :
+C05 : BLDC work.
+C09 : BLDC work.
+C06 : Frequently applying azimuth brakes.
+W05 : Not releasing brakes.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 01 Oct 2016 18:00:00 - 02 Oct 2016 01:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :26
+
+37. Comments (During Observations) :
+18:00 : Started settings.
+18:27 : Started scan on 3C286 for 10min.
+18:41 : '/odisk/gtac/cmd/30_015/01oct16/obs_01oct.cmd' command file started.
+00:10 : Stopped command file(source set)
+00:14 : Started scan on 3C468.1
+00:30 : Stopped scan and observation closed.

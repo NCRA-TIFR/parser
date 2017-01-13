@@ -1,0 +1,56 @@
+		 GTAC Observation Log 
+
+1. Date : 15/09/2008
+2. Observation Sr. No. : 3994
+3. Observer : Sirothia
+4. Observer's Email : sirothia@ncra.tifr.res.in
+5. Project Name : WMAP
+6. Project Code : 14HSA01
+7. Operator(s) : Deepak,
+	Jitendra,
+	Rupsingh,
+	Sachin,
+	
+8. Command File : /odisk/gtac/cmd/sirothia/wmap_15sep08_3round.cmd
+9. LTA File : /rawdata/15sep/14hsa01_15sep2008.lta,
+	/rawdata1/15sep/14hsa01_15sep2008.ltb,
+	
+10. LogFlag File : /btemp2/logflags/14HSA01.FLAGS.7
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1280 MHz ,RF2 : 1280 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1210 MHz, ILO2 : 1210 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1280 1280 1210 1210 70 70 
+
+18. Integration Time : 32 LTA ~ 4.227 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+S06 : low fringe
+E02 : 130-NO fringe.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 05:00 - 08:45
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : Indianpolar  *********
+--------------------------------------------
+05:09 : Started scan on 3C48.
+05:30 : Started command file.
+07:21 : Calibrator set, so continued command file
+without calibrator.
+08:21 : Stopped command file due to many of the sources
+set.
+08:28 : Started scan on 3C147 for 15 mins.
+08:45 : Stopped scan and closed observation session.
+

@@ -1,0 +1,43 @@
+1. Date : 23/11/2002
+2. Observation Sr. No. : 0867
+3. Observer : Ayesha
+4. Observer's Email : ayesha@ncra.tifr.res.in
+5. Project Name : u4459
+6. Project Code : 03ABA01
+7. Operator(s) : Kodilkar J.P.,
+	
+8. Command File : /temp2/data/cmd/ash/4459.cmd
+9. LTA File : /rawdata/23nov/03aba01_u4459.lta
+
+ANTENNA SETTINGS :
+
+10. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1419.89 MHz ,RF2 : 1419.89 MHz, SA1 : 0 dB, SA2 : 0 dB
+11. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1350 MHz, ILO2 : 1350 MHz, IVLO1 : 69.89 MHz, IVLO2 : 69.89 MHz
+12. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 2+2 dB, 16 MHz,ON, IF-CH2 : 2+2 dB, 16 MHz,ON
+13. BB BW(KHz), BB Gain(dB) & BB ALC : 1000 KHz, 12 dB, ON
+
+CORREATOR SETTINGS :
+
+14. CLK_SEL/Samp_Freq : 4
+15. Channels : 0:127:1
+16. Frequency Parameters (TPA) : 1419.89 1419.89 1350 1350 69.89 69.89 
+
+17. Integration Time : 256 STA ~ 33.817 Sec.
+18. No of Antennas Working(Fringing) :28
+
+19. Name of Non-Working Antennas (with reason for each) :
+C11 : Srv problem
+S03 : No fringe
+
+20. Start and End Time of Obs.(IST): 23:09 - 00:00
+
+21. Comments (During Observations) :
+23:09 : started flux cal scan on 3c48 source
+23:22 : scan stopped.
+23:31 : command file started.
+04:27 : scan and command file stopped.
+04:30 : phase cal scan stopped.
+        S03 flat band shape.
+04:42 : Flux cal scan started on 3C147
+04:52 : scan stopped & project over.
+

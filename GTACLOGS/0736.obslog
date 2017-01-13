@@ -1,0 +1,69 @@
+1. Date : 01/08/2002
+2. Observation Sr. No. : 0736
+3. Observer : CRS,Pandey 
+4. Observer's Email : crs@rri.res.in,vnpandey@rri.res.in
+5. Project Name : MRC/CRS 
+6. Project Code : 02CRS01
+7. Operator(s) : Jangam M.S.,Kamble J.R.,Kudale S.S.,
+8. Command File : /temp2/data/cmd/mrc/1aug/mrc1.cmd
+9. LTA File : /rawdata/1aug/02crs01_mrc1aug.lta,/rawdata/1aug/02crs01_mrc1aug.lta.1
+
+ANTENNA SETTINGS :
+
+10. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+11. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+12. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+14 dB, 6 MHz,on, IF-CH2 : 10+14 dB, 6 MHz,on
+13. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, on
+
+CORREATOR SETTINGS :
+
+14. CLK_SEL/Samp_Freq : 0
+15. Channels : 1:127:1
+16. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+17. Integration Time : 128 STA ~ 16.908 Sec.
+18. No of Antennas Working(Fringing) :27
+
+19. Name of Non-Working Antennas (with reason for each) :
+W02 Servo problem
+S01 Servo Problem
+S04 Servo problem.
+
+
+20. Start and End Time of Obs.(IST): 18:13 - 04:30
+
+21. Comments (During Observations) :
+18:13  Started das on f/b cal (3c286)
+18:24  Stopped das on f/b cal.
+18:30  Scan # 1 bad ( wrong co-ordinate for fstop)
+18:31  Started das on phase cal (1151-348)
+18:42  Started cmd file /temp2/data/cmd/mrc/1aug/mrc1.cmd
+20:05  Started cmd file /tmep2/data/cmd/mrc/1aug/mrc2.cmd
+20:34  STarted cmd file /temp2/data/cmd/mrc/1aug/mrc1_2.cmd
+21:20  W03 released for observation, started tracking the source.
+21:35  C13 got ABC reset.
+21:40  C13 started working.
+22:22  Stopped cmd file.
+23:01  Corr problem.
+Corr_config gave following problem :
+-----------------------------------------------------
+WARNING: oprctrl 0 ret=-2 cannot  be executedControl Card 9 1reset
+WARNING: The control card 2 was not configured
+WARNING: The Ctrl card 0 ret=-2 not in intrr modeControl Card 17 0reset
+------------------------------------------------------
+Following antennas are having problem (either self 0 or 9999)
+C06, C12, E02, S02, S04, W05.
+23:45   All antennas set to default 610 MHz settings.
+(RF: 610 MHz, ILO : 540 MHz, IF : 10+10, 32 MHz, BB : 16 MHz,
+BBLO : 70 MHz, ALC's ON).
+C05 - no fringe @ 610.
+C13 - 130 poln dead.
+23:55   Started scan on phase cal 1830-360.
+        ltafile : /rawdata/1aug/02crs01_mrc1aug.lta.1
+00:10   Started command file /temp2/data/cmd/mrc/1aug/mrc3.cmd
+02:38	Started command file /temp2/data/cmd/mrc/1aug/mrc3_1.cmd
+	Scan # 21 BAD.
+02:50	stopped command file, observing sources manually.
+04:06	Started flux cal on 3C48.
+04:30	Stopped das and observation session.
+

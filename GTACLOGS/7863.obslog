@@ -1,0 +1,61 @@
+		 GTAC Observation Log
+
+1. Date : 23/06/2015
+2. Observation Sr. No. : 7863
+3. Observer : Jennifer Riding, Huib Intema, Benjamin William McKinley, Jack Line, Pietro Procopio, Rachel Webster
+4. Observer's Email : jthomps@student.unimelb.edu.au, hintema@nrao.edu, ben.mckinley@unimelb.edu.au, jline@student.unimelb.edu.au, pietro.procopio@unimelb.edu.au, r.webster@unimelb.edu.au
+5. Project Name : Bright Extended Sources in the MWA Sky
+6. Project Code : 28_083
+7. Operator(s) : Deepak, Navnath, Rupsing
+8. Command File : /odisk/gtac/cmd/28_083/obs_20150623.cmd
+9. LTA File : /gsbifrdata/23jun/28_083_23jun2015.lta
+10. LogFlag File : /odisk/online1/logflags/28_083.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 306 306 255 255 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :28
+
+32. Name of Non-Working Antennas (with reason for each) :
+W02 : Frequently ABC reset.
+W05 : Low fringe.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 23 Jun 2015 17:00:00 - 23 Jun 2015 22:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :28
+
+37. Comments (During Observations) :
+17:12 : Started scan on 3C286.
+17:29 : Stopped scan.
+17:33 : Stared command file.
+21:40 : Started scan on 3C286 for 15min
+22:00 : Observing session over.
+----------------------------------------
+

@@ -1,0 +1,66 @@
+		 GTAC Observation Log 
+
+1. Date : 26/09/2004
+2. Observation Sr. No. : 1684
+3. Observer : Amitesh omar
+4. Observer's Email : aomar@upso.ernet.in
+5. Project Name : ERIDANUS
+6. Project Code : 06AOA01
+7. Operator(s) : Deepak,
+	Jitendra,
+	Sachin,
+	
+8. Command File : /btemp2/cmd/aomar/06aoa01_4.cmd
+9. LTA File : /rawdata/26sep/06aoa01_ngc1383.lta,
+	/rawdata1/26sep/06aoa01_ngc1383.ltb,
+	/rawdata/27sep/06aoa01_ngc1383_27sep.lta,
+	/rawdata1/27sep/06aoa01_ngc1383_27sep.ltb
+10. LogFlag File : /btemp2/logflags/06AOA01.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1409.24 MHz ,RF2 : 1409.24 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1335 MHz, ILO2 : 1335 MHz, IVLO1 : 74.24 MHz, IVLO2 : 74.24 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+4 dB, 32 MHz,ON, IF-CH2 : 4+4 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 4000 KHz, 6 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 2
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1409.24 1409.24 1335 1335 74.24 74.24 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :14
+
+20. Name of Non-Working Antennas (with reason for each) :
+Arm ants no power.
+
+
+21. Start and End Time of Obs.(IST): 23:41 - 00:00
+
+22. Comments (During Observations) :
+********  ONLINE BHASKAR  ***********
+********  IF ATTN@1390MHz. AuthIF.  ********
+----------------------------------------------
+23:39 : Started scan on 3C48 for 10mins.
+00:03 : Started command file
+         /btemp2/cmd/aomar/06aoa01_4.cmd .
+00:30 : Clock selection was not proper because of that restarted project
+00:45 : Restarted command file
+        /btemp2/cmd/aomar/06aoa01_4.cmd .
+07:57 : command file stopped.
+08:06 : flux cal scan started on 3c147 for 10m.
+08:16 : scan stopped.
+
+
+Note : To avoid the file name conflict when making symbolic links for 
+       backing up the data files has been renamed as follows.
+
+	/rawdata/27sep/06aoa01_ngc1383.lta has been renamed to
+        /rawdata/27sep/06aoa01_ngc1383_27sep.lta
+	/rawdata1/27sep/06aoa01_ngc1383.ltb has been renamed to
+        /rawdata1/27sep/06aoa01_ngc1383_27sep.ltb
+
+       Dt: 01-10-2004 
+       Mangesh

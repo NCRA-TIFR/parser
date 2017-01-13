@@ -1,0 +1,48 @@
+1. Date : 20/06/2002
+2. Observation Sr. No. : 640
+3. Observer & email : Prof. V. K. Kulkarni, vasant@ncra.tifr.res.in
+4. Project Name & Code : 1959+651 at 1280 / 02VKK99
+5. Operator(s) : Mangesh(3)
+6. Command File/Source  & Lta File : /temp2/data/cmd/vku/1959.cmd
+                                   : /rawdata/20jun/02vkk99_1959.lta
+                                   
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 : 1280, 0, OFF
+8. Ist LO (MHz) & IVth LO (MHz) : 1210 MHz, 70 MHz.
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : 0+0 dB, 32 MHZ, ON
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status : 16 MHZ, 0 dB, ON
+
+CORRELATOR SETTINGS :  
+
+11. CLK_SEL/Samp_Freq : 0 / 0  
+12. Channels : 0,127,1
+13. Frequency Parameters (TPA) : 1280 1280 1210 1210 70 70
+
+14. Integration Time (Sec.) : 16 sec (16*8m)
+15. No of Antennas Working(Fringing) : 24
+16. Name of Non-Working Antennas (with reason for each) : 
+
+     E02    1210 LO unlock
+     E03	FPS Jammed.
+	 E04	NO Power.
+	 E05	NO Power.
+	 W01 	Expt (ref. Shrinivas)
+	 W04	Feed Jammed.
+	 
+
+17. Starting and Ending time of Observations (IST) : 01:07 - 
+18. Comments (During Observations) :
+
+    01:07  Started recording on 3c286 for 20 minutes.
+    01:28  Stopped the scan on 3c286. For last 2 to 3 minutes in
+           scan 0 3c286 was set. 
+           Moved antennas to 2022+616.
+    01:36  Started the command file.
+           Scan 1, corr started giving the message 
+               'Delay out of range on Card 5(S06)'
+    08:03  Source 1959+651 set stopped command file ,started scan on 2022+616 for 10min.
+    08:18  Started scan on 3C48 for 15min.
+           C03 - Elevation brake prob.
+
+19. Data Backup files & Tape No. :

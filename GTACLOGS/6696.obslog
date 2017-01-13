@@ -1,0 +1,81 @@
+		 GTAC Observation Log 
+
+1. Date : 10/9/2013
+2. Observation Sr. No. : 6696
+3. Observer : Dipanjan Mitra,Willem Hermsen,Jason WilliamThomas Hessels,Lucian Kuiper,Joeri vanLeeuwen,Jelle de Plaa,Joanna M Rankin,Ben Stappers,Geoffrey Wright,Rahul Basu
+4. Observer's Email : dmitra@ncra.tifr.res.in,W.Hermsen@sron.nl,hessels@astron.nl,L.M.Kuiper@sron.nl,leeuwen@astron.nl,J.de.Plaa@sron.nl,Joanna.Rankin@uvm.edu,Ben.Stappers@manchester.ac.uk,G.Wright@sussex.ac.uk,rbasu@ncra.tifr.res.in
+5. Project Name : Simultaneous XMM-Newton Radio observations of the mode-switching radio pulsar PSR B1822-09
+6. Project Code : 24_008
+7. Operator(s) : Deepak,Navanath,
+8. Command File : 
+9. LTA File : /gsbifrdata1/10sep/24_008_10sep2013.lta,/gsbifrdata1/10sep/24_008_10sep2013_325.lta,
+10. LogFlag File : /odisk/online1/logflags/24_008.FLAGS.1,
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : Realtime 
+15. GSB LTA : 8 
+16. GSB CTRL : ONLINE 
+17. GSB Fstop : ON 
+18. GAIN EQ : OFF, 
+19. Stokes : TotIntensity
+20. Beam - 1 : PA
+21. Beam - 2 : PA
+22. ACQ BW : 33.33 MHz
+23. Final BW : 33.333333 MHz; Step # 0
+24. Maximum Channels : 256 
+25. Channel Numbers : 0:255:1 
+26. LO5 -1  : 149.00 
+27. LO5 -2  : 156.00 
+
+28. Frequency Parameters (TPA) : 591 591 540 540 51 51.
+29. Integration Time : 2.013264 Sec.
+30. No of Antennas Working(Fringing) :29
+
+31. Name of Non-Working Antennas (with reason for each) :
+C13 : feed jam.
+32. Note for Backup :
+
+33. Start and End Time of Obs.(IST): 17:00 - 00:00
+
+34. ONLINE Machine : Shivneri
+
+35. Comments (During Observations) :
+17;00 : Started setup.
+      : phasing and power eq done.
+17:35:43 : Started scan on 1822-096 for ~ 2.04682 min.
+17:38:13 : Started scan on B1822-09 for ~ 22.8505 min.
+18:04:22 : Started scan on B1822-09 for ~ 5.33515 min.
+-----------------------------------------------------------------------
+18:10 : Setup cahnge to 325 Mhz.
+      : phasing and power eq done.
+
+18:39:19 : Started scan on 1822-096 for ~ 1.64417 min.
+18:41:10 : Started scan on 1822-096 for ~ 3.38899 min.
+18:45:02 : Started scan on B1822-09 for ~ 56.103 min.
+19:41:18 : Started scan on 1822-096 for ~ 1.77838 min.
+19:43:18 : Started scan on 1822-096 for ~ 0.939523 min.
+19:44:22 : Started scan on 1822-096 for ~ 1.20796 min.
+19:46:03 : Started scan on B1822-09 for ~ 60.6999 min.
+20:47:34 : Started scan on 1822-096 for ~ 3.28833 min.
+20:51:03 : Started scan on 1822-096 for ~ 1.84549 min.
+20:53:00 : Started scan on 1822-096 for ~ 2.41592 min.
+20:56:06 : Started scan on B1822-09 for ~ 63.7198 min.
+22:00:57 : Started scan on 1822-096 for ~ 1.30862 min.
+22:02:29 : Started scan on 1822-096 for ~ 0.805306 min.
+22:03:26 : Started scan on 1822-096 for ~ 2.55013 min.
+22:07:16 : Started scan on B1822-09 for ~ 56.103 min.
+
+23:06:00 : MSCEB power failure.
+23:30:00 : Power restored.
+23:45:00 : Started phasing & power eq. on 1822-096.
+23:49:00 : Started scan on B1822-09.
+00:12:00 : Stopped scan.
+00:20:00 : Started scan on 3C48.
+00:30:00 : Stopped scan & observation session over 

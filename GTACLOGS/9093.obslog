@@ -1,0 +1,65 @@
+		 GTAC Observation Log
+
+1. Date : 26/12/2016
+2. Observation Sr. No. : 9093
+3. Observer : Nayana AJ, Poonam Chandra
+4. Observer's Email : nayan89deva@gmail.com, poonam@ncra.tifr.res.in
+5. Project Name : TRACING THE FOOTPRINTS OF VARIOUS CORE COLLAPSE SUPERNOVAE ENVIRONMENTS AT LOW FREQUENCIES
+6. Project Code : 31_097
+7. Operator(s) : Pramod
+8. Command File : /odisk/gtac/cmd/nayana/31_097/26dec/obs.txt
+9. LTA File : /gsbifrdata1/26dec/31_097_26dec2016.lta
+10. LogFlag File :  
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1454 MHz ,RF2 : 1454 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1505 MHz, ILO2 : 1505MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 0 MHz; Step # 0
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 1454 1454 1505 1505 51 51
+30. Integration Time : 8.053 Sec
+31. No of Antennas Working(Fringing) at the beginning :28
+
+32. Name of Non-Working Antennas (with reason for each) :
+S06 : 130 pol no fringe.
+C03 : 175 pol amplitude variation.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 26 Dec 2016 18:00:00 - 26 Dec 2016 21:05:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :26
+
+37. Comments (During Observations) :
+18:00 : Started set up.
+18:17 : Started scan on 3C48.
+18:27 : Stopped scan and started command file.
+ '/odisk/gtac/cmd/nayana/31_097/26dec/obs.txt'
+20:46 : Stopped command file.
+20:48 : W04 time out and S06 applied brakes.
+20:49 : Started scan on 3C48.
+21:00 : Stopped scan and observation session is over.
+
+
+

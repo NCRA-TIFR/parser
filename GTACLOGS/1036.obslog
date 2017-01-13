@@ -1,0 +1,71 @@
+		 GTAC Observation Log 
+
+1. Date : 28/06/2003
+2. Observation Sr. No. : 1036
+3. Observer : Sabyasachi Pal
+4. Observer's Email : chakraba@bose.res.in,sabya@bose.res.in
+5. Project Name : ss433
+6. Project Code : 04SKC01
+7. Operator(s) : Deepak,
+	Mangesh,
+	Manish G.,
+	Sanjay,
+	
+8. Command File : /atemp2/cmd/skc/ss433.cmd,
+	/atemp2/cmd/skc/grs1915.cmd,
+	/atemp2/cmd/skc/x1820.cmd
+9. LTA File : /rawdata/28jun/04skc01_28jun.lta,
+	/rawdata/28jun/04skc01_28jun.lta.1,
+	/rawdata1/28jun/04skc01_28jun.ltb,
+	/rawdata1/28jun/04skc01_28jun.ltb.1,
+	/rawdata/28jun/04skc01_28jun.lta.2,
+	/rawdata1/28jun/04skc01_28jun.ltb.2,
+	/rawdata/28jun/04skc01_28jun.lta.3,
+	/rawdata1/28jun/04skc01_28jun.ltb.3
+10. LogFlag File : /atemp2/logflags/04SKC01.FLAGS,
+	/atemp2/logflags/04SKC01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1280 MHz ,RF2 : 1280 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1210 MHz, ILO2 : 1210 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+6 dB, 32 MHz,ON, IF-CH2 : 4+6 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1280 1280 1210 1210 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+C05 :flat band shape(USB).
+W02 :flat band shape(USB)
+E02 :no fringe@130 polerisation.(USB)
+C14 :no fring@130 polerisation 
+
+
+21. Start and End Time of Obs.(IST): 19:43 - 08:05
+
+22. Comments (During Observations) :
+ONLINE RUNNNING ON ADITYA
+-------------------------
+19:43 : Started scan on 3C286 for 15mins.
+20:07 : Started scan on 1635+381 for 8 mins.
+20:17 : Started scan on HERX1 for 30 mins.
+21:06 : started scan on 1925+211 for 8mins.
+21:21 : started scan on  SS433  for 50mins
+23:40 : Started command file  /temp2/data/cmd/skc/x1280.cmd
+02:05 : Started command file  /temp2/data/cmd/skc/grs1915.cmd
+03:00 : Flat Band for C06-USB.
+03:25 : Scan for USB wasn't stopping. Stopped manually.
+        Killed the records and started new ones.
+
+07:28 : scan# 7 bad.(fstop problem).
+07:43 : Started das record on 3c48.
+08:05 : Stopped das record on 3c48 & stopped session.
+
+

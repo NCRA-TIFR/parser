@@ -1,0 +1,64 @@
+1. Date : 06/10/2002
+2. Observation Sr. No. : 0845
+3. Observer : Prof. SAK
+4. Observer's Email : ananth@ncra.tifr.res.in
+5. Project Name : Sun Observer
+6. Project Code : 02MRK01
+7. Operator(s) : Galande M.M.,
+	Kamble J.R.,
+	
+8. Command File : /temp2/data/cmd/hold.cmd
+9. LTA File : /rawdata/6oct/02mrk01_sun_oct6_16s.lta, /rawdata/6oct/02mrk01_sun_oct6_2s.lta
+
+ANTENNA SETTINGS :
+
+10. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+11. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+12. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 32 MHz,ON, IF-CH2 : 12+12 dB, 32 MHz,ON
+13. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+14. CLK_SEL/Samp_Freq : 0
+15. Channels : 0:127:4
+16. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+17. Integration Time : 128 STA ~ 16.908 Sec.
+18. No of Antennas Working(Fringing) :27
+
+19. Name of Non-Working Antennas (with reason for each) :
+S03 :- No fringe.
+S04 :- Servo prob.
+W01 :- Servo prob.
+
+20. Start and End Time of Obs.(IST): 07:58 - 00:00
+
+21. Comments (During Observations) :
+07:58 :- Started scan on 3c147 for 30min.
+07:43 :- Started scan on SUN1006A.
+08:43 :- Started scan on 3c283 for 10min.
+10:01 :- Started scan on SUN1006C.
+10:57 :- Started scan on 3c283 for 10min.
+          scan # 4 bad.
+11:05 :- Started scan on 3c283 for 10min..
+11:20 :- Started scan on SUN1006C.
+11:56 :- Started scan on 3c283.
+*** scan # 8  bad  *****
+12:15 :- Started on SUN1006D.
+12:53 :- Started scan on 3C283.
+12:56 :- Power failed..., stopped the scan.
+13:10 :- Power for only central square antennas has come back.
+         Set up the CSQ antennas.
+13:17 :- Started scan on 3C283.
+13:30 :- Started scan on SUN1006G.
+15:48 :- C13 ABC reset.
+15:55 :- C13 OK, tracking.
+
+16:24 :  scan started on sun.
+16:46 :- Scan stopped on sun.
+17:10 :- flux cal scan started on 3c286
+17:25 :- Scan stopped & project over.
+
+
+
+

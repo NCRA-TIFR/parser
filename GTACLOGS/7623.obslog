@@ -1,0 +1,65 @@
+		 GTAC Observation Log
+
+1. Date : 20/02/2015
+2. Observation Sr. No. : 7623
+3. Observer : Ewan OSullivan, Nimisha Kantharia, Konstantinos Kolokythas, Somak Raychaudhury, Sandeep K. Sirothia, C.H. IshwaraChandra, Gopal krishna
+4. Observer's Email : eosullivan@cfa.harvard.edu, ngk@ncra.tifr.res.in, kkolok@star.sr.bham.ac.uk, somak@star.sr.bham.ac.uk, sirothia@ncra.tifr.res.in, ishwar@ncra.tifr.res.in, krishna@ncra.tifr.res.in
+5. Project Name : The origin of the HI trail and ultra-steep radio structure in the NGC 5903/NGC 5898 group
+6. Project Code : 25_006
+7. Operator(s) : Manisha, Rupsing, Surender
+8. Command File : /odisk/gtac/cmd/ngk/25_006/ngc5903-20feb15.cmd
+9. LTA File : /gsbifrdata/20feb/25_006_20feb2015.lta
+10. LogFlag File : /odisk/online1/logflags/25_006.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1402 MHz ,RF2 : 1402 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1340 MHz, ILO2 : 1340MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 16.666666 MHz; Step # 
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 138
+28. LO5 -2  : 167
+
+29. Frequency Parameters (TPA) : 1402 1402 1340 1340 62 62
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :26
+
+32. Name of Non-Working Antennas (with reason for each) :
+W04 : RFI
+W05 : No feed.
+W06 : MCM-2 time out.
+S06 : ABC time out.
+C01 : Low fringe @130 pol.
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 20 Feb 2015 02:00:00 - 20 Feb 2015 10:00:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :26
+
+37. Comments (During Observations) :
+02:06 : Started scan on 3C286.
+02:26 : Stopped scan.
+02:29 : Started command file.
+08:10 : stopped command file
+08:15 : started scan on 3C286 20mins
+08:38 : stared command file.
+09:00 : E05 released for painting.
+09:40 : ACQ is showing intermittently Buffer loss. 
+10:00 : stopped command file and observation session over.

@@ -1,0 +1,66 @@
+		 GTAC Observation Log 
+
+1. Date : 30/4/2011
+2. Observation Sr. No. : 5302
+3. Observer : Jayanta Roy
+4. Observer's Email : jroy@ncra.tifr.res.in
+5. Project Name : pulsar observation.
+6. Project Code : 20_080
+7. Operator(s) : Manisha,
+	Sachin,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /gsbifrdata/30apr/20_080_30apr2011.lta,
+	/gsbifrdata/30apr/20_080_30apr2011.lta.1
+10. LogFlag File : /odisk/online1/logflags/20_080.FLAGS.7
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+10 dB, 32 MHz,OFF, IF-CH2 : 20+10 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. Maximum Channels : 512 
+15. Final Bandwidth (MHz): OFF MHz; Step # 0
+16. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+17. Stokes : Total_Intensity
+18. Beam - 1 : IA
+19. Beam - 2 : PA
+
+20. Frequency Parameters (TPA) : 306 306 255 255 51 51.
+21. Integration Time : 16.106 Sec.
+22. No of Antennas Working(Fringing) :29
+
+23. Name of Non-Working Antennas (with reason for each) :
+W01 : Servo problem.
+
+
+24. Note for Backup :--
+
+25. Start and End Time of Obs.(IST): 05:00 - 09:50
+
+26. ONLINE Machine : Shivneri
+
+27. Comments (During Observations) :
+05:16 : Phasing done on 3C468.1
+05:16 : Started scan on 3C468.1 for ~ 2.68435 min.
+05:27 : Phasing done on 1526-138.
+05:27 : Started scan on 1526-138 for ~ 2.41592 min.
+05:31 : Started scan on J1549-06 for ~ 58.2504 min.
+06:32 : Started scan on 1609+266 for ~ 2.14748 min.
+scan no. 6 bad.
+06:44:18 : Started scan on 2225-049 for ~ 0.805306 min.
+06:45:37 : Started scan on 2225-049 for ~ 2.41592 min.
+06:50:27 : Started scan on J2129-04Q for ~ 21.7433 min.
+07:23:25 : Started scan on 3C48 for ~ 0 min.
+07:24:03 : Started scan on 3C48 for ~ 1.07374 min.
+07:25:33 : Started scan on 3C48 for ~ 1.61061 min.
+07:29:45 : Started scan on J0308+74 for ~ 3.75809 min.
+07:33:49 : Started scan on J0308+74 for ~ 41.339 min.
+08:17:40 : Started scan on 0319+415 for ~ 1.87905 min.
+09:22:56 : Started scan on J2350-3005 for ~ 30.3332 min.
+
+09:55 : stopped scan & observation session.
+

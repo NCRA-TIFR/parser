@@ -1,0 +1,84 @@
+		 GTAC Observation Log 
+
+1. Date : 15/6/2013
+2. Observation Sr. No. : 6551
+3. Observer : Dharam Vir Lal,Reinout van Weeren
+4. Observer's Email : dharam@ncra.tifr.res.in,rvanweeren@cfa.harvard.edu
+5. Project Name : GMRT distant radio halo and relic survey
+6. Project Code : 24_007
+7. Operator(s) : Nilesh,
+	Pramod,
+	Sachin,
+	Santaji,
+	Shilpa,
+	
+8. Command File : /odisk/gtac/cmd/dharam/24_007_14jun13.cmd
+9. LTA File : /gsbifrdata/15jun/24_007_15jun2013.lta,
+	/gsbifrdata/15jun/24_007_15jun2013.lta.1,
+	/gsbifrdata/15jun/24_007_15jun2013.lta.2,
+	
+10. LogFlag File : /odisk/online1/logflags/24_007.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 591 591 540 540 51 51.
+25. Integration Time : 8.053 Sec.
+26. No of Antennas Working(Fringing) :28
+
+27. Name of Non-Working Antennas (with reason for each) :
+C00 : Servo problem.
+W05 : Servo time out.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 03:00 - 05:22
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+03:00 : Started set up.
+03:16 : Started scan on 3C48.
+
+03:29 : S02 automatically ABC reset.
+03:31 : Stopped scan.
+
+03:33 : S02 Started working.
+03:33 : Re-started scan on 3C48.
+03:50 : Stopped scan on 3C48.
+03:54 : Started command file '/odisk/gtac/cmd/dharam/24_007_14jun13.cmd'.
+
+08:50 : S06 ABC time out.
+09:08 : W06 ABC Time out.
+09:25 : command file stopped.
+09:30 : Started scan on 3C48 for 15mins.
+09:45 : command file /odisk/gtac/cmd/dharam/24_007_14jun13_2.cmd started.
+
+14:43 : command file stopped.
+14:53 : Started scan on 3C147 ~10mins and started following command file.
+        '/odisk/gtac/cmd/dharam/24_007_15jun13_3.cmd'
+16:20 : S06 ABC time out vanished and taken for observation.
+22:50 : Stopped command file.
+22:51 : Started scan on 3C286.
+23:55 : C05 started giving servo problem.
+04:51 : Source set, stopped command file.
+04:54 : Started scan on phase cal.
+05:12 : Started scan on 3C48.
+05:22 : Stopped scan and closed observation session.
+
+

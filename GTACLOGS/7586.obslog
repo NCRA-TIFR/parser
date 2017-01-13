@@ -1,0 +1,64 @@
+		 GTAC Observation Log
+
+1. Date : 02/02/2015
+2. Observation Sr. No. : 7586
+3. Observer : Federico Lelli, Stacy McGaugh, Chris Mihos, Marcel Pawlowski
+4. Observer's Email : federico.lelli@case.edu, ssm69@case.edu, mihos@case.edu, marcel.pawlowski@case.edu
+5. Project Name : Tidal Dwarf Galaxies near NGC 5557: are they free of dark matter?
+6. Project Code : 27_005
+7. Operator(s) : Nilesh, Shilpa, Surender
+8. Command File : /odisk/gtac/cmd/27_005/feb_obs.cmd
+9. LTA File : /gsbifrdata/01feb/27_005_01feb2015.lta,/gsbifrdata/02feb/27_005_02feb2015.lta
+10. LogFlag File : /odisk/online1/logflags/27_005.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1399.0812 MHz ,RF2 : 1399.0812 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1335 MHz, ILO2 : 1335MHz , IVLO1 : 64.0812 MHz, IVLO2 : 64.0812 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 6 MHz,ON, IF-CH2 : 4+14 dB, 6 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 4 MHz; Step # 1
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 135.9188
+28. LO5 -2  : 169.0812
+
+29. Frequency Parameters (TPA) : 1399.0812 1399.0812 1335 1335 64.0812 64.0812
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :27
+
+32. Name of Non-Working Antennas (with reason for each) :
+W02 : : Under Maintenance.
+C01 : : Low fringe.
+C10 : : Low fringe@130 pol.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 02 Feb 2015 00:00:00 - 02 Feb 2015 09:45:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :27
+
+37. Comments (During Observations) :
+23:35 : Started settings.
+
+00:05:03 : Started scan on 3C286 for ~ 5 min.
+00:10:57 : Started scan on 3C286 for ~ 6 min.
+00:20:39 : Started scan on 3C286 for ~ 15 min.
+00:38:00 : Started command file.
+09:40:00 : Stopped command file.
+09:41:00 : C12 ABC time-out.
+09:58:00 : Stopped scan and observing session is over.

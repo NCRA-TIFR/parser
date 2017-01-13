@@ -1,0 +1,61 @@
+		 GTAC Observation Log 
+
+1. Date : 11/12/2006
+2. Observation Sr. No. : 2933
+3. Observer : ojha@tifr.res.in,vasant@ncra.tifr.res.in
+4. Observer's Email : ojha,dk
+5. Project Name : GALACTIC SF
+6. Project Code : 11SKG01
+7. Operator(s) : Sanjay,
+	
+8. Command File : /btemp2/cmd/vku/i16362.cmd
+9. LTA File : /rawdata/11dec/11skg01_i16362-4.lta,
+	/rawdata1/11dec/11skg01_i16362-4.ltb
+10. LogFlag File : /btemp2/logflags/11SKG01.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+4 dB, 32 MHz,ON, IF-CH2 : 12+4 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :23
+
+20. Name of Non-Working Antennas (with reason for each) :
+S03: ABC T.O.
+C10: 130 pol bad.
+C08: painting
+W02: painting.
+S01,S02 and S04 USB no fringe.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 10:40 - 14:08
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+---------------------------------------------
+10:43 Started flux cal, 3c286.
+10:58 Stopped flux cal, 
+11:02 Started cmd file.
+11:48 W05 got reset, bad for half scan#3, and bad for scan #4
+13:55 Stopped cmd file, 
+13:56 Started flux cal, 
+14:08 Stopped flux cal, closed observation.
+

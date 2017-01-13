@@ -1,0 +1,74 @@
+		 GTAC Observation Log
+
+1. Date : 17/03/2015
+2. Observation Sr. No. : 7682
+3. Observer : Yogesh Maan, BHAL CHANDRA JOSHI
+4. Observer's Email : ymaan4@gmail.com, bcj@ncra.tifr.res.in
+5. Project Name : A Search for Giant Pulses from Millisecond and Young Pulsars
+6. Project Code : 26_002
+7. Operator(s) : Nilesh, Sachin, Shilpa, Surender
+8. Command File : /odisk/gtac/cmd
+9. LTA File : /gsbifrdata/17mar/26_002_17mar2015.lta.1,/gsbifrdata/17mar/26_002_17mar2015.lta
+10. LogFlag File : /odisk/online1/logflags/26_002.FLAGS.13
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1297 MHz ,RF2 : 1297 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1235 MHz, ILO2 : 1235MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : Volt
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 16.666666 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 138
+28. LO5 -2  : 167
+
+29. Frequency Parameters (TPA) : 1297 1297 1235 1235 62 62
+30. Integration Time : 2.0132 Sec
+31. No of Antennas Working(Fringing) at the beginning :27
+
+32. Name of Non-Working Antennas (with reason for each) :
+C13 : PC104 Installation.
+C05 : Frequently getting ABC reset.
+W04 : Low fringe @ 175pol.
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 17 Mar 2015 05:00:00 - 17 Mar 2015 09:35:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :27
+
+37. Comments (During Observations) :
+GAC selection.
+All CSQ (Exccept C13) +S01 +W01+E02
+------------------------------------------
+04:50 : Started set-up.
+05:05 : Started power eq on 3C286@ 150 counts.
+05:20 : Restarted GSB with GAIN EQ - ON.
+05:34 : Phasing done on 1822-096.
+05:36 : Started cal run on 1822-096(OFF-ON-OFF).
+05:54 : Started scan on J1731-1847 for ~ 9.4959 min.
+06:01 : C05 got ABC reset so removed from GAC.
+
+06:05:21 : Started scan on J1731-1847 for ~ 91.8384 min.
+07:38:41 : Started scan on B1749-28 for ~ 7.44908 min.
+07:47:33 : Started PHASING on 1822-096.
+07:51:20 : Started CAL RUN on 1822-096.
+07:59:13 : Started scan on J1809-1917 for ~ 82.5103 min.
+09:23:34 : Started scan on B1749-28 for ~ 7.04642 min.
+
+09:30 : Stopped scan and observation session over.
+

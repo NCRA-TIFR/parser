@@ -1,0 +1,47 @@
+1. Date : 18/11/2002
+2. Observation Sr. No. : 0858
+3. Observer : Neeraj Gupta/ D J Saikia
+4. Observer's Email : neeraj@ncra.tifr.res.in,djs@ncra.tifr.res.in
+5. Project Name : 3C460
+6. Project Code : 03DJS01
+7. Operator(s) : Galande M.M.,
+	Kudale S.S.,
+	
+8. Command File : /temp2/data/cmd/neeraj/3c460.cmd
+9. LTA File : /rawdata/18nov/03djs01_3c460.lta
+
+ANTENNA SETTINGS :
+
+10. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1116.27 MHz ,RF2 : 1116.27 MHz, SA1 : 0 dB, SA2 : 0 dB
+11. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1045 MHz, ILO2 : 1045 MHz, IVLO1 : 71.27  MHz, IVLO2 : 71.27 MHz
+12. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 6+6 dB, 16 MHz,ON, IF-CH2 : 6+6 dB, 16 MHz,ON
+13. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+14. CLK_SEL/Samp_Freq : 1
+15. Channels : 0:127:1
+16. Frequency Parameters (TPA) : 1116.27 1116.27 1045 1045 71.27  71.27 
+
+17. Integration Time : 128 STA ~ 16.908 Sec.
+18. No of Antennas Working(Fringing) :27
+
+19. Name of Non-Working Antennas (with reason for each) :
+S04 : Low fringe 
+W04 : Low fringe
+C11 : 175 MHz pol low.
+
+
+20. Start and End Time of Obs.(IST): 17:15 - 00:00
+
+21. Comments (During Observations) :
+17:15 : Started record on 3c48.
+17:45 : Stopped record on 3c48.
+18:05 : Started cmd file.
+18:10 : C14 started working ( was down for painting)
+22:22 : Stopped cmd file
+22:40 : Started record on 3c48.
+23:24 : Restrated cmd file.
+00:00 : Stopped observation.
+
+

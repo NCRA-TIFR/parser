@@ -1,0 +1,88 @@
+		 GTAC Observation Log
+
+1. Date : 25/04/2016
+2. Observation Sr. No. : 8531
+3. Observer : Bhal Chandra Joshi, A. Gopakumar, M. Bagchi, K. Krishn
+akumar, Arun Kumar Naidu, P K Manoharan, Y. Maan 
+4. Observer's Email : bcj@ncra.tifr.res.in,gopu.tifr@gmail.com,manjari.bagchi@gmail.com,kkma@ncra.tifr.res.in,arun@ncra.tifr.res.in,mano@ncra.tifr.res.in,ymaan4@gmail.com
+
+5. Project Name :  Indian Pulsar Timing Array 
+6. Project Code : 30_050
+7. Operator(s) : Navnath, Nilesh
+8. Command File : /odisk/gtac/cmd
+9. LTA File : /gsbifrdata1/25apr/30_050_25apr2016.lta
+10. LogFlag File : /odisk/online1/logflags/30_050.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1292 MHz ,RF2 : 1292 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1230 MHz, ILO2 : 1230MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+24 dB, 16 MHz,OFF, IF-CH2 : 4+4 dB, 16 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : Volt
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 16.666666 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 138
+28. LO5 -2  : 167
+
+29. Frequency Parameters (TPA) : 1292 1292 1230 1230 62 62
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :29
+
+32. Name of Non-Working Antennas (with reason for each) :
+S01 : : CST Painting Work
+
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 25 Apr 2016 03:00:00 - 25 Apr 2016 09:00:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :29
+
+37. Comments (During Observations) :
+GAC : C00 C01 C02 C03 C04 C05 C06 C08 C09 C10 C11 C12,C14         
+         W02 S02 E02 E03 = 17 ants.
+
+01:30 : Started setup.
+02:00 : Started power eq on 1822-096 at 200 counts.
+02:15 : power eq done.
+03:00 : phasing done on 1626-298.
+02:07:45 : Started scan on 1626-298 for ~ 38.9231 min.
+02:49:30 : Started scan on 1626-298 for ~ 20.1326 min.
+03:10:03 : Started scan on 1626-298 for ~ 0.268435 min.
+03:10:46 : Started scan on 1626-298 for ~ 0 min.
+03:11:18 : Started scan on J1600-3053 for ~ 34.3597 min.
+03:47:20 : Started scan on J1643-1224 for ~ 29.7963 min.
+04:19:16 : Started scan on 1822-096 for ~ 2.95279 min.
+04:22:35 : Started scan on 1822-096 for ~ 0.268435 min.
+04:25:52 : Started scan on J1713+0747 for ~ 31.9438 min.
+05:01:39 : Started scan on B1855+09 for ~ 30.3332 min.
+05:33:54 : Started scan on 1822-096 for ~ 2.14748 min.
+05:36:21 : Started scan on 1822-096 for ~ 1.07374 min.
+05:39:31 : Started scan on J1909-3744 for ~ 44.8287 min.
+06:28:51 : Started scan on B1937+21 for ~ 12.0796 min.
+06:47:06 : Started scan on 2130+050 for ~ 1.34218 min.
+06:48:46 : Started scan on 2130+050 for ~ 0 min.
+06:51:42 : Started scan on J2124-3358 for ~ 39.7284 min.
+07:34:02 : Started scan on J2145-0750 for ~ 29.5279 min.
+08:05:34 : Started scan on 2130+050 for ~ 2.41592 min.
+08:08:21 : Started scan on 2130+050 for ~ 1.61061 min.
+08:14:03 : Started scan on J2317+1439 for ~ 35.9703 min.
+08:52:55 : Started scan on 3C48 for ~ 1.34218 min.
+08:55:42 : Started scan on 3C48 for ~ 1.07374 min.
+
+08:58 : Stopped observation session.

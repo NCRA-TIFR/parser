@@ -1,0 +1,41 @@
+1. Date : 13/07/2002
+2. Observation Sr. No. : 0698
+3. Observer : Ayesha
+4. Observer's Email : ayesha@ncra.tifr.res.in
+5. Project Name : DDO210
+6. Project Code : 02ABA01
+7. Operator(s) : Kamble J.R.,Katore S.N.,Umbarje M.S.,
+8. Command File : /temp2/data/cmd/ash/ddo210.cmd
+9. LTA File : /rawdata/13jul/02aba01_ddo210.lta
+
+ANTENNA SETTINGS :
+
+10. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1390 MHz ,RF2 : 1390 MHz, SA1 : 0 dB, SA2 : 0 dB
+11. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1350 MHz, ILO2 : 1350 MHz, IVLO1 : 70.57 MHz, IVLO2 : 70.57 MHz
+12. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 0+0 dB, 16 MHz,on, IF-CH2 : 0+0 dB, 16 MHz,on
+13. BB BW(KHz), BB Gain(dB) & BB ALC : 1000 KHz, 12 dB, on
+
+CORREATOR SETTINGS :
+
+14. CLK_SEL/Samp_Freq : 4
+15. Channels : 0:127:1
+16. Frequency Parameters (TPA) : 1390 1390 1350 1350 70.57 70.57 
+
+17. Integration Time : 256 STA ~ 33.33 Sec.
+18. No of Antennas Working(Fringing) : 27
+19. Name of Non-Working Antennas (with reason for each) : S06 NO fringe<br>
+S03 NO fringe<br>
+W06 High cross counts.
+20. Start and End Time of Obs.(IST): 21:20 - 06:28
+21. Comments (During Observations) :tpa 1420.57 1420.57 1350 1350 70.57 70.57<br>
+21:34 started scan on 3c286 <br>
+22:00 started the command file.<br>
+03:13 E06 flat bandshape, stopped command file &<br>
+      ran corr_config.<br>
+03:15 Restarted the command file.<br>
+05:45 Phase cal set, stopped command file & started <br>
+      scan on DDO210.<br>
+06:08 Started scan on 3c48 for 20min.<br>
+06:28 Observation finished.
+22. Data Backup files & Tape No. :--
+

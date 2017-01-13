@@ -1,0 +1,44 @@
+1. Date : 02/12/2002
+2. Observation Sr. No. : 0884
+3. Observer : Ishwar Chandra
+4. Observer's Email : ishwar@ncra.tifr.res.in
+5. Project Name : OH
+6. Project Code : 03AOA02
+7. Operator(s) : Mangesh,
+	Manisha J.,
+	
+8. Command File : /temp2/data/cmd/ishwar/pks0108.cmd
+9. LTA File : /rawdata/2dec/03aoa02_pks0108.lta
+
+ANTENNA SETTINGS :
+
+10. RF Freq(MHz) & Solar Attn(dB)- RF1 : 996.7 MHz ,RF2 : 996.7 MHz, SA1 : 0 dB, SA2 : 0 dB
+11. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 925 MHz, ILO2 : 925 MHz, IVLO1 : 71.7 MHz, IVLO2 : 71.7 MHz
+12. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+4 dB, 16 MHz,ON, IF-CH2 : 4+4 dB, 16 MHz,ON
+13. BB BW(KHz), BB Gain(dB) & BB ALC : 4000 KHz, 6 dB, ON
+
+CORREATOR SETTINGS :
+
+14. CLK_SEL/Samp_Freq : 2
+15. Channels : 0:127:1
+16. Frequency Parameters (TPA) : 996.7 996.7 925 925 71.7 71.7 
+
+17. Integration Time : 128 STA ~ 16.908 Sec.
+18. No of Antennas Working(Fringing) :28
+
+19. Name of Non-Working Antennas (with reason for each) :
+C11 : painting.
+W04 : cable work.
+
+20. Start and End Time of Obs.(IST): 16:40 - 21:50
+
+21. Comments (During Observations) :
+IF attn settings for C02 : 4+4,14+14. C05:12+12,10+10.
+W03:4+4,0+0.
+16:40	: started scan on 3c48.
+17:01	: started command file.
+17:36	: W04 started working.
+21:20	: stopped command file.
+21:21	: started scan on 3C48 for ~ 30mins.
+21:50	: stopped obs.
+

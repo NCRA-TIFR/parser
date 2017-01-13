@@ -1,0 +1,45 @@
+1. Date : 15/01/2002
+2. Observation Sr. No. : 26
+3. Observer & email : jayram , chengalu@ncra.tifr.res.in
+4. Project Name & Code : 01AGB01
+5. Operator(s) : Jitendra(3),
+6. Command File/Source  & Lta File : /temp2/data/cmd/chengalu/8c1435.cmd
+                                   : /raid/data/15jan/01agb01_8c1435.lta
+                                   : /raid/data/15jan/01agb01_8c1435.lta.1
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 : 610 MHz., 0 dB., OFF.
+8. Ist LO (MHz) & IVth LO (MHz) : 540 MHz., 70 MHz.
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : 10 + 10 dB., 32 MHz., ON.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status :16 MHz., 0 dB., ON.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 0 / 0
+12. Channels : 0,127,1
+13. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+14. Integration Time (Sec.) : 16 sec (16*8m)
+15. No of Antennas Working(Fringing) : 27.5
+16. Name of Non-Working Antennas (with reason for each) :
+
+    W04     MCM 5 T. O.
+    W06     130 pol low self, no fringe
+
+17. Starting and Ending time of Observations (IST) : 25:30
+
+18. Comments (During Observations) :
+   
+    25:33	Started scan on 3c147.
+ 	26:00	scan   stopped
+	26:07   command file started. 
+            S01 srv trk problem.
+            WARNING !! : Delay out of range on Card 5 
+    26:14   S01 srv tracking problem solved.
+	11:00 	data file stopoped ( to avoid bigger size),
+			Started new /raid/data/15jan/01agb01_8c1435.lta.1
+	12:57   stopped command file.
+	13:01   started scan on 3c468.1 for 20 min.
+
+19. Data Backup files & Tape No. :

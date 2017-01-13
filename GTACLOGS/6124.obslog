@@ -1,0 +1,81 @@
+		 GTAC Observation Log 
+
+1. Date : 28/8/2012
+2. Observation Sr. No. : 6124
+3. Observer : Nithyanandan Thyagarajan
+4. Observer's Email : t_nithyanandan@rri.res.in
+5. Project Name : VLA FIRST Transients
+6. Project Code : 22_027
+7. Operator(s) : Manisha,
+	Navanath,
+	Nilesh,
+	Rupsingh,
+	Sachin,
+	Santaji,
+	Surender,
+	
+8. Command File : /odisk/gtac/cmd/22_027/obs2_4.1.cmd
+9. LTA File : /gsbifrdata/28aug/22_027_28aug2012.lta,
+	/gsbifrdata/28aug/22_027_28aug2012.lta.1
+10. LogFlag File : /odisk/online1/logflags/22_027.FLAGS.14
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 629 MHz ,RF2 : 253 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 680 MHz, ILO2 : 304 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+12 dB, 32 MHz,ON, IF-CH2 : 10+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 512 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 629 253 680 304 51 51.
+25. Integration Time : 8.053 Sec.
+26. No of Antennas Working(Fringing) :30
+
+27. Name of Non-Working Antennas (with reason for each) :
+--
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 06:00 - 22:00
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+06:14 : Started scan on 3C147.
+06:30 : Stopped scan.
+06:36 : Command file started.
+07:59:21 : Electrical power glitch,stopped command file.
+08:25:00 : Following antennas not working after power glitch.
+
+C05 : Servo time-out.
+E04 : ABC time-out.
+E04 : MCM 5 time out and was down till end of observation
+W01 : Servo problem.
+W04 : Servo problem.
+
+08:27:00 : Started command file.
+09:18:21 : C05 released for observation.
+10:43:14 : W01 released for observation.
+11:37:20 : W04 released for observation.
+11:46:00 : C05 taken for maintenance.
+11:56:00 : C05 released for observation.
+14:21:21 : Stopped command file.
+14:26:35 : Started scan on 3c286 for ~5min.
+14:38:00 : Started command file.
+21:16:16 : C13 ABC/Servo TimeOut vanished.
+21:54:00 : C13 started working.
+22:59:26 : Stopped command file.
+
+
+
+

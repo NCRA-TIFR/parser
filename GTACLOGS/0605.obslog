@@ -1,0 +1,36 @@
+1. Date : 30/05/2002
+2. Observation Sr. No. : 605
+3. Observer & email : Ishwar Chandra, ishwar@ncra.tifr.res.in
+4. Project Name & Code : toi/01TOI01
+5. Operator(s) : Sanjay(3)
+6. Command File/Source  & Lta File : /temp2/data/cmd/ishwar/v4641.cmd ( only one loop)
+								   : /rawdata/30may/01toi01_244_v4641.lta
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 :235 MHz.,14 dB., OFF.
+8. Ist LO (MHz) & IVth LO (MHz) :540 MHz., 66 Mhz. 
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : 18+18 dB., 6 MHz., ON.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status :8 MHz., 3 dB., ON.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 0 / 0 
+12. Channels :0,63,1
+13. Frequency Parameters (TPA) : 244 244 310 310 66 66
+
+14. Integration Time (Sec.) : 16 sec (16*8m).
+15. No of Antennas Working(Fringing) : 26
+16. Name of Non-Working Antennas (with reason for each) :
+	C01 Servo limit hit
+	S01	less fringe
+	S06	No fringe?
+	W06 Brakes not releasing.
+
+17. Starting and Ending time of Observations (IST) : 00:33
+18. Comments (During Observations) :
+	00:33	Started das scan on 3c286
+	00:54	Stopped das scan on 3c286
+	01:07	Started cmd file /temp2/data/cmd/ishwar/v4641.cmd
+
+19. Data Backup files & Tape No. :

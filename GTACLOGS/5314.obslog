@@ -1,0 +1,69 @@
+		 GTAC Observation Log 
+
+1. Date : 06/5/2011
+2. Observation Sr. No. : 5314
+3. Observer : Nissim Kanekar
+4. Observer's Email : nkanekar@ncra.tifr.res.in
+5. Project Name : 1009+0713
+6. Project Code : 20_074
+7. Operator(s) : Deepak,
+	Manisha,
+	Navanath,
+	
+8. Command File : /odisk/gtac/cmd/nissim/1009+0713.cmd,
+	/odisk/gtac/cmd/nissim/1619+3342.cmd
+9. LTA File : /gsbifrdata/06may/20_074_06may2011.lta,
+	/gsbifrdata/06may/20_074_06may2011.lta.1,
+	/gsbifrdata/06may/20_074_06may2011.lta.2,
+	/gsbifrdata/06may/20_074_06may2011.lta.3
+10. LogFlag File : /odisk/online1/logflags/20_074.FLAGS.2,
+	/odisk/online1/logflags/20_074.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1261 MHz ,RF2 : 1261 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1210 MHz, ILO2 : 1210 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. Maximum Channels : 512 
+15. Final Bandwidth (MHz): OFF MHz; Step # 0
+16. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+
+20. Frequency Parameters (TPA) : 1261 1261 1210 1210 51 51.
+21. Integration Time : 16.106 Sec.
+22. No of Antennas Working(Fringing) :24
+
+23. Name of Non-Working Antennas (with reason for each) :
+E-arm : Fibre cut.
+C11 : Painting.
+C09-130 : low fringe.
+24. Note for Backup :--
+
+25. Start and End Time of Obs.(IST): 17:00 - 09:00
+
+26. ONLINE Machine : Shivneri
+
+27. Comments (During Observations) :
+17:21 : Started command file
+        /odisk/gtac/cmd/nissim/1009+0713.cmd
+19:50 : Command file stopped.
+20:00 : Started scan on 3C286 for 10mins.
+20:10 : Settings changed
+        LO1=1230MHz
+        tpa 1281 1281 1230 1230 51 51
+20:35 : E03,E04,E05 and E06 started working.
+20:45 : Started scan on 3C286 for 10mins.
+20:55 : Started command file
+        /odisk/gtac/cmd/nissim/1619+3342.cmd
+00:20 : cmd file stopped.
+00:27 : Started scan on 3C286 for 10min
+00:33 : Started E02 Working
+
+09:20 : observation session over.
+
+

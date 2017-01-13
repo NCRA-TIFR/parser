@@ -1,0 +1,69 @@
+		 GTAC Observation Log 
+
+1. Date : 17/08/2003
+2. Observation Sr. No. : 1099
+3. Observer : Dr. Jayaram Chengalur
+4. Observer's Email : chengalu@ncra.tifr.res.in
+5. Project Name : a370
+6. Project Code : 04JNC03
+7. Operator(s) : Deepak,
+	Mangesh,
+	Manish G.,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/chengalu/a370.cmd
+9. LTA File : /rawdata/17aug/04jnc03_17aug03.lta,
+	/rawdata1/17aug/04jnc03_17aug03.ltb
+10. LogFlag File : /btemp2/logflags/04JNC03.FLAGS.6
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1040 MHz ,RF2 : 1040 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 970 MHz, ILO2 : 970 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1040 1040 970 970 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+USB:
+C11- no fringe @130 pol
+E04- no fringe @175 pol
+
+S03-MCM 5 T.O.
+W03-MCM 2,3,9,14 T.O.
+
+21. Start and End Time of Obs.(IST): 02:20 - 10:05
+
+22. Comments (During Observations) :
+******ONLINE RUNNING ON BHASKAR********
+IF attn - authifcmd @1060MHz with ALC ON.
+
+02:22 :Started scan on 3C48 for 20mins.
+02:45 :Started command file
+       /btemp2/cmd/chengalu/a370.cmd
+04:00 :C05 flat band shape(USB).
+04:14 :After running corr_config C05 recovered.
+04:35 :C05 flat band shape(USB).
+05:00 :After running corr_config C05 recovered
+05:07 :Scan no. 7 (2 records) is junk.
+05:08 :Started scan on 3C48 for 15mins.
+05:33 :Restarted command file.
+05:37 :S01 flat band shape(USB).
+05:45 :After running corr_config S01 recovered.
+07:42 :command file stopped.
+07:48 :Started scan on 3C48 for 15mins.
+08:05 :Restarted command file.
+08:32 :C05:USB flat band 
+09:00 :ran corr_config.
+09:47 : stopped the command file 
+	and started the record on 3c147.
+10:05 : stopped the observation session
+

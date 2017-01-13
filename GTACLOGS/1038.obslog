@@ -1,0 +1,66 @@
+		 GTAC Observation Log 
+
+1. Date : 04/07/2003
+2. Observation Sr. No. : 1038
+3. Observer : Dharam Vir Lal, A. Pramesh Rao.
+4. Observer's Email : dharam@ncra.tifr.res.in,pramesh@ncra.tifr.res.in
+5. Project Name : HEAD TAIL SOURCES
+6. Project Code : 04DVL01
+7. Operator(s) : Deepak,
+	Mangesh,
+	Manisha J.,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/dharam/1709_397.cmd
+9. LTA File : /rawdata/4jul/04dvl01_1709p39.lta,
+	/rawdata1/4jul/04dvl01_1709p39.ltb,
+	/rawdata/4jul/04dvl01_1709p39.lta.1,
+	/rawdata1/4jul/04dvl01_1709p39.ltb.1
+10. LogFlag File : /atemp2/logflags/04DVL01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 611 MHz ,RF2 : 233 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 685 MHz, ILO2 : 307 MHz, IVLO1 : 74 MHz, IVLO2 : 74 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 32 MHz,ON, IF-CH2 : 18+18 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 611 233 685 307 74 74 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+LSB-Status:
+C14 : 130 pol no fringe
+E03 : 175 pol no fringe.
+
+USB-status:
+C05 : Flat Bshape
+C06 : Flat Bshape
+W06 : Flat BShape.
+USB:175 chann ALL ant, no signal, whole band(6MHz) in LSB.
+E-arm:bad bshape in corr
+S-arm:bad bshape in corr
+W05,W06:bad bshape in corr
+
+
+
+
+21. Start and End Time of Obs.(IST): 17:56 - 03:20
+
+22. Comments (During Observations) :
+ONLINE:aditya
+--------------
+17:56 : Started record on 3c286.
+18:18 : Stopped record on 3c286
+18:21 : Started cmd file /btemp2/cmd/dharam/1709_397.cmd
+02:45	stopped cmd file.
+02:51	started scan on 3C48.
+03:20	stopped scan.
+
+

@@ -1,0 +1,55 @@
+		 GTAC Observation Log 
+
+1. Date : 04/12/2009
+2. Observation Sr. No. : 4628
+3. Observer : Jroy
+4. Observer's Email : jroy@ncra.tifr.res.in
+5. Project Name : Pulsar observation
+6. Project Code : 17_071
+7. Operator(s) : Navanath,
+	Rupsingh,
+	Sachin,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /rawdata/4dec/17_071_4dec2009.lta
+10. LogFlag File : /odisk/online1/logflags/17_071.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+4 dB, 32 MHz,OFF, IF-CH2 : 20+4 dB, 32 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C13 - For painting.
+E05 - For Painting.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 13:30 - 17:20
+
+23. ONLINE Machine : Lenyadri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+Correlator configured in pulsar mode.
+----------------------------------------------------
+13:30 : Started settings.
+13:35 : Started scan on 1822-096
+15:00 : Started scan on src
+15:55 : W-arm MSEB Power failure.
+17:20 : Observation session over.
+
+
+

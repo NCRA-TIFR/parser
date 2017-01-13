@@ -1,0 +1,52 @@
+		 GTAC Observation Log 
+
+1. Date : 08/03/2008
+2. Observation Sr. No. : 3660
+3. Observer : spal
+4. Observer's Email : spal@ncra.tifr.res.in
+5. Project Name : 3C284
+6. Project Code : 13SPA01
+7. Operator(s) : Deepak,
+	Navanath,
+	Nilesh,
+	
+8. Command File : /atemp2/cmd/spal/7mar07.cmd
+9. LTA File : /rawdata/8mar/13spa01_3c284.lta,
+	/rawdata1/8mar/13spa01_3c284.ltb
+10. LogFlag File : /atemp2/logflags/13SPA01.FLAGS.7
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 6+0 dB, 32 MHz,ON, IF-CH2 : 6+0 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+--
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 00:10 - 07:30
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+----------------------------------------
+00:10 : started settings for 13SPA01
+00:22 : Started scan on 3c286.
+00:38 : Started command file.
+07:17 : Stopped command file.
+07:18 : Started scan on 3c286.
+07:29 : Stopped scan and observation closed.
+
+

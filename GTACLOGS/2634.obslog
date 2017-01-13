@@ -1,0 +1,50 @@
+		 GTAC Observation Log 
+
+1. Date : 03/06/2006
+2. Observation Sr. No. : 2634
+3. Observer : Dr. Nimisha
+4. Observer's Email : ngk@ncra.tifr.res.in
+5. Project Name : rhoph
+6. Project Code : 10GCA01
+7. Operator(s) : Santaji,
+	
+8. Command File : /btemp2/cmd/ngk/rhoph.cmd
+9. LTA File : /rawdata/3jun/10gca01_rsoph.lta
+10. LogFlag File : /btemp2/logflags/10GCA01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 157 MHz ,RF2 : 157 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 223 MHz, ILO2 : 223 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 6 MHz,OFF, IF-CH2 : 16+16 dB, 6 MHz,OFF
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, OFF
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 157 157 223 223 66 66 
+
+18. Integration Time : 64 LTA ~ 8.454 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C11 : Poor fringe.
+W02 : No fringe.
+
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 03:00 - 06:45
+
+23. Comments (During Observations) :
+-----------------------------------------------
+******** ONLINE : Bhaskar           ********* 
+******** Corr Mode : IndianPolar    *********
+******** Corr power equalied        *********
+-----------------------------------------------
+03:26 scan started on 3c468.1 for 10m
+03:40 command file started.
+06:45 observation session over.
+

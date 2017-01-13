@@ -1,0 +1,81 @@
+		 GTAC Observation Log
+
+1. Date : 28/03/2016
+2. Observation Sr. No. : 8505
+3. Observer :  Prajwal, Y Gupta
+
+4. Observer's Email :  prajwal3108@gmail.com, ygupta@ncra.tifr.res.in
+
+5. Project Name : DDT observation.
+6. Project Code : DDTUG10
+7. Operator(s) : Navnath, Nilesh, Pramod
+8. Command File : /odisk/gtac/cmd
+9. LTA File : /gsbifrdata1/28mar/ddtug10_325_28mar2016.lta, /gsbifrdata1/28mar/ddtug10_1420_28mar2016.lta
+10. LogFlag File :  
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1454 MHz ,RF2 : 1454 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1505 MHz, ILO2 : 1505MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : PA
+22. Beam - 2 : PA
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 1454 1454 1505 1505 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :29
+
+32. Name of Non-Working Antennas (with reason for each) :
+C06 : Taken for BLDC
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 28 Mar 2016 21:00:00 - 28 Mar 2016 23:30:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :29
+
+37. Comments (During Observations) :
+21:00 : Starred set up.
+
+Selection of antennas
+
+# 325 MHz# sub 2 # C08 C10 C12 C13
+ante 4 24 12 2 11
+cp 0;defs 2;subar 2
+
+# 1420 MHz# sub 4 # C00 C01 C02 C03 C04 C05 C06 C09 C11 C14 W01 W02 W03 W04 W05 W06 E02 E03 E04 E05 E06 S01 S02 S03 S04 S06
+ante 26 7 6 5 1 3 19 20 4 9 10 8 13 14 15 16 25 17 18 21 22 23 26 27 28 29 30
+cp 0;defs 4;subar 4
+
+22:03:16 : Started scan on 3C147 for ~ 1.34218 min.
+22:16:39 : Started scan on 0744-064 for ~ 2.68435 min.
+22:19:38 : Started scan on 0744-064 for ~ 3.75809 min.
+22:27:53 : Started scan on J0613-0200 for ~ 17.4483 min.
+
+Note : Duo to disk full on gwbh2, the data is recorded in the following area of gwbh2 and gwbh3 machine.
+/data/gpuuser/28mar16
+
+22:49:23 : Started scan on B0740-28 for ~ 5.3687 min.
+22:56:01 : Started scan on B0740-28 for ~ 9.1268 min.
+23:07:10 : Started scan on 0744-064 for ~ 6.17401 min.
+23:13:48 : Started scan on 0744-064 for ~ 0.268435 min.
+23:16:25 : Started scan on J0751+1807 for ~ 12.348 min.
+23:28 : Stopped scan and observation session is over.

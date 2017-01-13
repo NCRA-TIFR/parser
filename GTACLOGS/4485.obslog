@@ -1,0 +1,63 @@
+		 GTAC Observation Log 
+
+1. Date : 22/08/2009
+2. Observation Sr. No. : 4485
+3. Observer : Rahul Basu
+4. Observer's Email : rbasu@ncra.tifr.res.in
+5. Project Name : Z348
+6. Project Code : 16_117
+7. Operator(s) : Jayprakash,
+	Rupsingh,
+	
+8. Command File : /odisk/gtac/cmd/rathreya/16c117d.cmd
+9. LTA File : /rawdata/22aug/16_117_22aug09.lta.1,
+	/rawdata1/22aug/16_117_22aug09.ltb.1
+10. LogFlag File : /odisk/online1/logflags/16_117.FLAGS.5
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+W01 : For maintenance.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 00:52 - 09:00
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+         2Second file
+
+/rawdata/22aug/16_117_22aug09.lta,
+/rawdata1/22aug/16_117_22aug09.ltb,
+/rawdata/22aug/16_117_22aug09_2s.lta,
+/rawdata1/22aug/16_117_22aug09_2s.ltb,
+/rawdata/22aug/16_117_22aug09_2s.lta.1,
+/rawdata1/22aug/16_117_22aug09_2s.ltb.1
+----------------------------------------------
+00:52 : Started scan on 3c48 for 15min.
+01:12 : Stopped the scan.
+01:25 : Started command file.
+03:49 : S02 ABC time out.
+
+08:30 : Command file stopped.
+08:33 : Started scan on 3C147.
+09:00 : Observation stopped.
+
+

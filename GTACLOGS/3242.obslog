@@ -1,0 +1,73 @@
+		 GTAC Observation Log 
+
+1. Date : 09/07/2007
+2. Observation Sr. No. : 3242
+3. Observer : Anish Roshi
+4. Observer's Email : anish.roshi@gmail.com
+5. Project Name : S212
+6. Project Code : 12DSB01
+7. Operator(s) : Deepak,
+	Manisha,
+	Navanath,
+	
+8. Command File : /btemp2/cmd/dana/s212.cmd
+9. LTA File : /rawdata/9jul/12dsb01_09jul2007.lta.1,
+	/rawdata1/9jul/12dsb01_09jul2007.ltb.1
+10. LogFlag File : /btemp2/logflags/12DSB01.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 6+0 dB, 32 MHz,ON, IF-CH2 : 6+0 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :25
+
+20. Name of Non-Working Antennas (with reason for each) :
+C01,C09 - Not tracking (Servo Off).
+C14 - 130 no fring,USB+LSB
+E03 - 175 no fringe.
+E04 - 130 no fringe USB+LSB
+W01 - 175 no fringe.
+W04 - 130 no fringe.
+W06 - 130 very low fringe, USB+LSB
+
+* Bad Baselines
+E04-W03, W02-S03,S04-S06,       C03-E03,E04,E06,S01 
+
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 04:00 - 14:30
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+04:00 : STarted stting for 12DSB01
+
+Bnad =  610/235Mhz
+LO1  =  680/310Mhz
+RF   =  614/244MHz
+IFbw =  32/6Mhz
+BBBw =   16Mhz
+ALC's=  ON
+
+04:33 : Started scan on 3c48 for 10 min.
+05:03 : Command file started.
+06:43 : command file stopped to change phase cal.
+06:46 : Started command file with 3c147.
+13:00 : C09 started tracking.
+14:30 : Observation stopped.
+
+
+

@@ -1,0 +1,55 @@
+		 GTAC Observation Log 
+
+1. Date : 22/03/2005
+2. Observation Sr. No. : 1963
+3. Observer : DF/HN/RB
+4. Observer's Email : dfield@phys.au.dk
+5. Project Name : HI-Z Mega MASER
+6. Project Code : 07DFA01
+7. Operator(s) : Manisha J.,
+	Sanjay,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/henrik/j1048.cmd
+9. LTA File : /rawdata1/22mar/07dfa01_j1048.ltb
+10. LogFlag File : /btemp2/logflags/07DFA01.FLAGS.7
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 227 MHz ,RF2 : 227 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 301 MHz, ILO2 : 301 MHz, IVLO1 : 74 MHz, IVLO2 : 74 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 18+18 dB, 6 MHz,ON, IF-CH2 : 18+18 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 227 227 301 301 74 74 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C12 - Painting
+S01 - ABC Time Out.
+
+21. Start and End Time of Obs.(IST): 17:30 - 05:15
+
+22. Comments (During Observations) :
+*** ONLINE: bhaskar *******
+**** AUTHIF @ 235 MHz *****
+###########################
+
+17:30 scan started on 3c147.
+17:51 command file started.
+	/temp2/data/cmd/henrik/j1048.cmd
+18:30 C12 started working.
+20:00 S01 started working.
+23:19 phase cal changed to 3c286 in cmdfile.
+	and restarted the file.
+04:58	stopped command file, antennas moved to 3c286.
+05:01	started scan on 3c286 ~15mins.
+05:15	stopped observation session.
+
+

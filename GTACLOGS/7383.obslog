@@ -1,0 +1,74 @@
+		 GTAC Observation Log
+
+1. Date : 25/10/2014
+2. Observation Sr. No. : 7383
+3. Observer : Mayuresh Surnis, BHAL CHANDRA JOSHI, Maura Ann McLaughlin, Periasamy K. Manoharan, Krishnakumar MA
+4. Observer's Email : mpsurnis@ncra.tifr.res.in, bcj@ncra.tifr.res.in, maura.mclaughlin@mail.wvu.edu, mano@ncra.tifr.res.in, kkma@ncra.tifr.res.in
+5. Project Name : Simultaneous Multi-frequency Follow-up of Four Pulsars Discovered with the GMRT
+6. Project Code : 27_008
+7. Operator(s) : Navnath
+8. Command File :  /odisk/gtac/cmd/mpsurnis/27_008.cmd
+9. LTA File : /gsbifrdata/25oct/1839\\+15_008.25oct2014.lta
+10. LogFlag File : /odisk/online1/logflags/27_008.FLAGS.1,/odisk/online1/logflags/27_008.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : IA
+22. Beam - 2 : PA
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 591 591 540 540 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :25
+
+32. Name of Non-Working Antennas (with reason for each) :
+C01 : : MCM 5 time out.
+W03 : : feed jam
+E05 : Large offsets
+E06 :BLDC
+W06 :130 low self
+
+
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 25 Oct 2014 20:00:00 - 25 Oct 2014 23:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :25
+
+37. Comments (During Observations) :
+GAC: IA : all working
+GAC PA : csq+ upto second arm
+Post Int :2
+------------------------------------------
+/mnt/pulsar/gsbuser/27_008_25oct2014/1839+15.251014.610.122us.ia.dat 
+/mnt/pulsar/gsbuser/27_008_25oct2014/1839+15.251014.610.122us.pa.dat
+-----------------------------------------------------------------------
+20:00 : Started setup.
+20:15 : powereq and phasing done.
+20:37 : Started cmd file.
+
+       /odisk/gtac/cmd/mpsurnis/27_008.cmd
+
+23:00 : Observation over.
+

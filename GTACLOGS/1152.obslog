@@ -1,0 +1,84 @@
+		 GTAC Observation Log 
+
+1. Date : 22/09/2003
+2. Observation Sr. No. : 1152
+3. Observer : Jayaram Chengalur
+4. Observer's Email : chengalu@ncra.tifr.res.in
+5. Project Name : DLA
+6. Project Code : 04JNC02
+7. Operator(s) : Deepak,
+	Mangesh,
+	Manisha J.,
+	Santaji,
+	
+8. Command File : /temp2/data/cmd/chengalu/pks0336.cmd
+9. LTA File : /rawdata/22sep/04jnc02_0336.lta,
+	/rawdata1/22sep/04jnc02_0336.ltb
+10. LogFlag File : /btemp2/logflags/04JNC02.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 350.2 MHz ,RF2 : 350.2 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 279 MHz, ILO2 : 279 MHz, IVLO1 : 71.2 MHz, IVLO2 : 71.2 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 6 MHz,ON, IF-CH2 : 16+16 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 1000 KHz, 12 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 4
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 350.2 350.2 279 279 71.2 71.2 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+S06 : Weak fringe in both
+      USB & LSB.
+S04-USB-175 : No fringe.
+S04-LSB-175 : No fringe.
+E06-USB-130 : no fringe
+W02-LSB : Shows very high self. 
+
+
+21. Start and End Time of Obs.(IST): 23:21 - 09:10
+
+22. Comments (During Observations) :
+******** ONLINE : BHASKAR *************
+Note : IF attn: 16+16 db. to all the antennas
+       ( and not AUTHIF).
+
+23:21 : Started scan on 3c48 for 15 minutes.
+23:42 : Started the command file
+           /temp2/data/cmd/chengalu/pks0336.cmd
+02:46 : C05-USB flat band-shape.
+02:50 : Ran corr_config to recover C05-USB.
+03:05 : Stopped the command file. Moved to 3c48
+        (Currently around 150deg. away from the
+          phase cal.)
+03:17 : Started a scan on 3c48 for 15 minutes.
+03:42 : Flat band-shape on C05-USB. Ran corrconfig
+        to recover C05-USB.
+03:45 : Restarted the command file.
+04:06 : C05-USB flat band-shape.
+      : Also C03 has been applying brakes frequently.
+        It releases the brakes after saying hold, 
+        but the problem keeps coming very often.
+04:26 : Flat band-shape on S01-LSB.
+04:27 : Flat band-shape on C03-USB.
+04:38 : At the end of running scan, ran corr_config
+        to recover flat bandshapes on
+            C05-USB,S01-LSB,C03-USB.
+05:47 : C05-USB flat band-shape.  
+06:16 : Ran corr_config at the end of scan to
+        recover C05-USB flat band-shape.
+06:36 : Stopped the command file. Moved antennas
+         to 3c48.
+06:41 : Started a scan on 3c48 for 15 minutes.
+08:00 : W01 got reset.
+08:15 : W01 started working
+08:50 : stopped das.
+08:54	started scan on 3C147 ~ 15mins.
+09:10	stopped das and observation.
+
+

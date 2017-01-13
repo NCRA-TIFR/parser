@@ -1,0 +1,58 @@
+		 GTAC Observation Log 
+
+1. Date : 25/7/2013
+2. Observation Sr. No. : 6624
+3. Observer : Danielle M. Nielsen,Eric Wilcots,Emily Freeland,Brian Morsony
+4. Observer's Email : nielsen@astro.wisc.edu,ewilcots@astro.wisc.edu,freeland@physics.tamu.edu,morsony@astro.wisc.edu
+5. Project Name : Characterizing the intragroup medium with bent double lobed radio galaxies
+6. Project Code : 24_045
+7. Operator(s) : Navanath,Rupsingh,Surender
+8. Command File : /odisk/gtac/cmd/24_045/25072013.cmd
+9. LTA File : /gsbifrdata/25jul/24_045_25jul2013.lta,
+10. LogFlag File : /odisk/online1/logflags/24_045.FLAGS.2,
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 629 MHz ,RF2 : 253 MHz, SA1 : 0 dB, SA2 :  dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 680 MHz, ILO2 : 304 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : Realtime 
+15. GSB LTA : 8 
+16. GSB CTRL : ONLINE 
+17. GSB Fstop : ON 
+18. GAIN EQ : ON 
+19. Stokes : TotIntensity
+20. Beam - 1 : OFF
+21. Beam - 2 : OFF
+22. ACQ BW : 33.33 MHz
+23. Final BW : 33.333333 MHz; Step # 0
+24. Maximum Channels : 256 
+25. Channel Numbers : 0:255:1 
+26. LO5 -1  : 149.00 
+27. LO5 -2  : 156.00 
+
+28. Frequency Parameters (TPA) : 629 253 680 304 51 51.
+29. Integration Time : 16.106112 Sec.
+30. No of Antennas Working(Fringing) :28
+
+31. Name of Non-Working Antennas (with reason for each) :
+E05: BLDC.
+C09: Taken for Maintenance.
+
+32. Note for Backup :
+
+33. Start and End Time of Obs.(IST): 16:00 - 00:00
+
+34. ONLINE Machine : Shivneri
+
+35. Comments (During Observations) :
+16:55 : Started set-up.
+17:08 : Started scan on 3C286 for ~15min.
+17:25 : Started command file.
+17:28 : C09 Started working.
+
+23:51 : Started scan on 3c468.1 for 15mins.
+00:05 : Observation stopped.

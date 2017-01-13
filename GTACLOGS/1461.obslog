@@ -1,0 +1,76 @@
+		 GTAC Observation Log 
+
+1. Date : 13/04/2004
+2. Observation Sr. No. : 1461
+3. Observer : Ananda Hota
+4. Observer's Email : hota@ncra.tifr.res.in
+5. Project Name : Galaxy
+6. Project Code : 05JAI01
+7. Operator(s) : Mangesh,
+	Jayprakash,
+	Jitendra,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/hota/ngc2903.610.cmd,
+	/btemp2/cmd/hota/atom123.610.cmd
+9. LTA File : /rawdata/13apr/05jai01_ngc2903.610.lta,
+	/rawdata1/13apr/05jai01_ngc2903.610.ltb,
+	/rawdata/13apr/05jai01_ngc2903.610.lta.1,
+	/rawdata1/13apr/05jai01_ngc2903.610.ltb.1
+10. LogFlag File : /btemp2/logflags/05JAI01.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+18 dB, 32 MHz,ON, IF-CH2 : 12+18 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C00 : Painting.
+C06 : Painting.
+W06 : No fringe in both         channnel
+
+21. Start and End Time of Obs.(IST): 16:22 - 11:00
+
+22. Comments (During Observations) :
+** ONLINE BHASKAR **
+** AUTH IF @ 610-235 MHz. **
+------------------------
+16:22 : Started scan on 3c48 for 15min.
+16:56 : Started command file /btemp2/cmd/hota/ngc2903.610.cmd.
+17:37 : C00 released back for observation and it is
+        tracking the source the proper settings.
+
+02:00 : stopped the command file and scan started
+	on 3c286
+02:12 : started the two new record files.
+	observation is being done manually .
+06:50 : command file started
+	/temp2/data/cmd/hota/atom123.610.cmd.
+07:11 : Stopped the scan & command file.
+07:12 : Started scan on 2219-279 for 4min.
+07:17 : Stopped the scan.
+07:19: Started scan on 2225-049 for 4min.
+07:23 : Stopped the scan.
+07:31 : Started scan on 1556+200 for 6min.
+07:38 : Stopped the scan.
+07:39 : Started scan on APR220.
+07:52 : Stopped the scan.
+07:53 : Started scan on "1556+200" for 4min.
+07:58 : Stopped the scan.
+08:03 : Restarted the command file /btemp2/cmd/hota/atom123.610.cmd.
+09:10 : C00 parked for painting.
+10:39 : STopped the command file.
+10:50 : Started scan on 3c48 for 10min.
+11:00 : Stopped the scan & observation session.
+

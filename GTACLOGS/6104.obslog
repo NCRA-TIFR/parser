@@ -1,0 +1,60 @@
+		 GTAC Observation Log 
+
+1. Date : 20/8/2012
+2. Observation Sr. No. : 6104
+3. Observer : Abhishek Johri
+4. Observer's Email : johri@ncra.tifr.res.in
+5. Project Name : Pulsar Observation
+6. Project Code : 12DT024
+7. Operator(s) : Deepak,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /gsbifrdata/20aug/12dt024_20aug2012.lta
+10. LogFlag File : /odisk/online1/logflags/12DT024.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : OFF 
+17. Stokes : Total_Intensity
+18. Beam - 1 : IA
+19. Beam - 2 : PA
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 512 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 306 306 255 255 51 51.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :28
+
+27. Name of Non-Working Antennas (with reason for each) :
+C14 - BLDC work.
+E03 - 130 pol no fringe.
+
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 19:00 - 23:05
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+18:00 : setup started.
+      : power eq on 1822-096 @ 350 counts, phasing done.
+
+19:18 : started pulsar observation.
+
+19:38 : Started scan on J1833-1034.
+20:38 : Phasing on 1822-096
+20:40 : Restarted scan on J1833-1034.
+23:05 : Observing session over.
+
+

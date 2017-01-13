@@ -1,0 +1,72 @@
+		 GTAC Observation Log
+
+1. Date : 22/09/2015
+2. Observation Sr. No. : 8085
+3. Observer : Bhaswati Bhattacharyya, Jayanta Roy, Ben Stappers, Michael Keith, Sally Cooper, Mateusz Malenta, Maura Ann McLaughlin, Duncan Ross Lorimer, Paul Ray, Scott M. Ransom, Jayaram Narayanan Chengalur
+4. Observer's Email : bhaswati.bhattacharyya@manchester.ac.uk, jayanta.roy@manchester.ac.uk, Ben.Stappers@manchester.ac.uk, mkeith@pulsarastronomy.net, sally.cooper@postgrad.manchester.ac.uk, mateusz.malenta@student.manchester.ac.uk, maura.mclaughlin@mail.wvu.edu, Duncan.Lorimer@mail.wvu.edu, paul.ray@nrl.navy.mil, sransom@nrao.edu, chengalur@ncra.tifr.res.in
+5. Project Name : Regular timing of the pulsars discovered in the GMRT High Resolution Southern Sky (GHRSS) survey
+6. Project Code : 28_047
+7. Operator(s) : Navnath, Pramod
+8. Command File : /odisk/gtac/cmd/jroy/28_047_22sep.cmd,, /odisk/gtac/cmd/jroy/28_047_22sep.1.cmd
+9. LTA File : /gsbifrdata1/22sep/28_047_22sep2015_2s.lta.1, /gsbifrdata1/22sep/28_047_22sep2015_2s.lta
+10. LogFlag File : /odisk/online1/logflags/28_047.FLAGS.21, /odisk/online1/logflags/28_047.FLAGS.20
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : PA
+22. Beam - 2 : PA
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 306 306 255 255 51 51
+30. Integration Time : 2.0132 Sec
+31. No of Antennas Working(Fringing) at the beginning :27
+
+32. Name of Non-Working Antennas (with reason for each) :
+S02 : Taken for BLDC
+W04 : 175 pole low fringe.
+W05 : Low fringe.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 22 Sep 2015 20:00:00 - 22 Sep 2015 21:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :27
+
+37. Comments (During Observations) :
+19:00 : Started set up.
+19:10 : Power equalized at 300 counts on 1830-360.
+-----------------------------------------------------------------------
+19:18:11 : Started scan on 1830-360 for ~ 1.67772 min.
+19:22:42 : Started scan on 1830-360 for ~ 8.58993 min.
+19:33:18 : Started scan on 1830-360 for ~ 3.99297 min.
+19:38:37 : Started scan on HR_1946-51 for ~ 28.9574 min.
+20:11:46 : Started scan on 1830-360 for ~ 0.134218 min.
+20:14:21 : Started scan on HR_1946-51 for ~ 38.3862 min.
+20:52:43 : Halt GSB and restarted in PA - PA mode.
+21:03:03 : Phasing done on 2225-049.
+21:04:23 : Started scan on 2225-049 for ~ 0.771751 min.
+21:08:19 : Started scan on 2225-049 for ~ 1.1744 min.
+21:13:56 : Started scan on J2144-5237 for ~ 10.2676 min.
+21:23:56 : Stopped scan and observation session is over.
+
+

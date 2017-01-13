@@ -1,0 +1,77 @@
+		 GTAC Observation Log 
+
+1. Date : 10/10/2010
+2. Observation Sr. No. : 5055
+3. Observer : Dharam Vir Lal
+4. Observer's Email : dlal@head.cfa.harvard.edu,dlal@cfa.harvard.edu
+5. Project Name : NGC5044
+6. Project Code : 19_004
+7. Operator(s) : Amruta,
+	Deepak,
+	Manisha,
+	Nilesh,
+	Rupsingh,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/dharam/ngc5044.cmd
+9. LTA File : /rawdata/10oct/19_004_10oct2010.lta,
+	/rawdata1/10oct/19_004_10oct2010.ltb
+10. GSB File : /gsbifrdata/10oct/19_004_10oct2010_gsb.lta
+11. LogFlag File : /odisk/online1/logflags/19_004.FLAGS.2
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1399.34 MHz ,RF2 : 1399.34 MHz, SA1 : 0 dB, SA2 : 0 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1330 MHz, ILO2 : 1330 MHz, IVLO1 : 69.34 MHz, IVLO2 : 69.34 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+15. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+GHB Settings :
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1399.34 1399.34 1330 1330 69.34 69.34 
+
+GSB Settings :
+18. Maximum Channels : 512 
+19. Final Bandwidth (MHz): OFF ; Steps : 0
+20. IFBW : LO5(MHz) : 32:148-157 
+21. Stokes : Total_Intensity
+22. Beam - 1 : OFF
+23. Beam - 2 : OFF
+
+24. Correlator Mode : UsbHighRes
+25. Integration Time : 128 LTA ~ 16.908 Sec.
+26. No of Antennas Working(Fringing) :26
+
+27. Name of Non-Working Antennas (with reason for each) :
+C03 : For painting.
+C14 : Low fringe.
+S06 : ABC time out.
+S01 : 175 pol low fringe in GHB+GSB.
+W03 : 175pol fringe fluctuation in GHB+GSB.
+
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 08:30 - 15:49
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+08:30 : Started settings.
+08:50 : Started scan on 3C286.
+09:10 : Stopped scan.
+
+09:23 : '/odisk/gtac/cmd/dharam/ngc5044.cmd' command file started.
+11:41 : Stopped command file.
+
+11:52 : Started scan on 3C286.
+12:09 : Stopped scan.
+
+12:18 : Restarted command file.
+
+12:52 : S06 started working.
+15:34 : Bad base lines in LSB-C08XC06,C12XC11
+15:30 : Command file stopped.
+15:33 : Started scan on 3C286.
+15:49 : Stopped scan & observation over.
+

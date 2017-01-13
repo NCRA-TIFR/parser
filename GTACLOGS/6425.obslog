@@ -1,0 +1,66 @@
+		 GTAC Observation Log 
+
+1. Date : 17/3/2013
+2. Observation Sr. No. : 6425
+3. Observer : Yashwant Gupta
+4. Observer's Email : ygupta@ncra.tifr.res.in
+5. Project Name : Pulsar Observation
+6. Project Code : 23_065
+7. Operator(s) : Sachin,
+	
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /gsbifrdata/17mar/23_065_17mar2013.lta
+10. LogFlag File : /odisk/online1/logflags/23_065.FLAGS.6
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 317 MHz ,RF2 : 317 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255 MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 16 MHz,OFF, IF-CH2 : 24+4 dB, 16 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : OFF 
+17. Stokes : Full_Polar
+18. Beam - 1 : IA
+19. Beam - 2 : PA
+20. ACQ BW : 16 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 16:138000-167000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 317 317 255 255 62 62.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :25
+
+27. Name of Non-Working Antennas (with reason for each) :
+C04 : Counter weight replacement.
+W02 : BLDC work.
+C06 : No fringe
+W05 : ABC time-out
+S02 : MCM-14 time-out.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 08:00 - 11:00
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+07:55:11 - 08:22:17 Recorded data on B1642-03
+08:24:10 - 08:49:40 Recorded data on B1540-06
+08:54:14 - 08:56:23 Recorded data on 1822-096
+08:56:55 - 09:00:08 Recorded data on 1822-096
+08:50 : C06 taken for painting. (It was not fringing.)
+09:00 : C12 taken for painting.
+09:00:57 - 09:01:45 Recorded data on 1822-096
+09:02:17 - 09:02:17 Recorded data on 1822-096
+09:03:38 - 09:29:08 Recorded data on B1822-09
+09:29:56 - 09:55:10 Recorded data on B1818-04
+09:59:44 - 10:24:58 Recorded data on J2043+2740
+10:27:39 - 10:32:29 Recorded data on B1929+10
+10:34:38 - 10:59:19 Recorded data on B1907+00
+11:00 : Observation session over.
+
+

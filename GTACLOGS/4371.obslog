@@ -1,0 +1,66 @@
+		 GTAC Observation Log 
+
+1. Date : 25/06/2009
+2. Observation Sr. No. : 4371
+3. Observer : Sandeep Sirothia
+4. Observer's Email : sirothia@ncra.tifr.res.in
+5. Project Name : R54D38
+6. Project Code : 16_279
+7. Operator(s) : Deepak,
+	Jayprakash,
+	Rupsingh,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/sirothia/16_279_25jun09.gsb
+9. LTA File : /rawdata/25jun/16_279_25jun2009.lta,
+	/rawdata1/25jun/16_279_25jun2009.ltb
+10. LogFlag File : /odisk/online1/logflags/16_279.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 218 MHz, ILO2 : 218 MHz, IVLO1 : 62 MHz, IVLO2 : 62 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 156 156 218 218 62 62 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+S06 :FrontEnd problem.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 19:00 - 06:57
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : UsbHighRes
+
+25. Comments (During Observations) :
+    2second lta and ltb file
+   ---------------------------
+/rawdata/25jun/16_279_25jun2009_2s_.lta,
+/rawdata1/25jun/16_279_25jun2009_2s_.ltb
+=====================================================
+19:08 : Started scan on 3C286.
+19:24 : Stopped scan.
+19:28 : Command file started
+        '/odisk/gtac/cmd/sirothia/16_279_25jun09.gsb' 
+05:40 : MSEB power failure.
+06:00 : Power is back, restarted the observation.
+06:24 : Stopped command file.
+
+06:30 : Started scan on 3C48.
+06:57 : Stopped scan and observing session over.
+
+        GSB recording files :
+        /data/pulsar/gsbdata/25jun/16_279_gsb_25jun09.lta,
+        /data/pulsar/gsbdata/25jun/16_279_gsb_25jun09.lta.1
+         
+

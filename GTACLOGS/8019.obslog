@@ -1,0 +1,61 @@
+		 GTAC Observation Log
+
+1. Date : 25/08/2015
+2. Observation Sr. No. : 8019
+3. Observer : Abhik Ghosh, samir choudhuri, Somnath Bharadwaj, Saiyad Ali, Jayaram Narayanan Chengalur
+4. Observer's Email : ghosh@astro.rug.nl, samir.svc@gmail.com, somnath@phy.iitkgp.ernet.in, saiyad@phys.jdvu.ac.in, chengalur@ncra.tifr.res.in
+5. Project Name : Characterizing the Galactic Synchrotron emission at 150 MHz
+6. Project Code : 26_013
+7. Operator(s) : Nilesh, Sachin
+8. Command File : /odisk/gtac/cmd/26_013/obs25aug15.cmd
+9. LTA File : /gsbifrdata/25aug/26_013_25aug2015_16s.lta,/gsbifrdata/25aug/26_013_25aug2015.lta
+10. LogFlag File : /odisk/online1/logflags/26_013.FLAGS.14
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 218 MHz, ILO2 : 218MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 16 MHz,ON, IF-CH2 : 4+14 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Full_Stokes
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 16.666666 MHz; Step # 
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 138
+28. LO5 -2  : 167
+
+29. Frequency Parameters (TPA) : 156 156 218 218 62 62
+30. Integration Time : 2.0132 Sec
+31. No of Antennas Working(Fringing) at the beginning :29
+
+32. Name of Non-Working Antennas (with reason for each) :
+E02 : No fringe.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 25 Aug 2015 00:00:00 - 25 Aug 2015 09:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :29
+
+37. Comments (During Observations) :
+00:05 : Started scan on 3C48.
+00:21 : Stopped scan on 3C48.
+00:26 : Started command file. 
+
+08:50 : Stopped scan and command file.
+08:51 : Started scan on phase cal for ~ 12min.
+09:06 : Started scan on 3c48 for ~ 15min.
+09:22 : Stopped scan and observation closed.

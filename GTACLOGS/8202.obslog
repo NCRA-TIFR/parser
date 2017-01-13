@@ -1,0 +1,162 @@
+		 GTAC Observation Log
+
+1. Date : 26/11/2015
+2. Observation Sr. No. : 8202
+3. Observer : Nissim Kanekar
+4. Observer's Email : nkanekar@ncra.tifr.res.in
+5. Project Name : 0137\\+0843
+6. Project Code : DDTB191
+7. Operator(s) : Deepak, Pramod
+8. Command File : /odisk/gtac/cmd/nissim/0137\+0843.cmd
+9. LTA File : /gsbifrdata/25nov/ddtb191_25nov2015.lta, /gsbifrdata/26nov/ddtb191_26nov2015.lta.2, /gsbifrdata/26nov/ddtb191_26nov2015.lta.1, /gsbifrdata/26nov/ddtb191_26nov2015.lta
+10. LogFlag File : /odisk/online1/logflags/DDTB191.FLAGS.3, /odisk/online1/logflags/DDTB191.FLAGS.2, /odisk/online1/logflags/DDTB191.FLAGS.1, /odisk/online1/logflags/DDTB191.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 451.7 MHz ,RF2 : 451.7 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 520 MHz, ILO2 : 520MHz , IVLO1 : 68.3 MHz, IVLO2 : 68.3 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+12 dB, 6 MHz,ON, IF-CH2 : 10+12 dB, 6 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 8 MHz; Step # 2
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 131.7
+28. LO5 -2  : 173.3
+
+29. Frequency Parameters (TPA) : 451.7 451.7 520 520 68.3 68.3
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :28
+
+32. Name of Non-Working Antennas (with reason for each) :
+C02 : servo problem
+W03 : BLDC
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 25 Nov 2015 20:00:00 - 26 Nov 2015 02:00:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :28
+
+37. Comments (During Observations) :
+19:45 : setup started
+20:08 : started command file
+        /odisk/gtac/cmd/nissim/0137+0843.cmd 
+01:00 : Stopped command file.
+01:01 : Started scan on 3C48 for 12 min.
+01:13 : Stopped scan and change set up as,
+
+2. Source: 0311+430
+
+Source list     : /odisk/gtac/source/nk.list
+Command file    : /odisk/gtac/cmd/nissim/0311+430.cmd
+
+Flux calibrator : 3C48, 3C147
+Phase calibrator: None
+
+Line frequency : 431.8 MHz
+
+All ALCs ON
+
+   RF Band     : 327
+   IF BW       : 6 MHz
+   Baseband BW : 2 MHz
+   LO(5)       : 134.9, 170.1
+   LO(4)       : 65.1 65.1 MHz
+
+   LO(1)       : 500 MHz
+   Step        : 1
+
+   Channels    : 512
+   lta         : 8m
+
+ TPA : 434.9 434.9 500 500 65.1 65.1
+
+The band should cover 430.7334 MHz - 432.8167 MHz
+
+01:30 : Started command file.
+  '/odisk/gtac/cmd/nissim/0311+430.cmd'
+Note : GWB killed automatically in the observation and hence restarted it.
+  
+02:34 : Stopped command file and change set up as,
+
+
+3. Source: 0458-020
+
+Source list     : /odisk/gtac/source/nk.list
+Command file    : /odisk/gtac/cmd/nissim/0458-020.cmd
+
+Flux calibrator : 3C147
+Phase calibrator: 3C138
+
+Line frequency : 
+
+    All ALCs ON.
+
+    RF              : 325 MHz
+    IF BW           : 6 MHz
+    Final BW        : 2 MHz
+    LO(1)           : 535 MHz
+    LO(4)           : 67 MHz
+    LO(5)           : 133 MHz, 172 MHz
+    Step            : 0
+
+    Channels 512
+    lta 8m
+
+TPA 468 468 535 535 67 67
+
+The band should cover 468 MHz - 465.9167 MHz
+
+02:53 : Started command file.
+  '/odisk/gtac/cmd/nissim/0458-020.cmd'
+04:03 : Stopped command file and change the set up as,
+
+4. Source: 1157+014:
+
+Source list     : /odisk/gtac/source/nk.list
+Command file    : /odisk/gtac/cmd/nissim/1157+014.cmd
+
+Flux calibrator : 3C147
+Phase calibrator: 3C257
+
+Line frequency : 482.5 MHz
+
+    All ALCs ON.
+
+    RF              : 325 MHz
+    IF BW           : 6 MHz
+    Final BW        : 1 MHz
+    LO(1)           : 555 MHz
+    LO(4)           : 67.8 MHz
+    LO(5)           : 132.2 MHz, 172.8 MHz
+    Step            : 4
+
+    Channels 512
+    lta 8m
+
+Channels : 512
+
+TPA  487.2 487.2 555 555 67.8 67.8 
+
+The band should cover 483.0333 MHz - 481.0992 MHz
+
+04:17 : Started command file.
+ '/odisk/gtac/cmd/nissim/1157+014.cmd'
+05:37 : Stopped command file.
+05:40 : Started scan on 3C286.
+06:00 : Stopped scan and observation session is over.
+ 

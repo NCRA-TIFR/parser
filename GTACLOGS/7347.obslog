@@ -1,0 +1,75 @@
+		 GTAC Observation Log
+
+1. Date : 13/09/2014
+2. Observation Sr. No. : 7347
+3. Observer : Madhav Khushalrao Patil, Satish Shripati Sonkamble, Mahadev Baburao Pandge, Joydeep Bagchi
+4. Observer's Email : mkpatil@srtmun.ac.in, satish04apr@gmail.com, mbpandge@gmail.com, joydeep@iucaa.ernet.in
+5. Project Name : %latex%Interaction between the radio jets and ICM in the cooling flow galaxies
+6. Project Code : 26_064
+7. Operator(s) : Sachin, Shilpa, Surender
+8. Command File : /odisk/gtac/cmd/26_064/13sep2014_1.cmd,
+9. LTA File : /gsbifrdata/13sep/26_064_13sep2014.lta.1,/gsbifrdata/13sep/26_064_13sep2014.lta
+10. LogFlag File : /odisk/online1/logflags/26_064.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1381 MHz ,RF2 : 1381 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1330 MHz, ILO2 : 1330MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 1381 1381 1330 1330 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :26
+
+32. Name of Non-Working Antennas (with reason for each) :
+C01 : No feed
+C11 : No fringe
+S04 : Frequently applying brakes.
+E05 : Servo problem.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 13 Sep 2014 04:40:00 - 13 Sep 2014 17:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :29
+
+37. Comments (During Observations) :
+04:40 : Started settings.
+04:55 : Started scan on 3C147 for 15min.
+05:02 : S04 started working.
+05:12 : '/odisk/gtac/cmd/26_064/13sep2014_1.cmd' command file started.
+08:02 : Stopped command file.
+08:05 : Started scan on 3C147 and new lta file,common flux cal in both lta files.
+08:18 : Stopped scan and started new command file. 
+'/odisk/gtac/cmd/26_064/13sep2014_2.cmd'
+10:56 : C08 ABC reset.
+11:32 : C08 started working. 
+13:00 : E05 Servo problem.
+16:00 : E05 taken for observation.
+16:30 : Stopped command file.
+16:33 : Started scan on 3C286.
+16:48 : Stopped scan and observation session is over.
+ 
+
+
+

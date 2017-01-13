@@ -1,0 +1,83 @@
+		 GTAC Observation Log 
+
+1. Date : 10/2/2013
+2. Observation Sr. No. : 6372
+3. Observer : Sandip Sirothia
+4. Observer's Email : sirothia@ncra.tifr.res.in
+5. Project Name : GMRT Deap Search for Radio-emission from Exoplanets
+6. Project Code : 23_012
+7. Operator(s) : Deepak,
+	Nilesh,
+	Pramod,
+	Rupsingh,
+	Sachin,
+	Surender
+8. Command File : /odisk/gtac/cmd/sirothia/23_012_10feb_1.cmd,
+	/odisk/gtac/cmd/sirothia/23_012_10feb2013_2.cmd
+9. LTA File : /gsbifrdata/10feb/23_012_10feb2013.lta,
+	/gsbifrdata1/10feb/23_012_10feb2013_2s.lta
+10. LogFlag File : /odisk/online1/logflags/23_012.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : IA
+19. Beam - 2 : PA
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 306 306 255 255 51 51.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :28
+
+27. Name of Non-Working Antennas (with reason for each) :
+C04 : Taken for Servo motor replacement.
+W01 : Strong RFI.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 22:15 - 07:20
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+2S Data File : /gsbifrdata1/10feb/23_012_10feb2013_2s.lta
+----------------------------------------------------------------------------
+22:15 : Started settings.
+.......................................................................................................................
+  * Selection of antenna in GAC *
+               IA
+In IA : Total Antenna=28
+C00 C01 C02 C03 C05 C06 C08 C09 C10 C11 C12 C13 C14 W02 W03 W04 W05 W06 E02 E03 E04 E05 E06 S01 S02 S03 S04 S06
+ 
+
+               PA
+In PA : Total antenna=13
+C00 C01 C02 C03 C05 C06 C08 C09 C10 C11 C12 C13 C14
+..............................................................................................................................
+
+22:30 : Phasing done on 3C147.
+22:31 : Started scan on 3C147.
+23:00 : Stopped scan and started command file.
+        '/odisk/gtac/cmd/sirothia/23_012_10feb_1.cmd'
+00:11 : Stopped command file.
+00:13 : '/odisk/gtac/cmd/sirothia/23_012_10feb_2.cmd' command file started.
+06:40 : Stopped command file.
+06:45 : Started scan on 3C286.
+ 
+
+
+07:20 : Stopped observation session.
+
+
+

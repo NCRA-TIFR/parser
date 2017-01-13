@@ -1,0 +1,103 @@
+		 GTAC Observation Log
+
+1. Date : 21/10/2016
+2. Observation Sr. No. : 8930
+3. Observer : Jayanta Roy ,Bhaswati Bhattacharyya 
+4. Observer's Email : bhaswati.bhattacharyya@manchester.ac.uk ,jayroys@gmail.com
+5. Project Name : GMRT High Resolution Southern Sky (GHRSS) survey for millisecond pulsars and transients : \r\nA SKA precursor survey \r\n
+6. Project Code : 31_035
+7. Operator(s) : Pramod, Sachin, Surender
+8. Command File : /odisk/gtac/cmd/jroy/31_035_20oct.cmd
+9. LTA File : /gsbifrdata1/20oct/31_035_20oct2016_2s.lta.1, /gsbifrdata1/20oct/31_035_20oct2016_2s.lta
+10. LogFlag File : /odisk/online1/logflags/31_035.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 0 MHz; Step # 0
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 306 306 255 255 51 51
+30. Integration Time : 2.0132 Sec
+31. No of Antennas Working(Fringing) at the beginning :26
+
+32. Name of Non-Working Antennas (with reason for each) :
+C10 : Servo problem (Applied both brakes)
+E06 : ABC time out
+S01 : MCM 5 time out
+C11 : Low fringe
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 20 Oct 2016 21:00:00 - 21 Oct 2016 05:00:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :26
+
+37. Comments (During Observations) :
+20:23 : Started command file.
+ '/odisk/gtac/cmd/jroy/31_035_20oct.cmd'
+20:23:52 : Started scan on 2225-049 for ~ 3.15411 min.
+20:29:56 : Started scan on 2214-385 for ~ 1.97971 min.
+20:32:53 : Started scan on HR_2200-42 for ~ 2.14748 min.
+20:35:08 : Started scan on HR_2200-42 for ~ 16.0054 min.
+20:52:12 : Started scan on HR_2207-42 for ~ 18.2871 min.
+21:11:28 : Started scan on HR_2222-42 for ~ 18.3207 min.
+21:30:44 : Started scan on 2214-385 for ~ 3.0199 min.
+21:34:35 : Started scan on HR_2236-42 for ~ 18.2871 min.
+21:53:35 : Started scan on HR_2243-42 for ~ 18.2871 min.
+22:12:38 : Started scan on HR_2250-42 for ~ 18.2871 min.
+22:31:41 : Started scan on 2214-385 for ~ 3.0199 min.
+22:35:26 : Started scan on HR_2257-42 for ~ 18.2871 min.
+22:55:02 : Started scan on HR_0057-42 for ~ 18.2536 min.
+23:14:20 : Started scan on HR_0133-42 for ~ 18.3207 min.
+23:33:52 : Started scan on 0240-231 for ~ 2.98634 min.
+23:38:10 : Started scan on HR_0202-46 for ~ 7.78462 min.
+23:46:08 : Started scan on HR_0202-46 for ~ 10.3012 min.
+23:57:22 : Started scan on HR_0210-46 for ~ 18.2871 min.
+00:16:27 : Started scan on HR_0218-46 for ~ 18.2536 min.
+00:36:17 : Started scan on 0240-231 for ~ 3.0199 min.
+00:40:51 : Started scan on HR_0225-46 for ~ 18.2536 min.
+01:00:08 : Started scan on HR_0233-46 for ~ 18.2871 min.
+01:19:22 : Started scan on HR_0241-46 for ~ 12.1467 min.
+01:31:40 : Started scan on HR_0241-46 for ~ 5.97268 min.
+01:39:10 : Started scan on 0240-231 for ~ 3.0199 min.
+01:43:45 : Started scan on HR_0248-46 for ~ 18.2871 min.
+02:03:11 : Started scan on HR_0256-46 for ~ 18.2871 min.
+02:22:55 : Started scan on HR_0530-47 for ~ 18.2536 min.
+02:47:08 : Started scan on 0440-435 for ~ 3.0199 min.
+02:50:58 : Started scan on HR_0538-47 for ~ 18.2871 min.
+03:10:16 : Started scan on HR_0546-47 for ~ 30.2325 min.
+03:41:43 : Started scan on HR_0554-47 for ~ 18.2871 min.
+04:00 : Stopped command file. Changed mode to PA-PA and selected antennas in GAC upto 3rd arm antennas.
+04:04:45 : Started scan on 0440-435 for ~ 1.50995 min.
+04:07:01 : Started scan on 0440-435 for ~ 2.11393 min.
+04:09:13 : Started scan on 0440-435 for ~ 0.805306 min.
+04:11:06 : Started scan on J0418-4154 for ~ 5.26804 min.
+04:17:35 : Started scan on J0514-4408 for ~ 10.2676 min.
+04:28:51 : Started scan on J0514-4407 for ~ 10.2676 min.
+04:40:05 : Started scan on J0514-4408 for ~ 10.2676 min.
+04:51:30 : Started scan on J0702-4956 for ~ 9.1268 min.
+05:00 : Stopped command file and closed observation session.
+
+
+

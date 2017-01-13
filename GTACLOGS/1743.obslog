@@ -1,0 +1,74 @@
+		 GTAC Observation Log 
+
+1. Date : 08/12/2004
+2. Observation Sr. No. : 1743
+3. Observer : Chiranjib Konar
+4. Observer's Email : sckonar@ncra.tifr.res.in
+5. Project Name : Relic-Lobes
+6. Project Code : 07CKA01
+7. Operator(s) : Sachin,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/konar/j0807.cmd
+9. LTA File : /rawdata/8dec/07cka01_j0807_reobs.lta,
+	/rawdata1/8dec/07cka01_j0807_reobs.ltb
+10. LogFlag File : /btemp2/logflags/07CKA01.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 325 MHz ,RF2 : 325 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 255 MHz, ILO2 : 255 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 325 325 255 255 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :24
+
+20. Name of Non-Working Antennas (with reason for each) :
+C04:175-USB/LSB not fringing.
+C09:130-USB/LSB not giving fringe.
+C12:Not fringing.
+E05,S03,W06:Giving weak fringes at LSB. 
+
+21. Start and End Time of Obs.(IST): 21:13 - 07:24
+
+22. Comments (During Observations) :
+*************OBSERVATION*************
+ ********IF-ATTN  AT 325MHz.********
+---------------------------------
+21:13 :Started scan on the flux calibrator 3C147 for 18mins.
+21:44 :Recorded the data on the source J0807+740 upto 22:00Hrs.
+22:02 :Recorded data on 3C147 upto 30 records.
+22:14 :Started command file /btemp2/cmd/konar/j0807.cmd
+22:39 :E05 got reset.Also given servo time-out.
+00:35 :C04 brake applied.
+00:58 :C04 started working.
+02:21 :C02 got ABC reset
+02:25 :C02 got ABC reset.
+02:49 :W06 servo time out ( high temperature).
+03:16 :C04 brake applied.
+04:19 :C04 started working.
+06:37 :E04 ABC time out.
+06:43 :S03 brake applied. (ACOK absent).
+07:01 : Stopped the scan & command file.
+07:03 : Started scan on phase cal for 5min.
+07:08 : S03 started tracking.
+07:13 : Started scan on 3c286 for 10min.
+07:24 : Stopped the scan & observation session.
+
+
+
+
+
+
+
+
+
+
+

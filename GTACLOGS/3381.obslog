@@ -1,0 +1,54 @@
+		 GTAC Observation Log 
+
+1. Date : 13/09/2007
+2. Observation Sr. No. : 3381
+3. Observer :  Maarten Baes
+4. Observer's Email : maarten.baes@ugent.be
+5. Project Name : NGC1560
+6. Project Code : 12BFA01
+7. Operator(s) : Deepak,
+	Navanath,
+	Nilesh,
+	Sachin,
+	
+8. Command File : /btemp2/cmd/12bfa01/12bfa01.cmd
+9. LTA File : /rawdata/13sep/12bfa01_13sep2007.lta,
+	/rawdata1/13sep/12bfa01_13sep2007.ltb
+10. LogFlag File : /btemp2/logflags/12BFA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1419.66 MHz ,RF2 : 1419.66 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1350 MHz, ILO2 : 1350 MHz, IVLO1 : 69.66 MHz, IVLO2 : 69.66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+14. BB BW(KHz) & BB ALC : 2000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1419.66 1419.66 1350 1350 69.66 69.66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+C02 : Not traking.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 01:00 - 09:10
+
+23. Comments (During Observations) :
+----------------------------------------------
+******** ONLINE Machine : Bhaskar   **********
+******** Corr Mode : IndianPolar     *********
+----------------------------------------------
+00:45 : started setup for 12BFA01.
+01:01 : Started scan on flux cal 3c48 for 15min.
+01:17 : Command file started.
+
+08:58 : Command file stopped.
+09:00 : Started scan on 3C147 for 10mins.
+09:10 : Observation stopped.
+
+

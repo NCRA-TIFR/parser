@@ -1,0 +1,65 @@
+		 GTAC Observation Log 
+
+1. Date : 16/3/2014
+2. Observation Sr. No. : 7012
+3. Observer : George Heald,Peter Kamphuis,Gyula I.G. Jozsa,Paolo Serra,p a Duc,Gianfranco Gentile,Tom Oosterloo,Eva Juette,Maria Patterson,David A Thilker,Erwin deBlok
+4. Observer's Email : heald@astron.nl,peter.kamphuis@csiro.au,jozsa@astron.nl,serra@astron.nl,paduc@cea.fr,gianfranco.gentile@ugent.be,oosterloo@astron.nl,eva.juette@astro.rub.de,mtpatter@nmsu.edu,dthilker@pha.jhu.edu,blok@astron.nl
+5. Project Name : %latex%What is the dark \textsc{H\,i} companion to NGC 4274?
+6. Project Code : 25_061
+7. Operator(s) : Deepak,Pramod,Rupsingh,Sachin,
+8. Command File : /odisk/gtac/cmd/chengalu/hi1220.cmd
+9. LTA File : /gsbifrdata/16mar//25_061_16mar2014.lta,
+10. LogFlag File : /odisk/online1/logflags/25_061.FLAGS.2,
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1405 MHz ,RF2 : 1405 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1345 MHz, ILO2 : 1345 MHz , IVLO1 : 60 MHz, IVLO2 : 60 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : Realtime 
+15. GSB LTA : 8 
+16. GSB CTRL : ONLINE 
+17. GSB Fstop : ON 
+18. GAIN EQ : ON 
+19. Stokes : TotIntensity
+20. Beam - 1 : OFF
+21. Beam - 2 : OFF
+22. ACQ BW : 16.67 MHz
+23. Final BW : 4.17 MHz; Step # 2
+24. Maximum Channels : 512 
+25. Channel Numbers : 0:511:1 
+26. LO5 -1  : 140.00 
+27. LO5 -2  : 165.00 
+
+28. Frequency Parameters (TPA) : 1405 1405 1345 1345 60 60.
+29. Integration Time : 8.053056 Sec.
+30. No of Antennas Working(Fringing) at the begining :26
+
+31. Name of Non-Working Antennas (with reason for each) :
+E02 : No feed of L band
+W02 : No fringe.
+S01 : ABC time out.
+E03 : Low fringe.
+32. Note for Backup :
+
+33. Start and End Time of Obs.(IST): 19:30 - 07:00
+
+34. ONLINE Machine : Lenyadri
+
+35. No of Antennas Working(Fringing) at the end :27
+
+36. Comments (During Observations) :
+19:30 : Started set up.
+20:02 : Started scan on 3C147.
+20:15 : S01 initiate and did set up to it.It is taken for observation. 
+20:17 : Scintillation  appeared in the observation.
+20:17 : Stopped scan.
+20:18 : Stated command file.
+        '/odisk/gtac/cmd/chengalu/hi1220.cmd'
+06:35 : Stopped command file and started scan on phase cal.
+06:43 : Stopped scan on phase cal.
+06:45 : Started scan on 3C286.
+07:00 : Stopped scan on 3C286 and closed observation session.

@@ -1,0 +1,61 @@
+		 GTAC Observation Log 
+
+1. Date : 07/02/2005
+2. Observation Sr. No. : 1869
+3. Observer : Gopal krishna
+4. Observer's Email : krishna@ncra.tifr.res.in
+5. Project Name : hh123irs1
+6. Project Code : 07ALA01
+7. Operator(s) : Deepak,
+	Jayprakash,
+	Manisha J.,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/gk/0641.cmd
+9. LTA File : /rawdata/7feb/07ala01_hh124irs1_ngc2264irs1.lta,
+	/rawdata1/7feb/07ala01_hh124irs1_ngc2264irs1.ltb
+10. LogFlag File : /btemp2/logflags/07ALA01.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1280 MHz ,RF2 : 1280 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1210 MHz, ILO2 : 1210 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1280 1280 1210 1210 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+C12 : Painting. 
+
+
+
+21. Start and End Time of Obs.(IST): 17:38 - 03:16
+
+22. Comments (During Observations) :
+******ONLINE:BHASKAR********
+******AUTHIF @ 1280MHz******
+****************************
+17:38 : Started command file.
+        /btemp2/cmd/gk/0641.cmd
+18:38 : C12 released for  observation.
+21:00 : Scintillation noted on phase calibrator.
+21:45 : Command file stopped.
+21:55 : Started scan on 3C147 for 15mins.
+         Scintillation noted.
+22:20 : Restarted command file.
+00:28 : Stopped the command file.
+00:43 : Started scan on 3c286.
+00:54 : Stopped the scan.
+01:03 : Restarted the command file.
+02:52 : Stopped the command file.
+02:59 : Started scan on 3c286 for 15min.
+03:16 : Stopped the scan & observation session.
+

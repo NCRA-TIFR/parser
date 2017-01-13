@@ -1,0 +1,43 @@
+1. Date : 20/01/2002
+2. Observation Sr. No. : 442
+3. Observer & email : APR / pramesh@ncra.tifr.res.in
+4. Project Name & Code : coins / 01SKS03 
+5. Operator(s) : Jayprakash(3), Mangesh(1).
+6. Command File/Source  & Lta File : /temp2/data/cmd/pramesh/coins/coins_6_3.cmd
+								   : /rawdata/20jan/01sks03_coins_6_3.lta
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 : 610 MHz., 0 dB., OFF
+8. Ist LO (MHz) & IVth LO (MHz) : 715 MHz., 73.50 MHz. 
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status :10 + 10 dB., ON.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status :4 MHz., 6 dB., ON.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 2 / 2 
+12. Channels :0,127,1
+13. Frequency Parameters (TPA) : 641.5 641.5 715 715 73.5 73.5
+
+14. Integration Time (Sec.) : 16 sec (16*8m)
+15. No of Antennas Working(Fringing) : 29 
+16. Name of Non-Working Antennas (with reason for each) :
+
+	E06 	P.M. antenna down
+
+17. Starting and Ending time of Observations (IST) : 06:00-12:18
+18. Comments (During Observations) :
+
+	06:01	Started scan on 3c286 for 20min.
+    06:26   Started scan on 1609+266 for 10min.
+    06:54   Started scan on HB89B.
+    08:20   Stoppted the scan on HB89B.
+    08:25   Started the scan on 2011-067 for 20 minutes.
+    08:45   Stopped the scan on 2011-067. Started the command
+            file /temp2/data/cmd/pramesh/coins/coins_6_3.cmd
+    12:18   Closed the observation. (Last scan is on phase calibrator.)
+
+
+19. Data Backup files & Tape No. :
+
+

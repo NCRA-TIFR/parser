@@ -1,0 +1,46 @@
+		 GTAC Observation Log 
+
+1. Date : 05/09/2004
+2. Observation Sr. No. : 1651
+3. Observer : S. Roy
+4. Observer's Email : roy@ncra.tifr.res.in
+5. Project Name : POLAR RING
+6. Project Code : 06SRA01
+7. Operator(s) : Mangesh,
+	
+8. Command File : /btemp2/cmd/roy/roy.ugc5119.cmd
+9. LTA File : /rawdata/5sep/06sra01_ugc5119.lta,
+	/rawdata1/5sep/06sra01_ugc5119.ltb
+10. LogFlag File : /btemp2/logflags/06SRA01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1391.2 MHz ,RF2 : 1391.2 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1320 MHz, ILO2 : 1320 MHz, IVLO1 : 71.2 MHz, IVLO2 : 71.2 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 16 MHz,ON, IF-CH2 : 16+16 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 4000 KHz, 6 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 2
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1391.2 1391.2 1320 1320 71.2 71.2 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+S04 : No fringe
+
+21. Start and End Time of Obs.(IST): 06:10 - 11:20
+
+22. Comments (During Observations) :
+ONLINE running on bhaskar
+IF attn : Power equilised on source.
+------------------------------------------------
+
+06:10 : Started a scan on 3c147 for 5 minutes.
+06:15 : Started the command file
+            /btemp2/cmd/roy.ugc5116.cmd
+11:20 :stopped the observation.
+

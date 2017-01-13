@@ -1,0 +1,61 @@
+		 GTAC Observation Log 
+
+1. Date : 10/09/2009
+2. Observation Sr. No. : 4525
+3. Observer : S Roy
+4. Observer's Email : roy@ncra.tifr.res.in
+5. Project Name : F32
+6. Project Code : 16_081
+7. Operator(s) : Deepak,
+	Navanath,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/roy/willem.cmd
+9. LTA File : /rawdata/10sep/16_081_10sep2009.lta,
+	/rawdata1/10sep/16_081_10sep2009.ltb
+10. LogFlag File : /odisk/online1/logflags/16_081.FLAGS.19
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 590 MHz ,RF2 : 590 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 520 MHz, ILO2 : 520 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 590 590 520 520 70 70 
+
+18. Integration Time : 32 LTA ~ 4.227 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+E06 : For maintenance.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 20:00 - 00:00
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+*** GSB LTA FILE ** (pulsar@mithunc).
+
+/data/pulsar/gsbdata/10sep/16_081_10sep2009.lta
+------------------------------------------------
+20:00 : setup started.
+20:18 : command file started.
+23:14 : command file stopped.
+23:18 : Started scan on phase cal.
+23:30 : Started scan on flux cal for 30 min.
+00:00 : Observing session stopped.
+        gsb also stopped.
+
+
+
+
+

@@ -1,0 +1,68 @@
+		 GTAC Observation Log
+
+1. Date : 19/03/2015
+2. Observation Sr. No. : 7688
+3. Observer : Ramesh Bhat, Sarah Burke-Spolaor, Poonam Chandra
+4. Observer's Email : ramesh.bhat@curtin.edu.au, sarahbspolaor@gmail.com, poonam@ncra.tifr.res.in
+5. Project Name : GMRT Participation in Exploring the Progenitors of Fast Radio Bursts
+6. Project Code : 27_068
+7. Operator(s) : Navnath, Pramod, Rupsing
+8. Command File : /odisk/gtac/cmd
+9. LTA File : /gsbifrdata/19mar/27_068_19mar2015.lta
+10. LogFlag File : /odisk/online1/logflags/27_068.FLAGS.30
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 317 MHz ,RF2 : 317 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 16 MHz,OFF, IF-CH2 : 24+4 dB, 16 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 4
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 16.666666 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 138
+28. LO5 -2  : 167
+
+29. Frequency Parameters (TPA) : 317 317 255 255 62 62
+30. Integration Time : 2.0132 Sec
+31. No of Antennas Working(Fringing) at the beginning :27
+
+32. Name of Non-Working Antennas (with reason for each) :
+C13 : Taken for PC104 work
+E06 : RFI
+W04 : 175 pol low fringe.
+
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 19 Mar 2015 21:00:00 - 19 Mar 2015 23:00:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :27
+
+37. Comments (During Observations) :
+20:10 : Started set up.
+20:30 : Power equalized at 250 counts on 3C147.
+20:51 : Halt the GSB and restarted in High time resolution mode.
+20:57:37 : Started scan on 3C147 for ~ 5.87197 min.
+21:13:02 : Started scan on 1150-003 for ~ 4.8318 min.
+21:19:05 : Started scan on PTF003 for ~ 60.4981 min.
+22:20:47 : Started scan on 1150-003 for ~ 4.63047 min.
+22:26:47 : Started scan on PTF003 for ~ 26.0716 min.
+22:54:14 : Started scan on 1150-003 for ~ 5.13378 min.
+23:00:00 : Stopped scan and observation session is over.
+
+

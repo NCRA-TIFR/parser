@@ -1,0 +1,46 @@
+1. Date : 26/09/2002
+2. Observation Sr. No. : 0822
+3. Observer : Prof. G. Swarup
+4. Observer's Email : gswarup@ncra.tifr.res.in
+5. Project Name : 1839
+6. Project Code : 02RMA01
+7. Operator(s) : Katore S.N.,
+	Umbarje M.S.,
+	
+8. Command File : /temp2/data/cmd/gswarup/1839.cmd
+9. LTA File : /rawdata/26sep/02rma01_1839.lta
+
+ANTENNA SETTINGS :
+
+10. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1274 MHz ,RF2 : 1274 MHz, SA1 : 0 dB, SA2 : 0 dB
+11. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1205 MHz, ILO2 : 1205 MHz, IVLO1 : 69 MHz, IVLO2 : 69 MHz
+12. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 8+8 dB, 16 MHz,ON, IF-CH2 : 8+8 dB, 16 MHz,ON
+13. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+14. CLK_SEL/Samp_Freq : 0
+15. Channels : 0:127:1
+16. Frequency Parameters (TPA) : 1274 1274 1205 1205 69 69 
+
+17. Integration Time : 128 STA ~ 16.908 Sec.
+18. No of Antennas Working(Fringing) :25
+
+19. Name of Non-Working Antennas (with reason for each) :
+C00 - Maintainance (AKB).
+C02 - Initially feed was not in focus.
+C03 - Very bad band shape
+S01 - Bad bandspae
+S03 - No fringe.
+
+20. Start and End Time of Obs.(IST): 19:28 - 00:00
+
+21. Comments (During Observations) :
+19:28  Started the scan on 1911-201 for 8 min.
+19:38  Started the scan on 1839-48.
+20:15  Stopped th scan on 1839-48. Moved antennas
+       to 1911-201.
+20:18  Started the scan on 1911-201 for 8 min.
+20:45  Started the scan on 3c48.
+20:55  Stopped the observation.
+

@@ -1,0 +1,80 @@
+		 GTAC Observation Log
+
+1. Date : 23/11/2016
+2. Observation Sr. No. : 9015
+3. Observer : Neeraj Gupta, Sanjay Bhatnagar, Preshanth Jagannathan, Raghunathan Srianand, Patrick Petitjean, Pasquier Noterdaeme
+4. Observer's Email : ngupta@iucaa.in, sbhatnag@aoc.nrao.edu, pjaganna@nrao.edu, anand@iucaa.in, ppetitje@iap.fr, noterdaeme@iap.fr
+5. Project Name : Evolution of magnetic fields in galaxies traced by intervening absorbers
+6. Project Code : 31_073
+7. Operator(s) : Manisha, Nilesh
+8. Command File : /odisk/gtac/cmd
+9. LTA File : /gsbifrdata/23nov/31_073_610_23nov2016.lta
+10. LogFlag File : /odisk/online1/logflags/31_073.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 0 MHz; Step # 0
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 591 591 540 540 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :28
+
+32. Name of Non-Working Antennas (with reason for each) :
+E03 : : Feed Jam.
+S01 : : Feed Jam.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 23 Nov 2016 04:00:00 - 23 Nov 2016 12:45:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :28
+
+37. Comments (During Observations) :
+04:00 : Started settings.
+         GWB : 400 MHz, 8192 channels, Full Stokes. GABLO = 900 MHz
+04:24:22 : Started scan on 3C147 for ~ 17.4483 min.
+04:44:34 : Started scan on 3C138 for ~ 11.2743 min.04:58:09 : Started scan on 3C147 for ~ 17.4483 min.
+05:18:04 : Started scan on 3C138 for ~ 10.2005 min.
+05:30:31 : Started scan on 0713+438 for ~ 9.9321 min.
+05:47:17 : Started scan on 3C286 for ~ 9.9321 min.
+06:01:59 : Started scan on OQ208 for ~ 9.9321 min.
+06:12:43 : Started scan on 3C286 for ~ 9.9321 min.
+06:23:37 : Started scan on OQ208 for ~ 9.9321 min.
+06:38:27 : Started scan on 3C147 for ~ 10.2005 min.
+06:50:21 : Started scan on 3C138 for ~ 5.90557 min.
+06:58:54 : Started scan on 0713+438 for ~ 10.469 min.
+07:10:57 : Started scan on 3C147 for ~ 15.8377 min.
+07:28:32 : Started scan on 0713+438 for ~ 9.66367 min.
+07:43:33 : Started scan on 3C286 for ~ 9.9321 min.
+07:54:46 : Started scan on OQ208 for ~ 9.9321 min.
+08:10:36 : Started scan on 0713+438 for ~ 9.9321 min.
+08:25:50 : Started scan on 3C286 for ~ 10.2005 min.
+08:37:43 : Started scan on OQ208 for ~ 9.9321 min.
+08:53:00 : Started scan on 0713+438 for ~ 10.2005 min.
+08:54 : W04 antenna parked for painting.
+09:08:01 : Started scan on 3C286 for ~ 9.9321 min.
+09:19:25 : Started scan on OQ208 for ~ 9.66367 min.
+09:29 : Stopped scan and closed observation session.
+

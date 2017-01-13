@@ -1,0 +1,63 @@
+		 GTAC Observation Log 
+
+1. Date : 04/07/2005
+2. Observation Sr. No. : 2100
+3. Observer : Neeraj Gupta
+4. Observer's Email : neeraj@ncra.tifr.res.in
+5. Project Name : Compact Group
+6. Project Code : 08PFA01
+7. Operator(s) : Deepak,
+	Jitendra,
+	Manish G.,
+	Sachin,
+	
+8. Command File : /atemp2/cmd/neeraj/cg26.cmd
+9. LTA File : /rawdata/4jul/08pfa01_cg26.lta,
+	/rawdata1/4jul/08pfa01_cg26.ltb
+10. LogFlag File : /atemp2/logflags/08PFA01.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1393 MHz ,RF2 : 1393 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1325 MHz, ILO2 : 1325 MHz, IVLO1 : 68 MHz, IVLO2 : 68 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1393 1393 1325 1325 68 68 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+C01 : No fringe.
+W03 : No fringe at LSB-130.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 02:06 - 08:20
+
+23. Comments (During Observations) :
+----------------------------------------
+ONLINE : Aditya
+AUTHIF : 1390 MHz.
+----------------------------------------
+
+02:06 : Started scan on 3C48.
+02:30 : Stopped scan on 3C48.
+02:47 : Started command file.
+05:55 : Stopped command file.
+06:01 : Started scan on 3C48.
+06:01 : C02 fringe disappeared.
+06:16 : Stopped scan on 3C48.
+06:21 : Restarted command file.
+
+08:00 : Command file stopped.
+08:05 : Started scan on 3C48 for 15mins.
+08:20 : Scan stopped and project over.
+
+
+

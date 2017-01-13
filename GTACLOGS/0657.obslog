@@ -1,0 +1,47 @@
+1. Date : 26/06/2002
+2. Observation Sr. No. : 657
+3. Observer & email : Saikia , Anand , dsj@ncra.tifr.res.in,hota@ncra.tifr.res.in
+4. Project Name & Code : NGC6000, 02AHa01
+5. Operator(s) : Manisha(3)
+6. Command File/Source  & Lta File :  /temp2/data/cmd/hota/ngc6000.cmd
+								   :  /rawdata/26jun/02aha01_ngc6000.lta
+                                    
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 : 1280 MHz., 0 dB., OFF.
+8. Ist LO (MHz) & IVth LO (MHz) : 1210 MHz., 70.0000 MHz.
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : 4+4, 4+4, 32 MHz.,  ON.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status : 4 MHz, 6 dB., ON. 
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 0 / 0
+12. Channels : 0,127,1
+13. Frequency Parameters (TPA) : 1280 1280 1210 1210 70 70
+
+14. Integration Time (Sec.) : 16 sec (16*8m)
+15. No of Antennas Working(Fringing) : 
+
+16. Name of Non-Working Antennas (with reason for each) :
+
+    C14   MCM 0,2,3 T. O.
+	E02   Abc T.O.
+	E04   Abc T.O.
+    W04   No MSEB power.
+    W05   No MSEB power.
+    W06   No MSEB power.
+
+17. Starting and Ending time of Observations (IST) : 00:01  - 01:31
+
+18. Comments (During Observations) :
+	00:01 Started das scan on 3c286.
+	00:08 C14 started working.
+	00:15 Started cmd file.
+	01:31 Stopped cmd file, and das project.
+
+
+
+
+
+19. Data Backup files & Tape No. :

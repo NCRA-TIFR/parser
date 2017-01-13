@@ -1,0 +1,71 @@
+		 GTAC Observation Log
+
+1. Date : 25/10/2014
+2. Observation Sr. No. : 7379
+3. Observer : Bhaswati Bhattacharyya, Jayanta Roy, Yashwant Gupta, Dipankar Bhattacharya, Elizabeth Ferrara
+4. Observer's Email : bhaswati.bhattacharyya@manchester.ac.uk, jayanta.roy@manchester.ac.uk, ygupta@ncra.tifr.res.in, dipankar@iucaa.ernet.in, elizabeth.c.ferrara@nasa.gov
+5. Project Name : Search for spider MSPs within the error boxes of high-significance Fermi LAT unassociated sources
+6. Project Code : 27_039
+7. Operator(s) : Navnath, Pramod
+8. Command File : /odisk/gtac/cmd/jroy/27_039_25oct.2.cmd,/odisk/gtac/cmd/jroy/27_039_25oct.3.cmd,/odisk/gtac/cmd/jroy/27_039_25oct.4.cmd,
+9. LTA File : /gsbifrdata/24oct/27_039_24oct2014.lta.3,/gsbifrdata/24oct/27_039_24oct2014.lta.2,/gsbifrdata/24oct/27_039_24oct2014.lta.1,/gsbifrdata/24oct/27_039_24oct2014.lta,/gsbifrdata1/24oct/27_039_24oct2014_2s.lta.2,/gsbifrdata1/24oct/27_039_24oct2014_2s.lta.1,/gsbifrdata1/24oct/27_039_24oct2014_2s.lta
+10. LogFlag File : /odisk/online1/logflags/27_039.FLAGS.3,/odisk/online1/logflags/27_039.FLAGS.2,/odisk/online1/logflags/27_039.FLAGS.1,/odisk/online1/logflags/27_039.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : IA
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 591 591 540 540 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :25
+
+32. Name of Non-Working Antennas (with reason for each) :
+C01 : : MCM-5 Time out.
+E05 : : :No fringe.
+E06 : : BLDC work
+W03 : : feed jam
+S06 : : MCM-14 Time out.(feed in Manual mode)
+
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 24 Oct 2014 20:00:00 - 25 Oct 2014 01:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :25
+
+37. Comments (During Observations) :
+19:40 : Started set-up.
+19:49 : Started cmd file.
+
+          /odisk/gtac/cmd/jroy/27_039_25oct.2.cmd
+
+20:50 : Started setup.
+21:07 : Started cmd file. 
+           /odisk/gtac/cmd/jroy/27_039_25oct.3.cmd
+21:53 : Started cmd file.
+                /odisk/gtac/cmd/jroy/27_039_25oct.4.cmd
+01:00 : Stopped command file and observation session is over.
+
+

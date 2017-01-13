@@ -1,0 +1,81 @@
+		 GTAC Observation Log 
+
+1. Date : 17/5/2013
+2. Observation Sr. No. : 6501
+3. Observer : Takayuki J. Hayashi
+4. Observer's Email : t.hayashi@nao.ac.jp
+5. Project Name : Do quasars with accretion disk wind have the same central engines with normal quasars?
+6. Project Code : 24_006
+7. Operator(s) : Deepak,
+	Navanath,
+	Pramod,
+	
+8. Command File : /odisk/gtac/cmd/24_006/obs_20130517a.cmd,
+	/odisk/gtac/cmd/24_006/obs_20130517b.cmd,
+	/odisk/gtac/cmd/24_006/24_006_20130517c.cmd,
+	/odisk/gtac/cmd/24_006/24_006_20130517d.cmd,
+	/odisk/gtac/cmd/24_006/24_006_20130517e.cmd
+9. LTA File : /gsbifrdata/17may/24_006_17may2013.lta
+10. LogFlag File : /odisk/online1/logflags/24_006.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 306 306 255 255 51 51.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :26
+
+27. Name of Non-Working Antennas (with reason for each) :
+E03 : BLDC work
+E04 : Servo Work.
+E02 : ABC time out.
+C11 : Intermediate fringing.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 17:30 - 04:00
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+17:30 : Started set up for 325MHZ.
+17:41 : Started scan on 3C286.
+17:01 : Stopped scan on 3C286 and started following command file.
+      '/odisk/gtac/cmd/24_006/obs_20130517a.cmd'
+18:20 : E02 ABC time out vanished  and taken for observation.
+18:37 : Stopped command file.
+18:48 : Started scan on 3C286.
+18:58 : Stopped scan on 3C286.
+19:11 : Started following command file.
+        '/odisk/gtac/cmd/24_006/obs_20130517b.cmd'
+23:14 : Stopped command file.
+23:16 : Started command following comand file.
+        '/odisk/gtac/cmd/24_006/24_006_20130517c.cmd'
+
+23:55 : Started scan on 3C286 for 5mins.
+00:04 : Started command file
+         /odisk/gtac/cmd/24_006/24_006_20130517d.cmd
+02:47 : Started scan on 3C286 for 10mins
+03:01 : Started command file
+         /odisk/gtac/cmd/24_006/24_006_20130517e.cmd
+03:41 : Started scan on 3C468.1
+04:00 : Observation stopped.
+
+
+
+

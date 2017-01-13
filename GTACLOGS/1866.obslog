@@ -1,0 +1,50 @@
+		 GTAC Observation Log 
+
+1. Date : 06/02/2005
+2. Observation Sr. No. : 1866
+3. Observer : Prof. Gopal Krishna
+4. Observer's Email : stalin@iucaa.ernet.in,krishna@ncra.tifr.res.in
+5. Project Name : variability
+6. Project Code : 07GKA01
+7. Operator(s) : Deepak,
+	Jayprakash,
+	Manisha J.,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/gk/1101.cmd
+9. LTA File : /rawdata/6feb/07gka01_1101.lta,
+	/rawdata1/6feb/07gka01_1101.ltb
+10. LogFlag File : /btemp2/logflags/07GKA01.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1280 MHz ,RF2 : 1280 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1210 MHz, ILO2 : 1210 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1280 1280 1210 1210 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+C00 : LSB-130 no fringe.
+
+21. Start and End Time of Obs.(IST): 20:30 - 05:34
+
+22. Comments (During Observations) :
+******ONLINE:BHASKAR********
+******AUTHIF @ 1280MHz******
+****************************
+20:43 : Started scan on 3C147 for 15mins.
+21:00 : Started command file.
+        /btemp2/cmd/gk/1101.cmd.
+05:15 : Stopped the command file.
+05:19 : Started scan on 3c286 fore 15min.
+05:34 : Stopped the scan & observation session.
+

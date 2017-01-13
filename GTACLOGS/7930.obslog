@@ -1,0 +1,62 @@
+		 GTAC Observation Log
+
+1. Date : 20/07/2015
+2. Observation Sr. No. : 7930
+3. Observer : Mousumi Das, Dwarakanath K.S., Shweta Srivastava
+4. Observer's Email : chandaniket@gmail.com, dwaraka@rri.res.in, srivashweta@gmail.com
+5. Project Name : Investigating the Core-jet structure in Ultraluminous Infrared Galaxies 
+6. Project Code : 28_059
+7. Operator(s) : Deepak, Pramod, Rupsing
+8. Command File : /odisk/gtac/cmd/28_059/obs19jul.cmd
+9. LTA File : /gsbifrdata/19jul/28_059_19jul2015.lta
+10. LogFlag File : /odisk/online1/logflags/28_059.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1281 MHz ,RF2 : 1281 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1230 MHz, ILO2 : 1230MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 1281 1281 1230 1230 51 51
+30. Integration Time : 8.053 Sec
+31. No of Antennas Working(Fringing) at the beginning :28
+
+32. Name of Non-Working Antennas (with reason for each) :
+C01 : Low fringe.
+C13 : BLDC.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 19 Jul 2015 19:00:00 - 20 Jul 2015 01:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :28
+
+37. Comments (During Observations) :
+19:08 : Started scan on 3C286.
+19:23 : Stopped scan.
+19:28 : Started command file.
+     '/odisk/gtac/cmd/28_059/obs19jul.cmd'
+01:00 : Stopped command file.
+01:07 : Started scan on 3C48.
+01:22 : Stopped scan and observation session is over.
+

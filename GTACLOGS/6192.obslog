@@ -1,0 +1,65 @@
+		 GTAC Observation Log 
+
+1. Date : 30/10/2012
+2. Observation Sr. No. : 6192
+3. Observer : Aritra Basu
+4. Observer's Email : aritra@ncra.tifr.res.in,taba@mpia.de
+5. Project Name :  Low Frequency Properties of the ISM in M33
+6. Project Code : 23_042
+7. Operator(s) : Pramod,
+	Rupsingh,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/aritra/23_042_30oct.cmd
+9. LTA File : /gsbifrdata/30oct/23_042_30oct2012.lta
+10. LogFlag File : /odisk/online1/logflags/23_042.FLAGS.7
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : OFF 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 306 306 255 255 51 51.
+25. Integration Time : 4.027 Sec.
+26. No of Antennas Working(Fringing) :26
+
+27. Name of Non-Working Antennas (with reason for each) :
+  C00 : BLDC work,
+  W03 : ABC time out.
+  W05 : Electrical problem.
+  W06 : Electrical problem.
+* E02 : Intermittent fringe.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 06:30 - 05:00
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+18:30 : Started setting for 325MHz.
+      : Power equalised @ 300 counts on 3C48.
+      : Restarted GSB with gain on.
+18:54 : Started scan on 3C48 for 5 min.
+19:04 : Started command file '/odisk/gtac/cmd/aritra/23_042_30oct.cmd'
+19:45 : Scintillation started.
+20:10 : Scintillation stopped.
+04:42 : Started scan on flux cal.
+05:00 : Observation session over.
+---------------------------------------------------------------
+
+
+

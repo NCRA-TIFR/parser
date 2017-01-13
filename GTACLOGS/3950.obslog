@@ -1,0 +1,66 @@
+		 GTAC Observation Log 
+
+1. Date : 24/08/2008
+2. Observation Sr. No. : 3950
+3. Observer : Jayanta Roy
+4. Observer's Email : jroy@ncra.tifr.res.in
+5. Project Name : Pulsar Observation.
+6. Project Code : 14JRB01
+7. Operator(s) : Deepak,
+	Rupsingh,
+	Sanjay,
+	
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /rawdata/24aug/14jrb01_24aug08.lta,
+	/rawdata1/24aug/14jrb01_24aug08.ltb,
+	/rawdata/24aug/14jrb01_24aug08.lta.1
+10. LogFlag File : /btemp2/logflags/14JRB01.FLAGS.7
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+5 dB, 32 MHz,OFF, IF-CH2 : 20+5 dB, 32 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C12 : Not phasing
+W04 : No fringe.
+E05 : Maintenance.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 17:00 - 23:00
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : Indian Polar   *********
+--------------------------------------------
+16:30 : Started setting for pulsar observation.
+16:40 : Started power eq.and base band power eq.
+16:53 : Started phasing for pulsar observation.
+17:15 : Phasing over.
+17:16 : Started pulsar observation.
+20:29 : Stopped scan.
+20:30 : Changed setting 235MHz.
+20:40 : Started power eq.
+20:53 : Started phasing on 1830-360.
+21:14 : Started scan for pulsar observation.
+22:49 : Stopped scan and observation session.
+
+ 
+
+
+
+
+

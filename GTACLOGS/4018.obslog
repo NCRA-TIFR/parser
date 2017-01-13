@@ -1,0 +1,71 @@
+		 GTAC Observation Log 
+
+1. Date : 03/11/2008
+2. Observation Sr. No. : 4018
+3. Observer : RJ Van Weeren
+4. Observer's Email : rvweeren@strw.leidenuniv.nl
+5. Project Name : Diffuse steep spectrum sources
+6. Project Code : 15HRA01
+7. Operator(s) : Deepak,
+	Rupsingh,
+	Sachin,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/15hra01/obs1.cmd,
+	/odisk/gtac/cmd/15hra01/obs2.cmd
+9. LTA File : /rawdata/3nov/15hra01_3nov2008.lta,
+	/rawdata1/3nov/15hra01_3nov2008.ltb
+10. LogFlag File : /btemp2/logflags/15HRA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 8+4 dB, 32 MHz,ON, IF-CH2 : 8+4 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:128:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C00 : abc timeout.
+C05 : Servo problem.
+C08 : No fringe.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 18:40 - 23:53
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar ********* 
+******** Corr Mode : IndianPolarMode  *********
+-------------------------------------------
+18:40 : Started setting.
+18:48 : Started scan on 2139+143.
+18:54 : Stopped scan.
+18:59 : Started scan on 3C48.
+19:10 : Stopped scan.
+19:13 : started scan on S26.
+20:01 : C05 back in observation.
+20:04 : Stopped scan.
+20:05 : Started scan on 2139+143.
+20:11 : Stopped scan.
+20:14 : '/odisk/gtac/cmd/15hra01/obs1.cmd' command file started.
+21:14 : C00 back in observation. 
+21:20 : Stopped command file.
+21:23 : '/odisk/gtac/cmd/15hra01/obs2.cmd' command file started.
+22:30 : Stopped command file.
+22:34 : '/odisk/gtac/cmd/15hra01/obs1.cmd' command file started.
+23:12 : Extended scan on source by stopping command file.
+23:30 : Stopped scan on source.
+23:32 : Started scan on phase cal for 5 mins.
+23:43 : Started scan on 3C48 for 10 mins.
+23:53 : Stopped scan on 3C48 and stopped project.
+
+

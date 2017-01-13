@@ -1,0 +1,61 @@
+		 GTAC Observation Log 
+
+1. Date : 30/07/2004
+2. Observation Sr. No. : 1578
+3. Observer : Tasse
+4. Observer's Email : visitor4@gmrt.ncra.tifr.res.in,pnb@roe.ac.uk,tasse@strw.leidenuniv.nl
+5. Project Name : XMM
+6. Project Code : 06HRA01
+7. Operator(s) : Mangesh,
+	Sachin,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/bt/bt610.cmd
+9. LTA File : /rawdata/30jul/06hra01_610_30jul.lta,
+	/rawdata1/30jul/06hra01_610_30jul.ltb
+10. LogFlag File : /btemp2/logflags/06HRA01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 32 MHz,ON, IF-CH2 : 12+12 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 64 STA ~ 8.454 Sec.
+19. No of Antennas Working(Fringing) :25
+
+20. Name of Non-Working Antennas (with reason for each) :
+C13 : No fringe
+W01 : servo time off.
+C01 : Servo time outs.
+S06 : Power jumping.
+C11-USB-130 : No fringe.
+
+
+21. Start and End Time of Obs.(IST): 06:35 - 11:17
+
+22. Comments (During Observations) :
+*** ONLINE BHASKAR ***
+*** IF attn : AuthIF at 610***
+--------------------------------
+
+06:35 : Started a scan on 3c48 for 15 minutes.
+06:54 : Started the command file
+            /btemp2/cmd/bt/bt610.cmd
+
+08:35 : C02 got ABC reset,
+08:35 : W05 getting parked, high wind.
+09:50 : C01 started working.
+11:08 : Stopped cmd file
+11:11 : Started record on 3c147.
+11:17 : Stoped 3c147, closed observation.
+
+
+

@@ -1,0 +1,56 @@
+		 GTAC Observation Log 
+
+1. Date : 10/12/2006
+2. Observation Sr. No. : 2931
+3. Observer : Prof. S. Ananthkrishnan
+4. Observer's Email : anant@ncra.tifr.res.in
+5. Project Name : Sun Observation
+6. Project Code : 06DT043
+7. Operator(s) : Jayprakash,
+	Sachin,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/psubrama/10dec06_235.cmd
+9. LTA File : /rawdata/10dec/06dt043_10dec06.lta.1
+10. LogFlag File : /btemp2/logflags/06DT043.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 244 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 310 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 6+0 dB, 32 MHz,ON, IF-CH2 : 6+0 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 244 244 310 310 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+S03: not tracking.
+C10: 130 pole bad.
+S01: LSB bad data.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 15:00 - 16:40
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+---------------------------------------------
+15:11 command file started.
+
+16:40 observation session over.
+

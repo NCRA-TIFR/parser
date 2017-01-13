@@ -1,0 +1,45 @@
+		 GTAC Observation Log 
+
+1. Date : 07/01/2003
+2. Observation Sr. No. : 0935
+3. Observer : DAG
+4. Observer's Email : dag@mrao.cam.ac.uk,visitor3@gmrt.ncra.tifr.res.in
+5. Project Name : H1 ABSORPTION TO NVSS SOURCES (DAY II).
+6. Project Code : 03DAG01
+7. Operator(s) : Mangesh,
+	Manisha J.,
+	Sanjay,
+	Santaji,
+	
+8. Command File : /temp2/data/cmd/dag/dag7f.cmd
+9. LTA File : /rawdata/7jan/03dag01_7jan_F.lta
+10. LogFlag File : /temp2/data/logflags/03DAG01.FLAGS.6
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1402.96 MHz ,RF2 : 1402.96 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1475 MHz, ILO2 : 1475 MHz, IVLO1 : 72.04 MHz, IVLO2 : 72.04 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 0+0 dB, 16 MHz,ON, IF-CH2 : 0+0 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 4000 KHz, 6 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 2
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1402.96 1402.96 1475 1475 72.04 72.04 
+
+18. Integration Time : 256 STA ~ 33.817 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+S03 : Servo Problem.
+
+21. Start and End Time of Obs.(IST): 14:16 - 00:00
+
+22. Comments (During Observations) :
+14:16	started scan on 3C48 for ~ 20min.
+14:36   Stopped record on 3C48.
+14:43   Started cmd file /temp2/data/cmd/dag/dag7f.cmd
+15:58   scan # 5 and 6 are bad.
+16:05   stopped the observation session.
+

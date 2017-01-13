@@ -1,0 +1,53 @@
+		 GTAC Observation Log 
+
+1. Date : 09/04/2006
+2. Observation Sr. No. : 2597
+3. Observer : S. Pal
+4. Observer's Email : spal@ncra.tifr.res.in
+5. Project Name : GCRT
+6. Project Code : 09SHA01
+7. Operator(s) : Jayprakash,
+	Manisha J.,
+	Sanjay,
+	
+8. Command File : /atemp2/cmd/spal/26feb06.cmd
+9. LTA File : /rawdata/9apr/09sha01_9apr06.lta,
+	/rawdata1/9apr/09sha01_9apr06.ltb
+10. LogFlag File : /atemp2/logflags/09SHA01.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+USB : -
+S02-175 :- No fringe.
+C10 : Servo prob.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 03:36 - 09:13
+
+23. Comments (During Observations) :
+*** ONLINE Machine : aditya   ****
+*** IF ATTN : NAUTH @610-235 MHz ***
+*** CORR MODE : INDIAN POLAR MODE *****
+----------------------------------
+
+03:36 : Started the command file.
+09:13 : Stopped cmd file, flux cal not available,
+      : closed observation.
+      : Data after 09:13 is bad in scan#10.
+

@@ -1,0 +1,61 @@
+		 GTAC Observation Log
+
+1. Date : 07/11/2016
+2. Observation Sr. No. : 8973
+3. Observer : Soumyajit Mandal, Huib T Intema, Francesco deGasperin, Shimwell, Huub Rottgering, Preshanth Jagannathan, Mooley, Dale A Frail
+4. Observer's Email : mandal@strw.leidenuniv.nl, intema@strw.leidenuniv.nl, astro@voo.it, shimwell@strw.leidenuniv.nl, rottgering@strw.leidenuniv.nl, preshanth@ras.ucalgary.ca, kunal.mooley@physics.ox.ac.uk, dfrail@nrao.edu
+5. Project Name : A STUDY OF ULTRA STEEP SPECTRUM SOURCES IN GALAXY CLUSTERS FROM TGSS ADR
+6. Project Code : 31_018
+7. Operator(s) : Deepak
+8. Command File : /odisk/gtac/cmd/07nov16/obs_07nov.cmd
+9. LTA File : /gsbifrdata/07nov/31_018_07nov16.lta
+10. LogFlag File : /odisk/online1/logflags/31_018.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 0 MHz; Step # 0
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 306 306 255 255 51 51
+30. Integration Time : 8.053 Sec
+31. No of Antennas Working(Fringing) at the beginning :29
+
+32. Name of Non-Working Antennas (with reason for each) :
+E02 : Low fringe
+C06 : Frequently applying elevation brake.
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 07 Nov 2016 18:00:00 - 07 Nov 2016 23:05:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :29
+
+37. Comments (During Observations) :
+17:45 : Started scan on 3C48 for 12mins.
+18:00 : Started command file.
+18:15 : C08 got ABC reset.
+19:00 : C08 started working.
+22:50 : Command file stopped.
+22:51 : Started scan on 3C48 for 12mins.
+23:05 : Observation stopped.
+

@@ -1,0 +1,87 @@
+		 GTAC Observation Log 
+
+1. Date : 03/02/2005
+2. Observation Sr. No. : 1859
+3. Observer : Alak Ray, Poonam Chandra
+4. Observer's Email : akr@tifr.res.in,poonam@tifr.res.in
+5. Project Name : SN2004DJ
+6. Project Code : 07PCA01
+7. Operator(s) : Manisha J.,
+	
+8. Command File : /btemp2/cmd/poonam/sn2004dj.cmd
+9. LTA File : /rawdata/3feb/07pca01_sn2004dj.lta,
+	/rawdata1/3feb/07pca01_sn2004dj.ltb,
+	/rawdata/3feb/07pca01_sn2004dj.lta.1,
+	/rawdata1/3feb/07pca01_sn2004dj.ltb.1,
+	/rawdata/4feb/07pca01_sn2004dj_4feb.lta,
+	/rawdata1/4feb/07pca01_sn2004dj_4feb.ltb,
+	/rawdata/4feb/07pca01_sn1993j.lta,
+	/rawdata1/4feb/07pca01_sn1993j.ltb,
+	/rawdata/4feb/07pca01_sgr1806.lta,
+	/rawdata1/4feb/07pca01_sgr1806.ltb
+10. LogFlag File : /btemp2/logflags/07PCA01.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1390 MHz ,RF2 : 1390 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1320 MHz, ILO2 : 1320 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 6+6 dB, 32 MHz,ON, IF-CH2 : 6+6 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1390 1390 1320 1320 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :25
+
+20. Name of Non-Working Antennas (with reason for each) :
+C00 : No fringe.
+C08 : Mech Prob.
+W03 : All MCM's Time Out.
+W06 : ABC T.O.
+C14-130 : Phase not stable!!
+
+
+
+21. Start and End Time of Obs.(IST): 19:45 - 06:05
+
+22. Comments (During Observations) :
+ONLINE : BHASKAR
+AUTHIF AT 1390 MHz 
+**************************
+19:45 : Flux cal scan started on 3c48 ~ 10mins.
+20:00 : started command file.
+22:00 : E06 removed.
+	ONLINE Problem. stopped das.
+22:20 : Restarted ONLINE & observation.
+	Ltafiles : /rawdata/3feb/07pca01_sn2004dj.lta.1
+	/rawdata1/3feb/07pca01_sn2004dj.ltb.1
+23:52 : Stopped the scan & command file.
+23:54 : Started scan on phase cal for 6min.
+24:00 : Stopped the scan.
+00:05 : Started scan on 3c286 for 5min.
+00:10 ; Stopped the scan & observation.
+****
+Changed the setting to 1060 MHz.
+Settings : RF = 1060MHz , LO = 990Mhz,
+           IFBW = 32 MHz , BB = 16Mhz , BBLO = 70.00.
+*****
+00:23 : Started scan on 3c286 for 7min.
+00:36 : Started the command file.
+03:34 : Stopped the scan & command file.
+03:38 : Started scan on 3c286 for 10min.
+03:48 : Stopped the scan & obs.
+-----
+03:52 : Started the next command file.
+        /btemp2/cmd/poonam/sn1993j.cmd.
+04:56 : Stopped the scan & obs.
+--------
+05:06 : Started next obs.
+         Started scan on 3c286 for 5min6.
+05:33 : Started the command file 
+        /btemp2/cmd/poonam/sgr1806.cmd.
+-------
+

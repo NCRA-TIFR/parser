@@ -1,0 +1,59 @@
+		 GTAC Observation Log
+
+1. Date : 19/08/2016
+2. Observation Sr. No. : 8831
+3. Observer : Christene Lynch, Tara Murphy, Poonam Chandra, David Kaplan
+4. Observer's Email : clynch@physics.usyd.edu.au, tara@physics.usyd.edu.au, poonam@ncra.tifr.res.in, kaplan@uwm.edu
+5. Project Name : Characterising low frequency radio emission from ultracool dwarfs
+6. Project Code : 30_070
+7. Operator(s) : Deepak, Rupsing
+8. Command File : /odisk/gtac/cmd/30_070/19aug16/obs_19.cmd
+9. LTA File : /gsbifrdata/19aug/30_070_19aug2016.lta, /gwbifrdata/19aug/30_070_19aug16_gwb.lta
+10. LogFlag File : /odisk/online1/logflags/30_070.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Full_Stokes
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 0 MHz; Step # 0
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 591 591 540 540 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :29
+
+32. Name of Non-Working Antennas (with reason for each) :
+C13 : RFI @130 pole.
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 19 Aug 2016 17:45:00 - 19 Aug 2016 22:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :29
+
+37. Comments (During Observations) :
+17:50 : Started scan on 3C286.
+18:05 : Stopped scan .
+18:07 : Started command file.
+21:42 : Stopped command file.
+21:47 : Started scan on 3C468.1.
+22:00 : Stopped scan and observation session over.
+

@@ -1,0 +1,52 @@
+		 GTAC Observation Log 
+
+1. Date : 20/11/2005
+2. Observation Sr. No. : 2297
+3. Observer : H S Sawant, F Madsen, P Subramanian,S Ananthkrishnan
+4. Observer's Email : sawant@das.inpe.br,fmadsen@ncra.tifr.res.in,psubrama@iucaa.ernet.in,ananth@ncra.tifr.res.in
+5. Project Name : SUN 
+6. Project Code : 09HSS01
+7. Operator(s) : Deepak,
+	Manisha J.,
+	Sanjay,
+	
+8. Command File : /atemp2/cmd/sawant/sun1280.cmd
+9. LTA File : /rawdata/20nov/09hss01_sun_20nov_16s.lta
+10. LogFlag File : /atemp2/logflags/09HSS01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1280 MHz ,RF2 : 1280 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1210 MHz, ILO2 : 1210 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 32 MHz,OFF, IF-CH2 : 12+12 dB, 32 MHz,OFF
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, OFF
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 20:40:1
+17. Frequency Parameters (TPA) : 1280 1280 1210 1210 70 70 
+
+18. Integration Time : 4 STA ~ 0.528 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 10:00 - 17:00
+
+23. Comments (During Observations) :
+*********************************************
+******* ONLINE RUNNING ON ADITYA  ***********
+******* IF & BB Power Eq. **********
+******* CORR RUNNNING IN INDIAN POLAR Mode **
+*********************************************
+10:04 : started scan on 3c286 ~10mins.
+10:35 : command file started.
+11:00 : scan # 2 BAD.
+16:50 : Started scan on 3C48 for 10mins.
+17:00 : OBservation stopped.
+

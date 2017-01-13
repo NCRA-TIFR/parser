@@ -1,0 +1,117 @@
+		 GTAC Observation Log 
+
+1. Date : 25/09/2003
+2. Observation Sr. No. : 1155
+3. Observer : Steve Rawlings, Dharam Vir Lal
+4. Observer's Email : s.rawlings1@physics.ox.ac.uk,dharam@ncra.tifr.res.in
+5. Project Name : RALPHS
+6. Project Code : 04SRB02
+7. Operator(s) : Deepak,
+	Mangesh,
+	Manish G.,
+	Manisha J.,
+	Jitendra,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/rawlings/batchb.cmd,
+	/btemp2/cmd/rawlings/batcha3.cmd,
+	/btemp2/cmd/rawlings/batcha.cmd,
+	/btemp2/cmd/rawlings/batchc.cmd,
+	/btemp2/cmd/rawlings/batchd.cmd
+9. LTA File : /rawdata/25sep/04srb02_ralphs_1.lta,
+	/rawdata1/25sep/04srb02_ralphs_1.ltb,
+	/rawdata/25sep/04srb02_ralphs_2.lta,
+	/rawdata1/25sep/04srb02_ralphs_2.ltb,
+	/rawdata/25sep/04srb02_ralphs_3.lta,
+	/rawdata1/25sep/04srb02_ralphs_3.ltb
+10. LogFlag File : /btemp2/logflags/04SRB02.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 325 MHz ,RF2 : 325 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 255 MHz, ILO2 : 255 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 325 325 255 255 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+--
+
+21. Start and End Time of Obs.(IST): 23:44 - 00:02
+
+22. Comments (During Observations) :
+******** ONLINE : BHASKAR *************
+IFATTN=AUTHIF
+===================
+
+23:45 : Started record on 3c48.
+23:57 : Stopped record on 3c48.
+00:22 : Started cmd file batchb.cmd
+01:07 : command file finished,
+01:13 : Started record on 3c48.
+01:18 : Stopped record on 3c48.
+01:32 : Started cmd file batcha3.cmd
+02:15 : cmd file finished.
+02:19 : Started cmd file batcha.cmd
+03:33 : S01 bad in scan# 11(Flat Bshape)
+        corr_config done, restarted cmd file.
+04:25 : C05 Flat Bshape, ran corr_config.
+        scan#16 C05 bad.
+07:10 : Ran corrconfig. Recovered C05,C06 recovered.
+07:38 : C05-LSB flat band-shape.
+        Ran corrconfig. Recovered C05.
+08:02 : Command file over. Stopped the ltafiles
+08:04 : Started the command file
+            /temp2/data/cmd/rawlings/batchc.cmd
+        Record files are
+            /rawdata/25sep/04srb02_ralphs_2.lta 
+            /rawdata1/25sep/04srb02_ralphs_2.ltb
+10:40 : C05-USB flat band-shape.
+10:45 : Ran corr_config. C05-USB recoverd.
+        Command file over.
+10:48 : Started the command file
+            /temp2/data/cmd/rawlings/batche.cmd
+12:04 : C02 was taken for maintainance.
+14:25 : C05-USB flat band-shape.
+15:07	Started scan on 3C286.
+	started ltafiles
+	/rawdata/26sep/04srb02_ralphs_3.lta
+	/rawdata1/26sep/04srb02_ralphs_3.ltb
+15:13	stopped das on 3C286, closed previous ltafiles.
+15:19	started command file /temp2/data/cmd/rawlings/batchd.cmd
+15:50	MSEB Power Failed for all antennas.
+	stopped das and command file.	
+	scan # 4 BAD.
+16:47	Started scan on 3C295 for 5mins.
+	Note : Only CSQ antennas are avaliable.
+	C10 : No fringe, C14 : Frequent Az. Brake.
+16:53	Started scan on 3C294 ~ 40mins.
+17:23	C05-LSB flat bandshape.
+	stopped das, running corr_config.
+17:28	restarted scan on 3C294.
+19:35   Stopped the command file. C05 flat band shape.
+        Ran corr_config.
+19:38   Started scan on 3C295.
+19:43   Stopped the scan. Antennas moved to 3C457.
+19:56   Started command file  /temp2/data/cmd/rawlings/batcha3.cmd
+20:30   Stopped the command file.
+20:35   Started command file  /temp2/data/cmd/rawlings/batcha.cmd
+21:10   C05-USB flat band shape.
+21:15   Stopped the command file. Ran corr_config.
+21:18   Re-started the command file.
+21:32   C06-USB flat band shape.
+21:40   C05-LSB flat band shape.
+00:02   Stopped cmd file, stopped observation,
+        Electrical Power shutdown to be taken(Ref. GCC).
+        
+        Observation stopped.
+
+

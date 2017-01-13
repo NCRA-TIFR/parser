@@ -1,0 +1,46 @@
+1. Date : 22/05/2002
+2. Observation Sr. No. : 587
+3. Observer & email : Prof. S. K. Ghosh., swarna@tifr.res.in
+4. Project Name & Code : I22308/01SKG01
+5. Operator(s) : Sanjay(3)
+6. Command File/Source  & Lta File : /temp2/data/cmd/swarna/i22308.cmd
+                                   : /rawdata/22may/01skg01_22may2k2_i22308.lta 
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 : 610 MHz, 0 dB, OFF
+8. Ist LO (MHz) & IVth LO (MHz) : 540 MHz, 70 MHz.
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : 10+12 dB, 32 MHz, ON
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status : 16 MHz, 0dB
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 0/0
+12. Channels : 0,127,1
+13. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+14. Integration Time (Sec.) : 16 ( 16*8m)
+15. No of Antennas Working(Fringing) : 27
+16. Name of Non-Working Antennas (with reason for each) :
+    C03 - phase unstable
+    C14 - no fringe.
+    C08 - cherry picker work.
+
+
+17. Starting and Ending time of Observations (IST) : 04:09
+18. Comments (During Observations) :
+
+	04:09	Started command file.
+	05:03	Stopped command file.
+	05:07	Started das scan on 3c48.
+	05:22	Stopped das scan on 3c48
+	05:25	Restarted command file.
+	06:52	C04 flat bandshape, stopped scan, reran corr_config,
+			Scan # 8 BAD.
+	06:54	Restarted command file.	
+
+
+19. Data Backup files & Tape No. :
+
+
+

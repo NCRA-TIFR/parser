@@ -1,0 +1,85 @@
+		 GTAC Observation Log
+
+1. Date : 14/02/2016
+2. Observation Sr. No. : 8411
+3. Observer : Poonam Chandra
+4. Observer's Email : poonam@ncra.tifr.res.in, nayan89deva@gmail.com
+5. Project Name : GMRT monitoring of very bright supernova in Centaurus A
+6. Project Code : DDTB209
+7. Operator(s) : Rupsing
+8. Command File : /odisk/gtac/cmd/poonam/ddtb209/obs.cmd
+9. LTA File : /gsbifrdata1/14feb/ddtb209_610_14feb2016.lta, /gsbifrdata1/14feb/ddtb209_1420_14feb2016.lta
+10. LogFlag File : /odisk/online1/logflags/DDTB209.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1409 MHz ,RF2 : 1409 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1460 MHz, ILO2 : 1460MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 1409 1409 1460 1460 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :25
+
+32. Name of Non-Working Antennas (with reason for each) :
+C08 : BLDC Installation.
+E04 : Feed cage painting.
+C10 : Very low fringe @175 pol.
+W02 : No frnge.
+E06 : Low fringe.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 14 Feb 2016 01:00:00 - 14 Feb 2016 05:00:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :25
+
+37. Comments (During Observations) :
+# sub 2 # 610MHz # GSB # C01 C02 C03 C05 C08 C09 C10 C13 C14 W03 W04 E02 E04 S03
+--------------------------------------------------------------------------
+# sub 4 # 1420MHZ # GWB+GSB # C00 C04 C06 C11 C12 W01 W02 W05 W06 E03 E05 E06 S01 S02 S04 S06
+---------------------------------------------------------------------------
+01:10 : Feed rotation @610 (SUBA2).
+01:11 : Started setup for 610MHz.
+01:20 : Setup done @610MHZ.
+01:21 : Started setup for 1420MHz.
+01:30 : Setupe done @1420MHz.
+---------------------------------------------------------------------------
+01:35 : Started GSB for both suba.
+01:40 : Started GWB.
+01:45 : Power eq on 3C286 (only GWB).
+--------------------------------------------------------------------------
+01:50 : No fringe @1420MHz in GSB due suba4 not working.
+--------------------------------------------------------------------------
+01:55 : Restarted GSB+GWB
+--------------------------------------------------------------------------
+01:59 : Started scan on 3C286.
+02:14 : Stopped scan.
+02:17 : Started command file.
+-------------------------------------------------------------------------
+02:19 : Scan no:-1 is bad due to command file fail.(suba4)
+-------------------------------------------------------------------------
+02:22 : Restarted command file.
+04:41 : Stopped command file.
+04:47 : Started scan on 3C286.
+05:00 : Stopped scan and observation session over.

@@ -1,0 +1,70 @@
+		 GTAC Observation Log
+
+1. Date : 03/12/2016
+2. Observation Sr. No. : 9036
+3. Observer : Katinka Gereb, Barbara Catinella, Luca Cortese, Kenji Bekki, Steven Janowiecki, Virginia Kilborn
+4. Observer's Email : kgereb@swin.edu.au, barbara.catinella@uwa.edu.au, luca.cortese@uwa.edu.au, kenji.bekki@uwa.edu.au, steven.janowiecki@icrar.org, vkilborn@swin.edu.au
+5. Project Name : Looking for direct evidence of accretion in HI-excess, passive galaxies
+6. Project Code : 31_101
+7. Operator(s) : Deepak, Nilesh, Sachin, Shilpa
+8. Command File : /odisk/gtac/cmd/31_101/obs.cmd
+9. LTA File : /gsbifrdata/03dec/31_101_03dec2016.lta
+10. LogFlag File : /odisk/online1/logflags/31_101.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1375.6722 MHz ,RF2 : 1375.6722 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1315 MHz, ILO2 : 1315MHz , IVLO1 : 60.6722 MHz, IVLO2 : 60.6722 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 16 MHz,ON, IF-CH2 : 4+14 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_lenyadri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 0 MHz; Step # 0
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 139.3279
+28. LO5 -2  : 165.6721
+
+29. Frequency Parameters (TPA) : 1375.6722 1375.6722 1315 1315 60.6722 60.6722
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :28
+
+32. Name of Non-Working Antennas (with reason for each) :
+W02 : : No Fringe.
+W03 : : Maintenance.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 03 Dec 2016 07:00:00 - 03 Dec 2016 17:10:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :28
+
+37. Comments (During Observations) :
+07:00 : Started settings.
+07:12 : Started scan on 3C286.
+07:28 : Stopped scan and started command file.
+         /odisk/gtac/cmd/31_101/obs.cmd
+
+09:42 : S-arm power failure.
+09:57 : S-arm power resumed, antennas S01, S02, S03 started working.
+10:08 : Antennas S04 started working (S06 No fringe).
+10:22 : E05 taken for maintenance.
+
+15:33 : W03 started working.
+16:13 : E05 started working.
+16:49 : Stopped command file.
+
+16:55 : Started scan on 3C48.
+17:10 : Stopped scan and observing session over.

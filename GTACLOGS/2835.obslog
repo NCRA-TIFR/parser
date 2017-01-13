@@ -1,0 +1,60 @@
+		 GTAC Observation Log 
+
+1. Date : 12/09/2006
+2. Observation Sr. No. : 2835
+3. Observer : DAG
+4. Observer's Email : dag@mrao.cam.ac.uk
+5. Project Name : obs
+6. Project Code : 10DAG01
+7. Operator(s) : Deepak,
+	
+8. Command File : /btemp2/cmd/dag/10dag01-12sep06.cmd
+9. LTA File : /rawdata/12sep/10dag01_12sep06.lta,
+	/rawdata1/12sep/10dag01_12sep06.ltb
+10. LogFlag File : /btemp2/logflags/10DAG01.FLAGS.6
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+1 dB, 32 MHz,ON, IF-CH2 : 16+0 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+C04 : Servo problem
+E04 low fringe.
+21. Note for Backup :
+-
+
+22. Start and End Time of Obs.(IST): 06:00 - 00:00
+
+23. Comments (During Observations) :
+-----------------------------------------------
+******** ONLINE Machine : Bhaskar   *********** 
+** Corr Mode : IndianPolar **
+-----------------------------------------------
+
+06:10 : Started phasing on 3C48, using scan #0.
+06:18 : Started scan on 3C48 for 10mins.
+06:30 : Started command file
+        /btemp2/cmd/dag/10dag01-12sep06.cmd
+
+09:13 : W-arm antennas power failed.
+09:39 : S-arm antennas power failed.
+09:53 : W-arm restored in observing session.
+12:25 : C12- ABC T.O.
+14:01 : stopped command file.
+14:05 : started scan on 3c286 ~5mins.
+14:15  : observation session over
+
+
+
+

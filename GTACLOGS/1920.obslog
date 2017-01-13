@@ -1,0 +1,49 @@
+		 GTAC Observation Log 
+
+1. Date : 27/02/2005
+2. Observation Sr. No. : 1920
+3. Observer : Nissim
+4. Observer's Email : nkanekar@aoc.nrao.edu
+5. Project Name : OHM
+6. Project Code : 07NKA01
+7. Operator(s) : Sachin,
+	
+8. Command File : /btemp2/cmd/nissim/3c345.cmd
+9. LTA File : /rawdata/27feb/07nka01_3c345.lta,
+	/rawdata1/27feb/07nka01_3c345.ltb
+10. LogFlag File : /btemp2/logflags/07NKA01.FLAGS.7
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1040 MHz ,RF2 : 1040 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 970 MHz, ILO2 : 970 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 14+14 dB, 32 MHz,ON, IF-CH2 : 14+14 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1040 1040 970 970 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+--
+
+21. Start and End Time of Obs.(IST): 01:23 - 03:15
+
+22. Comments (During Observations) :
+****************************
+ONLINE: BHASKAR
+AUTHIF: 1390MHz.
+****************************
+01:23 : Started scan on 3c286.
+01:48 : Started command file.
+02:02 : MSEB power failed.
+02:29 : Continued observation on central sq. antennae.
+02:29 : Restarted command file.
+03:15 : Stopped command file & project.
+
+

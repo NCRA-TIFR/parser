@@ -1,0 +1,90 @@
+		 GTAC Observation Log 
+
+1. Date : 17/12/2010
+2. Observation Sr. No. : 5144
+3. Observer : Sandeep Sirothia, Ishwar Chandra
+4. Observer's Email : sirothia@ncra.tifr.res.in,ishwar@ncra.tifr.res.in
+5. Project Name : Extra Galactic Survey @ 150 MHz Using GMRT
+6. Project Code : 19_043
+7. Operator(s) : Deepak,
+	Navanath,
+	Rupsingh,
+	Shilpa
+8. Command File : /odisk/online1/hold.cmd
+9. LTA File : /rawdata/17dec/19_043_17dec2010.lta,
+	/rawdata1/17dec/19_043_17dec2010.ltb
+10. GSB File : /gsbifrdata/17dec/19_043_17dec2010_gsb.lta
+11. LogFlag File : /odisk/online1/logflags/19_043.FLAGS.36
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 218 MHz, ILO2 : 218 MHz, IVLO1 : 62 MHz, IVLO2 : 62 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 6+12 dB, 16 MHz,ON, IF-CH2 : 6+12 dB, 16 MHz,ON
+15. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+GHB Settings :
+16. GHB Channels : 0:127:1
+17. Correlator Mode : UsbPolar
+18. Frequency Parameters (TPA) : 156 156 218 218 62 62 
+
+GSB Settings :
+19. Maximum Channels : 256 
+20. Final Bandwidth (MHz): OFF MHz; Step # 0
+21. IFBW : LO5(MHz) : 16:138000-167000 MHz
+22. Stokes : Full_Polar
+23. Beam - 1 : OFF
+24. Beam - 2 : OFF
+
+25. Integration Time : 128 LTA ~ 16.908 Sec.
+26. No of Antennas Working(Fringing) :26
+
+27. Name of Non-Working Antennas (with reason for each) :
+C00 - Painting.
+C03 - Painting.
+E06,S01 : 130-USB & LSB zero self and cross.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 16:15 - 08:00
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+   * 2S data file *
+/rawdata/17dec/19_043_17dec2010_2s.lta,
+/rawdata1/17dec/19_043_17dec2010_2s.ltb,
+/gsbifrdata1/17dec/19_043_17dec2010_gsb_2s.lta
+--------------------------------------------------------------------
+Command files :
+/odisk/gtac/cmd/sirothia/19_043_20101217a.cmd,
+/odisk/gtac/cmd/sirothia/19_043_20101217b.cmd.
+--------------------------------------------------------------------
+16:31 : Started scan on 3C48.
+16:50 : Stopped scan.
+16:51 : Started scan on J0218+4232.
+17:10 : Stopped scan.
+17:13 : Started command file
+        '/odisk/gtac/cmd/sirothia/19_043_20101217a.cmd'
+17:33 : C00 released for observation.
+18:38 : C03 released for observation.
+12:20 : Command file stopped.
+00:25 : Started command file.
+'/odisk/gtac/cmd/sirothia/19_043_20101217a.cmd'
+00:30 : unix hub open...
+      : file stopped.
+00:50 : Restarted command file.
+06:20 : Scan 201 bad data...src R23D21 was below horizon.
+07:33 : Stopped command file.
+
+07:41 : Started scan on 3C286.
+08:00 : Stopped scan and observing session over.
+--------------------------------------------------------------------
+Delay jumps : 
+GSB : E02,S01,S03,S04,S06,W02.
+USB : S02,S03,W01,W02.
+LSB : S02,S03,W02,W04.
+--------------------------------------------------------            
+
+

@@ -1,0 +1,85 @@
+		 GTAC Observation Log 
+
+1. Date : 24/12/2002
+2. Observation Sr. No. : 0912
+3. Observer : Dharam
+4. Observer's Email : dharam@ncra.tifr.res.in
+5. Project Name : HEAD-TAIL SRC.
+6. Project Code : 03DVL02
+7. Operator(s) : Deepak,
+	Mangesh,
+	Sanjay,
+	Santaji,
+	
+8. Command File : /temp2/data/cmd/dharam/ic711.cmd,
+	/temp2/data/cmd/dharam/n7385.cmd,
+	/temp2/data/cmd/dharam/8c.cmd,
+	/temp2/data/cmd/dharam/first.cmd
+9. LTA File : /rawdata/24dec/03dvl02_ic711.lta,
+	/rawdata/24dec/03dvl02_n7385.lta,
+	/rawdata/24dec/03dvl02_8c.lta
+10. LogFlag File : /temp2/data/logflags/03DVL02.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66.0 MHz, IVLO2 : 66.0 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 6 MHz,ON, IF-CH2 : 20+20 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:63:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66.0 66.0 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C00 : 130 pol (610MHz) no fringe.
+
+S03 : Servo Problem.
+
+21. Start and End Time of Obs.(IST): 00:33 - 00:00
+
+22. Comments (During Observations) :
+** IF ATTN from POWER EQUALISATION **
+C00 : RF Swapped.
+
+00:33 : Started record on 3c147.
+01:16 : S06 delay out of range.
+01:25 : Started cmd file.
+06:12 : C00 ABC T.O.
+06:21 : C00, started working
+08:38 : C00 ABC T. O.
+08:45 : C13 ABC T. O.
+08:45 : C00 started working.
+09:05 : S01 take for painting.
+09:39 : C13 given for investigation of reset 
+        problem.
+10:25 : Delay out of range for S06
+
+11:30 : Started another lta file
+              /rawdata/24dec/03dvl02_n7385.lta.
+12:10 : Stopped the scan. Closed the first ltafile
+        (_ic711.lta).
+        Moved antennas to 2232+117.
+12:28 : Started the command file
+             /temp2/data/cmd/dharam/n7385.cmd
+13:55 : C04 flat band shape
+14:09 : Ran corr_config. C04 band shape fine now.
+22:03 : started the scan on 3c48 for 20 min.
+      : started one more recored in 
+	/rawdata/24dec/03dvl02_8c.lta
+22:23 : closed the the file
+        /rawdata/24dec/03dvl02_n7385.lta
+22:34 : started the command file
+	/temp2/data/cmd/dharam/8c.cmd
+02:59 : Stopped cmd file./temp2/data/cmd/dharam/8c.cmd
+03:02 : Started record on 3c147.
+03:22 : Stopped record on 3c147.
+03:28 : Started cmd file /temp2/data/cmd/dharam/first.cmd
+05:45 : C00 got ABC reset, scan# 66 bad.
+06:20 : stopped the observation session.
+

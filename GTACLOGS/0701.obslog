@@ -1,0 +1,44 @@
+1. Date : 15/07/2002
+2. Observation Sr. No. : 701
+3. Observer : SKS
+4. Observer's Email : sirothia@ncra.tifr.res.in
+5. Project Name : 0453@1390 MHz
+6. Project Code : 02RMA01
+7. Operator(s) : Kodilkar J.P.,Kudale S.S.,
+8. Command File : /temp2/data/cmd/sirothia/0453-20.cmd
+9. LTA File : /rawdata/15jul/02rma01_0453.lta, /rawdata/15jul/02rma01_0453.lta.1
+
+ANTENNA SETTINGS :
+
+10. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1368 MHz ,RF2 : 1368 MHz, SA1 : 0 dB, SA2 : 0 dB
+11. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1300 MHz, ILO2 : 1300 MHz, IVLO1 : 68 MHz, IVLO2 : 68 MHz
+12. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 2+2 dB, 16 MHz,on, IF-CH2 : 2+2 dB, 16 MHz,on
+13. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, on
+
+CORREATOR SETTINGS :
+
+14. CLK_SEL/Samp_Freq : 1
+15. Channels : 0:127:1
+16. Frequency Parameters (TPA) : 1368 1368 1300 1300 68 68 
+
+17. Integration Time : 128 STA ~ 16.67 Sec.
+18. No of Antennas Working(Fringing) : 27
+19. Name of Non-Working Antennas (with reason for each) : S06	feed jam<br>
+W06	high cross counts<br>
+S04	130 pole bad.
+20. Start and End Time of Obs.(IST): 07:32 - 13:28
+21. Comments (During Observations) :07:32	started the scan on 3c147<br>
+07:49   Scan stopped.<br>
+08:00   command file started.<br>
+09:41   Observation session stopped.<br>
+11:25   Observing session restarted with<br>
+        flux cal scan 3c147 source.<br>
+        C01 : 130 Pol Bad bandshape.<br>
+           <br>
+11:43   scan stopped.<br>
+12:05   command file started.<br>
+13:28   Stopped cmd file.<br>
+<br>
+
+22. Data Backup files & Tape No. :
+

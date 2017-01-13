@@ -1,0 +1,61 @@
+		 GTAC Observation Log 
+
+1. Date : 27/11/2005
+2. Observation Sr. No. : 2316
+3. Observer : C H Ishwar Chandra
+4. Observer's Email : ishwar@ncra.tifr.res.in,ngk@ncra.tifr.res.in
+5. Project Name : RELIC
+6. Project Code : 09CHI01
+7. Operator(s) : Manisha J.,
+	Sachin,
+	Santaji,
+	
+8. Command File : /atemp2/cmd/ishwar/nov27.cmd
+9. LTA File : /rawdata/27nov/09chi01_27nov.lta,
+	/rawdata1/27nov/09chi01_27nov.ltb
+10. LogFlag File : /atemp2/logflags/09CHI01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 314 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, OFF
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 244 680 314 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+C09 : ABC Time Out.
+E03:130: No fringe.
+S02-LSB high cross.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 23:46 - 09:34
+
+23. Comments (During Observations) :
+***********************************************
+******* ONLINE: ADITYA   ***********************
+******* NAUTH @ 610-235  MHz. ******************
+******* CORR  : New CORR with Indianpolar mode **
+*********************************************
+
+23:46 started scan on 3c147 ~15mins.
+00:01 started command file.
+01:00 Scan # 3 BAD - Online Problem (?)!!
+      stopped das & command file.
+01:03 restarted command file.
+
+09:00 E05 ABC time out due to RF switch operation.
+09:11 E05 recovered.
+09:17 scan started on 3c286.
+09:34 stopped the scan and observation session.
+

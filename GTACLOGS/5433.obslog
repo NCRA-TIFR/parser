@@ -1,0 +1,76 @@
+		 GTAC Observation Log 
+
+1. Date : 7/7/2011
+2. Observation Sr. No. : 5433
+3. Observer : Sandeep Sirothia,Ishwar Chandra
+4. Observer's Email : sirothia@ncra.tifr.res.in,ishwar@ncra.tifr.res.in
+5. Project Name : The GMRT extra-galactic sky survey at 150 MHz - TGSS
+6. Project Code : 20_083
+7. Operator(s) : Deepak,
+	Nilesh,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/sirothia/20_083_20110707a.cmd,
+	/odisk/gtac/cmd/sirothia/20_083_20110707b.cmd
+9. LTA File : /gsbifrdata/07jul/20_083_07jul2011.lta
+10. LogFlag File : /odisk/online1/logflags/20_083.FLAGS.22
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 218 MHz, ILO2 : 218 MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+12 dB, 16 MHz,ON, IF-CH2 : 10+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Full_Polar
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 16 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 16:138000-167000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 156 156 218 218 62 62.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :28
+
+27. Name of Non-Working Antennas (with reason for each) :
+C03 : Feed problem
+C09 : No fringe.
+
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 22:00 - 06:20
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+2sec data file :
+/gsbifrdata1/07jul/20_083_07jul2011_2s.lta
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+22:00 : GSB not getting started.
+        GSB acq was getting stuck at openmpi script for run_rawdump program, which caused delayed start of the observation. Problem solved by JRoy from NCRA. 
+22:55 : Started scan on 3C286.
+23:06 : Stopped scan.
+23:12 : '/odisk/gtac/cmd/sirothia/20_083_20110707a.cmd' command file started.
+23:25 : C03 started working.
+00:29 : Scan no 21 bad(source set).
+00:47 : Scan no 27, 28 bad(source set).
+01:28 : Stopped command file.
+
+01:30 : '/odisk/gtac/cmd/sirothia/20_083_20110707b.cmd' command file started.
+03:58 : Changed the phase cal(1830-360 set).
+05:44 : Stopped command file.
+
+05:51 : Started scan on J0218+4232.
+06:06 : Stopped scan.
+
+06:08 : Started scan on 3C48.
+06:20 : Stopped scan and observing session over.
+
+
+

@@ -1,0 +1,48 @@
+		 GTAC Observation Log 
+
+1. Date : 01/09/2006
+2. Observation Sr. No. : 2811
+3. Observer : Dr. A A Deshpande, Prabu T
+4. Observer's Email : prabu@rri.res.in,desh@rri.res.in
+5. Project Name : 2004-1349
+6. Project Code : 10NKA03
+7. Operator(s) : Navanath,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/hold.cmd
+9. LTA File : /rawdata/1sep/10aad01_1sep06.lta,
+	/rawdata1/1sep/10aad01_1sep06.ltb
+10. LogFlag File : /btemp2/logflags/10AAD01.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1273.1608 MHz ,RF2 : 1273.1608 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1205 MHz, ILO2 : 1205 MHz, IVLO1 : 68.1608 MHz, IVLO2 : 68.1608 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+4 dB, 32 MHz,OFF, IF-CH2 : 6+5 dB, 32 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1273.1608 1273.1608 1205 1205 68.1608 68.1608 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+C12 : No fringe.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 09:00 - 00:00
+
+23. Comments (During Observations) :
+-------------------------------------------------
+-------------- ONLINE BHASKAR -------------------
+--------- INDIAN POLAR PULSAR MODE --------------
+-------- POWER EQ at 1280 MHz. Band -------------
+-------------------------------------------------
+9:00 : Observation start
+11:00: Observation session over
+

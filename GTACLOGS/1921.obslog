@@ -1,0 +1,58 @@
+		 GTAC Observation Log 
+
+1. Date : 28/02/2005
+2. Observation Sr. No. : 1921
+3. Observer : Nissim
+4. Observer's Email : nkanekar@aoc.nrao.edu
+5. Project Name : OHM
+6. Project Code : 07NKA01
+7. Operator(s) : Sachin,
+	
+8. Command File : /btemp2/cmd/nissim/virgohi.cmd
+9. LTA File : /rawdata/28feb/07nka01_virgohi.lta,
+	/rawdata1/28feb/07nka01_virgohi.ltb
+10. LogFlag File : /btemp2/logflags/07NKA01.FLAGS.8
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1409 MHz ,RF2 : 1409 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1335 MHz, ILO2 : 1335 MHz, IVLO1 : 74 MHz, IVLO2 : 74 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 14+14 dB, 32 MHz,ON, IF-CH2 : 14+14 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 4000 KHz, 6 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 2
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1409 1409 1335 1335 74 74 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :14
+
+20. Name of Non-Working Antennas (with reason for each) :
+South,East,West arms are down due to power failure.
+
+21. Start and End Time of Obs.(IST): 03:28 - 07:40
+
+22. Comments (During Observations) :
+****************************
+ONLINE: BHASKAR
+AUTHIF: 1390MHz.
+****************************
+03:28 : Started scan on 3c286.
+03:36 : Stopped scan on 3c286.
+03:40 : Started command file.
+04:35 : Due to change of the tracks for the sources in the command file,
+edited the command file from inner track to outer track.
+04:36 : Restarted same command file.
+04:51 : MSEB power resumed but with high voltage i.e. 263 volts,
+also 13 central sq. antennae were down.
+05:32 : Started command file.At this time 8 CSq. antennae were down with E04 & S01.
+06:02 : All CSq. antennae working except, C02 having mcm-0 time-out
+Also E06 having all mcm time-out & E04 is down.
+06:12 : C08 & E04 came back.
+06:17 : E06 returned.
+07:26 : Started scan on 3C286 for 15mins.
+07:40 : Observation stopped.
+
+

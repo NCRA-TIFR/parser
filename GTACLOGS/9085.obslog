@@ -1,0 +1,80 @@
+		 GTAC Observation Log
+
+1. Date : 24/12/2016
+2. Observation Sr. No. : 9085
+3. Observer : Yashwant Gupta, BHAL CHANDRA JOSHI, Jayanta Roy, Yogesh Maan, Kishalay De, Manjari Bagchi, Gopakumar Achamveedu, Nikhil Vijay Naik
+4. Observer's Email : ygupta@ncra.tifr.res.in, bcj@ncra.tifr.res.in, jroy@ncra.tifr.res.in, ymaan@ncra.tifr.res.in, ugkishalayde@ug.iisc.in, manjari.bagchi@gmail.com, gopu.tifr@gmail.com, naiknikhil27@gmail.com
+5. Project Name : Towards precision pulsar timing with the upgraded GMRT
+6. Project Code : 31_057
+7. Operator(s) : Nilesh
+8. Command File : /odisk/gtac/cmd
+9. LTA File : /gsbifrdata/24dec/31_057_lband_24dec2016.lta.2, /gsbifrdata/24dec/31_057_lband_24dec2016.lta.1, /gsbifrdata/24dec/31_057_lband_24dec2016.lta, /gsbifrdata/24dec/31_057_325_24dec2016.lta.1, /gsbifrdata/24dec/31_057_325_24dec2016.lta, /gwbifrdata/24dec/31_057_500mhz_24dec2016_gwb.lta.2, /gwbifrdata/24dec/31_057_500mhz_24dec2016_gwb.lta.1, /gwbifrdata/24dec/31_057_500mhz_24dec2016_gwb.lta, /gwbifrdata/24dec/31_057_1460mhz_24dec2016_gwb.lta.1, /gwbifrdata/24dec/31_057_1460mhz_24dec2016_gwb.lta
+10. LogFlag File : /odisk/online1/logflags/31_057.FLAGS.7, /odisk/online1/logflags/31_057.FLAGS.6
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1454 MHz ,RF2 : 1454 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1505 MHz, ILO2 : 1505MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,OFF, IF-CH2 : 4+14 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : Volt
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 0 MHz; Step # 0
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 1454 1454 1505 1505 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :27
+
+32. Name of Non-Working Antennas (with reason for each) :
+E03 : : No fringe @ L-band.
+E05 : : Feed Jam.
+S01 : : Servo Problem.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 24 Dec 2016 01:10:00 - 24 Dec 2016 05:10:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :27
+
+37. Comments (During Observations) :
+01:55 : Started settings.
+Antennas connected in GWB : C00 C01 C02 C03 C04 C05 C06 C08 C11 C13 E02 E03 S02 S03 W02 W03 
+
+Antennas selected in GWB GAC : 
+# 325MHz # suba 2 # C00 C01 C02 C05 C13 (Broadband antennas)
+# 1420MHz # suba 4 # C03 C04 C06 C08 C11 E02 E03 S02 S03 W02 W03 
+
+02:21:01 : Started scan on 3C147 for ~ 1.74483 min.
+02:27:55 : Started scan on 0432+416 for ~ 4.42918 min.
+02:38:31 : Started scan on 0432+416 for ~ 1.74483 min.
+02:40:33 : Started scan on 0432+416 for ~ 2.14748 min.
+02:44:05 : Started scan on J0645+5158 for ~ 24.1592 min.
+03:13:03 : Started scan on 0744-064 for ~ 1.61061 min.
+03:14:55 : Started scan on 0744-064 for ~ 0.805306 min.
+03:16:58 : Started scan on J0613-0200 for ~ 20.5353 min.
+03:41:37 : Started scan on 0744-064 for ~ 1.20796 min.
+03:43:02 : Started scan on 0744-064 for ~ 0.671088 min.
+03:46:47 : Started scan on J0751+1807 for ~ 20.2669 min.
+04:12:00 : Started scan on 0834+555 for ~ 2.2817 min.
+04:14:44 : Started scan on 0834+555 for ~ 0.53687 min.
+04:16:18 : Started scan on J1012+5307 for ~ 20.5353 min.
+04:44:25 : Started scan on 1130-148 for ~ 1.61061 min.
+04:46:13 : Started scan on 1130-148 for ~ 0.805306 min.
+04:48:39 : Started scan on J1022+1001 for ~ 17.5825 min.
+05:08 : Stopped scan and closed observation session.

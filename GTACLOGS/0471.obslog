@@ -1,0 +1,86 @@
+1. Date : 21/02/2002
+2. Observation Sr. No. : 471
+3. Observer & email : Jayram , chengalu@ncra.tifr.res.in
+4. Project Name & Code : 8c1435 / 01AGB01
+5. Operator(s) :Jitendra(3), Mangesh(1),Sanjay(1).
+6. Command File/Source  & Lta File : /temp2/data/cmd/chengalu/8c1435_325.cmd
+						             /rawdata/21feb/01agb01_325.lta
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 : 325 MHz., 0 dB., OFF
+8. Ist LO (MHz) & IVth LO (MHz) :238-278 (step 4) MHz.,70 MHz.,
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : 16+16, 16 MHz., ON
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status : 4 MHz., 6 dB., ON
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 2 / 2
+12. Channels : 0,127,1
+13. Frequency Parameters (TPA) : Please see the comment while observation.
+
+14. Integration Time (Sec.) : 32 sec (16*16m)
+15. No of Antennas Working(Fringing) :   
+16. Name of Non-Working Antennas (with reason for each) : 28+1/2
+
+	W02     PM maint.
+	S03     175 Pol not fringing
+
+
+    * LO Monitoring problems :
+
+    C02 always shows LO unlocked.
+    C06,E04,E05,S06,W06 : LO monitoring problem?
+
+17. Starting and Ending time of Observations (IST) : 23:05 - 10:55
+
+    TIME   :   SCAN   :       TPA               :  SOURCE   :  COMMENTS
+           :          :                         :           :
+           :  Scan 0  :   308 308 238 238 70 70 :           : Scintillation .
+           :          :                         :           :
+           :          :                         :           :
+    23:47  :  Scan 1  :   308 308 238 238 70 70 :    3C305  :  
+           :          :   C11 RFI.              :           :
+           :          :   W03 ABC reset.        :           :
+    24:05  :  Scan 2  :   308 308 238 238 70 70 : 8c1435+6  : W03 initialised.
+
+    24:48  :  Scan 3  :   312 312 242 242 70 70 :    3C305  : ILO Checked.
+    25:02  :  Scan 4  :   312 312 242 242 70 70 : 8c1435+6  : 
+
+  * 25:30  : Scintilltaion stopped.
+
+    25:50  :  Scan 5  :   316 316 246 246 70 70 :    3C305  : ILO  246 Checked.
+    26:02  :  Scan 6  :   316 316 246 246 70 70 : 8c1435+6  : 
+
+    26:49  :  Scan 7  :   320 320 250 250 70 70 :    3C305  : ILO  250 Checked.
+    27:01  :  Scan 8  :   320 320 250 250 70 70 : 8c1435+6  : 
+
+    27:47  :  Scan 9  :   324 324 254 254 70 70 :    3C305  : ILO  254 Checked.
+    28:00  :  Scan 10 :   324 324 254 254 70 70 : 8c1435+6  : 
+    
+    28:45  :  Scan 11 :   328 328 258 258 70 70 :    3C305  : ILO  258 Checked.
+    28:58  :  Scan 12 :   328 328 258 258 70 70 : 8c1435+6  : 
+
+                          W04 RFI at channel 120 in showband.
+
+    29:44  :  Scan 13 :   332 332 262 262 70 70 :    3C305  : ILO  262 Checked.
+    29:55  :  RFI at channel 25 to 30 for most of the antennas.
+    29:56  :  Scan 14 :   328 328 258 258 70 70 : 8c1435+6  : 
+
+              RFI Spikes disappeared.
+
+    30:42  :  Scan 15 :   332 332 266 266 70 70 :    3C305  : ILO  266 Checked.
+    30:54  :  Scan 16 :   328 328 258 258 70 70 : 8c1435+6  : 
+
+	31:44  :  Scan 17 :   340 340 270 270 70 70 : 3c305     : LO1 270 MHz OK
+	31:53  :  Scan 18 :   340 340 270 270 70 70 : 8c1435+6  :
+	32:38  :  Scan 19 :   340 340 270 270 70 70 : 3c286     :
+	33:02  :  Scan 20 :   344 344 274 274 70 70 : 3c305     : LO1 274 MHz OK
+	33:12  :  Scan 21 :   344 344 274 274 70 70 : 8c1435+6  : 
+	34:01  :  scan 22 :   348 348 278 278 70 70 : 8c1435+6  : LO1 278 MHz OK
+	34:55  :  Stopped observation.
+
+
+
+
+19. Data Backup files & Tape No. :

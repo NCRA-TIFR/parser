@@ -1,0 +1,64 @@
+		 GTAC Observation Log 
+
+1. Date : 29/04/2004
+2. Observation Sr. No. : 1486
+3. Observer : KB
+4. Observer's Email : kmb@astro.ox.ac.uk
+5. Project Name :  05kba02
+6. Project Code : 05KBA02
+7. Operator(s) : Manish G.,
+	Jitendra,
+	
+8. Command File : /btemp2/cmd/kba/kba.cmd
+9. LTA File : /rawdata/29apr/05kba02_29apr.lta,
+	/rawdata1/29apr/05kba02_29apr.ltb
+10. LogFlag File : /btemp2/logflags/05KBA02.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+C06: not available
+
+
+21. Start and End Time of Obs.(IST): 20:45 - 03:40
+
+22. Comments (During Observations) :
+*********ONLINE: BHASKAR **********
+AUTHIF-610-235
+-------------------------------------
+
+20:45 : Started scan on 3C286 for 20mins.
+21:10 : C05 and E04 Started working.
+21:11 : Started scan on VIRO41 for 20mins.
+21:32 : Started scan on VIRO42 for 20mins.
+21:56 : Started scan on 1338-064 for 10mins.
+22:10 : Started command file:
+          /btemp2/cmd/kba.cmd
+23:37 : command file over.
+23:40 : scan started on 1338-064
+23:55 : scan stopped.
+00:08 : scan started on 3c286, during this scan#9
+        there was tracking problem on 3c286.
+00:29 : scan stopped.
+00:41 : command file started.
+26:51 : command file stopped.
+27:02 : scan started on phase calibrator
+27:12 : scan stopped .
+27:20 : flux calibrator scan started on 3c286.
+27:40 : scan stopped & project over.
+
+

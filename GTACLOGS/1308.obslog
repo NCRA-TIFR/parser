@@ -1,0 +1,50 @@
+		 GTAC Observation Log 
+
+1. Date : 26/01/2004
+2. Observation Sr. No. : 1308
+3. Observer : SARITA
+4. Observer's Email : sarita@tifr.res.in
+5. Project Name : I17258_VINCYN
+6. Project Code : 05SVA01
+7. Operator(s) : Manish G.,
+	Jayprakash,
+	
+8. Command File : /btemp2/cmd/sarita/i17258.cmd
+9. LTA File : /rawdata/26jan/05sva01_i17258_vincyn.lta,
+	/rawdata1/26jan/05sva01_i17258_vincyn.ltb
+10. LogFlag File : /btemp2/logflags/05SVA01.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1371.757 MHz ,RF2 : 1371.757 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1300 MHz, ILO2 : 1300 MHz, IVLO1 : 71.757 MHz, IVLO2 : 71.757 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+4 dB, 6 MHz,ON, IF-CH2 : 4+4 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 500 KHz, 15 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 5
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1371.757 1371.757 1300 1300 71.757 71.757 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C13: No Fringe.
+E02: No Fringe.
+
+21. Start and End Time of Obs.(IST): 06:24 - 13:30
+
+22. Comments (During Observations) :
+ONLINE : BHASKAR
+AUTHIF @ 1390 MHz.
+---------------------
+
+06:24  Started scan on 3C286, for 15 mins.
+06:39  Stopped the scan.
+06:50  Started command file  /temp2/data/cmd/sarita/i17258.cmd
+12:41  Command file stopped.
+12:59  Started scan on 3c48 for 30min.
+13:30  Stopped the scan & observation.
+

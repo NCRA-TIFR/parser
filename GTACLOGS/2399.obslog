@@ -1,0 +1,62 @@
+		 GTAC Observation Log 
+
+1. Date : 07/01/2006
+2. Observation Sr. No. : 2399
+3. Observer : Amitesh Omar
+4. Observer's Email : amitesh.omar@gmail.com
+5. Project Name : HI Faces
+6. Project Code : 09AOA01
+7. Operator(s) : Manisha J.,
+	
+8. Command File : /atemp2/cmd/aomar/09aoa01_1.cmd,
+	/atemp2/cmd/aomar/09aoa01_2.cmd
+9. LTA File : /rawdata/7jan/09aoa01_1.lta,
+	/rawdata/7jan/09aoa01_2.lta
+10. LogFlag File : /atemp2/logflags/09AOA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1416.29 MHz ,RF2 : 1416.29 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1345 MHz, ILO2 : 1345 MHz, IVLO1 : 71.29 MHz, IVLO2 : 71.29 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+10 dB, 6 MHz,ON, IF-CH2 : 10+10 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 1000 KHz, 12 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 4
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1416.29 1416.29 1345 1345 71.29 71.29 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+S04 : No fringe.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 01:10 - 09:30
+
+23. Comments (During Observations) :
+* CORR    : OLD Correlator.
+* ONLINE  : aditya
+* IF-ATTN : AuthIF @ 1390.
+----------------------------------------
+00:10 : Started scan on 3c147 for 10min.
+00:25 : Started command file.
+03:57 : stopped command file.
+04:01 : started scan on 3c147 ~10mins.
+
+04:12 : Frequency settings changed :
+        ILO : 1335 MHz,
+       IVLO : 71.01 MHz.
+       TPA 1406.01 1406.01 1335 1335 71.01 71.01
+
+       ltafile : /rawdata/7jan/09aoa01_2.lta
+
+04:42 : started scan on 3c286 ~10mins.
+04:57 : started command file.
+09:17 : Command file stopped.
+09:24 : Started scan on 3C286 for 5mins.
+09:30 : Observation stopped.
+

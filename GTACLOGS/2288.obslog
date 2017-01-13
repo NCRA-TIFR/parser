@@ -1,0 +1,53 @@
+		 GTAC Observation Log 
+
+1. Date : 09/10/2005
+2. Observation Sr. No. : 2288
+3. Observer : Raju R. Baddi
+4. Observer's Email : rajubr@rri.res.in
+5. Project Name : BRKTT 0.6
+6. Project Code : 08RRB01
+7. Operator(s) : Deepak,
+	Manish G.,
+	
+8. Command File : /atemp2/cmd/anish/9octcalib.cmd
+9. LTA File : /rawdata1/9oct/08rrb01_9oct05.ltb
+10. LogFlag File : /atemp2/logflags/08RRB01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 613.8684 MHz ,RF2 : 613.8684 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 545 MHz, ILO2 : 545 MHz, IVLO1 : 68.8684 MHz, IVLO2 : 68.8684 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 16 MHz,OFF, IF-CH2 : 16+16 dB, 16 MHz,OFF
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 1000 KHz, 12 dB, OFF
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 4
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 613.8684 613.8684 545 545 68.8684 68.8684 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+C02- fringe fluctuations
+S06 - low fringe.
+* Abrupt phase changes
+has seen on scan
+of 3C48
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 14:30 - 18:40
+
+23. Comments (During Observations) :
+*** ONLINE ADITYA         ***
+*** AUTHIF @1280 MHz.   **
+-----------------------------
+14:40 : Started command file
+        /atemp2/cmd/anish/9octcalib.cmd
+15:25 : Stopped the command file. Switched ON the ALC's.
+15:40 : Started command file:
+         /atemp2/cmd/anish/9octobs.cmd
+18:40 : Stopped the command file. Stopped the observation.
+

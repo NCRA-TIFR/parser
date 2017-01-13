@@ -1,0 +1,79 @@
+		 GTAC Observation Log 
+
+1. Date : 11/06/2009
+2. Observation Sr. No. : 4340
+3. Observer : NGK
+4. Observer's Email : ngk@ncra.tifr.res.in
+5. Project Name : V458VUL
+6. Project Code : 16_073
+7. Operator(s) : Jayprakash,
+	Navanath,
+	Rupsingh,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/ngk/v458vul-11jun09.cmd
+9. LTA File : /rawdata/11jun/16_073_11jun2009.lta,
+	/rawdata1/11jun/16_073_11jun2009.ltb
+10. LogFlag File : /odisk/online1/logflags/16_073.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1414.85 MHz ,RF2 : 1414.85 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1350 MHz, ILO2 : 1350 MHz, IVLO1 : 64.85 MHz, IVLO2 : 64.85 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+10 dB, 16 MHz,OFF, IF-CH2 : 12+10 dB, 16 MHz,OFF
+14. BB BW(KHz) & BB ALC : 2000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:256:1
+17. Frequency Parameters (TPA) : 1414.85 1414.85 1350 1350 64.85 64.85 
+
+18. Integration Time : 256 LTA ~ 33.817 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C00 : Servo problem.
+C02 : Servo problem.
+both are freq applying brakes.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 20:15 - 09:00
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : UsbHighRes
+
+25. Comments (During Observations) :
+20:15 : Started settings for 16_073 project.
+
+20:45 : Started power euilisation on 3C286 for 300 counts.
+21:10 : Power equilisation done.
+
+   tpa 1414.85 1414.85 1350 1350 64.85 64.85
+
+21:25 : Started scan on 3C286.
+21:37 : Stopped scan.
+
+        Changed the LO1 settings.
+
+        tpa 1424.85 1424.85 1360 1360 64.85 64.85
+
+21:42 : Restarted scan on 3C286.
+21:52 : Stopped scan.
+
+21:59 : '/odisk/gtac/cmd/ngk/v458vul-11jun09.cmd' command file started.
+23:05 : C05 no fringe at-175 in usb.
+23:55 : Stopped scan and changed track.
+03:50 : C11 servo problem
+08:10 : Command file stopped.
+08:20 : Settings changed to
+        tpa 1414.85 1414.85 1350 1350 64.85 64.85
+08:21 : Started scan on 3C48 10mins.
+08:35 : tpa 1419.85 1419.85 1355 1355 64.85 64.85
+        Started scan on 3C48 for 10mins.
+08:52 : tpa 1424.85 1424.85 1360 1360 64.85 64.85
+        Started scan on 3C48 for 10mins.
+09:02 : Observation stopped.
+
+

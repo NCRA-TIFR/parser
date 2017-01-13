@@ -1,0 +1,40 @@
+		 GTAC Observation Log 
+
+1. Date : 01/03/2003
+2. Observation Sr. No. : 0996
+3. Observer : Ishwara Chandra C H
+4. Observer's Email : ishwar@ncra.tifr.res.in
+5. Project Name : MIRCOQ
+6. Project Code : 03PDA01
+7. Operator(s) : Sanjay,
+	
+8. Command File : /btemp2/cmd/ishwar/03pda01.cmd
+9. LTA File : /rawdata/1mar/03pda01_01mar.lta
+10. LogFlag File : /btemp2/logflags/03PDA01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 18+18 dB, 6 MHz,ON, IF-CH2 : 18+18 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:63:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+--
+
+21. Start and End Time of Obs.(IST): 04:14 - 00:00
+
+22. Comments (During Observations) :
+**** Power Equalised *****
+04:14  Started recrod on 3c286.
+
+

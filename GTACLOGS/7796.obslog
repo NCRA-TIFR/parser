@@ -1,0 +1,70 @@
+		 GTAC Observation Log
+
+1. Date : 23/05/2015
+2. Observation Sr. No. : 7796
+3. Observer : Pratik Dabhade, Joydeep Bagchi, Madhuri Gaikwad
+4. Observer's Email : pratikdabhade13@gmail.com, joydeep@iucaa.ernet.in, madhuri.explorer@gmail.com
+5. Project Name : GMRT observations of 3 new giant radio quasars
+6. Project Code : 28_007
+7. Operator(s) : Nilesh
+8. Command File : /odisk/gtac/cmd/28_007/23may15_s3/obs.cmd
+9. LTA File : /gsbifrdata/23may/28_007_23may2015.lta
+10. LogFlag File : /odisk/online1/logflags/28_007.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 306 306 255 255 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :28
+
+32. Name of Non-Working Antennas (with reason for each) :
+C03 : High temperature, ABC time out.
+S04 : BLDC work.
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 23 May 2015 08:00:00 - 23 May 2015 12:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :25
+
+37. Comments (During Observations) :
+07:48 : Started scan on 3c48 for ~ 15min.
+08:07 : Started command file.
+09:02 : C00, C14, E03 - Servo time out.
+        E05 and W03 - ABC time out.
+09:09 : C00 started working.
+09:12 : C14 started working.
+09:15 : E05 and W03 started working.
+10:00 : W05 taken for maintenance.
+10:10 : C09 taken for FPS work.
+10:25 : E03 released for observation.
+11:07 : S-arm electrical power reset.
+11:15 : S-arm electrical power reset.
+11:22 : S-arm Started working.
+11:42 : Stopped command file.
+11:43 : Started scan on phase cal.
+11:54 : Started scan on 3c48.
+12:00 : Stopped observation session.

@@ -1,0 +1,76 @@
+		 GTAC Observation Log
+
+1. Date : 30/07/2016
+2. Observation Sr. No. : 8781
+3. Observer : Aditya JNHS, Nissim Kanekar
+4. Observer's Email : aditya@ncra.tifr.res.in, nkanekar@ncra.tifr.res.in
+5. Project Name : Cold gas in compact sources at high redshifts
+6. Project Code : 30_078
+7. Operator(s) : Pramod, Surender
+8. Command File : /odisk/gtac/cmd/aditya/30jul/0420-388.cmd,, /odisk/gtac/cmd/aditya/30jul/0858-279.cmd,, /odisk/gtac/cmd/aditya/30jul/0742\+10.cmd,, /odisk/gtac/cmd/aditya/30jul/0627\+532.cmd
+9. LTA File : /gsbifrdata/30jul/30_078_30jul2016.lta.3, /gsbifrdata/30jul/30_078_30jul2016.lta.2, /gsbifrdata/30jul/30_078_30jul2016.lta.1, /gsbifrdata/30jul/30_078_30jul2016.lta, /gwbifrdata1/30jul/30_078_510lo_30jul2016_gwb.lta.3, /gwbifrdata1/30jul/30_078_510lo_30jul2016_gwb.lta.2, /gwbifrdata1/30jul/30_078_510lo_30jul2016_gwb.lta.1, /gwbifrdata1/30jul/30_078_510lo_30jul2016_gwb.lta
+10. LogFlag File : /odisk/online1/logflags/30_078.FLAGS.16, /odisk/online1/logflags/30_078.FLAGS.15, /odisk/online1/logflags/30_078.FLAGS.14, /odisk/online1/logflags/30_078.FLAGS.13
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 337 MHz ,RF2 : 337 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 276 MHz, ILO2 : 276MHz , IVLO1 : 61 MHz, IVLO2 : 61 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 16 MHz,ON, IF-CH2 : 4+14 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 0 MHz; Step # 0
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 139
+28. LO5 -2  : 166
+
+29. Frequency Parameters (TPA) : 337 337 276 276 61 61
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :23
+
+32. Name of Non-Working Antennas (with reason for each) :
+C01,C06,C11,C12,E02 : Servo problem
+C03 : MCM 2,10 time out.
+C08 : ABC time out.
+C13 : 175 pol low fringe.
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 30 Jul 2016 09:00:00 - 30 Jul 2016 14:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :28
+
+37. Comments (During Observations) :
+No broad band feed to C14,S03,W03 and E04 antennas.
+Note : No fringe to 175 
+--------------------------------------------------------
+07:50 : Started set up.
+08:05 : Started command file.
+ '/odisk/gtac/cmd/aditya/30jul/0420-388.cmd'
+09:42 : Stopped command file.
+09:49 : Started command file.
+'/odisk/gtac/cmd/aditya/30jul/0858-279.cmd'
+10:07: W04 stopped fringing because of LO problem in GSB only.
+10:08 : C01,C08,C11,C06 started working.
+10:52 : E02 started working.
+11:15 : Stopped command file.
+11:24 : Started command file.
+ '/odisk/gtac/cmd/aditya/30jul/0742+10.cmd'
+12:42 : Stopped command file.
+12:50 : Started command file.
+ /odisk/gtac/cmd/aditya/30jul/0627+532.cmd
+13:46 : C13 started working. 
+14:00 : Stopped command file and observation session is over.
+

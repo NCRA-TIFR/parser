@@ -1,0 +1,80 @@
+		 GTAC Observation Log
+
+1. Date : 19/12/2015
+2. Observation Sr. No. : 8264
+3. Observer : BHAL CHANDRA JOSHI, Gopakumar Achamveedu, Yogesh Maan, ARUN KUMAR NAIDU, Periasamy K. Manoharan
+4. Observer's Email : bcj@ncra.tifr.res.in, gopu.tifr@gmail.com, ymaan@ncra.tifr.res.in, arun@ncra.tifr.res.in, mano@ncra.tifr.res.in
+5. Project Name : A Pilot proposal for an Indian Pulsar Timing Array (IndPTA)
+6. Project Code : 29_064
+7. Operator(s) : Deepak, Navnath, Nilesh, Rupsing
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /gsbifrdata/19dec/29_064_19dec2015.lta.3, /gsbifrdata/19dec/29_064_19dec2015.lta.2, /gsbifrdata/19dec/29_064_19dec2015.lta.1, /gsbifrdata/19dec/29_064_19dec2015.lta
+10. LogFlag File : /odisk/online1/logflags/29_064.FLAGS.6, /odisk/online1/logflags/29_064.FLAGS.5, /odisk/online1/logflags/29_064.FLAGS.4, /odisk/online1/logflags/29_064.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1292 MHz ,RF2 : 1292 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1230 MHz, ILO2 : 1230MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+14 dB, 16 MHz,OFF, IF-CH2 : 20+14 dB, 16 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : Volt
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 16.666666 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 138
+28. LO5 -2  : 167
+
+29. Frequency Parameters (TPA) : 1292 1292 1230 1230 62 62
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :27
+
+32. Name of Non-Working Antennas (with reason for each) :
+C13 :: FCP work.
+W01 :: BLDC installation.
+W06 :: Maintenance.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 19 Dec 2015 13:00:00 - 19 Dec 2015 16:00:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :27
+
+37. Comments (During Observations) :
+12:55 : Started settings.
+13:00 : Started phasing on 1822-096.
+13:12 : Error in attaching shm while recording pulsar data.
+ For this observation, we use PA voltage beam mode. This mode gave Error in Attaching Shared Memory on node33 and node34, while giving pulsar recording commands. In order to get solution, we first restarted GSB programs, still problem was not solved, then we gave reboot to the ALL GSB CLUSTER. Even after reboot same error message appeared while running the commands on node33/34. After a deep and long process of investigation, we found that someone has changed the file "test_nodes_voltage" on gsbm1 machine on 17th Dec 2015 at 13:08 IST. which should not be the normal practice. This causes a loss of almost 55 minutes to the GTAC user, hence GTAC observation delayed by ~ 1hr.
+---------------------------------------------------------------
+CALLSHEET NO.: 2015.2351
+---------------------------------------------------------------
+13:05:02 : Started scan on 1822-096 for ~ 1.87905 min.
+13:07:42 : Started scan on 1822-096 for ~ 1.61061 min.
+13:09:50 : Started scan on 1822-096 for ~ 1.07374 min.
+13:13:33 : Started scan on J1600-3053 for ~ 2.14748 min.
+13:21:11 : Started scan on 1822-096 for ~ 9.66367 min.
+13:40:31 : Started scan on 1822-096 for ~ 1.34218 min.
+13:42:28 : Started scan on 1822-096 for ~ 5.3687 min.
+13:52:33 : Started scan on 1822-096 for ~ 1.34218 min.
+13:54:33 : Started scan on 1822-096 for ~ 0.53687 min.
+13:57:40 : Started scan on J1713+0747 for ~ 20.6695 min.
+14:20:41 : Started scan on B1855+09 for ~ 16.3745 min.
+14:40:01 : Started scan on J1909-3744 for ~ 20.4011 min.
+15:07:33 : Started scan on B1937+21 for ~ 5.10027 min.
+15:18:01 : Started scan on J2124-3358 for ~ 9.1268 min.
+15:29:15 : Started scan on J2145-0750 for ~ 9.39523 min.
+15:44:19 : Started scan on J2317+1439 for ~ 16.1061 min.
+16:00:00 : Stopped scan and observation session over.
+

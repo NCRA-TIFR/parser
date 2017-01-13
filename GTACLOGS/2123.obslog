@@ -1,0 +1,58 @@
+		 GTAC Observation Log 
+
+1. Date : 15/07/2005
+2. Observation Sr. No. : 2123
+3. Observer : Hota/LIM
+4. Observer's Email : hota@ncra.tifr.res.in,lim@asiaa.sinica.edu.tw
+5. Project Name : ARP240HI
+6. Project Code : 08DVT02
+7. Operator(s) : Jayprakash,
+	Manish G.,
+	Sachin,
+	Sanjay,
+	Santaji,
+	
+8. Command File : /atemp2/cmd/hota/arp240.cmd
+9. LTA File : /rawdata/15jul/08dvt02_arp240.lta,
+	/rawdata1/15jul/08dvt02_arp240.ltb
+10. LogFlag File : /atemp2/logflags/08DVT02.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1385.0185 MHz ,RF2 : 1385.0185 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1315 MHz, ILO2 : 1315 MHz, IVLO1 : 70.0185 MHz, IVLO2 : 70.0185 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+10 dB, 16 MHz,ON, IF-CH2 : 10+10 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1385.0185 1385.0185 1315 1315 70.0185 70.0185 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+--
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 14:00 - 23:19
+
+23. Comments (During Observations) :
+***************************************
+------- ONLINE  : Adiyta --------------
+------- IF ATTN : NAUTH@1390 ------------
+***************************************
+
+14:00 : Started antennas settings.
+14:12 : Started scan on 3c286 for 15min.
+14:45 : Started the command file /atemp2/cmd/hota/arp240.cmd.
+19:31 : Transit problem on 3C286, scan#20 few first
+        records are bad, command file stopped.
+19:50 : Command file restarted.
+23:08 : Started record on 3c286.
+23:19 : Stopped 3c286, closed observation.
+
+

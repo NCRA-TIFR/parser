@@ -1,0 +1,88 @@
+1. Date : 22/09/2002
+2. Observation Sr. No. : 0816
+3. Observer : RM Smith
+4. Observer's Email : r.smith@astro.cf.ac.uk
+5. Project Name : NGC
+6. Project Code : 02RMS01
+7. Operator(s) : Galande M.M.,
+	Jangam M.S.,
+	Kamble J.R.,
+	Kudale S.S.,
+	Umbarje M.S.,
+	
+8. Command File : /temp2/data/cmd/rms/ngc6585a.cmd,
+	/temp2/data/cmd/rms/ngc6585b.cmd,
+	/temp2/data/cmd/rms/ngc7347a.cmd,
+	/temp2/data/cmd/rms/ic1711a.cmd,
+	/temp2/data/cmd/rms/ic2098a.cmd,
+	/temp2/data/cmd/rms/ic2098b.cmd,
+	/temp2/data/cmd/rms/ic2098b.cmd
+9. LTA File : /rawdata/22sep/02rms01_ngc6585ab.lta, /rawdata/22sep/02rms01_ic1711ab.lta, /rawdata/22sep/02rms01_ic2098a.lta
+
+ANTENNA SETTINGS :
+
+10. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1400 MHz ,RF2 : 1400 MHz, SA1 : 0 dB, SA2 : 0 dB
+11. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1330 MHz, ILO2 : 1330 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+12. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 0+0 dB, 32 MHz,ON, IF-CH2 : 0+0 dB, 32 MHz,ON
+13. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+14. CLK_SEL/Samp_Freq : 0
+15. Channels : 0:127:1
+16. Frequency Parameters (TPA) : 1400 1400 1330 1330 70 70 
+
+17. Integration Time : 128 STA ~ 16.908 Sec.
+18. No of Antennas Working(Fringing) :11
+
+19. Name of Non-Working Antennas (with reason for each) :
+ALL Arm antennas : No MSEB Power.
+C00 : No fringe.
+C06 : 175 poln. dead.
+
+20. Start and End Time of Obs.(IST): 17:29 - 09:24
+
+21. Comments (During Observations) :
+No Power to all arm antennas (EWS). 
+
+Running on generator.
+17:29	started scan on 3c286. for 15mins with CSQ antennas.
+17:47	: started command file /temp2/data/cmd/rms/ngc6585a.cmd.
+19:17	: stopped command file.
+19:19	: started command file /temp2/data/cmd/rms/ngc6585b.cmd
+19:58   : Power went off for change over from 
+          generator to MSEB. Stopped the scan and
+          command file.
+
+20:56   : Started the command file again.
+
+21:33   : Due to a power glitch on antennas got
+          reset. Stopped the command file and 
+          das scan. Reset all the antennas parameters.
+
+22:05   : Started recording on 3c48.
+
+22:17   : Stopped the scan on 3c48.
+22:31	: started command file : /temp2/data/cmd/rms/ngc7347a.cmd
+
+24:41   : Stopped the command file.
+24:42   : Started command file: /temp2/data/cmd/rms/ngc7347b.cmd
+26:44   : Stopped the command file.
+
+Started new lta file: /rawdata/22sep/02rms01_ic1711ab.lta
+26:50   : Started scan on 3C48 for 15 mins.
+27:05   : Antennas moved to source 0204+152.
+          Scan was not stopped. Last 8-9 records are bad, in the scan.
+27:10   : Started command file /temp2/data/cmd/rms/ic1711a.cmd
+30:01   : Stopped the command file.
+
+Started new lta file: /rawdata/22sep/02rms01_ic2098a.lta
+30:06   : Started command file  /temp2/data/cmd/rms/ic2098a.cmd
+31:08   : C12 failed (ABC T.O.)
+31:29   : C12  Started working,
+31:32   : Stopped cmd file and started new
+        : /temp2/data/cmd/rms/ic2098b.cmd
+33:01   : Stopped cmd file.
+33:06   : Started recording for FLUX/BANDPASS cal (3c147)
+33:24   : Stopped recording on FL/BP cal.
+

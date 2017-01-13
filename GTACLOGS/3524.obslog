@@ -1,0 +1,57 @@
+		 GTAC Observation Log 
+
+1. Date : 30/12/2007
+2. Observation Sr. No. : 3524
+3. Observer : MRS
+4. Observer's Email : manash@aries.ernet.in
+5. Project Name : Study of GSFR
+6. Project Code : 13MRS01
+7. Operator(s) : Deepak,
+	Nilesh,Jitendra
+	
+8. Command File : /atemp2/cmd/mrs/sh2_93.cmd
+9. LTA File : /rawdata/30dec/13mrs01_30dec07.lta,
+	/rawdata1/30dec/13mrs01_30dec07.ltb
+10. LogFlag File : /atemp2/logflags/13MRS01.FLAGS.14
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+S01 : No fringe.
+C02 : Painting.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 10:02 - 18:02
+
+23. Comments (During Observations) :
+-------------------------------------------------
+******** ONLINE Machine : Adiyta    ********* 
+******** Corr Mode : IndianPolar    *********
+-------------------------------------------------
+10:02 : Started antenna settings.
+10:16 : Started scan on 3c286 for 15min.
+10:31 : Stopped the scan.
+10:37 : Started command file.
+16:10 : E06 'run' flag abscent for AZ axis.
+        till 17:10 Hrs, E06 analysis, messages, ondisplay from logfile
+             checked to debug problem - print given to Shri. NVN.
+17:28 : Command file stopped. phase cal scan started.
+17:39 : Scan stopped.
+17:46 : Flux cal scan on 3c286 started.
+18:02 : Scan stopped, project over.
+
+

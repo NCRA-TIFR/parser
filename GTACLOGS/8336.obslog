@@ -1,0 +1,91 @@
+		 GTAC Observation Log
+
+1. Date : 16/01/2016
+2. Observation Sr. No. : 8336
+3. Observer : Nceba Walter Mhlahlo, Sergio Colafrancesco
+4. Observer's Email : nmgaxamba@gmail.com, sergio.colafrancesco@wits.ac.za
+5. Project Name : The Structure of the Recently Discovered Giant Radio Galaxy
+6. Project Code : 29_004
+7. Operator(s) : Navnath
+8. Command File : /odisk/gtac/cmd/29_004/05jan16/obs_610.cmd
+9. LTA File : /gsbifrdata/16jan/29_004_16jan2015_8s.lta
+10. LogFlag File : /odisk/online1/logflags/29_004.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_lenyadri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Full_Stokes
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 591 591 540 540 51 51
+30. Integration Time : 8.053 Sec
+31. No of Antennas Working(Fringing) at the beginning :24
+
+32. Name of Non-Working Antennas (with reason for each) :
+C03 : :BLDC Work.
+W06 : :Fiber Cut. 
+S04 : :Fiber Cut.
+S06 : :Fiber Cut.
+E06 : :No Fringe
+C12 : CST Painting.
+
+
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 16 Jan 2016 15:00:00 - 16 Jan 2016 19:00:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :24
+
+37. Comments (During Observations) :
+Small Lines RFI observed in Band :-
+-----------------------------------
+ C12 : 600 Mhz
+ E03 : 607 Mhz
+ E06 : 597 Mhz
+ S02 : 600,605,610 Mhz
+ S06 : 594 Mhz
+ W04 : 599,607,615
+ W05 : 599,607,615,623 Mhz
+ 
+15:00 : Started setup.
+114:59:40 : Started scan on 3C48 for ~ 5.90557 min.
+15:14:57 : Started scan on 0116-208 for ~ 1.40928 min.
+15:21:14 : Started scan on J013313-13 for ~ 15.0995 min.
+15:57:18 : Started scan on 0116-208 for ~ 1.47639 min.
+16:08:24 : Started scan on J013313-13 for ~ 14.9653 min.
+16:40:37 : Started scan on 0116-208 for ~ 1.40928 min.
+16:46:39 : Started scan on J013313-13 for ~ 15.1666 min.
+17:18:01 : Started scan on 0116-208 for ~ 1.47639 min.
+17:24:01 : Started scan on J013313-13 for ~ 14.9653 min.
+17:54:53 : Started scan on 0116-208 for ~ 1.47639 min.
+18:00:56 : Started scan on J013313-13 for ~ 15.0324 min.
+18:31:49 : Started scan on 0116-208 for ~ 1.47639 min.
+18:38:02 : Started scan on J013313-13 for ~ 15.0324 min.
+19:08:54 : Started scan on 0116-208 for ~ 1.47639 min.
+19:14:54 : Started scan on J013313-13 for ~ 5.90557 min.
+19:27:34 : Started scan on 0116-208 for ~ 5.3016 min.
+19:42:44 : Started scan on 3C48 for ~ 6.03979 min.
+20:00 : Observation session over.
+---------------------------------------------------------
+

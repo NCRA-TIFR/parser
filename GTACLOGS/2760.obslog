@@ -1,0 +1,86 @@
+		 GTAC Observation Log 
+
+1. Date : 05/08/2006
+2. Observation Sr. No. : 2760
+3. Observer : RAA
+4. Observer's Email : rangiras@rri.res.in
+5. Project Name : HCG010
+6. Project Code : 10RAA01
+7. Operator(s) : Sanjay,
+	
+8. Command File : /btemp2/cmd/rabbi/hcg010.cmd,
+	/btemp2/cmd/rabbi/hcg068.cmd
+9. LTA File : /rawdata/5aug/10raa01_hcg010.lta,
+	/rawdata1/5aug/10raa01_hcg010.ltb,
+	/rawdata/5aug/10raa01_hcg030.lta,
+	/rawdata1/5aug/10raa01_hcg030.ltb,
+	/rawdata/5aug/10raa01_hcg068.lta,
+	/rawdata1/5aug/10raa01_hcg068.ltb
+10. LogFlag File : /btemp2/logflags/10RAA01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1395.898 MHz ,RF2 : 1395.898 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1330 MHz, ILO2 : 1330 MHz, IVLO1 : 65.898 MHz, IVLO2 : 65.898 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 16 MHz,ON, IF-CH2 : 6+6 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 4000 KHz, 6 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 2
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1395.898 1395.898 1330 1330 65.898 65.898 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :25
+
+20. Name of Non-Working Antennas (with reason for each) :
+S03,S04 & S06 ABC T.O.
+C09 - brakes problem.
+C00 - Poor fringe.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 00:00 - 19:36
+
+23. Comments (During Observations) :
+----------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : USBHighRes     *********
+******** IF Attn : AUTHIF @ 1390 MHz ********
+----------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+---------------------------------------------
+00:00 : Flux cal, 3c48 started.
+00:12 : cmd file started.
+01:51 : Wind high, stopped cmd file, antenna parked.
+02:36 : wind slowed down, started observation
+06:40 : Stopped observation,
+      : LO4 changed to 66.862MHz.
+      TPA 1396.862 1396.862 1330 1330 66.862 66.862
+06:42 : Started observation flux cal, 3c48.
+06:51 : Started scan on 3c147.
+07:15 : Started the command file.
+10:17 : MSEB power glitch occored antennas got reset.
+        Reset all the antennas
+10:26 : restarted the command file.
+13:00 : stopped the command file and started the
+        scan on 3c147.
+13:10 : observation session over.
+        New setup 
+       TPA 1407.1340 1340 67.1340
+13:19 : started new record and command files.
+      : S01 released for observation.
+      : S01,C02 no fringe.
+14:30 : C02 feed refocused and s01 reset.
+17:00 : W04 started working.
+19:25 : Stopped command file.
+19:26 : Started scan on the phase cal.
+19:36 : Stopped scan on phase cal and stopped 
+project.
+

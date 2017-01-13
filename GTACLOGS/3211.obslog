@@ -1,0 +1,60 @@
+		 GTAC Observation Log 
+
+1. Date : 19/06/2007
+2. Observation Sr. No. : 3211
+3. Observer : Sri Anand, Nirupam Roy
+4. Observer's Email : anand@iucaa.ernet.in,neeraj@ncra.tifr.res.in,nirupam@ncra.tifr.res.in
+5. Project Name : QSAGAL
+6. Project Code : 12NGA01
+7. Operator(s) : Jayprakash,
+	Jitendra,
+	Manisha J.,
+	Sachin,
+	
+8. Command File : /btemp2/cmd/nirupam/qgp.cmd
+9. LTA File : /rawdata/19jun/12nga01_19jun07.lta,
+	/rawdata1/19jun/12nga01_19jun07.ltb
+10. LogFlag File : /btemp2/logflags/12NGA01.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1322.4334 MHz ,RF2 : 1322.4334 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1255 MHz, ILO2 : 1255 MHz, IVLO1 : 67.4334 MHz, IVLO2 : 67.4334 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+4 dB, 16 MHz,ON, IF-CH2 : 16+4 dB, 16 MHz,ON
+14. BB BW(KHz) & BB ALC : 2000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1322.4334 1322.4334 1255 1255 67.4334 67.4334 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :24
+
+20. Name of Non-Working Antennas (with reason for each) :
+C01 - Servo problem.
+C02 - Not fringing.
+C04 - Feed not in focus
+E04 - 130 polarisation not fringing.
+S06 - ABC time out.
+C12 - fringe fluctuations
+W06 - servo time out,all MCMs are timed out.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 09:40 - 19:51
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : Indian Polar Mode *********
+--------------------------------------------
+09:40 : Started scan on 3C147 for 10mins.
+09:55 : Started command file.
+19:32 : Stopped command file.
+19:36 : Started scan on flux cal.
+19:51 : Scan stopped, stopped project.
+
+
+

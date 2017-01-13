@@ -1,0 +1,58 @@
+		 GTAC Observation Log 
+
+1. Date : 15/01/2006
+2. Observation Sr. No. : 2419
+3. Observer : Rottgering
+4. Observer's Email : rottgeri@strw.leidenuniv.nl
+5. Project Name : 2256
+6. Project Code : 09HRA01
+7. Operator(s) : Manisha J.,
+	
+8. Command File : /atemp2/cmd/huub/f.cmd
+9. LTA File :
+10. LogFlag File : /atemp2/logflags/09HRA01.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 157 MHz ,RF2 : 157 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 223 MHz, ILO2 : 223 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 6 MHz,ON, IF-CH2 : 16+16 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 157 157 223 223 66 66 
+
+18. Integration Time : 2 LTA ~ 0.264 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+E04 - Power not equilized 
+E05 - High Self-Count
+C00,C01,C02 - Fringe not stable.
+
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 15:12 - 02:00
+
+23. Comments (During Observations) :
+ONLINE ADITYA
+CRR -DVL -Indian-Polar Mode
+AuthIF 150 MHz.
+------------------------------
+1512  : Started scan on 3C48 for 15mins.
+1530  : Started command file 
+        /atemp2/cmd/hubb/f.cmd
+
+23:50 : command file stopped.
+        Changed target to F05+48.
+        Restarted command file.
+
+02:00 : Observation stopped.
+
+
+*** Data recording was done at 2sec., data files not archived.

@@ -1,0 +1,45 @@
+1. Date : 04/07/2002
+2. Observation Sr. No. : 680
+3. Observer & email : Ishwar , ishwar@ncra.tifr.res.in
+4. Project Name & Code : CYGX3 / 02CHI01 
+5. Operator(s) : Jayprakash(2), Manish(2), Sanjay(2)
+6. Command File/Source  & Lta File : /temp2/data/cmd/ishwar/toi1.cmd
+                                     /rawdata/4jul/02chi01_cygx3_1420.lta.
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 : 1390 MHz., 0 dB., OFF.
+8. Ist LO (MHz) & IVth LO (MHz) : 1350 MHz., 70.000 MHz.
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : 0+0 dB., 32 MHz., ON.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status : 16 MHz., 0 , ON.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 0/0
+12. Channels : 0:127:1
+13. Frequency Parameters (TPA) : 1420 1420 1350 1350 70 70
+
+14. Integration Time (Sec.) : 16sec(Lta : 2X8m)
+15. No of Antennas Working(Fringing) : 27
+
+16. Name of Non-Working Antennas (with reason for each) : 
+
+		C01	MCM 5 T.O.
+		S06	No fringe.
+        C14 MCM 5 T.O.
+
+17. Starting and Ending time of Observations (IST) : 22:39
+18. Comments (During Observations) :
+
+    22:39  Started scan on 3C286 for 15min.
+    22:55  Stopped scan.
+           Antennas moved to source 2052+365.
+    23:03  Started command file /temp2/data/cmd/ishwar/toi1.cmd
+	04:40  C14 got parked,(wind high.)
+	
+			RFI at ~chan no. 4-5 (1420 MHz RFI).
+
+
+
+
+19. Data Backup files & Tape No. :

@@ -1,0 +1,52 @@
+		 GTAC Observation Log 
+
+1. Date : 02/09/2004
+2. Observation Sr. No. : 1694
+3. Observer : Manojendu
+4. Observer's Email : ishwar@ncra.tifr.res.in,manojendu@ncra.tifr.res.in
+5. Project Name : 04DT056
+6. Project Code : 04DT056
+7. Operator(s) : Sachin,
+	
+8. Command File : /btemp2/cmd/ishwar/grs1915.cmd
+9. LTA File : /rawdata/2oct/04dt056_grs1915.lta,
+	/rawdata1/2oct/04dt056_grs1915.ltb
+10. LogFlag File : /btemp2/logflags/04DT056.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1280 MHz ,RF2 : 1280 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1210 MHz, ILO2 : 1210 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 14+14 dB, 6 MHz,ON, IF-CH2 : 14+14 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1280 1280 1210 1210 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+E05 :MCM 14 time out.
+E04 :showing mcm 0 T.O.
+
+21. Start and End Time of Obs.(IST): 15:15 - 21:18
+
+22. Comments (During Observations) :
+******ONLINE BHASKAR**********
+******AUTHIF @ 1280MHz.********
+--------------------------------
+17:41 : Taken 15mins scan on 3C286.
+18:07 : taken scan on the calibrator.
+18:16 : scan on the source.
+19:05 : scan on the calibrator.
+19:16 : scan on the source.
+20:00 : C01 given brakes.
+20:25 : C01 returned.
+20:30 : started cmd file.
+21:18 : stopped the command file & observation.
+
+

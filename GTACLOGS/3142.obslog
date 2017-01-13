@@ -1,0 +1,89 @@
+		 GTAC Observation Log 
+
+1. Date : 14/05/2007
+2. Observation Sr. No. : 3142
+3. Observer : Deshpande
+4. Observer's Email : desh@rri.res.in,yogesh@rri.res.in
+5. Project Name : PSR OBSN.
+6. Project Code : 12YMA01
+7. Operator(s) : Deepak,
+	Sachin,
+	
+8. Command File : /btemp2/cmd/hold.cmd
+9. LTA File : /rawdata/14may/12yma01_235.lta,
+	/rawdata1/14may/12yma0a_610.ltb,
+	/rawdata/14may/12yma01_614.lta,
+	/rawdata1/14may/12yma01_614.ltb
+10. LogFlag File : /btemp2/logflags/12YMA01.FLAGS,
+	/btemp2/logflags/12YMA0A.FLAGS,
+	/btemp2/logflags/12YMA01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+10 dB, 32 MHz,OFF, IF-CH2 : 4+10 dB, 32 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C08 : Servo T.O.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 20:00 - 00:00
+
+23. Comments (During Observations) :
+----------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+----------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+------------------------------------------------
+20:30 : Started doing settings.
+Split antennas in two subarrays
+Subarray 4 
+settings default 235 settings - recording in USB.
+antenas C00 C02 C04 C06 C10 C11 C12 C13 C14 
+TPA 244 244 310 310 66 66
+
+SUBARRAY 5 
+SETTINGS DEFAULT 610 MHz - recording in LSB.
+ANTENNAS C01 C03 C05 C09 E02 W01 W02 S01 S02
+TPA 610 610 540 540 70 70 
+
+21:00 : Done equalisation on 3C286 and started phasing.
+21:15 : Found USB not getting phased.
+and C13 got Corr problem.
+21:45 : After many iterations, decided to change LSB
+settings to 610 MHz. with LO1 greater than RF.
+TPA 614 614 680 680 66 66
+And also found that while doing phasing some 
+antennas were getting problematic bandshapes after
+doing phasing. Like for 1st iteration C13 got affected.
+for 2nd iteration C12 and C04 got affected while C13
+returned. So this kind of problems.
+22:15 : Still found USB is not getting phased.
+22:30 : Then did same settings for two subarray.
+i.e. TPA 614 614 680 680 66 66
+23:00 : Started phasing on 3C286 after combining
+two subarrays for above TPA still found that USB is 
+not getting phased.
+23:20 : Scan started on pulsar.
+00:00 : Stopped observation session.
+
+
+

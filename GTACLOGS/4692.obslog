@@ -1,0 +1,64 @@
+		 GTAC Observation Log 
+
+1. Date : 04/01/2010
+2. Observation Sr. No. : 4692
+3. Observer : Yogesh Chandola
+4. Observer's Email : chandola@ncra.tifr.res.in,sirothia@ncra.tifr.res.in
+5. Project Name : J0831+46
+6. Project Code : 17_082
+7. Operator(s) : Santaji,
+	
+8. Command File : /odisk/gtac/cmd/sirothia/17_082/05jan10a.cmd
+9. LTA File : /rawdata/4jan/17_082_05jan2010_a.lta,
+	/rawdata1/4jan/17_082_05jan2010_a.ltb
+10. LogFlag File : /odisk/online1/logflags/17_082.FLAGS.12
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1258 MHz ,RF2 : 1258 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1190 MHz, ILO2 : 1190 MHz, IVLO1 : 68 MHz, IVLO2 : 68 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+14. BB BW(KHz) & BB ALC : 4000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1258 1258 1190 1190 68 68 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+S01 : 175 low fringe.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 23:50 - 05:00
+
+23. ONLINE Machine : Lenyadri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+---------------------------------------
+GSB data file 16s
+/gsbifrdata/4jan/17_082_05jan2010_a.lta
+---------------------------------------
+2s data files
+GHB : 
+/rawdata/4jan/17_082_05jan2010_a_2s.lta,
+/rawdata1/4jan/17_082_05jan2010_a_2s.ltb
+GSB:
+/gsbifrdata/4jan/17_082_05jan2010_a_2s.lta
+-----------------------------------------
+23:53 : scan started on 3c147.
+00:15 : command file started.
+04:44 : stopped the command file
+      : scan strted on 3c286
+05:00 : stopped the scan and observation session
+      : over.
+
+
+
+

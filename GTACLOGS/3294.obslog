@@ -1,0 +1,72 @@
+		 GTAC Observation Log 
+
+1. Date : 04/08/2007
+2. Observation Sr. No. : 3294
+3. Observer : Ishwar
+4. Observer's Email : ishwar@ncra.tifr.res.in
+5. Project Name :  TEV
+6. Project Code : 12JMP01
+7. Operator(s) : Deepak,
+	Jayprakash,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/jmp/jmptsys.cmd,
+	/btemp2/cmd/jmp/jmpaug4.cmd
+9. LTA File : /rawdata/4aug/12jmp01_tsys.lta,
+	/rawdata1/4aug/12jmp01_tsys.ltb,
+	/rawdata/4aug/12jmp01_04aug07.lta,
+	/rawdata1/4aug/12jmp01_04aug07.ltb
+10. LogFlag File : /btemp2/logflags/12JMP01.FLAGS.8
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 64 LTA ~ 8.454 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+
+         USB-130  Bad baselines are :
+
+W04-USB-130:C10-USB-130 2.770
+C10-USB-130:S03-USB-130 0.202
+
+         USB-175  Bad baselines are :
+
+W04-USB-175:C10-USB-175 2.799
+S01-USB-175:W04-USB-175 2.204
+E06-USB-175:E05-USB-175 2.520
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 12:00 - 01:40
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+19:35 : Started command file
+        /btemp2/cmd/jmp/jmptsys.cmd
+21:14 : command file stopped.
+21:14 : Started scan on 3C286 for 5mins.
+21:00 : W01 switched OFF.
+21:20 : ALC made ON.
+        started new data files.
+21:23 : Started scan on 3C286 for 15mins.
+21:39 : Started command file
+        /btemp2/cmd/jmp/jmpaug4.cmd.
+01:34 : Stopped the command file.
+01:35  : Started scan on phase cal.
+01:40 : Stopped the scan & obs.     
+

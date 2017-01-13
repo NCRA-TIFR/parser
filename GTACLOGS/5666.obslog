@@ -1,0 +1,68 @@
+		 GTAC Observation Log 
+
+1. Date : 26/11/2011
+2. Observation Sr. No. : 5666
+3. Observer : Mahadev Baburao Pandge, Madhav Khushalrao Patil, Joydeep Bagchi
+4. Observer's Email : mbpandge@gmail.com
+5. Project Name : Radio jet inflated X-ray cavities in the poor cluster cooling flow system NGC 6338
+6. Project Code : 21_060
+7. Operator(s) : Manisha,
+	Nilesh,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/21_060/ngc6338.cmd
+9. LTA File : /gsbifrdata/27nov/21_060_27nov2011.lta,
+	/gsbifrdata/27nov/21_060_27nov2011.lta.1,
+	
+10. LogFlag File : /odisk/online1/logflags/21_060.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1371 MHz ,RF2 : 1371 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1320 MHz, ILO2 : 1320 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 512 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 1371 1371 1320 1320 51 51.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :28
+
+27. Name of Non-Working Antennas (with reason for each) :
+S04, C14 : Painting.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 11:00 - 19:17
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+11:00 : started setup.
+11:07 : started scan on 3C286 ~ 12mins
+11:22 : command file started.
+
+14:15 : Node 10 Problem.
+        No Fringe @ LL pol of C04,C05,C06 and C08.
+
+14:30 : problem solved,re-started GSB das chain.
+14:50 : Started command file.
+15:00 : E06 -175 pol shows initermitent RIF lines.
+17:30 : C14 antenna released for observation.
+18:30 : S04 released for observation.
+19:00 : stopped the command file.
+19:07 : scan started on 3c48.
+19:17 : stopped the scan and observation session over.
+
+
+

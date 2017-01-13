@@ -1,0 +1,64 @@
+		 GTAC Observation Log
+
+1. Date : 28/03/2015
+2. Observation Sr. No. : 7710
+3. Observer : Régis Courtin, Mamta Pandey-Pommier, Julien Girard, Philippe M. Zarka, Cyril Tasse
+4. Observer's Email : regis.courtin@obspm.fr, mamtapan@gmail.com, julien.girard@cea.fr, philippe.zarka@obspm.fr, cyril.tasse@obspm.fr
+5. Project Name : A determination of water abundance in Saturn\'s deep atmosphere 
+6. Project Code : 27_023
+7. Operator(s) : Deepak, Navnath, Pramod
+8. Command File : /odisk/gtac/cmd/27_023/27mar2015/obs_27Mar15.cmd
+9. LTA File : /gsbifrdata/27mar/27_023_27mar2015.lta
+10. LogFlag File : /odisk/online1/logflags/27_023.FLAGS.7,/odisk/online1/logflags/27_023.FLAGS.6,/odisk/online1/logflags/27_023.FLAGS.5,/odisk/online1/logflags/27_023.FLAGS.4,/odisk/online1/logflags/27_023.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 218 MHz, ILO2 : 218MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 16.666666 MHz; Step # 
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 138
+28. LO5 -2  : 167
+
+29. Frequency Parameters (TPA) : 156 156 218 218 62 62
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :27
+
+32. Name of Non-Working Antennas (with reason for each) :
+W04 : No fringe.
+C04 : No fringe.
+W06 : maintenance
+Data is affected dueto scintillation from 00:15 to 02:30 AM.
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 27 Mar 2015 22:00:00 - 28 Mar 2015 06:00:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :27
+
+37. Comments (During Observations) :
+23:15 : default setup @150MHz
+23:45 : Started scan on 3C286 for 15mins.
+00:10 : Started command file.
+00:15 : Data is affected due to scintillation.
+02:30 : Scintillation not seen phase cal. scan, scintillation is stopped.
+05:48 : Command file stopped.
+05:50 : Started scan on 3c286 for 15mins.
+06:05 : Observation stopped.
+

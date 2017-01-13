@@ -1,0 +1,70 @@
+		 GTAC Observation Log 
+
+1. Date : 23/01/2010
+2. Observation Sr. No. : 4731
+3. Observer : Srianand
+4. Observer's Email : anand@iucaa.ernet.in
+5. Project Name : J1408-0752
+6. Project Code : 17_080
+7. Operator(s) : Navanath,
+	Rupsingh,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/srianand/22jan/mg1408.cmd
+9. LTA File : /rawdata/23jan/17_080_23jan2010.lta,
+	/rawdata1/23jan/17_080_23jan2010.ltb
+10. LogFlag File : /odisk/online1/logflags/17_080.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 624.3232 MHz ,RF2 : 624.3232 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 555 MHz, ILO2 : 555 MHz, IVLO1 : 69.3232 MHz, IVLO2 : 69.3232 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 6 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 500 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 624.3232 624.3232 555 555 69.3232 69.3232 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+W05 : SSI work
+E03 : Servo problem.
+S06 : mcm 5 time out
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 04:00 - 11:33
+
+23. ONLINE Machine : Lenyadri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+04:00 : Started setup.
+04:17 : Started scan on 3C286.
+04:33 : Stopped scan.
+04:47 : Started command file.
+07:47 : Stopped command file.
+
+07:52 : Started scan on 3C286.
+08:04 : Stopped scan.
+
+08:10 : Restarted command file.
+09:04 : E05 taken for painting.
+09:07 : S06 started working.
+09:39 : C01 taken for painting.
+10:05 : E03 started working.
+10:55 : Stopped command file.
+
+10:58 : Started scan on 3C286.
+11:12 : Stopped scan.
+
+11:16 : Started scan on 3C468.1.
+11:33 : Stopped scan and observing session over.
+
+
+

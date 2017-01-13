@@ -1,0 +1,61 @@
+		 GTAC Observation Log 
+
+1. Date : 07/12/2004
+2. Observation Sr. No. : 1740
+3. Observer : Dr. Ramana Athreya
+4. Observer's Email : rathreya@ncra.tifr.res.in
+5. Project Name : 235 ngp
+6. Project Code : 07RMA01
+7. Operator(s) : Deepak,
+	
+8. Command File : /btemp2/cmd/rathreya/g2sday4.cmd
+9. LTA File : /rawdata/7dec/07rma01_ngp235.lta
+10. LogFlag File : /btemp2/logflags/07RMA01.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 243 MHz ,RF2 : 243 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 309 MHz, ILO2 : 309 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 6 MHz,ON, IF-CH2 : 16+16 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 243 243 309 309 66 66 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C09-130 No fringe.
+C11 - MCM 5 time out.
+
+21. Start and End Time of Obs.(IST): 03:23 - 13:39
+
+22. Comments (During Observations) :
+*********************************************
+** ONLINE  = bhaskar                       **
+** IF ATTN = AUTH IF @ 235MHz.             **
+*********************************************
+
+03:33 : Started scan on 3C147 for 15mins.
+03:53 : Started command file.
+        /btemp2/cmd/rathreya/g2sday4.cmd.
+05:19 : C04 acok flag vanished .
+06:00 : C04 started tracking.
+10:12 : C11 got power reset automatically,
+        can not set receiver settings, mcms
+        are giving time outs.
+11:43 : C12- mcm 2, 3, 9 T.O.
+12:00 : C11 MCM communication established.Receiver
+        settings done.
+~12:50 : S04 got ABC reset.
+13:22 : Source fields are around to set, command file
+        stopped.
+13:24 : flux cal scan started for 15m
+13:39 : scan stopped and project over.
+
+
+

@@ -1,0 +1,70 @@
+		 GTAC Observation Log 
+
+1. Date : 23/05/2006
+2. Observation Sr. No. : 2619
+3. Observer : Neeraj
+4. Observer's Email : neeraj@ncra.tifr.res.in
+5. Project Name : MG2
+6. Project Code : 10RSA01
+7. Operator(s) : Sanjay,
+	
+8. Command File : /btemp2/cmd/neeraj/mg2358.cmd
+9. LTA File : /rawdata/23may/10rsa01_2358.lta,
+	/rawdata1/23may/10rsa01_2358.ltb,
+	/rawdata/23may/10rsa01_cts247.lta,
+	 /rawdata1/23may/10rsa01_cts247.ltb 
+10. LogFlag File : /btemp2/logflags/10RSA01.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 652.95 MHz ,RF2 : 652.95 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 585 MHz, ILO2 : 585 MHz, IVLO1 : 67.95 MHz, IVLO2 : 67.95 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 16 MHz,ON, IF-CH2 : 16+16 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 2000 KHz, 9 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 3
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 652.95 652.95 585 585 67.95 67.95 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+E04-El. Brake problem.
+
+
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 06:05 - 14:00
+
+23. Comments (During Observations) :
+*** ONLINE : bhaskar ***
+*** USBHighRes MODE  ***
+*** newauthif@610MHz ***
+---------------------------------
+
+06:05 : Started flux cal
+06:20 : Stopped flux cal.
+07:24 : W02 parked for painting.
+09:43 : Command file stopped.
+09:52 : Started scan on 3C48 for 10mins.
+10:12 : Restarted command file.
+
+11:55 : E04 started working.
+12:45 : stopped observations.
+
+Started settings : default Dual Freq. settings.
+
+13:03 : Started scan on 3C48 for 5mins.
+13:16 : Started scan on 0440-435 for 3mins.
+13:20 : Started scan on CTS247.
+
+14:00 : Observation stopped.
+
+
+
+

@@ -1,0 +1,68 @@
+		 GTAC Observation Log 
+
+1. Date : 07/05/2010
+2. Observation Sr. No. : 4852
+3. Observer : J. Roy
+4. Observer's Email : jroy@ncra.tifr.res.in
+5. Project Name : Pulsar observation
+6. Project Code : 18_045
+7. Operator(s) : Navanath,
+	Nilesh,
+	Sachin,
+	
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /rawdata/7may/18_045_07may2010.lta,
+	/rawdata1/7may/18_045_07may2010.ltb
+10. GSB File : /odisk/gtac/cmd/hold.cmd
+11. LogFlag File : /odisk/online1/logflags/18_045.FLAGS.8
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,OFF, IF-CH2 : 4+12 dB, 32 MHz,OFF
+15. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:255:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C01 - OFF
+S03 - MCM 5 time out
+C04 - 175 Bad BandShape @ 130 pol (GHB only)
+21. Note for Backup :--
+
+22. Start and End Time of Obs.(IST): 04:00 - 08:05
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+04:10 : Started setup.
+04:20 : Started power eq on 1822-096 @ 800 counts.
+04:35 : Started phasing on 1822-096.
+04:56 : Started scan on pulsar J1623-2631.
+05:09 : Started scan on pulsar B1804-08.
+05:17 : Started scan on pulsar J1713+0747.
+05:28 : Started scan on pulsar J1730+2304.
+05:40 : Started scan on pulsar J1744-1134.
+05:48 : Started scan on pulsar B1822-09.
+05:55 : Started scan on pulsar 1822-096.
+05:59 : Started scan on pulsar G21.5-0.9.
+07:30 : Started scan on pulsar B1855+09.
+07:42 : Started scan on pulsar B1859+01.
+07:53 : Started scan on pulsar 1822-096.
+07:59 : Started scan on pulsar J1939+2134.
+08:05 : Observing session over.
+
+
+
+
+
+

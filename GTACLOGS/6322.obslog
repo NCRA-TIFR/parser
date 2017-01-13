@@ -1,0 +1,68 @@
+		 GTAC Observation Log 
+
+1. Date : 11/1/2013
+2. Observation Sr. No. : 6322
+3. Observer : Yashwant Gupta, Ujjwal Kumar
+4. Observer's Email : ygupta@ncra.tifr.res.in,ujjwalk.g@gmail.com,ujjwal@ncra.tifr.res.in
+5. Project Name : Pulsar Observtion
+6. Project Code : 23_065
+7. Operator(s) : Deepak,
+	Rupsingh,
+	Surender
+8. Command File : 
+9. LTA File : /gsbifrdata/11jan/23_065_325_11jan2013.lta,
+	/gsbifrdata/11jan/23_065_610_11jan2013.lta
+10. LogFlag File : /odisk/online1/logflags/SUBA4.FLAGS.435,
+	/odisk/online1/logflags/SUBA2.FLAGS.487
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 602 MHz ,RF2 : 602 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540 MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 16 MHz,OFF, IF-CH2 : 24+4 dB, 16 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : OFF 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 16 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 16:138000-167000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 602 602 540 540 62 62.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :26
+
+27. Name of Non-Working Antennas (with reason for each) :
+C12 : Servo problem.
+W05 : Mechanical maintenance and painting.
+S01 : BLDC work.
+C11 : Servo problem.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 21:50 - 23:16
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+# SUBA2# 325MHz# GAC #
+C01 C02 C03 C05 C10 C13 W01 E02 
+-----------------------------------------
+#SUB4 # 610MHz # GAC #
+C00 C04 C06 C08 C09 C14 W02 
+W03 W04 E03 E04  S02 S03 S04 
+----------------------------------------
+21:55 : Started settings for 23_065.
+22:25 : Done power eq. & phasing on 0837-198.
+22:30 : Started scan on B0740-28.
+22:50 : Stopped scan.
+22:55 : Started scan on B0740-28.
+23:16 : Stopped scan & observing session is over. 
+
+
+

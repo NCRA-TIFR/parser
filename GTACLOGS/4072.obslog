@@ -1,0 +1,78 @@
+		 GTAC Observation Log 
+
+1. Date : 05/12/2008
+2. Observation Sr. No. : 4072
+3. Observer : Somak Raychaudhury
+4. Observer's Email : somak@star.sr.bham.ac.uk,j.h.croston@herts.ac.uk
+5. Project Name : REXCESS
+6. Project Code : 15JHC01
+7. Operator(s) : Jayprakash,
+	Manisha,
+	Navanath,
+	Rupsingh,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/15jhc01/5dec_lst07.cmd,
+	/odisk/gtac/cmd/15jhc01/5dec_lst11.cmd
+9. LTA File : /rawdata/5dec/15jhc01_05dec2008.lta,
+	/rawdata1/5dec/15jhc01_05dec2008.ltb
+10. LogFlag File : /btemp2/logflags/15JHC01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C05 : 175 no fringe.
+S01 : 175 no fringe.
+C13 : Unstable fringe.
+
+
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 00:51 - 11:09
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+00:51 : Started scan on 3C48.
+01:02 : Stopped scan.
+01:21 : '/odisk/gtac/cmd/15jhc01/5dec_lst07.cmd' command file started.
+        
+        E02 : Not tracking properly.
+
+05:33 : Stopped command file.
+05:43 : Started scan on 3C286.
+        
+        C05 : No fringe at both 130 and 175 pol.
+
+05:54 : Stopped scan.
+06:05 : '/odisk/gtac/cmd/15jhc01/5dec_lst11.cmd' command file started.       
+08:00 : E03 abc reset for 
+08:30 : C04 parked for painting.
+10:00 : C05 parked for painting.
+10:37 : E-arm power failure.
+10:41 : Started scan 3c286 for 10min.
+10:50 : E-arm back in observation.
+11:09 : Observation session over.
+
+
+
+ 
+
+
+

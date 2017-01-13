@@ -1,0 +1,71 @@
+		 GTAC Observation Log 
+
+1. Date : 11/9/2012
+2. Observation Sr. No. : 6156
+3. Observer : Giulia Macario
+4. Observer's Email : giulia.macario@oca.eu,hintema@nrao.edu
+5. Project Name : Searching for Radio Halos in the MACS-Planck X-ray luminous cluster sample
+6. Project Code : 21_042
+7. Operator(s) : Manisha,
+	Navanath,
+	Nilesh,
+	Rupsingh,
+	Sachin,
+	
+8. Command File : /odisk/gtac/cmd/21_042/11sept12/11sept12_1.cmd,
+	/odisk/gtac/cmd/21_042/11sept12/11sept12_2.cmd,
+	
+9. LTA File : /gsbifrdata/11sep/21_042_11sep2012.lta
+10. LogFlag File : /odisk/online1/logflags/22_021.FLAGS.9
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+12 dB, 32 MHz,ON, IF-CH2 : 10+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 306 306 255 255 51 51.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :28
+
+27. Name of Non-Working Antennas (with reason for each) :
+C03 : Servo problem.
+C05 : ABC time out.
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 08:16 - 16:00
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+08:16 : Started scan on 3c147 for 20min.
+08:37 : Stopped scan.
+08:43 : Started command file.
+/odisk/gtac/cmd/21_042/11sept12/11sept12_1.cmd,
+
+09:50 : Strong but intermittent RFI observed.
+
+10:50 : C05 released for observation.
+10:54 : S06 servo problem occurred,taken for maintenance.
+12:32 : S06 released for observation.
+16:00 : Observing session over.
+12:57 : Started next command file.
+/odisk/gtac/cmd/21_042/11sept12/11sept12_2.cmd
+15:37 : Started scan on 3c286.
+16:00 : Observing session over.
+-------------------------------------------------
+
+

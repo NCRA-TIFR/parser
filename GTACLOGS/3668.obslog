@@ -1,0 +1,72 @@
+		 GTAC Observation Log 
+
+1. Date : 11/03/2008
+2. Observation Sr. No. : 3668
+3. Observer : S.Pal
+4. Observer's Email : spal@nrca.tifr.res.in
+5. Project Name : Saturn
+6. Project Code : 13SPA02
+7. Operator(s) : Jayprakash,
+	Jitendra,
+	Sachin,
+	
+8. Command File : /atemp2/cmd/spal/saturn11mar.cmd
+9. LTA File : /rawdata/11mar/13spa02_saturn.lta,
+	/rawdata1/11mar/13spa02_saturn.ltb,
+	/rawdata/11mar/13spa02_saturn.lta.1,
+	/rawdata1/11mar/13spa02_saturn.ltb.1,
+	
+10. LogFlag File : /atemp2/logflags/13SPA02.FLAGS.1,
+	/atemp2/logflags/13SPA02.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+4 dB, 32 MHz,ON, IF-CH2 : 20+4 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+ C13- Visibility amplitude jumping in both sideband.
+        W01,W03 - No fringe at 235 MHz .
+        E05- No fringe?
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 18:22 - 05:25
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Aditya   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+
+18:00 : Bad baseline problem solved.
+        C13- Visibility amplitude jumping in both sideband.
+        W01,W03 - No fringe at 235 MHz .
+
+18:22 : Flux cal scan started for 10m.
+18:42 : Command file started.
+20:00 : E-arm Power failed.
+        Only E02,E03 Power resumed, Settings done.
+
+21:35 : E-arm Power resumed.
+21:49 : E-arm Settings re-done.
+        E05- No fringe?
+04:45 : Started scan on 3C286.
+05:10 : Found fstop is stopped.
+Stopped project and restarted record file.
+05:14 : Started new record file and started scan on 
+3C286.
+
+05:25 : Stopped project.
+

@@ -1,0 +1,102 @@
+		 GTAC Observation Log 
+
+1. Date : 06/07/2004
+2. Observation Sr. No. : 1539
+3. Observer : Prof. Y. Gupta
+4. Observer's Email : ygupta@ncra.tifr.res.in
+5. Project Name : NGC1851 AT 325
+6. Project Code : 06YGA01
+7. Operator(s) : Jitendra,
+	Sanjay,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/hold.cmd
+9. LTA File : /rawdata/6jul/06yga01_3c48_phs.lta
+10. LogFlag File : /btemp2/logflags/06YGA01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 325 MHz ,RF2 : 325 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 255 MHz, ILO2 : 255 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,OFF, IF-CH2 : 16+16 dB, 32 MHz,OFF
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, OFF
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 325 325 255 255 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+C05 : ABC T.O.
+
+
+
+21. Start and End Time of Obs.(IST): 03:24 - 12:28
+
+22. Comments (During Observations) :
+online bhaskar
+IF ATTN :- Power Eq.
+----------------------------------------------
+Pulsar Observation Log : 06YGa01(6th Jul, 2004)
+---------------------------------
+Antenna Settings : 325 MHz default settings, ALC's OFF., power equalised.
+Phassing done on 3c48.
+re-phassing done on '0521-207'
+-----------------------------------------------
+GAC Setup     : C00,C01,C02,C03,C04,C06,C08,C09,C10,C11,C12,C13,C14
+              : W01,W02 ( total 30 pols)
+-----------------------------------------------
+Pulsar        : b0329+54
+GAC Setup     : C00,C01,C02,C03,C04,C06,C08,C09,C10,C11,C12,C13,C14
+              : W01,W02 ( total 30 pols)
+Start Time    : 07:55:20 ( for 20mins)
+File          : /data/rawdata/7jul/p0329_325_30p.raw
+Comments      :  BB ALC found to ON in some of the antennas.
+-----------------------------------------------
+              : Switched off ALC, power equalised, re-phassing done on 0521-207.
+Pulsar        : J0437-47
+GAC Setup     : C00,C01,C02,C03,C04,C06,C08,C09,C10,C11,C12,C13,C14
+              : S01,E03,W01,W02 ( total 34 pols)
+Start Time    : 08:51:20 ( for 20mins)
+File          : /data/rawdata/7jul/p0437_325_p34.raw
+Comments      : No Comment
+-----------------------------------------------
+Pulsar        : NGC1851 
+GAC Setup     : C00,C01,C02,C03,C04,C06,C08,C09,C10,C11,C12,C13,C14
+              : S01,E03,W01,W02 ( total 34 pols)
+Start Time    : 09:16:27 ( for 60mins)
+File          : /data/rawdata/7jul/ngc1851_325_p34.raw0
+Comments      : No Comment
+-----------------------------------------------
+Pulsar        : J0437-47
+GAC Setup     : C00,C01,C02,C03,C04,C06,C08,C09,C10,C11,C12,C13,C14
+              : S01,W01(total 30 pols)
+Start Time    : 10:24:43 (for 20mins)
+File          : /data/rawdata/7jul/p0437_325_30p.raw1
+Comments      : No Comment
+-----------------------------------------------
+              : re-phassing on 0521-207
+              : once more re-phassing on 0521-207, S01 & C00, C01 was not good.
+Pulsar        : NGC1851
+GAC Setup     : C00,C01,C02,C03,C04,C06,C08,C09,C10,C11,C12,C13,C14
+              : S01,W01(total 30 pols)
+Start Time    : 11:04:16 (for 60mins)
+File          : /data/rawdata/7jul/ngc1851_325_30p.raw1
+Comments      : No Comment
+-----------------------------------------------
+              : Phassing not checked, not done.
+Pulsar        : 0450-18
+GAC Setup     : C00,C01,C02,C03,C04,C06,C08,C09,C10,C11,C12,C13,C14
+              : S01,W01(total 30 pols)
+File          : /data/rawdata/7jul/p0450-18_325_30p.raw
+Start Time    : 12:08:33 (for 20mins)
+Comments      : No Comment
+-----------------------------------------------
+12:28 : Stopped observation, closed project.
+-----------------------------------------------
+
+

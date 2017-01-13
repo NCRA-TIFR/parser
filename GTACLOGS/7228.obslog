@@ -1,0 +1,72 @@
+		 GTAC Observation Log 
+
+1. Date : 14/7/2014
+2. Observation Sr. No. : 7228
+3. Observer : BIJU.K.G,Joydeep Bagchi,Joe Jacob,C.H. IshwaraChandra,Pratik Anand Dabhade,Mamta Pandey-Pommier
+4. Observer's Email : kgbiju42@gmail.com,joydeep@iucaa.ernet.in,joe@iucaa.ernet.in,ishwar@ncra.tifr.res.in,pratikdabhade13@gmail.com,mamtapan@gmail.com
+5. Project Name : GMRT mapping of three gaint radio galaxies.
+6. Project Code : 26_008
+7. Operator(s) : Rupsingh,Surender
+8. Command File : /odisk/gtac/cmd/26_008/obs.cmd
+9. LTA File : /gsbifrdata1/14jul//26_008_14jul2014.lta,
+10. LogFlag File : /odisk/online1/logflags/26_008.FLAGS.4,
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : Realtime 
+15. GSB LTA : 8 
+16. GSB CTRL : ONLINE 
+17. GSB Fstop : ON 
+18. GAIN EQ : ON 
+19. Stokes : TotIntensity
+20. Beam - 1 : OFF
+21. Beam - 2 : OFF
+22. ACQ BW : 33.33 MHz
+23. Final BW : 33.333333 MHz; Step # 0
+24. Maximum Channels : 256 
+25. Channel Numbers : 0:255:1 
+26. LO5 -1  : 149.00 
+27. LO5 -2  : 156.00 
+
+28. Frequency Parameters (TPA) : 591 591 540 540 51 51.
+29. Integration Time : 8.053056 Sec.
+30. No of Antennas Working(Fringing) at the begining :29
+
+31. Name of Non-Working Antennas (with reason for each) :
+S06 : Low fringe
+32. Note for Backup :
+
+33. Start and End Time of Obs.(IST): 18:40 - 00:00
+
+34. ONLINE Machine : Shivneri
+
+35. No of Antennas Working(Fringing) at the end :27
+
+36. Comments (During Observations) :
+18:43 : Started scan on 3C286.
+18:58 : Stopped scan.
+19:02 : Started command file.
+------------------------------------------------------------------------
+19:32 : S-arm power failure.
+19:50 : S-arm started working.
+----------------------------------------------------------------------
+19:51 : S06 no fringe.
+------------------------------------------------------------------------
+19:58 : E & W arm power failure.
+20:38 : E & W arm Started working.
+------------------------------------------------------------------------
+20:39 : W01 No fringe.
+----------------------------------------------------------------------
+22:47 : S-arm power failure.
+22:55 : S-arm started working.
+23:10 : W03 servo problem.
+23:42 : Stopped command file.
+23:45 : Started scan on 3C286.
+00:00 : Stopped scan and observing session is over.
+ 

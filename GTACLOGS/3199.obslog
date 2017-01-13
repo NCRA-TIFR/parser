@@ -1,0 +1,53 @@
+		 GTAC Observation Log 
+
+1. Date : 13/06/2007
+2. Observation Sr. No. : 3199
+3. Observer : kotaimai
+4. Observer's Email : quarter@pparc.geophys.tohoku.ac.jp
+5. Project Name : Jupiter
+6. Project Code : 12HMA01
+7. Operator(s) : Navanath,
+	Sachin,
+	
+8. Command File : /btemp2/cmd/misawa/misawa13jun2.cmd
+9. LTA File : /rawdata/13jun/12hma01_13jun2007.lta,
+	/rawdata1/13jun/12hma01_13jun2007.ltb
+10. LogFlag File : /btemp2/logflags/
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+4 dB, 6 MHz,OFF, IF-CH2 : 16+4 dB, 6 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+C01 : servo problem.
+W02 : no fringe.
+E04 : No fringe
+S06 : No fringe
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 20:15 - 00:00
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    **********
+--------------------------------------------
+
+20:00 : started settings for !2HMA01 observation.
+20:18 : Started Flux cal on 3C286.
+20:50 : Command file started.
+22:13 : observation stopped.
+
+

@@ -1,0 +1,67 @@
+		 GTAC Observation Log
+
+1. Date : 16/11/2014
+2. Observation Sr. No. : 7430
+3. Observer : Jayanta Roy, Maura Ann McLaughlin, Scott M. Ransom, Bhaswati Bhattacharyya, Duncan Ross Lorimer, Lina Levin
+4. Observer's Email : jayanta.roy@manchester.ac.uk, maura.mclaughlin@mail.wvu.edu, sransom@nrao.edu, bhaswati.bhattacharyya@manchester.ac.uk, Duncan.Lorimer@mail.wvu.edu, lina.s.levin@gmail.com
+5. Project Name : Coherently dedispersed timing studies at the GMRT for IPTA MSPs
+6. Project Code : 27_043
+7. Operator(s) : Nilesh, Rupsing
+8. Command File : /odisk//gtac/cmd/jroy/27_043_16nov.cmd
+9. LTA File : /gsbifrdata1/16nov/27_043_suba4_325_16nov2014_2s.lta,/gsbifrdata1/16nov/27_043_suba2_610_16nov2014_2s.lta
+10. LogFlag File : /odisk/online1/logflags/27_043.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : Volt
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 591 591 540 540 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :26
+
+32. Name of Non-Working Antennas (with reason for each) :
+C01 : : Maintenance.
+C11 : : MCM time out.
+E06 : : BLDC work.
+S04 : : MCM time out.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 16 Nov 2014 14:00:00 - 16 Nov 2014 18:30:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :26
+
+37. Comments (During Observations) :
+#Suba2:-610MHz#C00,C05,C08,C09,C10,C12,C13,C14,E02,E03,W02,W03,W04,S02,S03
+---------------------------------------------------------------------------
+#Suba4:-325Mhz#C02,C03,C04,C06,W01,S01
+--------------------------------------------------------------------------- 
+15:15 : Started power eq. and phasing.
+15:28 : Phasing done.
+15:30 : Started command file.
+17:45 : Scan no:-8 is bad.(source not available in list).
+18:30 : Stopped command file and observation session over.
+
+

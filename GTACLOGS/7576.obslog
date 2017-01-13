@@ -1,0 +1,61 @@
+		 GTAC Observation Log
+
+1. Date : 28/01/2015
+2. Observation Sr. No. : 7576
+3. Observer : John Michael Cannon, Stephen Pardy, Göran Östlin, Emily Freeland, Lucia Guaita, Matthew Hayes, Daniel Kunth, Peter Laursen, Jens Melinder, Ivana Orlitova, Hector Oti-Floranes, Johannes Puschnig, Thøger Emil Rivera-Thorsen, Andreas Sandberg, Daniel Schaerer, Anne Verhamme
+4. Observer's Email : jcannon@macalester.edu, spardy@astro.wisc.edu, ostlin@astro.su.se, emily@astro.su.se, lguai@astro.su.se, matthew@astro.su.se, kunth@iap.fr, pela@dark-cosmology.dk, jens@astro.su.se, ivana.orlitova@unige.ch, otih@astrosen.unam.mx, johannes.puschnig@astro.su.se, trive@astro.su.se, sandberg@astro.su.se, daniel.schaerer@unige.ch, anne.verhamme@unige.ch
+5. Project Name : Neutral Hydrogen in the LARS\\+eLARS Galaxies
+6. Project Code : 27_045
+7. Operator(s) : Nilesh, Sachin, Shilpa
+8. Command File : /odisk/gtac/cmd/27_045/Jan2015/27_045_S03.January28.IST00.obs.cmd
+9. LTA File : /gsbifrdata/28jan/27_045_28jan2015.lta
+10. LogFlag File : /odisk/online1/logflags/27_045.FLAGS.7
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1367 MHz ,RF2 : 1367 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1305 MHz, ILO2 : 1305MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 16.666666 MHz; Step # 
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 138
+28. LO5 -2  : 167
+
+29. Frequency Parameters (TPA) : 1367 1367 1305 1305 62 62
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :26
+
+32. Name of Non-Working Antennas (with reason for each) :
+C05 : : Frequent ABC reset.
+W04 : ,E04 : Maintenance.
+S01 : Servo timed out.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 28 Jan 2015 00:00:00 - 28 Jan 2015 08:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :26
+
+37. Comments (During Observations) :
+23:59 : Started scan on 3C147 for 15 mins.
+00:15 : Started command file.
+07:41 : Stopped command file.
+
+07:44 : Started scan on 3C286.
+08:00 : Stopped scan and observing session over.

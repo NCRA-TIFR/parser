@@ -1,0 +1,87 @@
+		 GTAC Observation Log 
+
+1. Date : 14/05/2006
+2. Observation Sr. No. : 2605
+3. Observer : Konar 
+4. Observer's Email : sckonar@ncra.tifr.res.in
+5. Project Name : DDRG
+6. Project Code : 10CKA01
+7. Operator(s) : Deepak,
+	Manisha J.,
+	Sachin,
+	Sanjay,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/konar/ddrg_j1158_du.cmd,
+	/btemp2/cmd/konar/ddrg_j1835_du.cmd
+9. LTA File : /rawdata/14may/10cka01_j1158_du.lta,
+	/rawdata1/14may/10cka01_j1158_du.ltb,
+	/rawdata/15may/10cka01_j1835_du.lta,
+	/rawdata1/15may/10cka01_j1835_du.ltb
+10. LogFlag File : /btemp2/logflags/10CKA01.FLAGS.1,
+	/btemp2/logflags/10CKA01.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+W06 : No fringe.
+C05 : Servo problem.
+E03 : No fringe in LSB.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 16:00 - 08:36
+
+23. Comments (During Observations) :
+16:00 setup started 
+dual (610-235) MHz. setup.
+UsbPolar mode.
+16:36 scan started on 3c147.
+16:55 started the command file.
+19:40 stopped the observation and chandged the settings
+to default 610 MHz.
+restarted the observation in UsbPolar mode.
+19:53 scan started on 3c147.
+20:13 command file started.
+00:24 Stopped scan on the source and stopped command 
+file.
+00:27 : Started scan on 3C286 for 10 mins and 
+changed mode of the correlator.
+**********************************************
+Indian Polar mode.
+With Default Dual settings.
+tpa 614 244 680 380 66 66
+RF1=614     RF2=244
+SAttn.=0    SAttn.=14
+IFBW1=32    IFBW2=6
+BBBW=16MHz.
+Clk_Sel=0.
+Corr Mode= Indian Polar Mode.
+**********************************************
+00:53 : Started scan on 3C286 for 15 mins.
+01:15 : Started command file.
+06:37 : MSEB power failed. Hence data after 
+this time i.e. 06:37 to 06:43 is junk.
+
+07:21 : Restarted command file (phs cal source changed
+        to 1927+739).
+        S04 : Not releasing brakes in el axis.
+07:44 : W02 parked for painting.
+08:00 : S04 started tracking (released brakes in EL Axis.)
+08:29 : Flux cal started.
+08:36 : Stopped flux cal, closed observation.
+

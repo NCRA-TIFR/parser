@@ -1,0 +1,73 @@
+		 GTAC Observation Log 
+
+1. Date : 04/09/2007
+2. Observation Sr. No. : 3366
+3. Observer : D Mitra
+4. Observer's Email : dmitra@ncra.tifr.res.in
+5. Project Name : psr obs
+6. Project Code : 12DMA02
+7. Operator(s) : Jitendra,
+	Nilesh,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/hold.cmd
+9. LTA File : /rawdata/4sep/12dma02_s2.lta,
+	/rawdata/4sep/12dma02_s3.lta,
+	/rawdata1/4sep/12dma02_s4.ltb
+10. LogFlag File : /btemp2/logflags/12DMAC2.FLAGS,
+	/btemp2/logflags/12DMAB2.FLAGS,
+	/btemp2/logflags/12DMAA2.FLAGS,
+	
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 322 MHz ,RF2 : 322 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 255 MHz, ILO2 : 255 MHz, IVLO1 : 67 MHz, IVLO2 : 67 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+4 dB, 32 MHz,OFF, IF-CH2 : 12+4 dB, 32 MHz,OFF
+14. BB BW(KHz) & BB ALC : 8000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 322 322 255 255 67 67 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+E03-E04 -Phase fluctuation.
+
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 20:00 - 07:30
+
+23. Comments (During Observations) :
+------------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+-------------------------------------------------
+20:00 : Started settings for 12DMA02
+SUB2 : 243 - C01, C02, C05, C06, C08, C09, C10, C12
+          SUB3 : 322 - C00, C03, C04, C11, C14, W01, S01, E02
+          SUB4 : 607 - C13, W02, W03, W04, E03, E04, S02, S03, S04
+
+      Suba2 = 235MHZ,+14db, 310 MHz, 32MHz, ALC OFF, POWER EQ 600->1000
+      Suba3 = 325MHZ,+0db, 255 MHz, 32MHz, ALC OFF, POWER EQ 600->1000
+      Suba4 = 610MHZ,+0db, 540 MHz, 32MHz, ALC OFF, POWER EQ 600->1000
+
+
+21:00 : Power eq.
+21:42 : Started scan on cal for phasing.
+22:00 : Phasing done.
+22:05 : Started observation
+06:33 : Started scan on B0740-28
+07:20 : started pulsar cal run (on-off)
+07:27 : MSEB power failure.
+07:30 : Obsrving session closed.
+
+
+
+
+

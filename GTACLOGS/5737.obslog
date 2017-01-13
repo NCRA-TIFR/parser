@@ -1,0 +1,62 @@
+		 GTAC Observation Log 
+
+1. Date : 5/1/2012
+2. Observation Sr. No. : 5737
+3. Observer : Nissim Kanekar
+4. Observer's Email : nkanekar@ncra.tifr.res.in
+5. Project Name : 1430-178
+6. Project Code : 12DT001
+7. Operator(s) : Sachin,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/nissim/1430-178.cmd
+9. LTA File : /gsbifrdata/05jan/12dt001_05jan2012.lta
+10. LogFlag File : /odisk/online1/logflags/12DT001.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 601.2 MHz ,RF2 : 601.2 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540 MHz , IVLO1 : 61.2 MHz, IVLO2 : 61.2 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 16 MHz
+21. Maximum Channels : 512 
+22. IFBW (MHz) : LO5 (KHz) : Custom :- 16 : 138.8 - 166.2
+23. Final Bandwidth (MHz): 2 MHz; Step # 4
+
+24. Frequency Parameters (TPA) : 601.2 601.2 540 540 61.2 61.2.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :29
+
+27. Name of Non-Working Antennas (with reason for each) :
+W06 : For paiting.
+
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 07:45 - 12:21
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+07:45 : Started setting.
+07:57 : Started scan on 3C286.
+08:10 : Stopped scan.
+08:18 : '/odisk/gtac/cmd/nissim/1430-178.cmd' command file started.
+
+08:49 : S03 taken for paiting.
+08:53 : S04 taken for paiting.
+
+12:04 : Stopped command file.
+
+12:07 : Started scan on 3C286.
+12:21 : Stopped scan and observing session over.
+
+
+

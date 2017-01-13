@@ -1,0 +1,60 @@
+1. Date : 05/08/2002
+2. Observation Sr. No. : 0744
+3. Observer : ELF & GK
+4. Observer's Email : elefloch@cea.fr,krishna@ncra.tifr.res.in
+5. Project Name : GRB
+6. Project Code : 02ELF01
+7. Operator(s) : Galande M.M.,Katore S.N.,Kodilkar J.P.,Umbarje M.S.,
+8. Command File : /temp2/data/cmd/emeric/grbhost.cmd
+9. LTA File : /rawdata/5aug/02elf01_grb_5aug02.lta,/rawdata/5aug/02elf01_grb_5aug02.lta.1
+
+ANTENNA SETTINGS :
+
+10. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+11. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+12. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 32 MHz,on, IF-CH2 : 12+12 dB, 32 MHz,on
+13. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, on
+
+CORREATOR SETTINGS :
+
+14. CLK_SEL/Samp_Freq : 0
+15. Channels : 0:127:1
+16. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+17. Integration Time : 128 STA ~ 16.908 Sec.
+18. No of Antennas Working(Fringing) :27
+
+19. Name of Non-Working Antennas (with reason for each) :
+C00:130 pol no fringe.
+C13:130 pol no fringe.
+W04: No fringe.
+W05:OLI UNLOCK.
+
+
+20. Start and End Time of Obs.(IST): 11:00 - 21:14
+
+21. Comments (During Observations) :
+Note : antennas W05,S02,C12 and C06 phase is not stable.
+11:41 	started scan on GRB000418 
+11:47   S04 taken for maintance.(Scan 0)
+12:15   started the command file.
+	"/temp2/data/cmd/emeric/grbhost.cmd"
+12:50   E02 servo time out.
+13:29   C05 flat band shape.
+13:48   When scan stopped at 13:48, ran corrr_config
+        to fix the C05 flat abnd shape. After running 
+        corr_config C05 is okey.
+
+15:30   lta recording stopped & correlator released for
+        debugging.
+
+        W04 antenna released for debugging purpose.
+16:02   Observing session restarted.
+        ltafile : /rawdata/5aug/02elf01_grb_5aug02.lta.1
+16:35   online communication handle problem.
+17:08   W04 Low fringe count.
+19:25   scan : 7 c05,E06 flat bandshape.
+19:28   command file restarted.
+21:14   Stopped the command file.
+        Closed the observation.
+

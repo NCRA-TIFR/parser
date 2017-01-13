@@ -1,0 +1,60 @@
+		 GTAC Observation Log 
+
+1. Date : 04/02/2005
+2. Observation Sr. No. : 2049
+3. Observer : Dharam & Huib
+4. Observer's Email : dharam@ncra.tifr.res.in,intema@strw.leidenunib.nl
+5. Project Name : Bootes & A225
+6. Project Code : 08HRA01
+7. Operator(s) : Jitendra,
+	Sanjay,
+	
+8. Command File : /atemp2/cmd/dharam/bootes.cmd
+9. LTA File : /rawdata/4jun/08hra01_bootsfield.lta
+10. LogFlag File : /atemp2/logflags/08HRA01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 157 MHz ,RF2 : 157 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 223 MHz, ILO2 : 223 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 6 MHz,ON, IF-CH2 : 16+16 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 157 157 223 223 66 66 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C00: No fringe.
+W02: ch#130 Low self-power and bad-band shape.
+W03: ch#175 Low self power and bad band-shape.
+C01- Intermittant Servo problem (El-axis).
+
+21. Start and End Time of Obs.(IST): 12:35 - 03:30
+
+22. Comments (During Observations) :
+*** ONLINE: aditya
+*** Power equilized at 150 MHz
+--------------------------
+
+* Note:
+17:30 : Sol-attenuator 14 dB : IF-BB ALCs made OFF
+       Power equilized and ALCs Switched ON again for
+       the rest of observing session.
+17:59 : Flux calibrator scan started on 3C147 source
+18:18 : Scan stopped.
+18:29 : Command file started with inner track.
+~20:20 : C01 - Elevation axis tracking problem.
+22:34 : * Command file changed to outer-track.
+22:49 : Command file re-started with outer-track.
+02:30 : Stopped cmd file, and continued continous scan
+         on BOOTES.
+03:20 : Stopped BOOTES and started record on 3c295.
+03:30 : Stopped 3c295, stopped observation.
+
+

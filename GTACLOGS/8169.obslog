@@ -1,0 +1,76 @@
+		 GTAC Observation Log
+
+1. Date : 14/11/2015
+2. Observation Sr. No. : 8169
+3. Observer : A.R. Rao, Santosh Vadawale, Sachindra Naik, Sudip Bhattacharyya, KP Singh, Gulab Chand Dewangan, Dipankar Bhattacharya, Ranjeev Misra, C.S. Stalin, Biswajit Paul, C.H. IshwaraChandra
+4. Observer's Email : arrao@tifr.res.in, santoshv@prl.res.in, snaik.prl@gmail.com, sudip@tifr.res.in, singh@tifr.res.in, gulabd@iucaa.ernet.in, dipankar@iucaa.ernet.in, rmisra@iucaa.ernet.in, stalin@iiap.res.in, bpaul@rri.res.in, ishwar@ncra.tifr.res.in
+5. Project Name : Jet triggering mechanism in GRS 1915\\+105
+6. Project Code : 29_080
+7. Operator(s) : Deepak, Nilesh, Rupsing
+8. Command File : /odisk/gtac/cmd/29_080/obs14nov.cmd
+9. LTA File : /gsbifrdata/14nov/29_080_dual_14nov2015.lta, /gsbifrdata/14nov/29_080_1390_14nov2015.lta
+10. LogFlag File : /odisk/online1/logflags/29_080.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1371 MHz ,RF2 : 1371 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1320 MHz, ILO2 : 1320MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 1371 1371 1320 1320 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :26
+
+32. Name of Non-Working Antennas (with reason for each) :
+C04 : Painting.
+E02 : Painting.
+C10 : No feed @235MHz
+W03 : BLDC.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 14 Nov 2015 14:00:00 - 14 Nov 2015 22:00:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :27
+
+37. Comments (During Observations) :
+L-BAND (1400 MHz default) 
+C00, C02, C04, C06, C09, C10, C12, E03, E05, S02, S04, W01, W03, W05 
+--------------------------------------------------------------------------
+Dual - 610/235 MHz (default)
+C01, C03, C05, C08, C11, C13, E02, E04, E06, S01, S03, S06, W02, W04, W06
+--------------------------------------------------------------------------
+13:39 : Started scan 3C286.
+13:51 : Stopped scan.
+13:52 : Started command file.
+14:28 : Stopped command file.
+--------------------------------------------------------------------------
+14:30 : Tracking and command file problem
+--------------------------------------------------------------------------
+14:32 : Restarted command file.
+17:55 : C04 and E02 released for observation.
+21:33 : Command file stopped.
+21:39 : Started scan on 3C48.
+22:00 : Observation stopped.
+
+

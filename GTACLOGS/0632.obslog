@@ -1,0 +1,54 @@
+1. Date : 16/06/2002
+2. Observation Sr. No. : 632
+3. Observer & email :  Zwaan, mzwaan@physics.unimelb.edu.au
+4. Project Name & Code : conc /  01MZA01 
+5. Operator(s) :  Jitendra(1),Jprakash(1)
+6. Command File/Source  & Lta File : /temp2/data/cmd/zwaan/cnoc.cmd. 
+                                   : /rawdata/16jun/01mza01_cnoc_16jun.lta
+                                   : /rawdata/16jun/01mza01_cnoc_16jun.lta.1
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 :  1170 MHz.,  0 dB., OFF.
+8. Ist LO (MHz) & IVth LO (MHz) : 1075 MHz.,  71 MHz.  
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : 4+4 dB., 32 MHz., ON.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status : 16 MHz., 0 dB., ON.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 0 / 0 
+12. Channels : 0,127,1 
+13. Frequency Parameters (TPA) : 1146 1146 1075 1075 71 71
+
+14. Integration Time (Sec.) : 32 sec (16*16m)
+15. No of Antennas Working(Fringing):  26
+16. Name of Non-Working Antennas (with reason for each) :
+
+    W04   : Manual mode , servo work
+    W05   : ABC T.O.
+    W06   : ABC T.O.
+    E04   : Painting
+    S01,S06 : Terminated due to RFI Spikes.
+
+17. Starting and Ending time of Observations (IST) : 12:29
+	
+18. Comments (During Observations) :
+
+    13:28  Started scan on flux cal 3C48 for 20m
+	13:55  stopped the scan 
+
+    14:00  started the command file.
+		   /temp2/data/cmd/zwaan/cnoc.cmd
+
+    14:50  mithuna /rawdata disk is not visible(rebooted the machine).
+	15:15  Started the obsrvation.
+	15:42  MSEB power failed.
+	16:05  MSEB power resumed, restarted observation.
+	17:00  MSEB power failed for W - arm .
+	17:00  MSEB power failed.
+	17:30  restarted the observation. ( W arm has no power.)
+	17:30  Antenna E02 shows "CHKSUM" errors.
+	19:00  Antennas W01,W02,W03 back.
+	21:22  Started scan  on 3c286 for 20 min.
+
+19. Data Backup files & Tape No. :

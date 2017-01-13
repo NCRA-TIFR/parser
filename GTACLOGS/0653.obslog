@@ -1,0 +1,60 @@
+1. Date : 24/06/2002
+2. Observation Sr. No. : 653
+3. Observer & email : Poonam Chandra.
+4. Project Name & Code : SN1993 / 02PCA01
+5. Operator(s) : Mangesh(1), Manish(1)., Sanjay(2),Jitendra(2).
+6. Command File/Source  & Lta File : /temp2/data/cmd/poonam/sn1993j_240602.cmd
+                                   : /temp2/data/cmd/poonam/sn1979c_240602.cmd
+								   : /rawdata/24jun/02pca01_sn1993.lta
+                                   : /rawdata/24jun/02pca01_sn1979c.lta
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 : 1390 MHz., 0 dB., OFF.
+8. Ist LO (MHz) & IVth LO (MHz) : 1320 MHz., 70 MHz.
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : 0+0 dB., 32 MHz., ON.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status : 16 MHz., 0 , ON.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 0/0
+12. Channels : 0:127:1
+13. Frequency Parameters (TPA) : 1390 1390 1320 1320 70 70
+
+14. Integration Time (Sec.) : 16sec. (16*8m)
+15. No of Antennas Working(Fringing) : 29 
+16. Name of Non-Working Antennas (with reason for each) :
+
+    S01  Servo azimuth brakes not getting released
+
+17. Starting and Ending time of Observations (IST) : 14:51:58.67
+18. Comments (During Observations) :
+
+    14:51:58.67   Started a scan on 3c147 for 15 minutes.
+	15:11:42.25   Stopped a scan on 3c147. 
+	15:15         Started command file sn1993j_240602.cmd
+				  Delay out of range for S06.
+	15:22         C00 ABC got reset. ( bad for scan # 1)
+	15:31         scan : 2 bad, antennas did not get source
+				  (too many list in sac.)
+	15:40         S04 got parked ( high wind)
+    16:15         Scan : 5 , West-Arm Power failed.
+	17:01         S01 started tracking.
+	18:30         W01, W03 started working, w02 srv problem, still no power to W04,5 & 6
+	20:15         W02 servo problem, got solved.
+    20:46         stopped command file
+    20:56         started flux cal scan on 3c286 source
+    21:02         scan stopped, record file stopped.
+    21:03         flux cal scan 3C286 started with
+                  new record file started.
+                  /rawdata/24jun/02pca01_sn1979c.lta
+    21:12         scan stopped.
+    21:18         cmd file started.
+                  /temp2/data/cmd/poonam/sn1979c_240602.cmd
+    21:50         High wind speed , S04 parked.
+	23:57         Started scan on 3c286 for 20 min.
+    
+
+
+19. Data Backup files & Tape No. :
+

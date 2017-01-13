@@ -1,0 +1,59 @@
+		 GTAC Observation Log 
+
+1. Date : 03/08/2009
+2. Observation Sr. No. : 4447
+3. Observer : Jayaram N Chengalur
+4. Observer's Email : chengalu@ncra.tifr.res.in
+5. Project Name : A370
+6. Project Code : 16_273
+7. Operator(s) : Jayprakash,
+	Manisha,
+	Navanath,
+	Rupsingh,
+	Sachin,
+	
+8. Command File : /odisk/gtac/cmd/philiplah/a370.cmd
+9. LTA File : /rawdata/3aug/16_273_03aug2009.lta,
+	/rawdata1/3aug/16_273_03aug2009.ltb
+10. LogFlag File : /odisk/online1/logflags/16_273.FLAGS.16
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1040 MHz ,RF2 : 1040 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1110 MHz, ILO2 : 1110 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:128:1
+17. Frequency Parameters (TPA) : 1040 1040 1110 1110 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+W01,W02 : Bad bandshape in USB.
+E04 : Servo Problem.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 02:00 - 10:00
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+20:00 : Started setup for project.
+
+***NOTE : W01 and W02 are showing reliable fringe counts. 
+02:02 : Started scan on 3C48.
+2:43 : Started command file.
+09:44 : command file stopped.
+09:46 : started scan on 3C48 ~ 15mins.
+10:00 : stopped das & observation session.
+
+
+
+

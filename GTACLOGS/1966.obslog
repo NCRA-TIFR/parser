@@ -1,0 +1,47 @@
+		 GTAC Observation Log 
+
+1. Date : 25/03/2005
+2. Observation Sr. No. : 1966
+3. Observer : Yashwant Gupta
+4. Observer's Email : ygupta@ncra.tifr.res.in
+5. Project Name : pulsar obs.
+6. Project Code : 07YGA01
+7. Operator(s) : Deepak,
+	
+8. Command File : /btemp2/cmd/hold.cmd
+9. LTA File : /rawdata/25mar/07yga01_phs.lta,
+	/rawdata1/25mar/07yga01_phs.ltb
+10. LogFlag File : /btemp2/logflags/07YGA01.FLAGS.7
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 325 MHz ,RF2 : 325 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 255 MHz, ILO2 : 255 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,OFF, IF-CH2 : 16+16 dB, 32 MHz,OFF
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, OFF
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 325 325 255 255 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C12 No fringe
+W01-130 NO fringe.
+
+
+21. Start and End Time of Obs.(IST): 15:00 - 20:30
+
+22. Comments (During Observations) :
+************************
+*****ONLINE - Bhaskar***
+*****power equalised ***
+************************
+
+15:30 started phasing on 0521-207
+20:30 Observation stopped.
+

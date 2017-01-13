@@ -1,0 +1,68 @@
+1. Date : 28/01/2002
+2. Observation Sr. No. : 456
+3. Observer & email :psubrama, psubrama@iucaa.ernet.in
+4. Project Name & Code : SUN JAN28 / 01PSA01 
+5. Operator(s) : Jitendra(2),Jprakash(2)
+6. Command File/Source  & Lta File : 
+								   : /rawdata/28jan/01psa01_3c446.lta
+								   : /rawdata/28jan/01psa01_3c446.lta.1
+								   : /rawdata/28jan/01psa01_sun28jan.lta
+								   : /rawdata/28jan/01psa01_sun243.lta
+								   : /rawdata/28jan/01psa01_sun243.lta.1
+								   : /rawdata/28jan/01psa01_sun243.lta.2
+
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 : 610 MHz., 0 dB., OFF.
+8. Ist LO (MHz) & IVth LO (MHz) :540 MHz., 70 MHz., 
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : Power Eq., 32 MHz., OFF.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status : 16 MHz., 0 dB., ON.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 0 / 0
+12. Channels : 0,127,1
+13. Frequency Parameters (TPA) : 610 610 540 540 70 70
+
+14. Integration Time (Sec.) : 2 sec (16*1)
+15. No of Antennas Working(Fringing) : 26 
+16. Name of Non-Working Antennas (with reason for each) :
+    
+     C06 - Servo off mode. (610+243)
+	 C12 - No fring (243)
+	 C14 - MCM 5 Time Out no fring (243)
+	 W04 - No fring at (243)
+     S04 - Srv Maint
+     S01 - No Fringe
+     W06,S06 - Delay out of range
+	 
+17. Starting and Ending time of Observations (IST) : 12:25
+18. Comments (During Observations) :
+ 
+	12:25   Scan 0 : 3c446 + 14dB + EHiCal ,  Duration : 10m
+	12:44   Scan 1 : CYGA + 14dB + Ngoff   ,  Duration : 10m
+	13:00   Scan 2 : CYGA + 30dB + Ngoff   ,  Duration : 10m
+	13:30   Scan 3 : SUN  + 30dB + Ngoff   ,  Duration : 10m
+
+    * File Closed.
+
+    * BB-IF ALC : ON
+    * IF Attn : 10+10dB 
+
+    datafile : /rawdata/28jan/01psa01_sun28.lta
+
+    13:44   scan 0 started on 3c446 
+    13:55   scan stopped
+    14:03   scan 1 started on SUN0128D
+    14:21   scan 1 stopped.
+	
+
+	16:01   scan 0 started on 3c446
+	16:17   scan 1 started on SUN0128F
+
+	data file /rawdata/28jan/01psa01_sun243.lta.2
+
+	17:00   scan 0 started on 3c446.
+
+19. Data Backup files & Tape No. :

@@ -1,0 +1,87 @@
+		 GTAC Observation Log 
+
+1. Date : 14/11/2010
+2. Observation Sr. No. : 5099
+3. Observer : Sandeep Sirothia, Ishwar Chandra
+4. Observer's Email : sirothia@ncra.tifr.res.in,ishwar@ncra.tifr.res.in
+5. Project Name : Extra Galactic Survey @ 150 MHz Using GMRT
+6. Project Code : 19_043
+7. Operator(s) : Deepak,
+	Manisha,
+	Navanath,
+	Nilesh,
+	Rupsingh,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/sirothia/19_043_20101114a.cmd
+9. LTA File : /rawdata/14nov/19_043_14nov2010.lta,
+	/rawdata1/14nov/19_043_14nov2010.ltb,
+	
+10. GSB File : /gsbifrdata/14nov/19_043_14nov2010_gsb.lta,
+	
+11. LogFlag File : /odisk/online1/logflags/19_043.FLAGS.27
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 218 MHz, ILO2 : 218 MHz, IVLO1 : 62 MHz, IVLO2 : 62 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+15. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+GHB Settings :
+16. GHB Channels : 0:127:1
+17. Correlator Mode : UsbPolar
+18. Frequency Parameters (TPA) : 156 156 218 218 62 62 
+
+GSB Settings :
+19. Maximum Channels : 256 
+20. Final Bandwidth (MHz): OFF MHz; Steps : 0
+21. IFBW : LO5(MHz) : 16:138-167 MHz
+22. Stokes : Full_Polar
+23. Beam - 1 : OFF
+24. Beam - 2 : OFF
+
+25. Integration Time : 128 LTA ~ 16.908 Sec.
+26. No of Antennas Working(Fringing) :30
+
+27. Name of Non-Working Antennas (with reason for each) :
+--
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 17:00 - 08:15
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+# 2S data file #
+/rawdata/14nov/19_043_14nov2010_2s.lta,
+/rawdata1/14nov/19_043_14nov2010_2s.ltb,
+/gsbifrdata1/14nov/19_043_14nov2010_gsb_2s.lta,
+----------------------------------------------------
+17:07 : Started scan on 3C468.1 for ~15min.
+17:25 : Started scan on 3C48.
+18:40 : Stopped scan.
+18:40 : Started scan on J0218+4232.
+19:15 : Started command file.
+21:46 : Stopped command file.
+21:48 : '/odisk/gtac/cmd/sirothia/19_043_20101114a.cmd' command file started.
+21:55 : E-arm power failure.
+22:18 : E-arm power resumed.
+05:15 : E-arm power failure.
+05:35 : E-arm power resumed.
+07:11 : cmd file stopped.
+07:12 : Started scan on phase cal 3C147.
+07:24 : Started scan on J0953+0755 for 15min.
+07:55 : Started scan on 3C147 for 20min.
+08:15 : Observing session over.
+---------------------------------------
+
+Note : Delay jumps are seen in following antennas :
+S04,S06.
+
+
+
+
+

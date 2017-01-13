@@ -1,0 +1,65 @@
+		 GTAC Observation Log 
+
+1. Date : 14/10/2003
+2. Observation Sr. No. : 1181
+3. Observer : Peter
+4. Observer's Email : ggentile@astro.uni-bonn.de,pieter.buyle@rug.ac.be
+5. Project Name : BlackHoles
+6. Project Code : 04GGA01
+7. Operator(s) : Deepak,
+	Mangesh,
+	Jayprakash,
+	Jitendra,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/gga/command3.cmd
+9. LTA File : /rawdata1/14oct/04gga01_ugc9753.ltb
+10. LogFlag File : /btemp2/logflags/04GGA01.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1414.8 MHz ,RF2 : 1414.8 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1485 MHz, ILO2 : 1485 MHz, IVLO1 : 70.2 MHz, IVLO2 : 70.2 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 2+2 dB, 16 MHz,ON, IF-CH2 : 2+2 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 4000 KHz, 6 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 2
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1414.8 1414.8 1485 1485 70.2 70.2 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+E06 : Servo Problem.
+C09 : No Fringe.
+
+21. Start and End Time of Obs.(IST): 11:35 - 20:30
+
+22. Comments (During Observations) :
+*****************************
+ONLINE: bhaskar
+AuthIF: 1390 MHz.
+--------------------------------
+
+11:35 : Flux cal scan started on 3C286 for 10m.
+11:57 : Flux cal scan restarted for 5m. ( Most of
+        the antenna gave power problem , antenna 
+        resetted to observational settings and scan
+        restarted.)
+
+12:04 : command file started.
+12:12 : Scan # 3 bad scan , unable to get the source
+        due to wrong specification of source name.
+12:28 : command file restarted.
+
+16:09 : E06 started working.
+19:25 : C03 released for observation.
+20:10 : Command file stopped.
+20:18 : Started scan on 3C48 for 10mins.
+20:28 : stopped the observation session.
+
+
+

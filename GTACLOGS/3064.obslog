@@ -1,0 +1,70 @@
+		 GTAC Observation Log 
+
+1. Date : 24/02/2007
+2. Observation Sr. No. : 3064
+3. Observer : hans
+4. Observer's Email : hrk@astro.ox.ac.uk
+5. Project Name : Hunting Down Cluster Pop
+6. Project Code : 11HRK01
+7. Operator(s) : Jitendra,
+	Navanath,
+	
+8. Command File : /btemp2/cmd/hrk/hrk11d5.cmd,
+	/btemp2/cmd/hrk/hrk11d8.cmd,
+	/btemp2/cmd/hrk/hrk11d9.cmd
+9. LTA File : /rawdata/24feb/11hrk01_24feb2007.lta,
+	/rawdata1/24feb/11hrk01_24feb2007.ltb,
+	/rawdata/24feb/11hrk01_24feb2007.lta.1,
+	/rawdata1/24feb/11hrk01_24feb2007.ltb.1
+10. LogFlag File : /btemp2/logflags/11HRK01.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 608 MHz ,RF2 : 608 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 68 MHz, IVLO2 : 68 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+4 dB, 32 MHz,ON, IF-CH2 : 12+4 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 608 608 540 540 68 68 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C11 - Not in Observation.
+C02 - USB-175 Not fringing.
+E03 - Painting
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 17:50 - 05:20
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+---------------------------------------------
+17:50 Amplitude Calibrator scan for 15m.
+18:12 hrk11d5.cmd started.
+19:19 Amplitude CAlibrator scan for 15m.
+19:35 Record file closed, and new record file
+      started at 19:19 Hrs.(*lta/b.1)
+19:51 'hrk11d8.cmd' command file started.
+22:36 'hrk11d9.cmd' command file started.
+05:00 : command file stopped.
+05:03 : Started scan on phase cal.
+05:11 : Started scan on fulx cal for 10m
+5:21  : Observing session over.
+
+                  
+

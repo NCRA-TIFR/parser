@@ -1,0 +1,59 @@
+		 GTAC Observation Log 
+
+1. Date : 19/08/2003
+2. Observation Sr. No. : 1103
+3. Observer : Emma Ryan-Weber
+4. Observer's Email : visitor5@gmrt.ncra.tifr.res.in,eryan@physics.unimelb.edu.au
+5. Project Name : TVLH513
+6. Project Code : 04DGB01
+7. Operator(s) : Deepak,
+	Mangesh,
+	Manisha J.,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/emma/tv.cmd
+9. LTA File : /rawdata/19aug/04dgb01_tv513.lta,
+	/rawdata1/19aug/04dgb01_tv513.ltb
+10. LogFlag File : /btemp2/logflags/04DGB01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1280 MHz ,RF2 : 1280 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1210 MHz, ILO2 : 1210 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+4 dB, 32 MHz,ON, IF-CH2 : 4+4 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1280 1280 1210 1210 70 70 
+
+18. Integration Time : 256 STA ~ 33.817 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+LSB & USB :
+S03 : MCM 5 problem.
+USB :
+W03 : 130 poln dead!
+ 
+
+21. Start and End Time of Obs.(IST): 15:18 - 23:25
+
+22. Comments (During Observations) :
+**** ONLINE is Running on BHASKAR ********
+AUTHIF : 1280 MHz.
+-------
+15:18	started recording on 3C286 for ~ 15mins.
+15:38	command file started.
+18:04   Stopped scan & changed the track.
+18:24   Started command file /btemp2/cmd/emma/tv.cmd.
+22:05   C05 started giving flat band shape.
+22:26   Ran corr_config for C05.
+22:28   Started command file /btemp2/cmd/emma.tv.cmd.
+22:56   Stopped command file & scan.
+22:57   Started scan on 1513+236 for 4min.
+23:09   Started scan on 3C48 for 15mins.
+
+

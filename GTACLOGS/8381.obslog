@@ -1,0 +1,80 @@
+		 GTAC Observation Log
+
+1. Date : 05/02/2016
+2. Observation Sr. No. : 8381
+3. Observer : Maryam Arabsalmani, Sambit Roychowdhury, Martin Alexander Zwaan, Nissim Kanekar, Palle Moller
+4. Observer's Email : marabsal@eso.org, sambit@mpa-garching.mpg.de, mzwaan@eso.org, nkanekar@ncra.tifr.res.in, pmoller@eso.org
+5. Project Name : HI 21 cm emission studies of gamma ray burst host galaxies
+6. Project Code : 29_077
+7. Operator(s) : Pramod, Rupsing
+8. Command File : /odisk/gtac/cmd/nissim/grb080517.cmd,, /odisk/gtac/cmd/nissim/grb031203.cmd
+9. LTA File : /gsbifrdata1/04feb/29_077_04feb2016.lta.1, /gsbifrdata1/04feb/29_077_04feb2016.lta
+10. LogFlag File : /odisk/online1/logflags/29_077.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1298 MHz ,RF2 : 1298 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1235 MHz, ILO2 : 1235MHz , IVLO1 : 63 MHz, IVLO2 : 63 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 4 MHz; Step # 4
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 137
+28. LO5 -2  : 168
+
+29. Frequency Parameters (TPA) : 1298 1298 1235 1235 63 63
+30. Integration Time : 8.053 Sec
+31. No of Antennas Working(Fringing) at the beginning :26
+
+32. Name of Non-Working Antennas (with reason for each) :
+C03 : BLDC.
+C04 : ABC time out.
+E04 : Feed cage painting.
+W04 : No fringe.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 04 Feb 2016 18:00:00 - 05 Feb 2016 01:00:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :27
+
+37. Comments (During Observations) :
+18:04 : Started scan on 3C147.
+18:10 : Stopped scan.
+18:15 : Started command file.
+        "/odisk/gtac/cmd/nissim/grb080517.cmd"
+20:14 : Stopped command file.
+-------------------------------------------------------------------------  
+    RF Band     : 1280
+    LO(1)       : 1215 MHz
+    IF BW       : 18 MHz
+    LO(5)       : 136.4 168.6 MHz
+    LO(4)       : 63.6 63.6 MHz
+    Baseband BW : 4.1667 MHz
+--------------------------------------------------------------------------
+20:20 : C04 started working.
+-------------------------------------------------------------------------- 
+20:21 : Started scan on 3C147
+20:27 : Stopped scan.
+20:32 : Started command file.
+        "/odisk/gtac/cmd/nissim/grb031203.cmd"
+Note : 23:20 to 00:20 : Scintillation is observed in the data.
+00:46 : Stopped command file.
+00:52 : Started scan on 3C147.
+01:00 : Stopped scan and observation session is over.
+

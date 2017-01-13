@@ -1,0 +1,51 @@
+1. Date : 08/09/2002
+2. Observation Sr. No. : 0803
+3. Observer : VKKU
+4. Observer's Email : vasant@ncra.tifr.res.in,ayesha@ncra.tifr.res.in
+5. Project Name : A2345EW
+6. Project Code : 02VKK01
+7. Operator(s) : Katore S.N.,Kodilkar J.P.,Kudale S.S.,Umbarje M.S.,
+8. Command File : /temp2/data/cmd/vku/a2345ew.cmd,/temp2/data/cmd/vku/j0505.cmd
+9. LTA File : /rawdata/8sep/02vkk01_a2345ew_8sep_usb.lta,/rawdata1/8sep/02vkk01_a2345ew_8sep_lsb.lta,/rawdata/9sep/02vkk01_j0505_9sep_usb.lta,/rawdata1/9sep/02vkk01_j0505_9sep_lsb.lta
+
+ANTENNA SETTINGS :
+
+10. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+11. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+12. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 32 MHz,ON, IF-CH2 : 12+12 dB, 32 MHz,ON
+13. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+14. CLK_SEL/Samp_Freq : 0
+15. Channels : 0:127:1
+16. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+17. Integration Time : 128 STA ~ 16.908 Sec.
+18. No of Antennas Working(Fringing) :29
+
+19. Name of Non-Working Antennas (with reason for each) :
+C10 - No fringe at ch#130 
+      Low count at ch#175
+
+20. Start and End Time of Obs.(IST): 19:47 - 00:00
+
+21. Comments (During Observations) :
+19:23 flux cal scan started on 3c286 source.
+19:40 scan stopped.
+19:49 command file started.
+
+21:00 /tmp full online problem.
+      Scan 7,8,10,11 Bad. (online tracking sources
+      properly but source.hdr not received by dual1)
+      * Please note that this problem is only for USB correlator
+        LSB File is correct.
+02:47  Stopped cmd file, 
+02:57 Started das scan on 3c48.
+      Started record for next observation also. New files
+      /rawdata/9sep/02vkk01_j0505_9sep_usb.lta
+      /rawdata1/9sep/02vkk01_j0505_9sep_lsb.lta
+03:21 Started cmd file /temp2/data/cmd/vku/j0505.cmd
+09:53 started scan on 3c147
+10:08 stopped the observation.
+

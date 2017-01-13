@@ -1,0 +1,53 @@
+		 GTAC Observation Log 
+
+1. Date : 07/09/2003
+2. Observation Sr. No. : 1126
+3. Observer : Dr. B. C. Joshi
+4. Observer's Email : bcj@ncra.tifr.res.in
+5. Project Name : Giant Source.
+6. Project Code : 04BCJ01
+7. Operator(s) : Deepak,
+	Mangesh,
+	
+8. Command File : /temp2/data/cmd/hold.cmd
+9. LTA File : /rawdata/7sep/04bcj01_psr_7sep.lta,
+	/rawdata1/7sep/04bcj01_psr_7sep.ltb
+10. LogFlag File : /btemp2/logflags/04BCJ01.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 32 MHz,OFF
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, OFF
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+C08 : No fringe in both
+      polarisations
+
+21. Start and End Time of Obs.(IST): 18:41 - 21:47
+
+22. Comments (During Observations) :
+*********** ONLINE: Bhaskar *********
+
+17:03 Started a scan 3c286 for 22 minites
+      (Pulsar cal run. Command file
+        /scratch/pulsar/psr_calibration.set)
+17:41 Started scan 1 on 1822-096 for phasing.
+17:54 Started scan 2 on 1822-096 to check the
+      phasing.
+18:32 Started a scan on axp18450.
+21:40 Started a final scan on 1822-096 for 10 
+      minutes.
+21:47 Stopped the scan. Closed the observation.
+
+

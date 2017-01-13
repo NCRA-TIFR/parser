@@ -1,0 +1,64 @@
+1. Date : 07/07/2002
+2. Observation Sr. No. : 686
+3. Observer & email : srianand ,chengalur , chengalu@ncra.tifr.res.in,anand@iucaa.ernet.in
+4. Project Name & Code : 02RSA01 /02RSA01
+5. Operator(s) : Jitendra(3)
+6. Command File/Source  & Lta File : /temp2/data/cmd/hd22928i.cmd
+                                     /rawdata/7jul/02rsa01.lta
+
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 : 1390 MHz., 0 dB., OFF.
+8. Ist LO (MHz) & IVth LO (MHz) : 1350 MHz., 69.4 MHz.
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : 0+0 dB., 32 MHz., ON.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status : 2 MHz., 9 , ON.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 3/3
+12. Channels : 0:127:1
+13. Frequency Parameters (TPA) : TPA 1419.4 1419.4 1350 1350 69.4 69.4
+
+14. Integration Time (Sec.) : 32sec (Lta : 2*16m)
+15. No of Antennas Working(Fringing) : 29
+
+16. Name of Non-Working Antennas (with reason for each) : 
+		C01	MCM 5 T.O.
+
+17. Starting and Ending time of Observations (IST) : 30:30
+18. Comments (During Observations) :
+
+    
+    30:30  Started a scan on 3C48.
+    30:42  Stopped the scan.
+    30:48  command file started.
+    31:47  For Scan = 4  C05 flat band shape, stopped command file.
+    31:50  Started junk scan = 5 ,for checking the flat band shape program.( Dr. Jayram)
+    31:57  Restarted the command file /temp2/data/cmd/hd22928i.cmd
+    32:19  For Scan = 7  C05 flat band shape, stopped command file.
+    32:25  Restarted the command file /temp2/data/cmd/hd22928i.cmd
+	08:40  C06, S04 got parked ( high wind).
+    33:54  Closed the file /temp2/data/cmd/hd22928i.cmd.
+    34:01  Started new command file /temp2/data/cmd/srianand/hd23408.cmd.
+    34:18  C14 got parked due to high wind.
+           C14 servo problem. It is not showing stwd & strl flag, not tracking the source.
+    35:10  C14 started tracking the source.
+    34:22  W04 got parked due to high wind.
+    34:25  W04 started tracking the source.
+    35:30  C06 got parked due to high wind.
+    35:42  C14 got parked due to high wind.
+    35:47  C06 started tracking the source.
+    35:50  C14 started tracking the source.
+    36:34  W04 & S04 got parked due to high wind.
+    36:40  W04 started tracking the source.
+    36:52  S04 started tracking the source.
+    37:00  C06 got parked due to high wind.
+    37:03  C06 started tracking the source.
+    37:08  Started new command file /temp2/data/cmd/srianand/hd36861.cmd.
+    37:10  C12 got parked due to high wind.
+    37:13  C14& S04 got parked due to high wind.
+	38:16  Except C14 all are tracking.
+	28:18  Started das scan on 3c286.
+
+19. Data Backup files & Tape No. :

@@ -1,0 +1,70 @@
+1. Date : 06/05/2002
+2. Observation Sr. No. : 0560
+3. Observer & email : 
+4. Project Name & Code : GOSS, 01GSA01
+5. Operator(s) : Manish,Jitendra(1)
+6. Command File/Source  & Lta File : /temp2/data/cmd/mgoss/mgoss_ctb80.cmd
+								   : /rawdata/6may/01GSA01_ctb80.lta
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 : 235 MHZ., 14 dB., OFF.
+8. Ist LO (MHz) & IVth LO (MHz) : 310 MHz., 66 MHz.
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : Power eqaulise, 6 MHz., ON.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status : 8 MHz., 3 dB., ON.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 1 / 1
+12. Channels : 0,127,1
+13. Frequency Parameters (TPA) : tpa 244 244 310 310 66 66
+
+14. Integration Time (Sec.) : 16 sec ( 16 * 8m )
+15. No of Antennas Working(Fringing) : 29 
+16. Name of Non-Working Antennas (with reason for each) :
+
+    E06   No beam/fringe.
+
+17. Starting and Ending time of Observations (IST) : 23:21 10:40
+18. Comments (During Observations) :
+
+    23:21  Started scan on 3C286.
+           SCAN 0 : ALC's OFF, 3C286
+
+    23:33  Stopped the scan.
+           Switched ON the ALC's.
+
+    23:35  Started scan on 3C286.
+           SCAN 1 : ALC's ON, 3C286
+
+    24:01  Stopped the scan.
+           Antennas moved to 1924+334.
+    24:08  Started scan on 1924+334.
+           SCAN 2 : ALC's ON, 1924+334
+
+    24:18  Stopped the scan.
+           Antennas moved to source CTB80.
+    24:20  Started scan on CTB80.
+           SCAN 3 : ALC's ON, CTB80
+
+    24:25  Stopped the scan.
+           Swithed OFF the ALC's.
+    24:28  Started scan on CTB80.
+           SCAN 4 : ALC's OFF, CTB80
+
+    24:33  Stopped the scan.
+           Switched on the ALC's.
+
+    24:35  Started command file  /temp2/data/cmd/mgoss/mgoss_ctb80.cmd
+
+    07:49  C14 Parked for painting.
+
+    07:53  Huge RFI from chan 70 to 80.
+
+    10:18  command file stopped & antenna moved on 3c48 source.
+
+    10:23  3C48 flux cal scan started for 10m
+    10:34  3c48 Flux cal scan for 5m with BOTH-ALC OFF.
+    10:40  project halted
+
+19. Data Backup files & Tape No. :

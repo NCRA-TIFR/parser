@@ -1,0 +1,64 @@
+		 GTAC Observation Log 
+
+1. Date : 16/11/2006
+2. Observation Sr. No. : 2881
+3. Observer : spal
+4. Observer's Email : spal@ncra.tifr.res.in
+5. Project Name : gcrt
+6. Project Code : 10SHA01
+7. Operator(s) : Jitendra,
+	
+8. Command File : /btemp2/cmd/spal/16nov06.cmd
+9. LTA File : /rawdata/16nov/10sha01_16nov06.lta,
+	/rawdata1/16nov/10sha01_16nov06.ltb
+10. LogFlag File : /btemp2/logflags/10SHA01.FLAGS.8
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 245 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 311 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 14+5 dB, 32 MHz,OFF, IF-CH2 : 14+5 dB, 6 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 245 680 311 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :24
+
+20. Name of Non-Working Antennas (with reason for each) :
+C01 - Servo in off mode.
+W02 - PNTG
+C13 - Feed work
+C04 - Servo problem
+C06 - Servo problem
+C08 - Servo off/Painting
+S06 - Dly jump
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 14:04 - 18:53
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+---------------------------------------------
+14:04 Flux cal scan on 3C286 for phasing.
+14:33 FLux cal scan for 15m.
+15:53 Command file started.
+
+16:30 : POwer Failed.
+18:30 : Stopped the command file.
+18:33 : Started scan on 3c48 for 20min.
+18:53 : Stopped the observation.
+

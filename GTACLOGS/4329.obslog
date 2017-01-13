@@ -1,0 +1,58 @@
+		 GTAC Observation Log 
+
+1. Date : 04/06/2009
+2. Observation Sr. No. : 4329
+3. Observer : Ramya
+4. Observer's Email : ramya@iiap.res.in,ngk@ncra.tifr.res.in
+5. Project Name : IZW
+6. Project Code : 16_112
+7. Operator(s) : Navanath,
+	Santaji,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/16_112/16rsc01.cmd
+9. LTA File : /rawdata/4jun/16_112_04jun2009.lta,
+	/rawdata1/4jun/16_112_04jun2009.ltb
+10. LogFlag File : /odisk/online1/logflags/16_112.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C05 : 235mhz no fringe.
+W01 : 235mhz no fringe.
+W03 : Servo problem.
+E03 : Bad bandshape 
+
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 19:00 - 02:00
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+19:00 : Started setup for the project 16_112.
+19:07 : Started command file.
+
+   /odisk/gtac/cmd/16_112/16rsc01.cmd
+
+20:31 : W03 started working.
+01:50 : Stopped command file.
+01:52 : Started scan on 3C286.
+02:00 : Stopped scan and observing session over.
+

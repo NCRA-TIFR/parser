@@ -1,0 +1,61 @@
+		 GTAC Observation Log 
+
+1. Date : 24/11/2012
+2. Observation Sr. No. : 6240
+3. Observer : Jayaram Chengalur
+4. Observer's Email : chengalu@ncra.tifr.res.in
+5. Project Name : J0744+2508
+6. Project Code : 23_043
+7. Operator(s) : Pramod,
+	Rupsingh,
+	Sachin,
+	
+8. Command File : /odisk/gtac/cmd/chengalu/j0744.cmd
+9. LTA File : /gsbifrdata/24nov/23_043_24nov2012.lta
+10. LogFlag File : /odisk/online1/logflags/23_043.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1406.4371 MHz ,RF2 : 1406.4371 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1345 MHz, ILO2 : 1345 MHz , IVLO1 : 61.4371 MHz, IVLO2 : 61.4371 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,OFF, IF-CH2 : 24+4 dB, 16 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 16 MHz
+21. Maximum Channels : 512 
+22. IFBW (MHz) : LO5 (KHz) : Custom :- 16 : 138.56 - 166.43
+23. Final Bandwidth (MHz): 4 MHz; Step # 2
+
+24. Frequency Parameters (TPA) : 1406.4371 1406.4371 1345 1345 61.4371 61.4371.
+25. Integration Time : 8.053 Sec.
+26. No of Antennas Working(Fringing) :27
+
+27. Name of Non-Working Antennas (with reason for each) :
+C00 : BLDC work
+W05 : Mech Work (Mesh removed Parked)/ Painting.
+C03 : MCM 5 time out.
+
+
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 22:00 - 07:40
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+22:00 : Started setting for 1390MHz.
+22:16 : Started scan on 3C147.
+22:42 : Stopped scan on 3C147 & started command file.
+        '/odisk/gtac/cmd/chengalu/j0744.cmd'
+07:12 : Command file stopped.
+07:20 : Started scan on 3C286.
+07:40 : Observation stopped.
+
+

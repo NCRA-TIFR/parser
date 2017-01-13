@@ -1,0 +1,64 @@
+		 GTAC Observation Log 
+
+1. Date : 24/02/2003
+2. Observation Sr. No. : 0988
+3. Observer : Dr. Ishwarchandra
+4. Observer's Email : ishwar@ncra.tifr.res.in
+5. Project Name : JUPITOR
+6. Project Code : 03ABB01
+7. Operator(s) : Mangesh,
+	Manisha J.,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/ishwar/jup24at.cmd
+9. LTA File : /rawdata/24feb/03abb01_jup24feb_bt.lta
+10. LogFlag File : /btemp2/logflags/03ABB01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 6 MHz,ON, IF-CH2 : 18+18 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:63:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+S01 : No fringe at 235 (175 Pol)
+
+
+21. Start and End Time of Obs.(IST): 18:04 - 04:02
+
+22. Comments (During Observations) :
+** ONLINE RUNNING ON bhaskar **
+** IF ATTN : POWER EQ (ALC ON) **
+-----------------------------------------
+18:04  Started record on 3c147.
+18:18  Started record on Jup.
+19:40  Started cmd file.
+22:02  Scan# 22, first 5 recs bad (corr_config running,
+C04 flat B-shape problem.)
+22:57  Stopped cmd file; 
+23:07  Started record on 3c147.
+23:44  Stopped recording on 3c147.
+       Moved antennas to 1021+219.
+23:50  Started a scan on 1021+219.
+23:58  Stopped the scan.
+00:05  Started the command file 
+            '/temp2/data/cmd/ishwar/jup24at.cmd'
+02:42  C05 flat band shape(Scan 43)
+02:54  At the end of scan 44 ran corr_config.
+       C05 flat band-shape vanished.
+03:47  Stopped the command file. Antennas moved
+       to 3c286.
+03:51  Started a scan on 3c286.
+04:02  Stopped the scan. Closed the observation.
+
+

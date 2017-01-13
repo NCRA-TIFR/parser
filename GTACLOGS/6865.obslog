@@ -1,0 +1,55 @@
+		 GTAC Observation Log 
+
+1. Date : 29/12/2013
+2. Observation Sr. No. : 6865
+3. Observer : Jayanta Roy,Bhaswati Bhattacharya,Yashwant Gupta,Dipankar Bhattacharya
+4. Observer's Email : jroy@ncra.tifr.res.in,bhaswati@ncra.tifr.res.in,ygupta@ncra.tifr.res.in,dipankar@iucaa.ernet.in
+5. Project Name : Long-term timing program for millisecond pulsars discovered by the GMRT at the position of Fermi LAT sources
+6. Project Code : 25_046
+7. Operator(s) : Deepak,
+8. Command File : /odisk/gtac/cmd/jroy/25_046.29dec.cmd
+9. LTA File : /gsbifrdata/29dec/25_046_29dec2013.lta,
+10. LogFlag File : /odisk/online1/logflags/25_046.FLAGS.30,
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : Realtime 
+15. GSB LTA : 8 
+16. GSB CTRL : ONLINE 
+17. GSB Fstop : ON 
+18. GAIN EQ : OFF, 
+19. Stokes : TotIntensity
+20. Beam - 1 : IA
+21. Beam - 2 : PA
+22. ACQ BW : 33.33 MHz
+23. Final BW : 33.333333 MHz; Step # 0
+24. Maximum Channels : 512 
+25. Channel Numbers : 0:511:1 
+26. LO5 -1  : 149.00 
+27. LO5 -2  : 156.00 
+
+28. Frequency Parameters (TPA) : 306 306 255 255 51 51.
+29. Integration Time :  Sec.
+30. No of Antennas Working(Fringing) at the begining :29
+
+31. Name of Non-Working Antennas (with reason for each) :
+C02 : MCM 5 time out.
+
+32. Note for Backup :
+
+33. Start and End Time of Obs.(IST): 04:00 - 06:30
+
+34. ONLINE Machine : Lenyadri
+
+35. No of Antennas Working(Fringing) at the end :29
+
+36. Comments (During Observations) :
+04:10 : Phasing on 1459+716.
+04:20 : Started command file.
+06:30 : Observation stopped.

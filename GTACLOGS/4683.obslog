@@ -1,0 +1,70 @@
+		 GTAC Observation Log 
+
+1. Date : 01/01/2010
+2. Observation Sr. No. : 4683
+3. Observer : Yogesh Chandola
+4. Observer's Email : chandola@ncra.tifr.res.in
+5. Project Name : B1744+557
+6. Project Code : 17_057
+7. Operator(s) : Rupsingh,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/yogesh/17_057/1744.cmd
+9. LTA File : /rawdata/1jan/17_057_01jan2010a.lta,
+	/rawdata1/1jan/17_057_01jan2010a.ltb
+10. LogFlag File : /odisk/online1/logflags/17_057.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1375.4 MHz ,RF2 : 1375.4 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1305 MHz, ILO2 : 1305 MHz, IVLO1 : 70.4 MHz, IVLO2 : 70.4 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+14. BB BW(KHz) & BB ALC : 4000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1375.4 1375.4 1305 1305 70.4 70.4 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C13 : For painting.
+E05 :  No fringe in USB
+W06 : fringe fluctuation(GHB).
+S01-175 low fringe.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 11:04 - 18:00
+
+23. ONLINE Machine : Lenyadri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+---------------------------------------------
+GSB data files
+/gsbifrdata/1jan/17_057_1jan2010a_gsb.lta,
+/gsbifrdata/1jan/17_057_1jan2010a_gsb.lta.1
+*********************************************
+11:20 : Started scan on 3C286 for 15min.
+11:35 : Stopped scan.
+11:40 : Started command file
+        '/odisk/gtac/cmd/yogesh/17_057/1744.cmd'
+13:45 : C13 started working.
+14:52 : C00 got abc reset.
+14:55 : Stopped command file.
+15:01 : C00 started working.
+
+15:01 : Started scan on 3C48 for 15mins.
+15:18 : Restarted command file.
+15:42 : C00 parked due to electrical problem.
+17:29 : Command file stopped.
+17:33 : Started scan on 3C48 for 20mins.
+17:55 : Observation stopped.
+
+
+
+

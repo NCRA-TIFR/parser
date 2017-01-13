@@ -1,0 +1,66 @@
+		 GTAC Observation Log 
+
+1. Date : 12/06/2006
+2. Observation Sr. No. : 2650
+3. Observer : Ayesha Begum
+4. Observer's Email : ayesha@ncra.tifr.res.in
+5. Project Name : Dwarfs
+6. Project Code : 10ABA01
+7. Operator(s) : Jayprakash,
+	Manish G.,
+	Manisha J.,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/ash/0141+27.cmd
+9. LTA File : /rawdata/12jun/10aba01_0141+27.lta,
+	/rawdata1/12jun/10aba01_0141+27.ltb
+10. LogFlag File : /btemp2/logflags/10ABA01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1418.7 MHz ,RF2 : 1418.7 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1350 MHz, ILO2 : 1350 MHz, IVLO1 : 68.7000 MHz, IVLO2 : 68.7000 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 16 MHz,ON, IF-CH2 : 16+16 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 1000 KHz, 12 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 4
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1418.7 1418.7 1350 1350 68.7000 68.7000 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :24
+
+20. Name of Non-Working Antennas (with reason for each) :
+C08 - OFF
+E-Arm - OFF
+C14 - phase unstable.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 03:45 - 14:50
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+******** IF Attn : AUTHIF @ 1390 MHz *********
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+---------------------------------------------
+03:42 : STarted scan on 3c48.
+03:45 : Ran corr_config.
+03:52 : Started scan on 3c48.
+04:02 : Started the command file.
+04:05 : Stopped the cmd file & changed the track.
+04:25 : Started the command file.
+14:15 : Stopped the command file.
+14:30 : Observed 3C147 for 20 mins.
+14:50 : Stopped the obsevation.
+

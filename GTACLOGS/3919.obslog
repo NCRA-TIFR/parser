@@ -1,0 +1,78 @@
+		 GTAC Observation Log 
+
+1. Date : 10/08/2008
+2. Observation Sr. No. : 3919
+3. Observer : Veeresh Singh
+4. Observer's Email : veeresh@iiap.res.in
+5. Project Name : Seyferts
+6. Project Code : 14VSA01
+7. Operator(s) : Deepak,
+	Rupsingh,
+	Sachin,
+	
+8. Command File : /odisk/gtac/cmd/14vsa01/10aug_s2.cmd,
+	/odisk/gtac/cmd/14vsa01/10aug_s2_2.cmd,
+	/odisk/gtac/cmd/14vsa01/10aug_n4.cmd,
+	
+9. LTA File : /rawdata/10aug/14vsa01_10aug2008_16s.lta,
+	/rawdata1/10aug/14vsa01_10aug2008_16s.ltb
+10. LogFlag File : /btemp2/logflags/14VSA01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 6+0 dB, 32 MHz,ON, IF-CH2 : 6+0 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+S01: no fringe.
+S06: fringe fluctuation.
+W04: fringe fluctuation.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 00:20 - 11:20
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+00:20 : Started command file (14vsa01).
+00:24 : Started 10aug_s2.cmd.
+02:55 : Stopped command file.
+02:56 : Started ark564.cmd.
+03:20 : Stopped command file.
+03:21 : Started 10aug_n4.cmd.
+04:17 : Started ark564.cmd file.
+04:43 : 10aug_n4.cmd
+05:42 : Ark564.cmd
+06:56 : Power failed for some antennas.Stopped scan.
+07:15 : Started ark564.cmd, but found source setting at
+        at 0722 so stopped command file.
+07:24 : Started 10aug_n2110.cmd.
+07:46 : Stopped command file.    
+07:50 : Started 10aug_n4.cmd
+08:46 : Stopped command file.
+08:48 : Started veereshn3_1.cmd.
+09:27 : Stopped command file.
+09:30 : Started 10aug_n2110.cmd.
+09:55 : Stopped command file. 
+10:00 : Started 10aug_n3227.cmd.
+10:24 : Stopped command file.
+10:27 : Started 10aug_n2110.cmd.
+11:05 : Stopped command file.
+11:10 : Started scan on 3C147.
+11:20 : Stopped scan on 3C147 and stopped observation
+session.
+
+

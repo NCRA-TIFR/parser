@@ -1,0 +1,69 @@
+		 GTAC Observation Log
+
+1. Date : 02/12/2015
+2. Observation Sr. No. : 8218
+3. Observer : Prajwal Padmanabh, Y Gupta,
+4. Observer's Email : ygupta@ncra.tifr.res.in,prajwal3108@gmail.com
+
+5. Project Name : Pulsar observation.
+6. Project Code : DDTUG10
+7. Operator(s) : Nilesh, Sachin
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /gsbifrdata/02dec/ddtug10_02dec2015.lta.1, /gsbifrdata/02dec/ddtug10_02dec2015.lta
+10. LogFlag File :  
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1454 MHz ,RF2 : 1454 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1505 MHz, ILO2 : 1505MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+14 dB, 32 MHz,OFF, IF-CH2 : 24+14 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : IA
+22. Beam - 2 : PA
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 33.333333 MHz; Step # 
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 1454 1454 1505 1505 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :30
+
+32. Name of Non-Working Antennas (with reason for each) :
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 02 Dec 2015 07:00:00 - 02 Dec 2015 09:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :30
+
+37. Comments (During Observations) :
+07:00 : Started settings.
+07:20 : Started power equalization.
+07:40 : Started phasing.
+07:55 : Started pulsar observation.
+07:57:57 : Started scan on J0751+1807 for ~ 13.9586 min.
+08:19:12 : Started scan on 1154-350 for ~ 2.68435 min.
+08:22:10 : Started scan on 1154-350 for ~ 0.268435 min.
+08:24:08 : Started scan on J1045-4509 for ~ 18.7905 min.
+08:46:10 : Started scan on 1248-199 for ~ 1.61061 min.
+08:47:55 : Started scan on 1248-199 for ~ 0.53687 min.
+08:51:49 : Started scan on B1133+16 for ~ 5.3687 min.
+09:01:08 : Started scan on 1248-199 for ~ 1.87905 min.
+09:03:29 : Started scan on 1248-199 for ~ 0.268435 min.
+09:05:53 : Started scan on J1455-3330 for ~ 20.4011 min.
+
+09:30 : Stopped observation session.

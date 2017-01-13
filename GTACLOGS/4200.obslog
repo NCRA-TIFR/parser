@@ -1,0 +1,118 @@
+		 GTAC Observation Log 
+
+1. Date : 14/02/2009
+2. Observation Sr. No. : 4200
+3. Observer : E M Wilcots
+4. Observer's Email : ewilcots@astro.wisc.edu
+5. Project Name : AGN Feedback in Radio-Loud Galaxy Groups
+6. Project Code : 15KMH01
+7. Operator(s) : Deepak,
+	Manisha,
+	Navanath,
+	Nilesh,
+	Sachin,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/15kmh01/obs0.cmd,
+	/odisk/gtac/cmd/15kmh01/obs3.cmd
+9. LTA File : /rawdata/14feb/15kmh01_14feb2009.lta,
+	/rawdata1/14feb/15kmh01_14feb2009.ltb,
+	/rawdata/14feb/15kmh01_14feb2009.lta.1,
+	/rawdata1/14feb/15kmh01_14feb2009.ltb.1,
+	/rawdata/14feb/15kmh01_14feb2009_diffstop.lta,
+	/rawdata1/14feb/15kmh01_14feb2009_diffstop.ltb,
+	/rawdata/14feb/15kmh01_14feb2009_diffstop.lta.1,
+	/rawdata1/14feb/15kmh01_14feb2009_diffstop.ltb.1,
+	
+10. LogFlag File : /btemp2/logflags/15KMH01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+14feb:-
+08:20 : E06 parked for painting.
+09:35 : C14 parked for paining.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 22:00 - 00:00
+
+23. ONLINE Machine : Bhaskar
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+--------------------------------------------
+NOTE FOR THE USER :
+"The online fringe stopping algorithm was found to be in error by about 2s
+after 1Jan2009. This differential fringe rate was applied using the program
+diffstop. The fringe rate was corrected for an error of +2.0s, and the
+timestamps were also updated by the same amount."
+---------------------------------------------
+22:14 : Started scan on 3C147 for 15mins.
+22:30 : Started command file.
+        /odisk/gtac/cmd/15kmh01/obs0.cmd.
+This is ltahdr output :-
+  0 3C147       05h43m18.58 +49d51'20.74" 14/Feb/2009 22:14:10  614.00  125.000   51
+  1 1313+675    13h13m46.70 +67d32'56.95" 14/Feb/2009 22:32:28  614.00  125.000   35
+  2 NGC3665     11h25m12.53 +38d42'45.33" 14/Feb/2009 22:45:36  614.00  125.000  111
+  3 1313+675    13h13m46.70 +67d32'56.95" 14/Feb/2009 23:18:48  614.00  125.000   35
+  4 NGC3665     11h25m12.53 +38d42'45.33" 14/Feb/2009 23:32:01  614.00  125.000  111
+  5 1313+675    13h13m46.71 +67d32'56.90" 15/Feb/2009 00:05:27  614.00  125.000   35
+  6 NGC3665     11h25m12.54 +38d42'45.28" 15/Feb/2009 00:18:37  614.00  125.000  111
+  7 1313+675    13h13m46.71 +67d32'56.90" 15/Feb/2009 00:52:17  614.00  125.000   35
+  8 NGC3665     11h25m12.54 +38d42'45.28" 15/Feb/2009 01:05:29  614.00  125.000  112
+  9 1313+675    13h13m46.71 +67d32'56.90" 15/Feb/2009 01:39:19  614.00  125.000   35
+ 10 NGC3665     11h25m12.54 +38d42'45.28" 15/Feb/2009 01:52:28  614.00  125.000  111
+ 11 1313+675    13h13m46.71 +67d32'56.90" 15/Feb/2009 02:27:24  614.00  125.000   35
+ 12 NGC3665     11h25m12.54 +38d42'45.28" 15/Feb/2009 02:40:31  614.00  125.000  110
+ 13 1313+675    13h13m46.71 +67d32'56.90" 15/Feb/2009 03:13:31  614.00  125.000   35
+ 14 NGC3665     11h25m12.54 +38d42'45.28" 15/Feb/2009 03:26:32  614.00  125.000  111
+ 15 1313+675    13h13m46.71 +67d32'56.90" 15/Feb/2009 04:00:05  614.00  125.000   35
+ 16 NGC3665     11h25m12.54 +38d42'45.28" 15/Feb/2009 04:13:06  614.00  125.000  111
+ 17 1313+675    13h13m46.71 +67d32'56.90" 15/Feb/2009 04:46:25  614.00  125.000   36
+ 18 3C286       13h31m33.50 +30d27'44.08" 15/Feb/2009 04:59:14  614.00  125.000   59
+
+01:45 : C06 servo stopped working.
+04:49 : Started two simultaneous record on 3C286.
+05:18 : Started next command file.
+        /odisk/gtac/cmd/15kmh01/obs3.cmd.
+ 0 3C286       13h31m33.50 +30d27'44.08" 15/Feb/2009 04:59:14  614.00  125.000   60
+  1 1313+675    13h13m46.71 +67d32'56.90" 15/Feb/2009 05:18:46  614.00  125.000   35
+  2 NGC5930     15h26m26.56 +41d38'40.35" 15/Feb/2009 05:32:00  614.00  125.000  111
+  3 1313+675    13h13m46.71 +67d32'56.90" 15/Feb/2009 06:05:10  614.00  125.000   35
+  4 NGC5930     15h26m26.56 +41d38'40.35" 15/Feb/2009 06:18:18  614.00  125.000  112
+  5 1313+675    13h13m46.71 +67d32'56.90" 15/Feb/2009 06:52:07  614.00  125.000   35
+  6 NGC5930     15h26m26.56 +41d38'40.35" 15/Feb/2009 07:05:22  614.00  125.000  111
+  7 1313+675    13h13m46.71 +67d32'56.90" 15/Feb/2009 07:39:10  614.00  125.000   44
+  8 NGC5930     15h26m26.56 +41d38'40.35" 15/Feb/2009 08:02:23  614.00  125.000  111
+  9 1313+675    13h13m46.71 +67d32'56.90" 15/Feb/2009 08:35:46  614.00  125.000   34
+ 10 NGC5930     15h26m26.56 +41d38'40.35" 15/Feb/2009 08:49:02  614.00  125.000  112
+ 11 1313+675    13h13m46.71 +67d32'56.90" 15/Feb/2009 09:22:17  614.00  125.000   35
+ 12 NGC5930     15h26m26.56 +41d38'40.35" 15/Feb/2009 09:35:26  614.00  125.000  117
+
+10:09 : Command file stopped.
+10:06 : C06 back in observation.
+10:12 : Started scan on fulx cal for 10min.
+10:22 : Scan stopped.
+  : Observing session over.
+----------------------------------------------
+   
+
+
+
+

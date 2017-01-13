@@ -1,0 +1,70 @@
+		 GTAC Observation Log 
+
+1. Date : 25/04/2010
+2. Observation Sr. No. : 4832
+3. Observer : Simona Giacintucci, Ishwar Chandra
+4. Observer's Email : ishwar@ncra.tifr.res.in,sgiacint@head.cfa.harvard.edu
+5. Project Name : Origin and history of radio outbursts in galaxy groups
+6. Project Code : 18_007
+7. Operator(s) : Amruta,
+	Deepak,
+	Manisha,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/simona/18_007_2_obs.cmd
+9. LTA File : /rawdata/25apr/18_007_25apr2010.lta,
+	/rawdata1/25apr/18_007_25apr2010.ltb
+10. GSB File : /gsbifrdata/25apr/18_007_25apr2010_gsb.lta
+11. LogFlag File : /odisk/online1/logflags/18_007.FLAGS
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+15. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :25
+
+20. Name of Non-Working Antennas (with reason for each) :
+C01 :OFF
+C02 :ELEVEN FEED.
+C14 :servo problem
+C05 :Feed jam 
+W03 : All MCM T.O.
+
+21. Note for Backup :--
+
+22. Start and End Time of Obs.(IST): 07:00 - 17:27
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+2s FILES :-
+GHB :/rawdata/25apr/18_007_25apr2010_2s.lta,
+     /rawdata1/25apr/18_007_25apr2010_2s.ltb
+GSB : /gsbifrdata/25apr/18_007_25apr2010_gsb_2s.lta
+----------------------------------------------
+
+C11 & W01 having CSIRO feed.
+
+06:59 : Started scan on 3c48 for ~30min.
+07:36 : Started command file.
+
+08:30 : E04 released for painting work.
+09:16 : C03 released for painting work.
+14:00 : C05 stared working.
+17:12 : stopped the command file and scan 
+        started on 3c147.
+17:27 : stopped the scan and observation session.
+
+
+

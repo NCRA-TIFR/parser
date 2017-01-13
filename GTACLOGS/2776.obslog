@@ -1,0 +1,62 @@
+		 GTAC Observation Log 
+
+1. Date : 13/08/2006
+2. Observation Sr. No. : 2776
+3. Observer : Pen Ue Li
+4. Observer's Email : jroy@ncra.tifr.res.in,tchang@astro.berkeley.edu,pen@cita.utoronto.ca
+5. Project Name : Test
+6. Project Code : 10SSB01
+7. Operator(s) : Deepak,
+	Manish G.,
+	Manisha J.,
+	Sachin,
+	
+8. Command File : /btemp2/cmd/jroy/eor5.cmd
+9. LTA File : /rawdata/13aug/10ssb01_13aug06.lta,
+	/rawdata1/13aug/10ssb01_13aug06.ltb
+10. LogFlag File : /btemp2/logflags/10SSB01.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 218 MHz, ILO2 : 218 MHz, IVLO1 : 62 MHz, IVLO2 : 62 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 18+6 dB, 16 MHz,ON, IF-CH2 : 18+6 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 156 156 218 218 62 62 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+E03 : No fringe
+S03 : Bad baselines
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 08:00 - 18:10
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr mode : USBPolarMode   *********
+--------------------------------------------
+NOTE FOR THE USER :
+1. S01-LSB, S04-LSB, S06-LSB, E06-LSB :
+   First ~40 channels - bad bandshape.
+2. The above problem does not affect the data 
+   if 'CLASSIC NORM OFF' (Un-normalised) is used 
+   in listscan/gvfits.
+---------------------------------------------
+
+08:32 : Started command file.
+17:50 : Command file stopped.
+17:54 : Started scan on 3C286 for 15mins.
+18:05 : Observation stopped.
+
+

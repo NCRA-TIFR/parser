@@ -1,0 +1,127 @@
+		 GTAC Observation Log 
+
+1. Date : 24/8/2013
+2. Observation Sr. No. : 6669
+3. Observer : Neeraj Gupta,Raghunathan Srianand,Patrick Petitjean,Pasquier Noterdaeme,Sowgat Muzahid,hadi Rahmani
+4. Observer's Email : gupta@astron.nl,anand@iucaa.ernet.in,ppetitje@iap.fr,noterdae@iap.fr,sowgat@iucaa.ernet.in,hadi@iucaa.ernet.in
+5. Project Name : HI observations of quasar-galaxy pairs at z~0.1
+6. Project Code : 24_033
+7. Operator(s) : Deepak,Navanath,Pramod,Surender
+8. Command File : /odisk/gtac/cmd/neeraj/qgpj0911.cmd,/odisk/gtac/cmd/neeraj/qgpj1100.cmd,/odisk/gtac/cmd/neeraj/qgpj1300.cmd,/odisk/gtac/cmd/neeraj/qgpj1438.cmd
+9. LTA File : /gsbifrdata/24aug/24_033_24aug2013.lta,/gsbifrdata/24aug/24_033_24aug2013.lta.1,/gsbifrdata/24aug/24_033_24aug2013.lta.2,/gsbifrdata/24aug/24_033_24aug2013.lta.3,
+10. LogFlag File : /odisk/online1/logflags/24_033.FLAGS,
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 1382 MHz ,RF2 : 1382 MHz, SA1 : 0 dB, SA2 :  dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 1320 MHz, ILO2 : 1320 MHz , IVLO1 : 62 MHz, IVLO2 : 62 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : Realtime 
+15. GSB LTA : 8 
+16. GSB CTRL : ONLINE 
+17. GSB Fstop : ON 
+18. GAIN EQ : ON 
+19. Stokes : TotIntensity
+20. Beam - 1 : OFF
+21. Beam - 2 : OFF
+22. ACQ BW : 16.67 MHz
+23. Final BW : 4.17 MHz; Step # 2
+24. Maximum Channels : 512 
+25. Channel Numbers : 0:511:1 
+26. LO5 -1  : 141.77 
+27. LO5 -2  : 163.23 
+
+28. Frequency Parameters (TPA) : 1382 1382 1320 1320 62 62.
+29. Integration Time : 16.106112 Sec.
+30. No of Antennas Working(Fringing) :28
+
+31. Name of Non-Working Antennas (with reason for each) :
+W05 : servo problem.
+E05 : No feed of 1420MHz.
+C04 : 130 Low Fringe( Old callsheet)
+32. Note for Backup :
+
+33. Start and End Time of Obs.(IST): 06:30 - 23:00
+
+34. ONLINE Machine : Shivneri
+
+35. Comments (During Observations) :
+07:30 : Started set up.
+07:48 : Started scan on 3C147 for 15min.
+08:04 : Started command file.
+       '/odisk/gtac/cmd/neeraj/qgpj0911.cmd'
+09:01 : S-arm power failure.
+09:20 : S-arm started working except S06.
+09:25 : S06 Started working.
+09:26 : C03 reset.
+09:37 : C03 Started working.
+10:46 : Stopped command file and halted the GSB.
+----------------------------------------------------------------
+10:46 : Started new set up. RF band= 1390 (1330 - 1450)
+LO1= 1300 (lower) IFBW= 18 GSB [ACQ] BW= 16.6666 Total Channel= 512
+Line/Center Frequency= 1371 BW= +4.1666
+Digital SubBand/step#= 2 is USEABLE ###
+GSB_CONFIG LO5= 139.41  165.59
+BASE_BAND  LO4= 60.59  60.59
+tpa 1360.59 1360.59 1300 1300 60.59 60.59
+-------------------------------------------------------
+10:50: Started scan on 3C147 for 15min.
+10:55: S04 taken for maintenance. 
+11:11: Started command file.
+12:12: W05 started working.
+15:25 : Started scan on 3C286 for 10min.
+15:35 : Observing session stopped.
+-------------------------------------------------------
+15:40 : Started New setup.
+LO1= 1085 (lower)
+IFBW= 18
+GSB [ACQ] BW= 16.6666
+Total Channel= 512
+BW= +4.1666
+CW= 8.14 (KHz.)
+
+Digital SubBand/step#= 2 is USEABLE ###
+GSB_CONFIG LO5= 138.2235  166.7765
+BASE_BAND  LO4= 61.7765  61.7765
+tpa 1146.7765 1146.7765 1085 1085 61.7765 61.7765
+
+15:45 : Started scan on 3c286 for 10min.
+      : Scan 0 and 1 E05(No L band feed) and S04(RF Not set) down.
+16:02 : Started cmd file.
+    /odisk/gtac/cmd/neeraj/qgpj1300.cmd,
+18:53 : Started scan on flux cal for 10min.
+19:03 :Observing session stopped.
+---------------------------------------------------------------
+19:05 : Started next setup.
+
+GSB line observation setup
+RF band= 1390 (1330 - 1450)
+LO1= 1310 (lower)
+IFBW= 18
+GSB [ACQ] BW= 16.6666
+Total Channel= 512
+
+Line/Center Frequency= 1378.65 
+CH#[0]= 1376.5667
+CH#[512]= 1380.7333 
+BW= +4.1666
+CW= 8.14 (KHz.) 
+
+Digital SubBand/step#= 2 is USEABLE ### 
+GSB_CONFIG LO5= 141.7665  163.2335
+BASE_BAND  LO4= 58.2335  58.2335
+tpa 1368.2335 1368.2335 1310 1310 58.2335 58.2335
+    
+19:12 : Started scan on 3c286 for 10min.
+19:28 : Started cmd file.
+
+/odisk/gtac/cmd/neeraj/qgpj1438.cmd
+
+22:13 : Started scan on 3C468.1 
+22:35 : Started scan on 3C286.
+23:00 : Observing session over.
+=============================================================        
+

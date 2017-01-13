@@ -1,0 +1,63 @@
+		 GTAC Observation Log 
+
+1. Date : 27/07/2003
+2. Observation Sr. No. : 1072
+3. Observer : Sarita Vig
+4. Observer's Email : sarita@tifr.res.in,visitor3@gmrt.ncra.tifr.res.in
+5. Project Name : ngc6334_ch3cho
+6. Project Code : 04SVA01
+7. Operator(s) : Jayprakash,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/sarita/ngc6334.cmd
+9. LTA File : /rawdata/27jul/04sva01_ngc6334_ch3cho.lta,
+	/rawdata1/27jul/04sva01_ngc6334_ch3cho.ltb
+10. LogFlag File : /btemp2/logflags/04SVA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1064.809 MHz ,RF2 : 1064.809 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 995 MHz, ILO2 : 995 MHz, IVLO1 : 69.809 MHz, IVLO2 : 69.809 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+4 dB, 6 MHz,ON, IF-CH2 : 4+4 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 500 KHz, 15 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 5
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1064.809 1064.809 995 995 69.809 69.809 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+USB :
+C04 : 175 pol base band not set
+S03 : low fringe
+S04 : low fringe.
+
+21. Start and End Time of Obs.(IST): 17:00 - 01:20
+
+22. Comments (During Observations) :
+ONLINE : BHASKAR.
+IF ATTN : AUTHIF at 1060 MHz.
+===============================
+17:44 ALC OFF scan # 0 3c286, 5 min.
+17:53 ALC ON  scan # 1 3c286, 15 min.
+18:20 ALC OFF scan # 2 1622-297, 5 min.
+18:30 ALC ON  scan # 3 1622-297, 10 min.
+18:45 ALC OFF scan # 4 NGC6334, 5 min
+18:57 ALC ON  scsn # 5 onwards
+      started the command file
+      /temp2/data/cmd/sarita/ngc6334.cmd
+19:28 flat band shape for C05 
+19:37 flat band shape for C06
+19:47 ran corr_config 
+20:20 flat band shape for C05
+24:04 Stopped command file.
+24:06 Started scan on NGC6334.
+24:55 Stopped scan.
+25:05 Started scan on 3c48 for 15min.
+25:20 Stopped observation.
+
+

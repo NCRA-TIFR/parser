@@ -1,0 +1,60 @@
+		 GTAC Observation Log 
+
+1. Date : 02/06/2007
+2. Observation Sr. No. : 3180
+3. Observer : RSA
+4. Observer's Email : neeraj@ncra.tifr.res.in
+5. Project Name : mg0804
+6. Project Code : 12RSA01
+7. Operator(s) : Deepak,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/srianand/mg0804.cmd
+9. LTA File : /rawdata/2jun/12rsa01_02jun2007.lta,
+	/rawdata1/2jun/12rsa01_02jun2007.ltb
+10. LogFlag File : /btemp2/logflags/12RSA01.FLAGS.5
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 589.656 MHz ,RF2 : 589.656 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 520 MHz, ILO2 : 520 MHz, IVLO1 : 69.656 MHz, IVLO2 : 69.656 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+10 dB, 6 MHz,ON, IF-CH2 : 12+10 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 1000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 589.656 589.656 520 520 69.656 69.656 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C14 : 175 low fringe
+C05 : Servo problem.
+C08 : Painting.
+S03 and W03-130: LSB flat band shape,low fringe.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 12:00 - 20:50
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+12:06 : Started scan on 3C147 for 15mins.
+12:25 : Started command file
+        /btemp2/cmd/srianand/mg0804.cmd
+13:45 : C08 started working.
+17:05 : C05 started working.
+18:40 : MSEB power failed.
+19:30 : MSEB power resumed.
+      : S-arm did not recovered.
+19:45 : rstarted the observations.
+          : W03 servo problem.
+20:50 : observation session over.
+
+

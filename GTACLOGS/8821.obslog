@@ -1,0 +1,95 @@
+		 GTAC Observation Log
+
+1. Date : 15/08/2016
+2. Observation Sr. No. : 8821
+3. Observer : Anshu Kumari, Hariharan Krishnan, Kathiravan C
+4. Observer's Email : anshu@iiap.res.in, khariharan@iiap.res.in, kathir@iiap.res.in
+5. Project Name : Imaging Observations of Circularly Polarized Emission from Solar Transients at Decimeter Wavelengths using uGMRT
+6. Project Code : 30_077
+7. Operator(s) : Navnath, Nilesh
+8. Command File : /odisk/gtac/cmd
+9. LTA File : /gsbifrdata1/15aug/30_077_15aug2016_2s.lta.1, /gsbifrdata1/15aug/30_077_15aug2016_2s.lta
+10. LogFlag File : /odisk/online1/logflags/30_077.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : OFF
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 0 MHz; Step # 0
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 306 306 255 255 51 51
+30. Integration Time : 2.0132 Sec
+31. No of Antennas Working(Fringing) at the beginning :24
+
+32. Name of Non-Working Antennas (with reason for each) :
+C12 : : MCM 5 time out.
+W02,W06,E06 : LOFSW settings problem intermittent.
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 15 Aug 2016 08:00:00 - 15 Aug 2016 16:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :24
+
+37. Comments (During Observations) :
+07:00 : Started feed rotation.
+08:00 : Started setup of observation.
+08:15 : node 37 showing input output error for full stoke mode
+08:30 : Started GSB in 32MHz, 512 chan, total intesity mode.
+08:45 : power equalized on sun for GWB at 800 counts and GSB at 600 counts
+        as it was difficult to get the powers at 250 and 150 counts resp.
+
+08:49:09 : Started scan on 3C147 for ~ 1.64417 min.
+08:51:16 : Started scan on 3C147 for ~ 12.1131 min.
+09:10:11 : Started scan on 0804+102 for ~ 9.83144 min.
+09:24:14 : Started scan on SUN0015 for ~ 0.268435 min.
+09:27:20 : Started scan on SUN0015 for ~ 20.2669 min.
+
+09:40 : It is noticed that RF settings to switch SA - ON/OFF did not worked. so re-set the RF parameters. Also GWB got WRONG TPA values, due to wrong project code Entry. Changed GWB Project code.
+ 		Also Noted that,
+			GSB power levels are ~ 10 counts.
+			GWB power levels are ~ 60 counts.
+
+09:50:10 : Started scan on SUN0021 for ~ 21.4748 min.
+10:15:09 : Started scan on 0804+102 for ~ 10.1334 min.
+10:15:09 : Started scan on 0804+102 for ~ 10.9723 min.
+10:29:15 : Started scan on SUN0020 for ~ 20.032 min.
+
+10:50 : Again noticed that RF settings did not switched the SA - ON/OFF as required. problem reported to Raybole, and he told that RF powers of Antennas are very high, almost at saturation, and he suggested to switch RF to L-Band (Full Band). There power levels looks fine. and we switched settings back to 325 MHz.
+
+12:00 : Raybole released the system for observation.
+
+12:05:43 : Started scan on 3C286 for ~ 21.3406 min.
+12:35:49 : Started scan on 0804+102 for ~ 10.0328 min.
+12:50:18 : Started scan on SUN0028 for ~ 20.0655 min.
+13:11:27 : Started scan on SUN0030 for ~ 20.0655 min.
+13:36:28 : Started scan on 0804+102 for ~ 9.99921 min.
+13:51:27 : Started scan on SUN0033 for ~ 20.0655 min.
+14:12:51 : Started scan on SUN0035 for ~ 20.032 min.
+14:36:42 : Started scan on 0804+102 for ~ 11.3749 min.
+14:52:23 : Started scan on SUN0037 for ~ 20.032 min.
+15:13:27 : Started scan on SUN0039 for ~ 20.032 min.
+15:38:38 : Started scan on 0804+102 for ~ 10.8045 min.
+15:54:16 : Started scan on 3C286 for ~ 9.19391 min.
+16:04:00 : Stopped scan and observing session over.
+
+

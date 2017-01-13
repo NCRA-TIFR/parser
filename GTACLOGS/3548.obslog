@@ -1,0 +1,65 @@
+		 GTAC Observation Log 
+
+1. Date : 10/01/2008
+2. Observation Sr. No. : 3548
+3. Observer : NIssim 
+4. Observer's Email : nkanekar@aoc.nrao.edu,nissim@ncra.tifr.res.in
+5. Project Name : 2358-102
+6. Project Code : 08DT006
+7. Operator(s) : Navanath,
+	Sachin,
+	
+8. Command File : /atemp2/cmd/nissim/nissim-ddt-2358-102.cmd
+9. LTA File : /rawdata/10jan/08dt006_10jan2008.lta,
+	/rawdata1/10jan/08dt006_10jan2008.ltb,
+	/rawdata/10jan/08dt006_10jan2008.lta.1,
+	/rawdata1/10jan/08dt006_10jan2008.ltb.1
+10. LogFlag File : /atemp2/logflags/08DT006.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 653.1 MHz ,RF2 : 653.1 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 585 MHz, ILO2 : 585 MHz, IVLO1 : 68.1 MHz, IVLO2 : 68.1 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 6 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 1000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:255:1
+17. Frequency Parameters (TPA) : 653.1 653.1 585 585 68.1 68.1 
+
+18. Integration Time : 256 LTA ~ 33.817 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+C02 : Painting.
+C09 : USB-175 bad band shape.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 15:00 - 21:45
+
+23. Comments (During Observations) :
+--------------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : Indian Polar Mode*********
+--------------------------------------------------
+16:07 : Started scan on 3c48 
+16:31 : started scan on sourcd through cmd file.
+18:14 : MSEB Power failure.
+      : resettings
+18:43 : scan restarted on source through cmd file.
+21:24 : started scan on 3c48 
+21:25 : dasconsole killed
+      : restarted das chain
+21:27 : started scan on 3c48 in lta.1 and ltb.1 file
+
+21:45 : observing session over.
+
+
+
+
+
+
+

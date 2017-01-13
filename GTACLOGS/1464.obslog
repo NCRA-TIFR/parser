@@ -1,0 +1,53 @@
+		 GTAC Observation Log 
+
+1. Date : 15/04/2004
+2. Observation Sr. No. : 1464
+3. Observer : CBA
+4. Observer's Email : chrisb@phys.unsw.edu.au
+5. Project Name : E+A_2135+6
+6. Project Code : 05CBA01
+7. Operator(s) : Manish G.,
+	Manisha J.,
+	Jitendra,
+	Sanjay,
+	
+8. Command File : /btemp2/cmd/cba/qso_j0134.cmd
+9. LTA File : /rawdata/16apr/05cba01_qso_j0134.lta,
+	/rawdata1/16apr/05cba01_qso_j0134.ltb
+10. LogFlag File : /btemp2/logflags/05CBA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1443.28 MHz ,RF2 : 1443.28 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1375 MHz, ILO2 : 1375 MHz, IVLO1 : 68.28 MHz, IVLO2 : 68.28 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+10 dB, 32 MHz,ON, IF-CH2 : 10+10 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1443.28 1443.28 1375 1375 68.28 68.28 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C00 : Day time painting.
+C02 : Pol1(RR) no fringe.
+C06 : Day time painting.
+
+21. Start and End Time of Obs.(IST): 14:11 - 15:52
+
+22. Comments (During Observations) :
+*** ONLINE: bhaskar ***
+*** AUTHIF: 1280 MHZ, ALC ON **
+--------------------------------------------
+
+14:11  Started scan on 3C48.
+14:21  Stopped the scan. Antennas moved to 0059+001.
+14:25  Started command file:
+         /temp2/data/cmd/cba/qso_j0134.cmd
+15:52  Stopped cmd file. stopped record.
+
+

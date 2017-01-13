@@ -1,0 +1,64 @@
+		 GTAC Observation Log 
+
+1. Date : 24/12/2007
+2. Observation Sr. No. : 3515
+3. Observer : Sayan
+4. Observer's Email : sayan@tifr.res.in
+5. Project Name : SN2006JC
+6. Project Code : 13SCB01
+7. Operator(s) : Jayprakash,
+	Nilesh,
+	
+8. Command File : /atemp2/cmd/sayan/1st_jc.cmd,
+	/atemp2/cmd/sayan/2nd_my.cmd
+9. LTA File : /rawdata/24dec/13scb01_24dec07.lta,
+	/rawdata1/24dec/13scb01_24dec07.ltb,
+	/rawdata/25dec/13scb01_25dec07.lta,
+	/rawdata1/25dec/13scb01_25dec07.ltb
+10. LogFlag File : /atemp2/logflags/13SCB01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1390 MHz ,RF2 : 1390 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1320 MHz, ILO2 : 1320 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1390 1390 1320 1320 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+
+S01 : MCM 5 time out.
+C00,C01,C02,C03,C04 - LSB no fringe.
+C02 : Painting.(08:54 hrs onwards)
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 23:00 - 11:57
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : aditya   ********* 
+******** Corr Mode : IndianPolar    *********
+---------------------------------------------
+
+23:00 : Started the antenna settings.
+23:10 : Started scan on 3c48 for 10min.
+23:20 : Stopped the scan.
+23:25 : Started the command file.
+05:19 : Stopped the command file.
+05:23 : Started scan on 3c286 for 10min.
+        Started new recording for next command file.
+05:33 : Stopped the scan.
+05:47 : Started the command file.
+08:54 : C02 parked for painting.
+11:46 : Stopped command file.
+11:47 : Started scan on 3c286.
+11:57 : Stopped scan and observation over.
+

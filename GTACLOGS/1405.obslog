@@ -1,0 +1,58 @@
+		 GTAC Observation Log 
+
+1. Date : 15/03/2004
+2. Observation Sr. No. : 1405
+3. Observer : Sabysachi Pal
+4. Observer's Email : sabya@bose.res.in,chakraba@bose.res.in
+5. Project Name : Compact Objects
+6. Project Code : 05SKC01
+7. Operator(s) : Mangesh,
+	Manish G.,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/skc/15mar.cmd,
+	/btemp2/cmd/skc/13mar2.cmd
+9. LTA File : /rawdata/15mar/05skc01_3c295.lta,
+	/rawdata1/15mar/05skc01_3c295.ltb,
+	/rawdata/15mar/05skc01_15mar.lta,
+	/rawdata1/15mar/05skc01_15mar.ltb
+10. LogFlag File : /btemp2/logflags/05SKC01.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1280 MHz ,RF2 : 1280 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1210 MHz, ILO2 : 1210 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+10 dB, 32 MHz,ON, IF-CH2 : 10+10 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1280 1280 1210 1210 70 70 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+S01 : Under Maintenance.
+
+21. Start and End Time of Obs.(IST): 04:17 - 13:50
+
+22. Comments (During Observations) :
+***  ONLINE BHASKAR     ***
+***  AUTHIF @ 1280 with ALCs on. ***
+-------------------------------------------------
+
+03:54 : Started scan on 3c295 for 10min.
+04:17 : Started the command file
+            /btemp2/cmd/skc/15mar.cmd
+05:54 : S04 Servo started giving time outs.
+09:18 : C06, W01 parked for painting.
+11:35 : stopped the command file
+11:37 : new command file started.
+	/btemp2/data/cmd/skc/13mar2.cmd
+13:18 : stopped the command file
+13:35 : scan started on 3c48.
+13:50 : stopped the observation session.
+

@@ -1,0 +1,78 @@
+		 GTAC Observation Log 
+
+1. Date : 27/05/2010
+2. Observation Sr. No. : 4887
+3. Observer : Sandeep Sirothia
+4. Observer's Email : sirothia@ncra.tifr.res.in,ishwar@ncra.tifr.res.in
+5. Project Name : Extra Galactic survey @ 150MHz.
+6. Project Code : 18_031
+7. Operator(s) : Amruta,
+	Deepak,
+	Navanath,
+	Sachin,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/sirothia/18_031_20100527a.cmd,
+	/odisk/gtac/cmd/sirothia/18_031_20100527b.cmd
+9. LTA File : /rawdata/27may/18_031_27may10.lta,
+	/rawdata1/27may/18_031_27may10.ltb
+10. GSB File : /gsbifrdata/27may/18_031_27may10_gsb.lta
+11. LogFlag File : /odisk/online1/logflags/18_031.FLAGS.30
+
+ANTENNA SETTINGS :
+
+12. RF Freq(MHz) & Solar Attn(dB)- RF1 : 156 MHz ,RF2 : 156 MHz, SA1 : 14 dB, SA2 : 14 dB
+13. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 218 MHz, ILO2 : 218 MHz, IVLO1 : 62 MHz, IVLO2 : 62 MHz
+14. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+15. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 156 156 218 218 62 62 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C01 - OFF
+C14 - OFF
+
+21. Note for Backup :--
+
+22. Start and End Time of Obs.(IST): 17:00 - 07:39
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : UsbPolar
+
+25. Comments (During Observations) :
+****************************************************
+Two second files
+/rawdata/27may/18_031_27may10_2s.lta,
+/rawdata1/27may/18_031_27may10_2s.ltb,
+/gsbifrdata/27may/18_031_27may10_2s_gsb.lta
+****************************************************
+17:08 : Started scan on 3C286 for 15 mins.
+17:37 : Started command file.
+18:16 : For scan no. 11 C05,C06 and S04 were off.
+Then for next scan these antennas started tracking 
+properly.
+18:31 : Scan no. 14 is bad because subarray 4 gave
+problem.
+18:40 : Restarted command file.
+
+00:04 : Command file stopped.
+00:09 : Started scan on 3C286 for 10mins.
+00:26 : Started command file
+        /odisk/gtac/cmd/sirothia/18_031_20100527b.cmd
+
+02:43 : W02 -az run flag absent.
+06:43 : W06 ABC time out.
+06:48 : Command file stopped.
+06:54 : Started scan on J0218+4232.
+07:10 : Stopped scan.
+
+07:17 : Started scan on 3C48.
+07:39 : Stopped scan and observing session over.
+
+

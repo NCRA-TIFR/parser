@@ -1,0 +1,58 @@
+		 GTAC Observation Log
+
+1. Date : 08/11/2016
+2. Observation Sr. No. : 8974
+3. Observer : Soumyajit Mandal, Huib T Intema, Francesco deGasperin, Shimwell, Huub Rottgering, Preshanth Jagannathan, Mooley, Dale A Frail
+4. Observer's Email : mandal@strw.leidenuniv.nl, intema@strw.leidenuniv.nl, astro@voo.it, shimwell@strw.leidenuniv.nl, rottgering@strw.leidenuniv.nl, preshanth@ras.ucalgary.ca, kunal.mooley@physics.ox.ac.uk, dfrail@nrao.edu
+5. Project Name : A STUDY OF ULTRA STEEP SPECTRUM SOURCES IN GALAXY CLUSTERS FROM TGSS ADR
+6. Project Code : 31_018
+7. Operator(s) : Rupsing, Sachin, Surender
+8. Command File : /odisk/gtac/cmd/31_018/08nov16/obs_08nov.cmd
+9. LTA File : /gsbifrdata/08nov/31_018_08nov2016.lta
+10. LogFlag File : /odisk/online1/logflags/31_018.FLAGS.4
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 32 MHz,ON, IF-CH2 : 4+14 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 33.333333 MHz
+24. Final BW : 0 MHz; Step # 0
+25. Maximum Channels : 256
+26. Channel Numbers : 0:255:1
+27. LO5 -1  : 149
+28. LO5 -2  : 156
+
+29. Frequency Parameters (TPA) : 306 306 255 255 51 51
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :29
+
+32. Name of Non-Working Antennas (with reason for each) :
+E02 : Low fringe.
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 08 Nov 2016 02:00:00 - 08 Nov 2016 07:19:00
+
+35. ONLINE Machine : Lenyadri
+
+36. No of Antennas Working(Fringing) at the end :29
+
+37. Comments (During Observations) :
+02:09 : Started scan on 3C147.
+02:20 : Stopped scan.
+02:26 : Started comand file.
+07:02 : Stopped command file.
+07:07 : Started scan on 3C147.
+07:19 : Stopped scan and observing session over.  

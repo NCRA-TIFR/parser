@@ -1,0 +1,57 @@
+1. Date : 12/6/2002
+2. Observation Sr. No. : 624
+3. Observer & email : Shubhasis Roy, roy@ncra.tifr.res.in
+4. Project Name & Code : SAGA @ 1050, TST
+5. Operator(s) : Manisha, Mangesh
+6. Command File/Source  & Lta File : /rawdata/12jun/3c286_1060.lta
+                                     /rawdata/12jun/SAGA.1060.lta
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 : 1060 MHz., 0 dB., OFF.
+8. Ist LO (MHz) & IVth LO (MHz) : 990 MHz., 70 MHz.
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : Power Equalise, 32 MH.,  OFF.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status : 16 MH., 0 dB., OFF. (gain adjusted)
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 0 / 0
+12. Channels : 0,127,1
+13. Frequency Parameters (TPA) : 1060 1060 990 990 70 70
+
+14. Integration Time (Sec.) : 16 sec (16*8m)
+15. No of Antennas Working(Fringing) : 27
+16. Name of Non-Working Antennas (with reason for each) :
+
+	W03	: MCM 5 time out.
+	W06 : ABC time out.
+	C04 : 130 poln terminated. 
+
+17. Starting and Ending time of Observations (IST) : 20:35
+18. Comments (During Observations) :
+
+    Put the BB gain for following antennas :
+		  C01(both chan), C12-175,W01-175,C08-130 : 6 dB
+		  C08-175 : 18db
+	Power equalised.
+	20:35  Started scan on 3c286.
+    		Strt Time	   Scan #	Source 		ALC Status.
+			20:35			0		3C286.		IF & BB ALC OFF
+			21:14			1		3C286.		BB ALC ON
+			21:18			2		3C286.		BB ALC OFF
+			21:23			3		3C286.		EHI Noise ON., Power equalised.
+			21:28			4		3C286.		Noise OFF.
+	stopped das and lta file.
+	
+	started das, ltafile /rawdata/12jun/SAGA.1060.lta
+
+             Start time    Scan #  Source      Stop time
+                            0      1748-253  
+                            1      SAG.RL    
+                            2      1748-253  
+             22:50          3      1830-36R    22:57
+             22:58          3      1830-36R    23:00
+             07:11          3C48 Scan started (scan # 29)
+             07:21          3C48 Scan stopped, stopped das also.
+
+19. Data Backup files & Tape No. :

@@ -1,0 +1,53 @@
+		 GTAC Observation Log 
+
+1. Date : 30/06/2008
+2. Observation Sr. No. : 3837
+3. Observer : Vishal R Gajjar
+4. Observer's Email : gajjar@ncra.tifr.res.in
+5. Project Name : PSR OBSN
+6. Project Code : 14VRG01
+7. Operator(s) : Sachin,
+	
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : /rawdata/30jun/14vrg01_30jun2008.lta,
+	/rawdata1/30jun/14vrg01_30jun2008.ltb
+10. LogFlag File : /btemp2/logflags/14VRG01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 325 MHz ,RF2 : 325 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 255 MHz, ILO2 : 255 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+4 dB, 32 MHz,OFF, IF-CH2 : 6+4 dB, 32 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 325 325 255 255 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+W03 : servo time out. 
+W05 : power fail.
+W06 : power fail.
+E02 : Servo problem.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 18:15 - 04:15
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------------
+Power Equalised at IF = 600 and BB = 1000
+Corr in Pulsar mode
+18:45 : Done settings.
+19:10 : Central sqare elctric power changed from 
+genset to MSEB supply.
+19:45 : Started doing phasing on 3C286.
+04:15 : Stopped observation.
+

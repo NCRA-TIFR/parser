@@ -1,0 +1,42 @@
+1. Date : 7/7/2002
+2. Observation Sr. No. :  688
+3. Observer & email :  Ishwar / ishwar@ncra.tifr.res.in 
+4. Project Name & Code : cygnusX3 / 02CHI01
+5. Operator(s) :Santaji(2),Mangesh(2).,Jitendra(3)
+6. Command File/Source  & Lta File : /temp2/data/cmd/ishwar/cygx3.cmd
+								   : /rawdata/7jul/02chi01_cygx3_7jul.lta 
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 : 1060 MHz., 0 dB., OFF.
+8. Ist LO (MHz) & IVth LO (MHz) : 950 MHz., 70 MHz.
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : 6+6 dB., 32 MHz., ON.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status : 16 MHz., 0 dB., ON.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 0 / 0 
+12. Channels : 0,127,1
+13. Frequency Parameters (TPA) : 1020 1020 950 950 70 70
+
+14. Integration Time (Sec.) : 16 sec (16*8m).
+15. No of Antennas Working(Fringing) : 29 
+16. Name of Non-Working Antennas (with reason for each) :
+	C01 	MCM 5 time out.
+
+17. Starting and Ending time of Observations (IST) : 21:30
+18. Comments (During Observations) :
+
+	21:40	started scan on 3c286.
+	22:01   started the command file 
+			/temp2/data/cmd/ishwar/cygx3.cmd
+
+    22:52   command file stopped.
+    53:51   antenna moved on 3c48 source.
+    53:58   flux cal scan started on 3C48
+    54:12   flux cal scan & project stopped.
+
+
+19. Data Backup files & Tape No. :
+
+
+

@@ -1,0 +1,61 @@
+		 GTAC Observation Log 
+
+1. Date : 08/11/2011
+2. Observation Sr. No. : 5618
+3. Observer : Hajime Kita
+4. Observer's Email : kita@pparc.gp.tohoku.ac.jp
+5. Project Name : Investigation of physical processes in Jupiter's radiation belt by observations of Jupiter's synchrotron radiation
+6. Project Code : 20_031
+7. Operator(s) : Nilesh,
+	Rupsingh,
+	Sachin,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/21_031/kita20111108.cmd,
+	
+9. LTA File : /gsbifrdata/08nov/21_031_08nov2011.lta,
+	
+10. LogFlag File : /odisk/online1/logflags/21_031.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 629 MHz ,RF2 : 259 MHz, SA1 : 0 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 680 MHz, ILO2 : 310 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+12 dB, 32 MHz,OFF, IF-CH2 : 10+12 dB, 6 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : OFF 
+17. Stokes : Total_Intensity
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 629 259 680 310 51 51.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :28
+
+27. Name of Non-Working Antennas (with reason for each) :
+S06 : Feed jam.
+C14 : RFI(FE terminated).
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 20:40 - 23:40
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+20:40 : Started settings for observation.
+21:00 : Started pwer Eq @ 300 counts on 3c48.
+21:14 : Started command file.
+    '/odisk/gtac/cmd/21_031/kita20111108.cmd'.
+23:15 : Stopped command file.
+23:27 : Started scan on 3C48.
+23:37 : Stopped scan and observation session.
+---------------------------------------------------
+

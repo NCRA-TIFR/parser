@@ -1,0 +1,54 @@
+		 GTAC Observation Log 
+
+1. Date : 13/02/2005
+2. Observation Sr. No. : 1884
+3. Observer : Cheng
+4. Observer's Email : sirothia@ncra.tifr.res.in
+5. Project Name : RX0338
+6. Project Code : 07CMA01
+7. Operator(s) : Jayprakash,
+	Jitendra,
+	Sanjay,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/sirothia/rx0338.cmd
+9. LTA File : /rawdata/14feb/07cma01_rx0338.lta,
+	/rawdata1/14feb/07cma01_rx0338.ltb
+10. LogFlag File : /btemp2/logflags/07CMA01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1376 MHz ,RF2 : 1376 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1445 MHz, ILO2 : 1445 MHz, IVLO1 : 69 MHz, IVLO2 : 69 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+10 dB, 16 MHz,ON, IF-CH2 : 10+10 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 4000 KHz, 6 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 2
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1376 1376 1445 1445 69 69 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C14- No fring
+C12 - Painting, not tracking.
+ 
+
+21. Start and End Time of Obs.(IST): 13:43 - 23:55
+
+22. Comments (During Observations) :
+******ONLINE:BHASKAR********
+**** AUTHIF @ 1390 MHz *****
+****************************
+
+13:43 : command file started.
+
+
+18:30 : C12 Started tracking.
+23:33 : Command file stopped.
+23:36 : STarted scan on3C147 for 20mins.
+23:55 : Observation stopped.
+

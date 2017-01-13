@@ -1,0 +1,54 @@
+		 GTAC Observation Log 
+
+1. Date : 17/09/2005
+2. Observation Sr. No. : 2248
+3. Observer : EKTA
+4. Observer's Email : ekta@ncra.tifr.res.in,nkanekar@aoc.nrao.edu
+5. Project Name : 2340-0053
+6. Project Code : 07NKA02
+7. Operator(s) : Deepak,
+	Manisha J.,
+	Sanjay,
+	
+8. Command File : /atemp2/cmd/nissim/2340-0053.cmd
+9. LTA File : /rawdata/17sep/07nka02_2340.lta,
+	/rawdata1/17sep/07nka02_2340.ltb
+10. LogFlag File : /atemp2/logflags/07NKA02.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 601.46 MHz ,RF2 : 601.46 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 530 MHz, ILO2 : 530 MHz, IVLO1 : 71.46 MHz, IVLO2 : 71.46 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 32 MHz,ON, IF-CH2 : 12+12 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 500 KHz, 15 dB, ON
+
+CORRELATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 5
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 601.46 601.46 530 530 71.46 71.46 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+C14 -ABC Time out.
+E04-175-LSB -No self.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 22:00 - 02:47
+
+23. Comments (During Observations) :
+*** ONLINE: aditya          ***
+*** AUTH IF: 610            ***
+-------------------------------
+
+22:00 : Started scan on 3C48 15mins.
+22:16 : Started command file 2340-0053.cmd.
+
+02:27 : stopped command file.
+02:32 : started scan on 3c48 ~15mins.
+02:47 : stopped scan & observation session.
+
+

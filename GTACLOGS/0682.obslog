@@ -1,0 +1,38 @@
+1. Date : 06/07/2002
+2. Observation Sr. No. : 682
+3. Observer & email : G S Swarup, swarup@ncra.tifr.res.in
+4. Project Name & Code : 0453-281, 02RMA01
+5. Operator(s) : Manisha(1),Santaji(1)
+6. Command File/Source  & Lta File : /temp2/data/cmd/sirothia/0453-20.cmd
+                                     /raid/data/6jul/02rma01_0453.lta
+
+ANTENNA SETTINGS :
+
+7. RF Freq (MHz) & Solar Attn (dB) & MCM 5 : 1390 MHz., 0 dB., OFF.
+8. Ist LO (MHz) & IVth LO (MHz) : 1300 MHz., 68.000 MHz.
+9. IF Attn (dB) , IF BW (MHz) & IF ALC Status : 0+0 dB., 16 MHz., ON.
+10. BB BW (MHz) , BB Gain (dB) & BB ALC Status : 8 MHz., 3 , ON.
+
+CORRELATOR SETTINGS : 
+
+11. CLK_SEL/Samp_Freq : 1/1
+12. Channels : 0:127:1
+13. Frequency Parameters (TPA) : 1368 1368 1300 1300 68 68
+
+14. Integration Time (Sec.) : 16sec (Lta : 2X8m)
+15. No of Antennas Working(Fringing) : 28
+
+16. Name of Non-Working Antennas (with reason for each) : 
+
+		C01	MCM 5 T.O.
+		S06	No fringe.
+
+17. Starting and Ending time of Observations (IST) :
+18. Comments (During Observations) :
+	08:32   started scan on 3c147
+	08:56	started the command file
+			/temp2/data/cmd/sirothia/0453-20.cmd
+
+	10:00   antenna w05 and s04 shows high wind speed.
+
+19. Data Backup files & Tape No. :

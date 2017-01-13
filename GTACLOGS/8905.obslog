@@ -1,0 +1,76 @@
+		 GTAC Observation Log
+
+1. Date : 24/09/2016
+2. Observation Sr. No. : 8905
+3. Observer : Raghunathan Srianand, Neeraj Gupta, Rajeshwari Dutta, Ravi Joshi, Patrick Petitjean, Pasquier Noterdaeme
+4. Observer's Email : anand@iucaa.in, ngupta@iucaa.in, rdutta@iucaa.in, physistravi@gmail.com, ppetitje@iap.fr, noterdaeme@iap.fr
+5. Project Name : %latex% uGMRT Search for 21-cm in $H_2$ bearing systems at z ~2.0-2.6
+6. Project Code : 30_084
+7. Operator(s) : Pramod, Sachin
+8. Command File : /odisk/gtac/cmd/30_084/24sep16/obs.cmd
+9. LTA File : /gsbifrdata1/24sep/30_084_24sep2016_gsb.lta, /gwbifrdata1/24sep/30_084_24sep2016_540lo_gwb.lta
+10. LogFlag File : /odisk/online1/logflags/30_084.FLAGS.6
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 387.8785 MHz ,RF2 : 387.8785 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 325 MHz, ILO2 : 325MHz , IVLO1 : 62.8785 MHz, IVLO2 : 62.8785 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+14 dB, 16 MHz,ON, IF-CH2 : 4+14 dB, 16 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1_shivneri
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 2 MHz; Step # 3
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 137.1215
+28. LO5 -2  : 167.8785
+
+29. Frequency Parameters (TPA) : 387.8785 387.8785 325 325 62.8785 62.8785
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :28
+
+32. Name of Non-Working Antennas (with reason for each) :
+C14 : ABC time out
+C10 : Servo problem
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 24 Sep 2016 02:00:00 - 24 Sep 2016 07:45:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :28
+
+37. Comments (During Observations) :
+GWB settings : 
+GAB LO : 540 MHz.
+Acq.BW : 100MHz
+
+Ch 0   : 540 MHz.
+Ch 16K : 440 MHz.
+
+C14 S03 W03 : No broad band feed. (250-500MHz)
+
+---------------------------------------------------------------------
+01:30 : Started set up.
+01:31 : Started scan on 3C147 for 15 min.
+01:46 : Stopped scan.
+Note : scan no. 1 : on CTS247 is junk.
+01:58 : Started scan on CTS247 for 18 min.
+02:15 : Stopped scan and started command file.
+ '/odisk/gtac/cmd/30_084/24sep16/obs.cmd'
+07:08 : Stopped command file and recorded phase cal.
+07:13 : Stopped scan on phase cal.
+07:23 : Started scan on 3C147.
+07:38 : Stopped scan on 3C147 and closed observation session.
+

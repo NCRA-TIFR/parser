@@ -1,0 +1,49 @@
+		 GTAC Observation Log 
+
+1. Date : 25/01/2003
+2. Observation Sr. No. : 0954
+3. Observer : Prasad,SAK
+4. Observer's Email : psubrama@iucaa.ernet.in,ananth@ncra.tifr.res.in
+5. Project Name : Sun Observations
+6. Project Code : 03PSA01
+7. Operator(s) : Jayprakash,
+	Santaji,
+	
+8. Command File : /temp2/data/cmd/psubrama/jan2503/suntrk_jan2503h.cmd
+9. LTA File : /rawdata/25jan/03psa01_sunh25jan_2s.lta,
+	/rawdata/25jan/03psa01_sun25jan_16s.lta
+10. LogFlag File : /temp2/data/logflags/03PSA01.FLAGS.2
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 244 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 310 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+20 dB, 6 MHz,ON, IF-CH2 : 20+20 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:63:1
+17. Frequency Parameters (TPA) : 244 244 310 310 66 66 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+C13 P.M.
+W02 130 low fringe.
+W03 No fringe.
+S04 ABC Time Out.
+
+
+21. Start and End Time of Obs.(IST): 10:00 - 16:45
+
+22. Comments (During Observations) :
+10:50 started the scan on 3c286
+11:23 started the commad file
+
+16:17 : command file stopped.
+16:35 : Flux cal scan started on 3C48 source.
+16:45 : Flux cal scan stopped and project over.
+

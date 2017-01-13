@@ -1,0 +1,77 @@
+		 GTAC Observation Log 
+
+1. Date : 19/5/2012
+2. Observation Sr. No. : 5940
+3. Observer : Yashwant Gupta, Abhishek Johri
+4. Observer's Email : ygupta@ncra.tifr.res.in,johri@ncra.tifr.res.in
+5. Project Name : Pulsar Observation
+6. Project Code : 22_027
+7. Operator(s) : Rupsingh,
+	Shilpa
+8. Command File : 
+9. LTA File : /gsbifrdata/19may/22_071_19may2012.lta
+10. LogFlag File : /odisk/online1/logflags/22_071.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 591 MHz ,RF2 : 591 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 540 MHz, ILO2 : 540 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 32 MHz,OFF, IF-CH2 : 24+4 dB, 32 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : OFF 
+17. Stokes : Total_Intensity
+18. Beam - 1 : IA
+19. Beam - 2 : PA
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 512 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 591 591 540 540 51 51.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :29
+
+27. Name of Non-Working Antennas (with reason for each) :
+C10 : BLDC work.
+
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 05:00 - 07:54
+
+30. ONLINE Machine : Shivneri
+
+31. Comments (During Observations) :
+05:15 : Started power eq. on 1830-360 @350 counts.
+05:25 : Power eq. done.
+05:26 : Started phasing on 1830-360.
+05:44 : Phasing done.
+----------------------------------------------------
+05:45 : Started cal run on 1830-360.
+05:46 : Scan#no:5(-5d off).
+05:50 : Scan#no:6(on source).
+05:54 : Scan#no:7(5d off).
+----------------------------------------------------
+05:58 : Started scan on B1804-08 for 5min.
+06:04 : Stopped scan.
+06:06 : Started scan on B1859+01 for 5min.
+06:11 : Stopped scan.
+----------------------------------------------------
+06:12 : Started scan on G21.5-0.9 for 60 min.
+07:15 : Stopped scan.
+        S01 taken for painting.
+07:16 : Started scan on B1804-08 for 5 min.
+07:22 : Stopped scan.
+07:24 : Started scan on B1859+01 for 5 min.
+07:30 : Stopped scan.
+----------------------------------------------------
+07:37 : Started scan on 3C48.
+07:54 : Stopped scan.
+        There is problem with gsbm2 machine. 
+So stopped scan and observing session over.
+----------------------------------------------------
+
+

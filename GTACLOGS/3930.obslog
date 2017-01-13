@@ -1,0 +1,59 @@
+		 GTAC Observation Log 
+
+1. Date : 15/08/2008
+2. Observation Sr. No. : 3930
+3. Observer : Rekhesh Mohan
+4. Observer's Email : reks@iiap.res.in
+5. Project Name : XCNC
+6. Project Code : 14NKR01
+7. Operator(s) : Deepak,
+	Rupsingh,
+	Sachin,
+	Santaji,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/14nkr01_m/txpsc_2.cmd,
+	/odisk/gtac/cmd/14nkr01_m/rwlmi.cmd
+9. LTA File : /rawdata/15aug/14nkr01_15aug2008.lta.1,
+	/rawdata1/15aug/14nkr01_15aug2008.ltb.1
+10. LogFlag File : /btemp2/logflags/14NKR01.FLAGS.6
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1420.0372 MHz ,RF2 : 1420.0372 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1350 MHz, ILO2 : 1350 MHz, IVLO1 : 70.0372 MHz, IVLO2 : 70.0372 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 6 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 1000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:256:1
+17. Frequency Parameters (TPA) : 1420.0372 1420.0372 1350 1350 70.0372 70.0372 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+C05 : no fringe.
+W03 : fringe not stable.
+W04 : fringe not stable. 
+S01 : no fringe.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 22:26 - 12:50
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : USBhighres    *********
+--------------------------------------------
+22:26 : '/odisk/gtac/cmd/14nkr01_m/txpsc_2.cmd' command file started.
+07:57 : Stopped command file.
+--------------------------------------------------------
+Changed LO4 to 69.8988 MHz and started new command file.
+--------------------------------------------------------
+08:09 : Started another command file /odisk/gtac/cmd/14nkr01_m/rwlmi.cmd.
+12:25 : Stopped command file and started scan on phase cal.
+12:36 : Started scan on 3C147U and 3C147D.
+12:50 : Stopped observation.
+

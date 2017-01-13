@@ -1,0 +1,64 @@
+		 GTAC Observation Log 
+
+1. Date : 28/05/2009
+2. Observation Sr. No. : 4313
+3. Observer : T. Martinsson
+4. Observer's Email : martinsson@astro.rug.nl
+5. Project Name : The Disk-Mass Survey
+6. Project Code : 16_123
+7. Operator(s) : Deepak,
+	Navanath,
+	Santaji,
+	
+8. Command File : /odisk/gtac/cmd/16_123/obs_28may09.cmd
+9. LTA File : /rawdata/28may/16_123_28may09.lta,
+	/rawdata1/28may/16_123_28may09.ltb
+10. LogFlag File : /odisk/online1/logflags/16_123.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1384.408 MHz ,RF2 : 1384.408 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1320 MHz, ILO2 : 1320 MHz, IVLO1 : 64.408 MHz, IVLO2 : 64.408 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 8000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:255:1
+17. Frequency Parameters (TPA) : 1384.408 1384.408 1320 1320 64.408 64.408 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :24
+
+20. Name of Non-Working Antennas (with reason for each) :
+E05 - maintenance.
+C08 - 175 pol no fringe.
+E04 - maintenance.
+W04 - LO1 UNLOCK.
+W01 - painting.
+E06 - painting.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 16:50 - 01:30
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : UsbHighRes
+
+25. Comments (During Observations) :
+16:50 : Started scan on 3C286 for 10mins.
+17:02 : Started command file.
+        /odisk/gtac/cmd/16_123/obs_28may09.cmd
+18:10 : W01 - started working.
+18:15 : E04 - started working.
+
+19:25 : E06 started working.
+01:05 : command file stopped.
+01:06 : Started scan on 3c286 for 20min.
+01:26 : observation session over.
+
+
+
+

@@ -1,0 +1,90 @@
+		 GTAC Observation Log 
+
+1. Date : 29/12/2009
+2. Observation Sr. No. : 4679
+3. Observer : Yogesh Chandola
+4. Observer's Email : sirothia@ncra.tifr.res.in,chandola@ncra.tifr.res.in
+5. Project Name : J1037+4335
+6. Project Code : 17_082
+7. Operator(s) : Jayprakash,
+	Nilesh,
+	
+8. Command File : /odisk/gtac/cmd/sirothia/17_082_29dec09a.cmd
+9. LTA File : /rawdata/29dec/17_082_29dec2009a.lta,
+	/rawdata1/29dec/17_082_29dec2009a.ltb,
+	/rawdata/29dec/17_082_29dec2009b.lta,
+	/rawdata1/29dec/17_082_29dec2009b.ltb
+10. LogFlag File : /odisk/online1/logflags/17_082.FLAGS.6,
+	/odisk/online1/logflags/17_082.FLAGS.7
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1386.5 MHz ,RF2 : 1386.5 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1315 MHz, ILO2 : 1315 MHz, IVLO1 : 71.5 MHz, IVLO2 : 71.5 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 16 MHz,ON, IF-CH2 : 4+12 dB, 16 MHz,ON
+14. BB BW(KHz) & BB ALC : 4000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1386.5 1386.5 1315 1315 71.5 71.5 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+W02 : No fringe.
+W06 : Fringe Fluctuations in Hardware correlator.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 03:00 - 13:00
+
+23. ONLINE Machine : Lenyadri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+************************************************
+GSB DATA FILES :
+/gsbifrdata/29dec/17_082_29dec09a_gsb.lta
+/gsbifrdata/29dec/17_082_29dec09a_gsb_2s.lta
+/gsbifrdata/29dec/17_082_29dec09b_gsb.lta
+/gsbifrdata/29dec/17_082_29dec09b_gsb_2s.lta
+GHB DATA FILES :
+/rawdata/29dec/17_082_29dec2009a_2s.lta,
+/rawdata1/29dec/17_082_29dec2009a_2s.ltb,
+/rawdata/29dec/17_082_29dec2009b.lta,
+/rawdata1/29dec/17_082_29dec2009b.ltb
+************************************************
+03:07 : Started scan on 3c286.
+03:26 : Stopped scan.
+03:30 : Started command file.
+07:38 : Stopped the command file.
+07:39 : Started scan on phase cal for 5min.
+07:45 : Stopped the scan.
+07:46 : Started scan on 3c286.
+08:00 : Stopped the scan & observation.
+        Started next settings.
+RF : 1280
+ILO : 1260
+IVLO : 70.50
+IFBW : 16
+BBBW : 4
+CLKSEL : 2
+ALC BOTH : ON
+Atten : Default
+TPA 1330.50 1330.50 1260.00 1260.00 70.50 70.50
+08:22 : Started scan on 3c286 for 15min.
+08:36 : E05 parked for painting.
+08:37 : Stopped the scan.
+08:39 : Started the command file.
+11:07 : Stopped the command file.
+11:08 : Started scan on phase cal for 5min.
+11:47 : Started scan on 3c286 for 15min.
+12:02 : Stopped the scan.
+12:05 : Started scan on target source.
+12:50 : Stopped the scan & observation.
+
+
+

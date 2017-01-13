@@ -1,0 +1,59 @@
+		 GTAC Observation Log 
+
+1. Date : 19/08/2008
+2. Observation Sr. No. : 3937
+3. Observer : R. Athreya
+4. Observer's Email : rathreya@ncra.tifr.res.in
+5. Project Name :  Deep Imaging
+6. Project Code : 14RAA01
+7. Operator(s) : Jayprakash,
+	Jitendra,
+	Sachin,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/rathreya/14raa01-17aug-at.cmd
+9. LTA File : /rawdata/19aug/14raa01_19aug08_4s.lta,
+	
+10. LogFlag File : /btemp2/logflags/14RAA01.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 157 MHz ,RF2 : 157 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 223 MHz, ILO2 : 223 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+2 dB, 6 MHz,ON, IF-CH2 : 24+2 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 8000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:128:1
+17. Frequency Parameters (TPA) : 157 157 223 223 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+S01,C02 : No fringe.
+
+C05,C06,C08,C09,C10 - USB Self bad band shape, cross counts are OK.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 03:17 - 08:58
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : Indian Polar More   *********
+--------------------------------------------
+03:17 : Scan started on 3c48, C05,C05,C08,C09,C10
+        Self Band shapes are bad.
+        correlator software reset and corr_config
+        tried, problem not solved.
+03:26 : 3C48 scan re-started.
+03:43 : scan stopped.
+03:51 : Command file '14raa01-17aug-bt.cmd' started.
+08:38 : Stopped command file.
+08:41 : Started scan on 3C48.
+08:58 : Stopped scan & observing session over.
+
+
+

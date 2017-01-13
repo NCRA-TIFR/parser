@@ -1,0 +1,48 @@
+		 GTAC Observation Log 
+
+1. Date : 12/04/2005
+2. Observation Sr. No. : 2003
+3. Observer : Ramana Athreya
+4. Observer's Email : rathreya@ncra.tifr.res.in
+5. Project Name : 235NGP
+6. Project Code : 07RMA01
+7. Operator(s) : Manisha J.,Jitendra
+	
+8. Command File : /btemp2/cmd/rathreya/g2sday8.cmd
+9. LTA File : /rawdata/12apr/07rma01_12apr.lta
+10. LogFlag File : /btemp2/logflags/07RMA01.FLAGS.13
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 243 MHz ,RF2 : 243 MHz, SA1 : 14 dB, SA2 : 14 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 309 MHz, ILO2 : 309 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 12+12 dB, 6 MHz,ON, IF-CH2 : 12+12 dB, 6 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 1
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 243 243 309 309 66 66 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C02 : No fringe.
+C10 : servo problem.
+E05 : ABC Time Out.
+
+
+
+21. Start and End Time of Obs.(IST): 19:23 - 23:11
+
+22. Comments (During Observations) :
+*** ONLINE  BHASKAR ****
+*** AUTHIF @ 235 MHz ****
+-----------------------------
+
+19:23	started scan on 3c286 ~ 15mins.
+23:11   Flux calibrator scan stopped, and project over.
+
+

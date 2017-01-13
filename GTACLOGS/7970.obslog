@@ -1,0 +1,68 @@
+		 GTAC Observation Log
+
+1. Date : 05/08/2015
+2. Observation Sr. No. : 7970
+3. Observer : Nissim Kanekar
+4. Observer's Email : nkanekar@ncra.tifr.res.in
+5. Project Name : DDT observation.
+6. Project Code : DDTB177
+7. Operator(s) : Navnath, Rupsing
+8. Command File : /odisk/gtac/cmd/nissim/ddtb177.cmd
+9. LTA File : /gsbifrdata1/04aug/ddtb177_04aug2015_2s.lta
+10. LogFlag File : /odisk/online1/logflags/DDTB177.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 303.300 MHz ,RF2 : 303.300 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 236 MHz, ILO2 : 236MHz , IVLO1 : 67.300 MHz, IVLO2 : 67.300 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 6 MHz,ON, IF-CH2 : 4+12 dB, 6 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Host : gsbm1
+15. GSB Mode : Realtime
+16. GSB LTA : 8
+17. GSB CTRL : ONLINE
+18. GSB Fstop : ON
+19. GAIN EQ : ON
+20. Stokes : Total_Intensity
+21. Beam - 1 : OFF
+22. Beam - 2 : OFF
+23. ACQ BW : 16.666666 MHz
+24. Final BW : 2 MHz; Step # 1
+25. Maximum Channels : 512
+26. Channel Numbers : 0:511:1
+27. LO5 -1  : 132.7
+28. LO5 -2  : 172.3
+
+29. Frequency Parameters (TPA) : 303.300 303.300 236 236 67.300 67.300
+30. Integration Time : 16.1061 Sec
+31. No of Antennas Working(Fringing) at the beginning :29
+
+32. Name of Non-Working Antennas (with reason for each) :
+E02 : BLDC.
+
+33. Note for Backup :
+
+34. Start and End Time of Obs.(IST): 04 Aug 2015 22:00:00 - 05 Aug 2015 01:00:00
+
+35. ONLINE Machine : Shivneri
+
+36. No of Antennas Working(Fringing) at the end :29
+
+37. Comments (During Observations) :
+22:05 : Setup done.
+22:10 : High wind
+---------------------------------------------------------------------------
+ 22:00:01 SpotWind >= 35.0 kmph : W05 (1.0,35.0) 
+ ### WARNING !!! #### PARK ARRAY : Wind speed high
+ 22:00:03 SpotWind >= 35.0 kmph : W05 (1.0,35.0) 
+--------------------------------------------------------------------------
+23:30  : Started cmd file.
+
+                /odisk/gtac/cmd/nissim/ddtb177.cmd
+
+01:00 : observing session over.
+-----------------------------------------------------------------------
+
+

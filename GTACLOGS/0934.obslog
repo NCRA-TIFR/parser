@@ -1,0 +1,69 @@
+		 GTAC Observation Log 
+
+1. Date : 07/01/2003
+2. Observation Sr. No. : 0934
+3. Observer : DAG
+4. Observer's Email : dag@mrao.cam.ac.uk,visitor3@gmrt.ncra.tifr.res.in
+5. Project Name : H1 ABSORPTION TO NVSS SOURCES (DAY II).
+6. Project Code : 03DAG01
+7. Operator(s) : Deepak,
+	Manish G.,
+	Manisha J.,
+	Sanjay,
+	
+8. Command File : /temp2/data/cmd/dag/dag7d.cmd,
+	/temp2/data/cmd/dag/dag7d.cmd.1,
+	/temp2/data/cmd/dag/dag7d.cmd.2
+9. LTA File : /rawdata/7jan/03dag01_7jan_D.lta,
+	/rawdata/7jan/03dag01_7jan_D.lta.1,
+	/rawdata/7jan/03dag01_7jan_D.lta.2
+10. LogFlag File : /temp2/data/logflags/03DAG01.FLAGS.4,
+	/temp2/data/logflags/03DAG01.FLAGS.5,
+	/temp2/data/logflags/03DAG01.FLAGS.6
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1395.81 MHz ,RF2 : 1395.81 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1465 MHz, ILO2 : 1465 MHz, IVLO1 : 69.19 MHz, IVLO2 : 69.19 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 0+0 dB, 16 MHz,ON, IF-CH2 : 0+0 dB, 16 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 4000 KHz, 6 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 2
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1395.81 1395.81 1465 1465 69.19 69.19 
+
+18. Integration Time : 256 STA ~ 33.817 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+S02 : No fringe (???).
+S03 : Servo Problem.
+
+21. Start and End Time of Obs.(IST): 04:05 - 14:09
+
+22. Comments (During Observations) :
+04:05  Started scan on 3C286, for 20 mins.
+04:30  Started the command file  /temp2/data/cmd/dag/dag7d.cmd
+06:10  Started new lta file /rawdata/7jan/03dag01_7jan_D.lta.1
+06:20  Stopped the command file. Antennas moved to INNER TRACK.
+*** Scan No. 1 of file  /rawdata/7jan/03dag01_7jan_D.lta.1 is bad.
+
+07:30 started command file /temp2/data/cmd/dag/dag7d.cmd.1
+09:00	scan # 9  BAD.
+	restarted command file, phase cal changed to 1221+282.
+
+09:30 mithuna hung, stopped observation.
+09:32	stopped das, (Mithuna hanged!).
+
+09:56 Mithuna started working.
+	ltafile : /rawdata/7jan/03dag01_7jan_D.lta.2
+
+10:39	started command file /temp2/data/cmd/dag/dag7d.cmd.2
+11:56   S02 Started working.
+13:51	stopped command file, antennas moved to 3C48.
+13:58	started scan on 3c48 ~ 10mins.
+14:09	stopped das, observation over.
+
+

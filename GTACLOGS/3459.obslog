@@ -1,0 +1,57 @@
+		 GTAC Observation Log 
+
+1. Date : 22/11/2007
+2. Observation Sr. No. : 3459
+3. Observer : Dharam Vir Lal
+4. Observer's Email : dharam@mpifr-bonn.mpg.de
+5. Project Name : x-shaped sources.
+6. Project Code : 13DVL01
+7. Operator(s) : Navanath,
+	Sachin,
+	Sanjay,
+	Santaji,
+	
+8. Command File : /atemp2/cmd/dharam/13dvl01.cmd
+9. LTA File : /rawdata/22nov/13dvl01_22nov2007.lta,
+	/rawdata1/22nov/13dvl01_22nov2007.ltb
+10. LogFlag File : /atemp2/logflags/13DVL01.FLAGS.1,
+	/atemp2/logflags/13DVL01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 614 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 680 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 6+0 dB, 32 MHz,ON, IF-CH2 : 6+0 dB, 6 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 614 244 680 310 66 66 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+C08:USB:175 : no fringe.
+C10:LSB:130 : no fringe.
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 21:00 - 10:15
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+--------------------------------------------
+21:05 : scan started on 3c48.
+21:46 : command file started.
+07:58 : Calibrator 1 set and started scans on
+cal-2 and source-2.
+09:00 : C02 parked for painting.
+09:52 : C12 applied azimuth brakes.
+10:11 : C12 started working.
+10:13 : Stopped scan on phase cal. and stopped
+observation session.
+

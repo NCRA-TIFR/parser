@@ -1,0 +1,61 @@
+		 GTAC Observation Log 
+
+1. Date : 02/12/2008
+2. Observation Sr. No. : 4069
+3. Observer : S Pal
+4. Observer's Email : spal@ncra.tifr.res.in
+5. Project Name : 2M0036
+6. Project Code : 15SMA01
+7. Operator(s) : Jayprakash,
+	Manisha,
+	Rupsingh,
+	Sachin,
+	Santaji,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/spal/soumen.cmd
+9. LTA File : /rawdata/2dec/15sma01_2dec2008.lta,
+	/rawdata1/2dec/15sma01_2dec2008.ltb
+10. LogFlag File : /btemp2/logflags/15SMA01.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 10+4 dB, 32 MHz,OFF, IF-CH2 : 10+4 dB, 32 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :27
+
+20. Name of Non-Working Antennas (with reason for each) :
+C05 : Servo work.+ 175 pol no fringe.
+C04 : Painting.
+E03 : low fringe.
+
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 14:25 - 01:28
+
+23. Comments (During Observations) :
+-------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+******** power equalise at 500 conts. *******
+--------------------------------------------
+14:26 : Scan started on 3c286.
+14:51 : Scan started on 0029+349.
+15:24 : Scan started on 2M0036+18.
+15:58 : Scan started on 0029+349.
+16:00 : C04 released for observation.
+16:04 : Started command file.
+01:14 : Stopped command file.
+01:17 : Started scan on 3C48.
+01:28 : Stopped scan and observing session over.
+
+

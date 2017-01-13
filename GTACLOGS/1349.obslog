@@ -1,0 +1,100 @@
+		 GTAC Observation Log 
+
+1. Date : 16/02/2004
+2. Observation Sr. No. : 1349
+3. Observer : HOTA
+4. Observer's Email : hota@ncra.tifr.res.in
+5. Project Name : ULIRGHI
+6. Project Code : 05AHA01
+7. Operator(s) : Mangesh,
+	Manish G.,
+	Jayprakash,
+	Jitendra,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/hota/05189-2524.cmd
+9. LTA File : /rawdata/16feb/05aha01_05189-2524HI.lta,
+	/rawdata1/16feb/05aha01_05189-2524HI.ltb,
+	/rawdata/17feb/05aha01_ngc6240HI8.lta,
+	/rawdata1/17feb/05aha01_ngc6240HI8.ltb
+10. LogFlag File : /btemp2/logflags/05AHA01.FLAGS.3
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1353.8888 MHz ,RF2 : 1353.8888 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1290 MHz, ILO2 : 1290 MHz, IVLO1 : 63.8888 MHz, IVLO2 : 63.8888 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 2+2 dB, 32 MHz,ON, IF-CH2 : 2+2 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 16000 KHz, 0 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 0
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1353.8888 1353.8888 1290 1290 63.8888 63.8888 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :26
+
+20. Name of Non-Working Antennas (with reason for each) :
+C12 : LO1 UNLOCK.
+C13 : No fringe.
+W01 : Painting.
+W05 : Problem.
+
+
+21. Start and End Time of Obs.(IST): 16:22 - 13:10
+
+22. Comments (During Observations) :
+*** ONLINE: bhaskar ***
+*** AUTHIF: 1390 MHz ***
+
+16:22  Started project 05AHA01
+       Started scan on 3C147.
+16:42  Stopped the scan. Antennas moved to 0453-281.
+16:58  Started the command file.
+18:59  Stopped the command file.
+19:09  Started scan on 3c147 for 15min.
+19:25  Stopped the scan. Antennas moved to 0453-281.
+19:35  Re-started the command file.
+21:06  Stopped the command file.
+21:15  Started scan on 3c147 for 15min.
+21:30  Stopped the command file.
+21:37  Restarted the command file.
+23:31  command file stopped.
+23:35  phase cal scan started manually.
+23:42  scan stopped.
+23:46  05189-2524S scan started.
+24:07  scan stopped.
+24:11  phase cal scan started.
+24:21  scan stopped.
+24:29  flux cal scan started
+25:22  scan stopped.
+
+------------------------------------------------
+
+Next section started :
+*Settings :
+ TPA 1382.4313 1382.4313 1315 1315 67.4313 67.4313
+ IFBW 16 MHz , BBBW : 8 MHz , CLK_SEL 1
+
+* New lta file started
+
+01:42 : flux cal scan started on 3c286 src.
+02:51 : Scan stopped.
+03:09 : command file started.
+04:55 : command file stopped.
+05:09 : bpass calib started for 15m.
+05:25 : scan stopped.
+05:33 : Command file started.
+07:18 : command file stopped and 
+	started scan scan on 3c286 for 15min.
+07:40 : started the command file.
+09:00 : W01 and W05 parked for painting
+10:00 : W04 and W06 various experments done
+	by GCC up to 11:00 hrs.
+11:00 : W04 and W06 added to the observation.
+12:40 : stopped the command file.
+
+12:49 : started scan on 3c48 .
+13:10 ; stopped the scan and observation session.
+

@@ -1,0 +1,39 @@
+1. Date : 19/11/2002
+2. Observation Sr. No. : 0861
+3. Observer : Dr. chengalur
+4. Observer's Email : chengalu@ncra.tifr.res.in
+5. Project Name : f00235
+6. Project Code : 02JNC02
+7. Operator(s) : Katore S.N.,
+	
+8. Command File : /temp2/data/cmd/chengalu/f00235.cmd
+9. LTA File : /rawdata1/19nov/02jnc02_f00235.lta
+
+ANTENNA SETTINGS :
+
+10. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1054 MHz ,RF2 : 1054 MHz, SA1 : 0 dB, SA2 : 0 dB
+11. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 990 MHz, ILO2 : 990 MHz, IVLO1 : 64 MHz, IVLO2 : 64 MHz
+12. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 6+6 dB, 16 MHz,ON, IF-CH2 : 6+6 dB, 16 MHz,ON
+13. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+14. CLK_SEL/Samp_Freq : 1
+15. Channels : 0:127:1
+16. Frequency Parameters (TPA) : 1054 1054 990 990 64 64 
+
+17. Integration Time : 256 STA ~ 33.817 Sec.
+18. No of Antennas Working(Fringing) :28
+
+19. Name of Non-Working Antennas (with reason for each) :
+W01 : Servo OFF mode.
+S04 : RFI (no fringe.).
+
+20. Start and End Time of Obs.(IST): 19:45 - 00:00
+
+21. Comments (During Observations) :
+19:50 : started record on 3c48 for 15 min.
+19:20 : started the command file
+	/temp2/data/cmd/chengalu/f00235.cmd
+22:19 : stopped the observation session.
+

@@ -1,0 +1,54 @@
+		 GTAC Observation Log 
+
+1. Date : 24/09/2004
+2. Observation Sr. No. : 1676
+3. Observer : AMITESH
+4. Observer's Email : aomar@upso.ernet.in
+5. Project Name : ERIDANUS
+6. Project Code : 06AOA01
+7. Operator(s) : Manish G.,
+	Jayprakash,
+	Santaji,
+	
+8. Command File : /btemp2/cmd/aomar/06aoa01_1.cmd
+9. LTA File : /rawdata/23sep/06aoa01_ic0346.lta,
+	/rawdata1/23sep/06aoa01_ic0346.ltb
+10. LogFlag File : /btemp2/logflags/06AOA01.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 1408.94 MHz ,RF2 : 1408.94 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 1335 MHz, ILO2 : 1335 MHz, IVLO1 : 73.94 MHz, IVLO2 : 73.94 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 16+16 dB, 32 MHz,ON, IF-CH2 : 16+16 dB, 32 MHz,ON
+14. BB BW(KHz), BB Gain(dB) & BB ALC : 4000 KHz, 6 dB, ON
+
+CORREATOR SETTINGS :
+
+15. CLK_SEL/Samp_Freq : 2
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 1408.94 1408.94 1335 1335 73.94 73.94 
+
+18. Integration Time : 128 STA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :29
+
+20. Name of Non-Working Antennas (with reason for each) :
+W05 : Servo problem.
+
+21. Start and End Time of Obs.(IST): 23:11 - 08:05
+
+22. Comments (During Observations) :
+*** ONLINE: bhaskar
+*** AUTHIF: 1390 MHz
+----------------------------
+
+23:11  Started scan on 3C48.
+23:30  Stopped the scan. For C00, C01, C02, C03
+       USB-175 bandwidth and gain were not set.
+       Reset the baseband.
+23:40  Started scan on 3C48.
+23:55  Stopped the scan. Antennae moved to 0240-231.
+24:08  Started command file:
+        /btemp2/cmd/aomar/06aoa01_1.cmd
+24:13  C01: Servo TimeOut.
+08:05  stopped the observation session.
+

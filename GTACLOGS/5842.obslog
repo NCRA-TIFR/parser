@@ -1,0 +1,63 @@
+		 GTAC Observation Log 
+
+1. Date : 22/2/2012
+2. Observation Sr. No. : 5842
+3. Observer : Russ Taylor
+4. Observer's Email : russ@ras.ucalgary.ca
+5. Project Name : Completing the wide-field 610 MHz polarisation survey of the ELAIS N1 field
+6. Project Code : 21_086
+7. Operator(s) : Manisha,
+	Navanath,
+	Sachin,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/russ/obs_22.cmd.txt
+9. LTA File : /gsbifrdata/22feb/21_086_22feb2012.lta
+10. LogFlag File : /odisk/online1/logflags/21_086.FLAGS.9
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 596 MHz ,RF2 : 596 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 545 MHz, ILO2 : 545 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+
+GSB SETTINGS :
+
+14. GSB Mode : RealTime 
+15. GSB LTA : 8 
+16. GAIN EQ : ON 
+17. Stokes : Full_Polar
+18. Beam - 1 : OFF
+19. Beam - 2 : OFF
+20. ACQ BW : 32 MHz
+21. Maximum Channels : 256 
+22. IFBW (MHz) : LO5 (KHz) : 32:149000-156000
+23. Final Bandwidth (MHz): OFF MHz; Step # 0
+
+24. Frequency Parameters (TPA) : 596 596 545 545 51 51.
+25. Integration Time : 16.106 Sec.
+26. No of Antennas Working(Fringing) :30
+
+27. Name of Non-Working Antennas (with reason for each) :
+--
+28. Note for Backup :--
+
+29. Start and End Time of Obs.(IST): 06:00 - 10:17
+
+30. ONLINE Machine : Lenyadri
+
+31. Comments (During Observations) :
+06:16:44 : Started scan on 3C286 for ~ 15.0324 min.
+
+08:47 : S06 taken for painting.
+09:18 : S03 taken for painting.
+09:59 : Stopped command file.
+10:02 : Started scan on 3C468.1.
+10:05 : W03 taken for painting.
+10:02 : Started scan on 3C468.1.
+10:07 : Stopped scan and observing session over.
+10:17 : Observing session over.
+--------------------------------------------------
+
+
+
+

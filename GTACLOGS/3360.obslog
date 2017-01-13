@@ -1,0 +1,49 @@
+		 GTAC Observation Log 
+
+1. Date : 02/09/2007
+2. Observation Sr. No. : 3360
+3. Observer : Konar
+4. Observer's Email : chiranjib@iucaa.ernet.in,jamrozy@oa.uj.edu.pl
+5. Project Name : DDRQ
+6. Project Code : 07DT022
+7. Operator(s) : Jayprakash,
+	Manisha,
+	
+8. Command File : /btemp2/cmd/konar/j0935.cmd
+9. LTA File : /rawdata/2sep/07dt022_02sep2007.lta,
+	/rawdata1/2sep/07DT022.ltb
+10. LogFlag File : /btemp2/logflags/12MJA02.FLAGS.1
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 4+12 dB, 32 MHz,ON, IF-CH2 : 4+12 dB, 32 MHz,ON
+14. BB BW(KHz) & BB ALC : 16000 KHz, ON
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 128 LTA ~ 16.908 Sec.
+19. No of Antennas Working(Fringing) :28
+
+20. Name of Non-Working Antennas (with reason for each) :
+
+C03X(S02,S03,S04,S06) : Bad  baselines in USB.
+S03 : No fringe
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 09:49 - 09:47
+
+23. Comments (During Observations) :
+------------------------------------------------
+******** ONLINE Machine : Bhaskar   ********* 
+******** Corr Mode : IndianPolar    *********
+- -----------------------------------------------
+09:49 : Started scan on 3c147.
+09:59 : Stopped the scan.
+10:01 : Started the command file.
+

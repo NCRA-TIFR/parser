@@ -1,0 +1,62 @@
+1. Date : 15/09/2002
+2. Observation Sr. No. : 0804
+3. Observer : Prof. A.P.Rao.
+4. Observer's Email : pramesh@ncra.tifr.res.in
+5. Project Name : galsurvey
+6. Project Code : 02APR01
+7. Operator(s) : Katore S.N.,Kodilkar J.P.,Umbarje M.S.,
+8. Command File : /temp2/data/cmd/pramesh/galsurvey/g040pm4.cmd
+9. LTA File : /rawdata/15sep/02apr01_g040pm4.lta,/rawdata/15sep/02apr01_casa.lta
+
+ANTENNA SETTINGS :
+
+10. RF Freq(MHz) & Solar Attn(dB)- RF1 : 244 MHz ,RF2 : 244 MHz, SA1 : 0 dB, SA2 : 0 dB
+11. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 310 MHz, ILO2 : 310 MHz, IVLO1 : 66 MHz, IVLO2 : 66 MHz
+12. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 18+18 dB, 6 MHz,ON, IF-CH2 : 18+18 dB, 6 MHz,ON
+13. BB BW(KHz), BB Gain(dB) & BB ALC : 8000 KHz, 3 dB, ON
+
+CORREATOR SETTINGS :
+
+14. CLK_SEL/Samp_Freq : 0
+15. Channels : 0:63:1
+16. Frequency Parameters (TPA) : 244 244 310 310 66 66 
+
+17. Integration Time : 128 STA ~ 16.908 Sec.
+18. No of Antennas Working(Fringing) :28
+
+19. Name of Non-Working Antennas (with reason for each) :
+C12 no fringe.
+C03 130 pol no fringe.
+
+20. Start and End Time of Obs.(IST): 18:00 - 00:00
+
+21. Comments (During Observations) :
+POWER EQUALISED ON 3C286
+ALC ON + 6 dB IF ATTN.
+17:20 started scan on 3c286.
+17:35 stopped the scan.
+ALC OFF
+17:43 started scan on 3c286 for 3 min.
+17:57 started the scan on each source in the 
+      command file for 3 min.
+ALC ON
+18:30 started the command file 
+	/temp2/data/cmd/pramesh/galsurvey/g040pm4.cmd
+18:55 MSEB power failed.
+CHANGED THE OBSERVATION PLAN
+tpa 614 244 680 310 66 66
+21:22 started the command file
+	/temp2/data/cmd/pramesh/casa.cmd
+~27:40 C12 Return link time outs.
+29:07 E06 , C01 Flat Band shape,ran corr_config          
+      & scan restarted. (scan 23 bad.)
+
+05:36 Source set. Scan 24 & command file stopped , & antenna moved on phase
+      cal.
+
+05:40 phase cal scan started.
+29:50 scan stopped.
+29:57 flux cal scan started on 3c48.
+30:07 scan stopped & project over
+
+

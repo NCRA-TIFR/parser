@@ -1,0 +1,61 @@
+		 GTAC Observation Log 
+
+1. Date : 24/06/2009
+2. Observation Sr. No. : 4370
+3. Observer : Viswesh
+4. Observer's Email : viswesh@ncra.tifr.res.in
+5. Project Name : Test Observation
+6. Project Code : 09DT024
+7. Operator(s) : Jayprakash,
+	Navanath,
+	Nilesh,
+	Rupsingh,
+	Santaji,
+	Shilpa
+8. Command File : /odisk/gtac/cmd/viswesh/g76.9+1.0.cmd
+9. LTA File : /rawdata/24jun/09dt024_24jun09.agc.lta,
+	/rawdata1/24jun/09dt024_24jun09.bgc.ltb
+10. LogFlag File : /odisk/online1/logflags/09DT024.FLAGS
+
+ANTENNA SETTINGS :
+
+11. RF Freq(MHz) & Solar Attn(dB)- RF1 : 610 MHz ,RF2 : 610 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz) : ILO1 : 540 MHz, ILO2 : 540 MHz, IVLO1 : 70 MHz, IVLO2 : 70 MHz
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 20+4 dB, 32 MHz,OFF, IF-CH2 : 20+4 dB, 32 MHz,OFF
+14. BB BW(KHz) & BB ALC : 16000 KHz, OFF
+
+CORRELATOR SETTINGS :
+
+16. Channels : 0:127:1
+17. Frequency Parameters (TPA) : 610 610 540 540 70 70 
+
+18. Integration Time : 8 LTA ~ 1.05 Sec.(LTA1=1,LTA2=8)
+19. No of Antennas Working(Fringing) :30
+
+20. Name of Non-Working Antennas (with reason for each) :
+--
+21. Note for Backup :
+--
+
+22. Start and End Time of Obs.(IST): 20:00 - 08:51
+
+23. ONLINE Machine : Shivneri
+
+24. Correlator Mode : IndianPolar
+
+25. Comments (During Observations) :
+21:29: Started scan on 3C286.
+22:05 : Started command file.
+02:40 : Stopped the command file.
+      : Scan started on 3C48 for 20m.
+03:03 : Restarted the command file.
+
+07:43 : S06 taken for maintenance.
+
+08:17 : Command file stopped.
+
+08:21 : Started scan on 3C147 for 30min.
+08:51 : Observing session over.
+
+
+

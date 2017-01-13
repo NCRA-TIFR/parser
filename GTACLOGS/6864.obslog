@@ -1,0 +1,109 @@
+		 GTAC Observation Log 
+
+1. Date : 28/12/2013
+2. Observation Sr. No. : 6864
+3. Observer : Ramesh Bhat,Jayaram Narayanan Chengalur,Peter Cox,Yashwant Gupta
+4. Observer's Email : ramesh.bhat@curtin.edu.au,chengalur@ncra.tifr.res.in,pcox@astro.swin.edu.au,ygupta@ncra.tifr.res.in
+5. Project Name : A Small Survey for Fast Radio Bursts with the GMRT
+6. Project Code : 25_069
+7. Operator(s) : Deepak,Navanath,
+8. Command File : /odisk/gtac/cmd/hold.cmd
+9. LTA File : --
+10. LogFlag File : /odisk/online1/logflags/25_069.FLAGS,
+
+ANTENNA SETTINGS :
+
+11. RF Band(MHz) & Solar Attn(dB)- RF1 : 306 MHz ,RF2 : 306 MHz, SA1 : 0 dB, SA2 : 0 dB
+12. Ist LO (MHz) & IVth LO (MHz): ILO1 : 255 MHz, ILO2 : 255 MHz , IVLO1 : 51 MHz, IVLO2 : 51 MHz 
+13. IF Attn(dB) , IF BW(MHz) & IF ALC : IF-CH1 : 24+4 dB, 16 MHz,OFF, IF-CH2 : 24+4 dB, 16 MHz,OFF
+
+GSB SETTINGS :
+
+14. GSB Mode : Rawdump 
+15. GSB LTA : 8 
+16. GSB CTRL : ONLINE 
+17. GSB Fstop : ON 
+18. GAIN EQ : OFF, 
+19. Stokes : TotIntensity
+20. Beam - 1 : IA
+21. Beam - 2 : PA
+22. ACQ BW : 16.67 MHz
+23. Final BW : 16.666666 MHz; Step # 0
+24. Maximum Channels : 512 
+25. Channel Numbers : 0:511:1 
+26. LO5 -1  : 138.00 
+27. LO5 -2  : 167.00 
+
+28. Frequency Parameters (TPA) : 306 306 255 255 51 51.
+29. Integration Time :  Sec.
+30. No of Antennas Working(Fringing) at the begining :29
+
+31. Name of Non-Working Antennas (with reason for each) :
+C02 : MCM 5 time out.
+
+32. Note for Backup :
+
+33. Start and End Time of Obs.(IST): 21:00 - 04:00
+
+34. ONLINE Machine : Lenyadri
+
+35. No of Antennas Working(Fringing) at the end :29
+
+36. Comments (During Observations) :
+Started GSB in rawdump mode.
+ G224.2+39.8 
+ G230.1+47.1 
+ G230.3+46.9 
+ G229.0+45.5 
+ G229.8+47.1 
+ G231.0+48.5 
+ G229.2+45.3 
+ G229.4+45.5 
+ G241.4+51.8 
+ G241.6+52.0 
+ G241.8+51.8 
+ G241.3+52.0 
+ G241.1+50.2 
+ G244.3+52.2 
+ G243.1+50.8 
+ G243.6+58.0 
+ G247.0+60.0 
+ G243.4+57.8 
+ G245.3+56.8 
+ G249.1+58.8 
+ G245.7+56.8 
+ G245.5+56.6 
+ G255.0+65.8 
+ G249.9+63.8 
+ G250.4+63.8 
+ G254.5+65.8 
+ G256.5+65.9 
+ G256.8+65.7 
+ G257.3+64.8 
+ G282.2+71.0 
+ G278.3+70.6 
+ G277.7+70.6 
+ G281.9+71.2 
+ G276.0+69.2 
+ G278.0+70.8 
+ G276.7+69.2 
+ G289.4+68.5 
+ G288.7+68.5 
+ G289.1+68.7 
+ G288.4+68.7 
+ G291.7+67.5 
+ G292.3+67.5 
+ G292.6+67.3 
+ G323.9+70.2 
+ G324.5+70.2 
+ G319.7+70.0 
+ G319.0+70.0 
+ G323.6+70.4 
+ G324.2+70.4 
+ G329.8+66.1 
+ G329.1+66.1 
+ G329.4+66.3 
+ G328.5+66.6 
+ G330.8+65.6 
+
+04:00 : Observation stopped.
