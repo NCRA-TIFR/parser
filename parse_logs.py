@@ -66,7 +66,7 @@ for filename in healthy:
         continue
     try:
         IF = int(RF[0].split()[0]) 
-        if(IF == 32 or IF == 16):
+        if(IF == 32 or IF == 16 or IF == 6):
             healthy2.append(filename, )
         else:
             unhealthy2.append(filename)
