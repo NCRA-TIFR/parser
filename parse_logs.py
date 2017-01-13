@@ -60,7 +60,7 @@ for filename in healthy:
     #Extracted text from the current log file
     EXTRACT = extract(filename).split('\n')
     try:
-        RF = re.findall(r'\d+\s' + 'MHz', EXTRACT[4])
+        RF = re.findall(r'\d+\s' + 'MH', EXTRACT[4])
     except IndexError:
         print("Index Error: " + filename)
         continue
