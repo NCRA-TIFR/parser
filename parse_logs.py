@@ -46,7 +46,7 @@ for filename in all_files:
         continue
 #Removal of 1st line
 healthy.sort()
-for item in healthy():
+for item in healthy:
     healthy1_file.write('%s\n' % item)
 """
 for item in unhealthy():
@@ -75,7 +75,7 @@ for filename in healthy:
         continue
 healthy2.sort()
 
-for item in healthy2.sort():
+for item in healthy2:
     healthy2_file.write('%s\n' % item)
 """
 for item in unhealthy2.sort():
