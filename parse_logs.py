@@ -32,18 +32,23 @@ for filename in all_files:
     #Extracted text from the current log file
     EXTRACT = extract(filename).split('\n')
     try:
-        RF = re.findall(r'\d+\s' + 'MHz', EXTRACT[2])
+        RF = re.findall(r'\d+[.]*[\s]*[/]*[\s]*[\d]*\sMH', EXTRACT[2])
     except IndexError:
         print("Index Error: " + filename)
         continue
     try:
-        if(int(RF[0].split()[0]) < 900):
+        if(float(RF[0].split()[0]) < 900.0):
             healthy.append(filename)
         else:
             unhealthy.append(filename)
     except IndexError:
-        print("Index Error: " + filename)
+        print("Index Error 1st Loop: " + filename + '\n' + str(RF))
         continue
+    except ValueError:
+        RF = float(RF[0].split('/')[0]) 
+        healthy.append(filename)
+
+
 #Removal of 1st line
 healthy.sort()
 for item in healthy:
@@ -60,19 +65,23 @@ for filename in healthy:
     #Extracted text from the current log file
     EXTRACT = extract(filename).split('\n')
     try:
-        RF = re.findall(r'\d+\s' + 'MH', EXTRACT[4])
+        RF = re.findall(r'[\d]+[.]*[\d]*\sMH', EXTRACT[4])
     except IndexError:
         print("Index Error: " + filename)
         continue
     try:
-        IF = int(RF[0].split()[0]) 
-        if(IF == 32 or IF == 16 or IF == 6):
-            healthy2.append(filename, )
+        IF = float(RF[0].split()[0]) 
+        if(IF == 32.0 or IF == 16.0 or IF == 6.0):
+            healthy2.append(filename)
         else:
             unhealthy2.append(filename)
     except IndexError:
-        print("Index Error: " + filename)
+        print EXTRACT[4]
+        print("Index Error 2nd Loop: " + filename + '\n' + str(IF))
         continue
+    except ValueError:
+        IF = float(RF[0].split('/')[0]) 
+
 healthy2.sort()
 
 for item in healthy2:
