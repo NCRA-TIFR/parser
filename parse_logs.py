@@ -45,10 +45,10 @@ for filename in all_files:
         print("Index Error: " + filename)
         continue
 #Removal of 1st line
-for item in healthy:
+for item in healthy.sort():
     healthy1_file.write('%s\n' % item)
 
-for item in unhealthy:
+for item in unhealthy.sort():
     unhealthy1_file.write('%s\n' % item)
 
 unhealthy2 = []
@@ -73,8 +73,8 @@ for filename in healthy:
         print("Index Error: " + filename)
         continue
 #Removal of 1st line
-for item in healthy2:
+for item in healthy2.sort():
     healthy2_file.write('%s\n' % item)
 
-for item in unhealthy2:
+for item in unhealthy2.sort():
     unhealthy2_file.write('%s\n' % item)
