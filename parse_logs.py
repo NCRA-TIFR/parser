@@ -10,7 +10,7 @@ unhealthy2_file = open('unhealthy2_file.txt', 'w')
 
 #Function to extract lines from ANTENNA to CORRELATOR | GSB (Standardized for all files across logs)
 def extract(FILENAME):
-    obslog = open(FILENAME).read()
+    obslog = open('./GTACLOGS/'+FILENAME).read()
     ANTENNA = obslog.find('ANTENNA')
     if(obslog.find('CORRELATOR SETTINGS') != -1):
         NEXT_SECTION = obslog.find('CORRELATOR SETTINGS')
@@ -29,7 +29,6 @@ index_error = []
 all_files = os.listdir('./GTACLOGS')
 
 for filename in all_files:
-    print filename
     #Extracted text from the current log file
     EXTRACT = extract(filename).split('\n')
     try:
@@ -57,7 +56,6 @@ healthy2 = []
 
 #Iterate over only 'healthy' files i.e. files successful in first parse run
 for filename in healthy:
-    print filename
     #Extracted text from the current log file
     EXTRACT = extract(filename).split('\n')
     try:
