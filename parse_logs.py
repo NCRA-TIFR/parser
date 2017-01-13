@@ -1,9 +1,12 @@
 import os
 import re
-healthy1_file = open('../healthy1_file.txt', 'w')
-unhealthy1_file = open('../unhealthy1_file.txt', 'w')
-healthy2_file = open('../healthy2_file.txt', 'w')
-unhealthy2_file = open('../unhealthy2_file.txt', 'w')
+#File containing fit observations for the first parser run (RF)
+healthy1_file = open('healthy1_file.txt', 'w')
+unhealthy1_file = open('unhealthy1_file.txt', 'w')
+
+#File containing fit observations for the second parser run (IF)
+healthy2_file = open('healthy2_file.txt', 'w')
+unhealthy2_file = open('unhealthy2_file.txt', 'w')
 
 #Function to extract lines from ANTENNA to CORRELATOR | GSB (Standardized for all files across logs)
 def extract(FILENAME):
@@ -20,9 +23,10 @@ def extract(FILENAME):
 
 healthy = []
 unhealthy = []
+index_error = []
 
 #All files in the current directory
-all_files = os.listdir('.')
+all_files = os.listdir('./GTACLOGS')
 
 for filename in all_files:
     print filename
@@ -31,7 +35,7 @@ for filename in all_files:
     try:
         RF = re.findall(r'\d+\s' + 'MHz', EXTRACT[2])
     except IndexError:
-        unhealthy.append(filename)
+        print("Index Error: " + filename)
         continue
     try:
         if(int(RF[0].split()[0]) < 900):
@@ -39,7 +43,7 @@ for filename in all_files:
         else:
             unhealthy.append(filename)
     except IndexError:
-        unhealthy.append(filename)
+        print("Index Error: " + filename)
         continue
 #Removal of 1st line
 for item in healthy:
@@ -51,8 +55,7 @@ for item in unhealthy:
 unhealthy2 = []
 healthy2 = []
 
-#All files in the current directory
-
+#Iterate over only 'healthy' files i.e. files successful in first parse run
 for filename in healthy:
     print filename
     #Extracted text from the current log file
@@ -60,15 +63,15 @@ for filename in healthy:
     try:
         RF = re.findall(r'\d+\s' + 'MHz', EXTRACT[4])
     except IndexError:
-        unhealthy2.append(filename)
+        print("Index Error: " + filename)
         continue
     try:
-        if(int(RF[0].split()[0]) == 32 or int(RF[0].split()[0]) == 32):
+        if(int(RF[0].split()[0]) == 32 or int(RF[0].split()[0]) == 16):
             healthy2.append(filename)
         else:
             unhealthy2.append(filename)
     except IndexError:
-        unhealthy2.append(filename)
+        print("Index Error: " + filename)
         continue
 #Removal of 1st line
 for item in healthy2:
