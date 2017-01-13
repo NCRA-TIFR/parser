@@ -64,8 +64,9 @@ for filename in healthy:
         print("Index Error: " + filename)
         continue
     try:
-        if(int(RF[0].split()[0]) == 32 or int(RF[0].split()[0]) == 16):
-            healthy2.append(filename)
+        IF = int(RF[0].split()[0]) 
+        if(IF == 32 or IF == 16):
+            healthy2.append(filename, )
         else:
             unhealthy2.append(filename)
     except IndexError:
