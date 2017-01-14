@@ -46,7 +46,8 @@ for filename in all_files:
         continue
     except ValueError:
         RF = float(RF[0].split('/')[0]) 
-        healthy.append(filename)
+        if(RF < 900.0): 
+            healthy.append(filename)
 
 
 #Removal of 1st line
